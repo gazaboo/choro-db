@@ -374,7 +374,7 @@ def regrouper(lignes: list[dict]) -> dict:
 
 def main() -> int:
     fichiers = lister()
-    with ProcessPoolExecutor() as pool:
+    with ProcessPoolExecutor(max_workers=4) as pool:
         lignes = list(pool.map(analyser, map(str, fichiers), chunksize=16))
     SORTIES.mkdir(exist_ok=True)
     with (SORTIES / "inventaire.jsonl").open("w", encoding="utf-8") as f:
