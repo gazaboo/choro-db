@@ -85,3 +85,10 @@ def test_accords_du_style_dominant_ignore_les_reperes():
     accord, repere = ("Edwin", 12.0), ("Edwin-Bold", 14.0)
     cand = [(repere, "A"), (accord, "C"), (accord, "G7"), (accord, "Am"), (repere, "B"), (accord, "F")]
     assert accords_du_style_dominant(cand) == ["C", "G7", "Am", "F"]
+
+
+def test_alterations_smufl_recomposees():
+    from inventaire import SMUFL
+
+    assert "Fm75".translate(SMUFL) == "F♯m7♭5"
+    assert est_accord("C".translate(SMUFL))

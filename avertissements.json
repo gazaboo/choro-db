@@ -1,5 +1,5 @@
 {
- "_doc": "Avertissements par fichier, affichés par l'application. Codes : tonalite-non-verifiee = les versions du morceau ne concordent pas, tonalité à confirmer.",
+ "_doc": "Avertissements par fichier, affichés par l'application. Codes : tonalite-non-verifiee = les versions du morceau ne concordent pas, tonalité à confirmer ; tessiture-hors-plage = quelques notes restent hors de la tessiture de l'instrument (clarinette Sib Mi3–Do7, sax alto Mib Sib3–Fa♯6, écrit).",
  "fichiers": {
   "pdf/Abel Ferreira - Doce Melodia - Contraponto - C.pdf": [
    "tonalite-non-verifiee"
@@ -11,7 +11,77 @@
    "tonalite-non-verifiee"
   ],
   "pdf/Abel Ferreira - Doce melodia - Theme - Saxophone Eb.pdf": [
+   "tessiture-hors-plage",
    "tonalite-non-verifiee"
+  ],
+  "pdf/Alexandre de la Peña - Avenida Central - Theme - Saxophone Eb.pdf": [
+   "tessiture-hors-plage"
+  ],
+  "pdf/Altamiro Carrilho - Cativo - Theme - Saxophone Eb.pdf": [
+   "tessiture-hors-plage"
+  ],
+  "pdf/Altamiro Carrilho - Deixe o breque prá mim - Theme - Saxophone Eb.pdf": [
+   "tessiture-hors-plage"
+  ],
+  "pdf/Altamiro Carrilho - Enigmático - Theme - Saxophone Eb.pdf": [
+   "tessiture-hors-plage"
+  ],
+  "pdf/Altamiro Carrilho - Luana - Theme - Saxophone Eb.pdf": [
+   "tessiture-hors-plage"
+  ],
+  "pdf/Altamiro Carrilho - Maxixe das flores - Theme - Saxophone Eb.pdf": [
+   "tessiture-hors-plage"
+  ],
+  "pdf/Amador Pinho - Juventude saudosa - Theme - Saxophone Eb.pdf": [
+   "tessiture-hors-plage"
+  ],
+  "pdf/Anacleto de Medeiros - Cabeça de porco - Theme - Clarinet Bb.pdf": [
+   "tessiture-hors-plage"
+  ],
+  "pdf/Anacleto de Medeiros - Cabeça de porco - Theme - Saxophone Eb.pdf": [
+   "tessiture-hors-plage"
+  ],
+  "pdf/Anacleto de Medeiros - Farrula - Theme - Saxophone Eb.pdf": [
+   "tessiture-hors-plage"
+  ],
+  "pdf/Anacleto de Medeiros - Lídia - Theme - Saxophone Eb.pdf": [
+   "tessiture-hors-plage"
+  ],
+  "pdf/André Bellieny - Do jeito que veio, voltou - Theme - Saxophone Eb.pdf": [
+   "tessiture-hors-plage"
+  ],
+  "pdf/Antônio Borges Teixeira - Cecília - Theme - Saxophone Eb.pdf": [
+   "tessiture-hors-plage"
+  ],
+  "pdf/Aristides Oliveira - Não gostei dos seus modos - Theme - Saxophone Eb.pdf": [
+   "tessiture-hors-plage"
+  ],
+  "pdf/Aymoré - Choro triste - Theme - Saxophone Eb.pdf": [
+   "tessiture-hors-plage"
+  ],
+  "pdf/Aymoré - Em que época - Theme - Saxophone Eb.pdf": [
+   "tessiture-hors-plage"
+  ],
+  "pdf/Benedito Lacerda - Canhoto - Theme - Saxophone Eb.pdf": [
+   "tessiture-hors-plage"
+  ],
+  "pdf/Benedito Lacerda - Doidinho - Theme - Saxophone Eb.pdf": [
+   "tessiture-hors-plage"
+  ],
+  "pdf/Benedito Lacerda - Lela - Theme - Saxophone Eb.pdf": [
+   "tessiture-hors-plage"
+  ],
+  "pdf/Benedito Lacerda - Pretensioso - Theme - Saxophone Eb.pdf": [
+   "tessiture-hors-plage"
+  ],
+  "pdf/Bonfíglio de Oliveira - Flamengo - Theme - Saxophone Eb.pdf": [
+   "tessiture-hors-plage"
+  ],
+  "pdf/Bonfíglio de Oliveira - Guará - Theme - Saxophone Eb.pdf": [
+   "tessiture-hors-plage"
+  ],
+  "pdf/Bonfíglio de Oliveira - Mar de Espanha - Theme - Saxophone Eb.pdf": [
+   "tessiture-hors-plage"
   ],
   "pdf/Candinho - Artur virou bode - Theme - C.pdf": [
    "tonalite-non-verifiee"
@@ -22,6 +92,147 @@
   "pdf/Candinho - Artur virou bode - Theme - Saxophone Eb.pdf": [
    "tonalite-non-verifiee"
   ],
+  "pdf/Candinho - Comparando - Theme - Saxophone Eb.pdf": [
+   "tessiture-hors-plage"
+  ],
+  "pdf/Canhoto da Paraíba - Com mais de mil - Theme - Saxophone Eb.pdf": [
+   "tessiture-hors-plage"
+  ],
+  "pdf/Capitão Furtado - Linda flor que morreu - Theme - Saxophone Eb.pdf": [
+   "tessiture-hors-plage"
+  ],
+  "pdf/Chiquinha Gonzaga - Atraente - Theme - Saxophone Eb.pdf": [
+   "tessiture-hors-plage"
+  ],
+  "pdf/Chiquinha Gonzaga - Bionne - Theme - Saxophone Eb.pdf": [
+   "tessiture-hors-plage"
+  ],
+  "pdf/Cidinho 7 Cordas - Beth - Theme - Saxophone Eb.pdf": [
+   "tessiture-hors-plage"
+  ],
+  "pdf/Cidinho 7 Cordas - Canhoto sempre garoto - Theme - Saxophone Eb.pdf": [
+   "tessiture-hors-plage"
+  ],
+  "pdf/Cidinho 7 Cordas - Choro para Luciana - Theme - Saxophone Eb.pdf": [
+   "tessiture-hors-plage"
+  ],
+  "pdf/Cidinho 7 Cordas - Choro pro Márcio - Theme - Saxophone Eb.pdf": [
+   "tessiture-hors-plage"
+  ],
+  "pdf/Cidinho 7 Cordas - Ida e volta - Theme - Saxophone Eb.pdf": [
+   "tessiture-hors-plage"
+  ],
+  "pdf/Cidinho 7 Cordas - Josias na parada - Theme - Saxophone Eb.pdf": [
+   "tessiture-hors-plage"
+  ],
+  "pdf/Cidinho 7 Cordas - Já pensei - Theme - Saxophone Eb.pdf": [
+   "tessiture-hors-plage"
+  ],
+  "pdf/Cidinho 7 Cordas - Maria Helena - Theme - Saxophone Eb.pdf": [
+   "tessiture-hors-plage"
+  ],
+  "pdf/Cidinho 7 Cordas - Maria de Lourdes - Theme - Saxophone Eb.pdf": [
+   "tessiture-hors-plage"
+  ],
+  "pdf/Cincinato S. dos Santos - Meu carnaval - Theme - Saxophone Eb.pdf": [
+   "tessiture-hors-plage"
+  ],
+  "pdf/Cincinato S. dos Santos - Nina - Theme - Saxophone Eb.pdf": [
+   "tessiture-hors-plage"
+  ],
+  "pdf/Cincinato S. dos Santos - Olympia - Theme - Saxophone Eb.pdf": [
+   "tessiture-hors-plage"
+  ],
+  "pdf/Cipriano - Mande parar aquele sino - Theme - Saxophone Eb.pdf": [
+   "tessiture-hors-plage"
+  ],
+  "pdf/Claudionor Cruz - Potiguar - Theme - Saxophone Eb.pdf": [
+   "tessiture-hors-plage"
+  ],
+  "pdf/Cristovão Bastos - Acreditei nos beijos dela - Theme - Saxophone Eb.pdf": [
+   "tessiture-hors-plage"
+  ],
+  "pdf/Cristovão Bastos - Amigo bandolim - Theme - Saxophone Eb.pdf": [
+   "tessiture-hors-plage"
+  ],
+  "pdf/Cristovão Bastos - Meu sonho - Theme - Clarinet Bb.pdf": [
+   "tessiture-hors-plage"
+  ],
+  "pdf/Cristovão Bastos - Meu sonho - Theme - Saxophone Eb.pdf": [
+   "tessiture-hors-plage"
+  ],
+  "pdf/Cristovão Bastos - Meu tempo de garoto - Theme - Saxophone Eb.pdf": [
+   "tessiture-hors-plage"
+  ],
+  "pdf/Cristovão Bastos - Não me digas não - Theme - Saxophone Eb.pdf": [
+   "tessiture-hors-plage"
+  ],
+  "pdf/Cristovão Bastos - Os três chorões - Theme - Saxophone Eb.pdf": [
+   "tessiture-hors-plage"
+  ],
+  "pdf/Cristovão Bastos - Passeando - Theme - Clarinet Bb.pdf": [
+   "tessiture-hors-plage"
+  ],
+  "pdf/Cristovão Bastos - Passeando - Theme - Saxophone Eb.pdf": [
+   "tessiture-hors-plage"
+  ],
+  "pdf/Cristovão Bastos - Perspectivo - Theme - Saxophone Eb.pdf": [
+   "tessiture-hors-plage"
+  ],
+  "pdf/Cristovão Bastos - Pixinga - Theme - Saxophone Eb.pdf": [
+   "tessiture-hors-plage"
+  ],
+  "pdf/Dino - Bálsamo de amor - Theme - Saxophone Eb.pdf": [
+   "tessiture-hors-plage"
+  ],
+  "pdf/Dino - Gingando - Theme - Saxophone Eb.pdf": [
+   "tessiture-hors-plage"
+  ],
+  "pdf/Dino - Ivone - Theme - Clarinet Bb.pdf": [
+   "tessiture-hors-plage"
+  ],
+  "pdf/Dino - Ivone - Theme - Saxophone Eb.pdf": [
+   "tessiture-hors-plage"
+  ],
+  "pdf/Dino - Minha Crença - Theme - Saxophone Eb.pdf": [
+   "tessiture-hors-plage"
+  ],
+  "pdf/Dominguinhos - Garanhuns - Theme - Saxophone Eb.pdf": [
+   "tessiture-hors-plage"
+  ],
+  "pdf/Dominguinhos - Nilopolitano - Theme - Saxophone Eb.pdf": [
+   "tessiture-hors-plage"
+  ],
+  "pdf/Dominguinhos - Princesinha no choro - Theme - Saxophone Eb.pdf": [
+   "tessiture-hors-plage"
+  ],
+  "pdf/Edu Lobo - Beatriz - Theme - Saxophone Eb.pdf": [
+   "tessiture-hors-plage"
+  ],
+  "pdf/Edu Lobo - Choro bandido - Theme - Saxophone Eb.pdf": [
+   "tessiture-hors-plage"
+  ],
+  "pdf/Edu Lobo - Pianinho - Theme - Saxophone Eb.pdf": [
+   "tessiture-hors-plage"
+  ],
+  "pdf/Eduardo Souto - No meu tempo era assim - Theme - Saxophone Eb.pdf": [
+   "tessiture-hors-plage"
+  ],
+  "pdf/Eduardo Souto - O despertar da montanha - Theme - Saxophone Eb.pdf": [
+   "tessiture-hors-plage"
+  ],
+  "pdf/Egberto Gismonti - Loro - Theme - Saxophone Eb.pdf": [
+   "tessiture-hors-plage"
+  ],
+  "pdf/Elton Medeiros - Amarelinho - Theme - Saxophone Eb.pdf": [
+   "tessiture-hors-plage"
+  ],
+  "pdf/Ernesto Nazareth - Arrufos - Theme - Saxophone Eb.pdf": [
+   "tessiture-hors-plage"
+  ],
+  "pdf/Ernesto Nazareth - Atlântico - Theme - Saxophone Eb.pdf": [
+   "tessiture-hors-plage"
+  ],
   "pdf/Ernesto Nazareth - Atrevido - Theme - C.pdf": [
    "tonalite-non-verifiee"
   ],
@@ -31,8 +242,200 @@
   "pdf/Ernesto Nazareth - Atrevido - Theme - Saxophone Eb.pdf": [
    "tonalite-non-verifiee"
   ],
+  "pdf/Ernesto Nazareth - Bambino - Theme - Saxophone Eb.pdf": [
+   "tessiture-hors-plage"
+  ],
+  "pdf/Ernesto Nazareth - Carioca - Theme - Saxophone Eb.pdf": [
+   "tessiture-hors-plage"
+  ],
+  "pdf/Ernesto Nazareth - Catrapus - Theme - Saxophone Eb.pdf": [
+   "tessiture-hors-plage"
+  ],
+  "pdf/Ernesto Nazareth - Confidências - Theme - Saxophone Eb.pdf": [
+   "tessiture-hors-plage"
+  ],
+  "pdf/Ernesto Nazareth - Coração que sente - Theme - Saxophone Eb.pdf": [
+   "tessiture-hors-plage"
+  ],
+  "pdf/Ernesto Nazareth - Cuéra - Theme - Saxophone Eb.pdf": [
+   "tessiture-hors-plage"
+  ],
+  "pdf/Ernesto Nazareth - Elétrica - Theme - Clarinet Bb.pdf": [
+   "tessiture-hors-plage"
+  ],
+  "pdf/Ernesto Nazareth - Elétrica - Theme - Saxophone Eb.pdf": [
+   "tessiture-hors-plage"
+  ],
+  "pdf/Ernesto Nazareth - Eponina - Theme - Saxophone Eb.pdf": [
+   "tessiture-hors-plage"
+  ],
+  "pdf/Ernesto Nazareth - Escorregando - Theme - Clarinet Bb.pdf": [
+   "tessiture-hors-plage"
+  ],
+  "pdf/Ernesto Nazareth - Escorregando - Theme - Saxophone Eb.pdf": [
+   "tessiture-hors-plage"
+  ],
+  "pdf/Ernesto Nazareth - Escovado - Theme - Clarinet Bb.pdf": [
+   "tessiture-hors-plage"
+  ],
+  "pdf/Ernesto Nazareth - Escovado - Theme - Saxophone Eb.pdf": [
+   "tessiture-hors-plage"
+  ],
+  "pdf/Ernesto Nazareth - Fidalga - Theme - Saxophone Eb.pdf": [
+   "tessiture-hors-plage"
+  ],
+  "pdf/Ernesto Nazareth - Fonfon - Theme - Saxophone Eb.pdf": [
+   "tessiture-hors-plage"
+  ],
+  "pdf/Ernesto Nazareth - Garoto - Theme - Saxophone Eb.pdf": [
+   "tessiture-hors-plage"
+  ],
+  "pdf/Ernesto Nazareth - Gotas de ouro - Theme - Saxophone Eb.pdf": [
+   "tessiture-hors-plage"
+  ],
+  "pdf/Ernesto Nazareth - Guerreiro - Theme - Clarinet Bb.pdf": [
+   "tessiture-hors-plage"
+  ],
+  "pdf/Ernesto Nazareth - Guerreiro - Theme - Saxophone Eb.pdf": [
+   "tessiture-hors-plage"
+  ],
+  "pdf/Ernesto Nazareth - Labirinto - Theme - Saxophone Eb.pdf": [
+   "tessiture-hors-plage"
+  ],
+  "pdf/Ernesto Nazareth - Matuto - Theme - Saxophone Eb.pdf": [
+   "tessiture-hors-plage"
+  ],
+  "pdf/Ernesto Nazareth - Menino de ouro - Theme - Saxophone Eb.pdf": [
+   "tessiture-hors-plage"
+  ],
+  "pdf/Ernesto Nazareth - Nenê - Theme - Saxophone Eb.pdf": [
+   "tessiture-hors-plage"
+  ],
+  "pdf/Ernesto Nazareth - O alvorecer - Theme - Saxophone Eb.pdf": [
+   "tessiture-hors-plage"
+  ],
+  "pdf/Ernesto Nazareth - O que há - Theme - Saxophone Eb.pdf": [
+   "tessiture-hors-plage"
+  ],
+  "pdf/Ernesto Nazareth - Odeon - Theme - Saxophone Eb.pdf": [
+   "tessiture-hors-plage"
+  ],
+  "pdf/Ernesto Nazareth - Ouro sobre azul - Theme - Saxophone Eb.pdf": [
+   "tessiture-hors-plage"
+  ],
+  "pdf/Ernesto Nazareth - Perigoso - Theme - Saxophone Eb.pdf": [
+   "tessiture-hors-plage"
+  ],
+  "pdf/Ernesto Nazareth - Pinguim - Theme - Saxophone Eb.pdf": [
+   "tessiture-hors-plage"
+  ],
+  "pdf/Ernesto Nazareth - Proeminente - Theme - Saxophone Eb.pdf": [
+   "tessiture-hors-plage"
+  ],
+  "pdf/Esmeraldino Sales - Arabiando - Theme - Saxophone Eb.pdf": [
+   "tessiture-hors-plage"
+  ],
+  "pdf/Esmeraldino Sales - Moderno - Theme - Saxophone Eb.pdf": [
+   "tessiture-hors-plage"
+  ],
+  "pdf/Esteban Ibañez - Palabras para Paulinho - Theme - Saxophone Eb.pdf": [
+   "tessiture-hors-plage"
+  ],
+  "pdf/Felisberto Marques - Odalisca - Theme - Saxophone Eb.pdf": [
+   "tessiture-hors-plage"
+  ],
+  "pdf/Fon Fon - Murmurando - Theme - Saxophone Eb.pdf": [
+   "tessiture-hors-plage"
+  ],
+  "pdf/Franklin da Flauta - Dadá - Theme - Saxophone Eb.pdf": [
+   "tessiture-hors-plage"
+  ],
+  "pdf/Garoto - Desvairada - Theme - Saxophone Eb.pdf": [
+   "tessiture-hors-plage"
+  ],
+  "pdf/Garoto - Meditando C - Theme - Saxophone Eb.pdf": [
+   "tessiture-hors-plage"
+  ],
+  "pdf/Garoto - Meditando F - Theme - Saxophone Eb.pdf": [
+   "tessiture-hors-plage"
+  ],
+  "pdf/Guerra Peixe - Inclemência - Theme - Saxophone Eb.pdf": [
+   "tessiture-hors-plage"
+  ],
+  "pdf/Guinga - Choro pro Zé - Theme - Saxophone Eb.pdf": [
+   "tessiture-hors-plage"
+  ],
+  "pdf/Guinga - Di Menor - Theme - Saxophone Eb.pdf": [
+   "tessiture-hors-plage"
+  ],
+  "pdf/Guinga - O coco do coco - Theme - Saxophone Eb.pdf": [
+   "tessiture-hors-plage"
+  ],
+  "pdf/Guio de Morais - Pitoresco - Theme - Clarinet Bb.pdf": [
+   "tessiture-hors-plage"
+  ],
+  "pdf/Guio de Morais - Pitoresco - Theme - Saxophone Eb.pdf": [
+   "tessiture-hors-plage"
+  ],
+  "pdf/Gumercindo Amaral - Cheirosa - Theme - Saxophone Eb.pdf": [
+   "tessiture-hors-plage"
+  ],
+  "pdf/Hamílton de Holanda - Aquarela na Quixaba - Theme - Saxophone Eb.pdf": [
+   "tessiture-hors-plage"
+  ],
+  "pdf/Henrique Alves de Mesquita - A baiana - Theme - Saxophone Eb.pdf": [
+   "tessiture-hors-plage"
+  ],
+  "pdf/Henrique Alves de Mesquita - A surpresa - Theme - Saxophone Eb.pdf": [
+   "tessiture-hors-plage"
+  ],
+  "pdf/Henrique Alves de Mesquita - Batuque - Theme - Clarinet Bb.pdf": [
+   "tessiture-hors-plage"
+  ],
+  "pdf/Henrique Alves de Mesquita - Batuque - Theme - Saxophone Eb.pdf": [
+   "tessiture-hors-plage"
+  ],
+  "pdf/Honorino Lopes - Língua de preto - Theme - Saxophone Eb.pdf": [
+   "tessiture-hors-plage"
+  ],
   "pdf/Jacob Do Bandolim - Mimosa - Contraponto - C.pdf": [
    "tonalite-non-verifiee"
+  ],
+  "pdf/Jacob do Bandolim - A Ginga do Mané - Theme - Saxophone Eb.pdf": [
+   "tessiture-hors-plage"
+  ],
+  "pdf/Jacob do Bandolim - Adylia - Theme - Saxophone Eb.pdf": [
+   "tessiture-hors-plage"
+  ],
+  "pdf/Jacob do Bandolim - Alvorada - Theme - Clarinet Bb.pdf": [
+   "tessiture-hors-plage"
+  ],
+  "pdf/Jacob do Bandolim - Alvorada - Theme - Saxophone Eb.pdf": [
+   "tessiture-hors-plage"
+  ],
+  "pdf/Jacob do Bandolim - Ao Quaresma e ao Mauro - Theme - Saxophone Eb.pdf": [
+   "tessiture-hors-plage"
+  ],
+  "pdf/Jacob do Bandolim - Ao Som dos Violões - Theme - Saxophone Eb.pdf": [
+   "tessiture-hors-plage"
+  ],
+  "pdf/Jacob do Bandolim - Baboseira - Theme - Saxophone Eb.pdf": [
+   "tessiture-hors-plage"
+  ],
+  "pdf/Jacob do Bandolim - Benzinho - Theme - Saxophone Eb.pdf": [
+   "tessiture-hors-plage"
+  ],
+  "pdf/Jacob do Bandolim - Biruta - Theme - Saxophone Eb.pdf": [
+   "tessiture-hors-plage"
+  ],
+  "pdf/Jacob do Bandolim - Bisbilhoteiro - Theme - Saxophone Eb.pdf": [
+   "tessiture-hors-plage"
+  ],
+  "pdf/Jacob do Bandolim - Bola Preta - Theme - Saxophone Eb.pdf": [
+   "tessiture-hors-plage"
+  ],
+  "pdf/Jacob do Bandolim - Cabuloso - Theme - Saxophone Eb.pdf": [
+   "tessiture-hors-plage"
   ],
   "pdf/Jacob do Bandolim - Carícia - Theme - C.pdf": [
    "tonalite-non-verifiee"
@@ -41,7 +444,26 @@
    "tonalite-non-verifiee"
   ],
   "pdf/Jacob do Bandolim - Carícia - Theme - Saxophone Eb.pdf": [
+   "tessiture-hors-plage",
    "tonalite-non-verifiee"
+  ],
+  "pdf/Jacob do Bandolim - Chinelo Velho - Theme - Saxophone Eb.pdf": [
+   "tessiture-hors-plage"
+  ],
+  "pdf/Jacob do Bandolim - Chorinho na Praia - Theme - Saxophone Eb.pdf": [
+   "tessiture-hors-plage"
+  ],
+  "pdf/Jacob do Bandolim - Choro de Varanda - Theme - Saxophone Eb.pdf": [
+   "tessiture-hors-plage"
+  ],
+  "pdf/Jacob do Bandolim - Chuva - Theme - Saxophone Eb.pdf": [
+   "tessiture-hors-plage"
+  ],
+  "pdf/Jacob do Bandolim - Chuva de estrelas - Theme - Saxophone Eb.pdf": [
+   "tessiture-hors-plage"
+  ],
+  "pdf/Jacob do Bandolim - Ciumento - Theme - Saxophone Eb.pdf": [
+   "tessiture-hors-plage"
   ],
   "pdf/Jacob do Bandolim - Cristal - Theme - C.pdf": [
    "tonalite-non-verifiee"
@@ -50,7 +472,53 @@
    "tonalite-non-verifiee"
   ],
   "pdf/Jacob do Bandolim - Cristal - Theme - Saxophone Eb.pdf": [
+   "tessiture-hors-plage",
    "tonalite-non-verifiee"
+  ],
+  "pdf/Jacob do Bandolim - De Coração a Coração - Theme - Saxophone Eb.pdf": [
+   "tessiture-hors-plage"
+  ],
+  "pdf/Jacob do Bandolim - De Limoeiro a Mossoró - Theme - Saxophone Eb.pdf": [
+   "tessiture-hors-plage"
+  ],
+  "pdf/Jacob do Bandolim - Diabinho Maluco - Theme - Saxophone Eb.pdf": [
+   "tessiture-hors-plage"
+  ],
+  "pdf/Jacob do Bandolim - Doce de Côco - Theme - Saxophone Eb.pdf": [
+   "tessiture-hors-plage"
+  ],
+  "pdf/Jacob do Bandolim - Dolente - Theme - Saxophone Eb.pdf": [
+   "tessiture-hors-plage"
+  ],
+  "pdf/Jacob do Bandolim - Elena - Theme - Saxophone Eb.pdf": [
+   "tessiture-hors-plage"
+  ],
+  "pdf/Jacob do Bandolim - Encantamento - Theme - Saxophone Eb.pdf": [
+   "tessiture-hors-plage"
+  ],
+  "pdf/Jacob do Bandolim - Entre Mil ... Você - Theme - Saxophone Eb.pdf": [
+   "tessiture-hors-plage"
+  ],
+  "pdf/Jacob do Bandolim - Estímulo nº 1 - Theme - Saxophone Eb.pdf": [
+   "tessiture-hors-plage"
+  ],
+  "pdf/Jacob do Bandolim - Eu e Você - Theme - Saxophone Eb.pdf": [
+   "tessiture-hors-plage"
+  ],
+  "pdf/Jacob do Bandolim - Feia - Theme - Saxophone Eb.pdf": [
+   "tessiture-hors-plage"
+  ],
+  "pdf/Jacob do Bandolim - Feitiço - Theme - Saxophone Eb.pdf": [
+   "tessiture-hors-plage"
+  ],
+  "pdf/Jacob do Bandolim - Forró de Gala - Theme - Saxophone Eb.pdf": [
+   "tessiture-hors-plage"
+  ],
+  "pdf/Jacob do Bandolim - Gostosinho - Theme - Saxophone Eb.pdf": [
+   "tessiture-hors-plage"
+  ],
+  "pdf/Jacob do Bandolim - Helena - Theme - Saxophone Eb.pdf": [
+   "tessiture-hors-plage"
   ],
   "pdf/Jacob do Bandolim - Há nos Olhos Teus Paisagem Linda - Theme - C.pdf": [
    "tonalite-non-verifiee"
@@ -61,6 +529,39 @@
   "pdf/Jacob do Bandolim - Há nos Olhos Teus Paisagem Linda - Theme - Saxophone Eb.pdf": [
    "tonalite-non-verifiee"
   ],
+  "pdf/Jacob do Bandolim - Implicante - Theme - Saxophone Eb.pdf": [
+   "tessiture-hors-plage"
+  ],
+  "pdf/Jacob do Bandolim - Isto é Nosso - Theme - Clarinet Bb.pdf": [
+   "tessiture-hors-plage"
+  ],
+  "pdf/Jacob do Bandolim - Isto é Nosso - Theme - Saxophone Eb.pdf": [
+   "tessiture-hors-plage"
+  ],
+  "pdf/Jacob do Bandolim - Jeitoso - Theme - Saxophone Eb.pdf": [
+   "tessiture-hors-plage"
+  ],
+  "pdf/Jacob do Bandolim - Já que não toco violão - Theme - Saxophone Eb.pdf": [
+   "tessiture-hors-plage"
+  ],
+  "pdf/Jacob do Bandolim - La Duchesse - Theme - Saxophone Eb.pdf": [
+   "tessiture-hors-plage"
+  ],
+  "pdf/Jacob do Bandolim - Lembranças - Theme - Saxophone Eb.pdf": [
+   "tessiture-hors-plage"
+  ],
+  "pdf/Jacob do Bandolim - Maxixe na tuba - Theme - Saxophone Eb.pdf": [
+   "tessiture-hors-plage"
+  ],
+  "pdf/Jacob do Bandolim - Meu Segredo - Theme - Clarinet Bb.pdf": [
+   "tessiture-hors-plage"
+  ],
+  "pdf/Jacob do Bandolim - Meu Segredo - Theme - Saxophone Eb.pdf": [
+   "tessiture-hors-plage"
+  ],
+  "pdf/Jacob do Bandolim - Migalhas de Amor - Theme - Saxophone Eb.pdf": [
+   "tessiture-hors-plage"
+  ],
   "pdf/Jacob do Bandolim - Mimosa - Theme - C.pdf": [
    "tonalite-non-verifiee"
   ],
@@ -68,15 +569,21 @@
    "tonalite-non-verifiee"
   ],
   "pdf/Jacob do Bandolim - Mimosa - Theme - Saxophone Eb.pdf": [
+   "tessiture-hors-plage",
    "tonalite-non-verifiee"
+  ],
+  "pdf/Jacob do Bandolim - Mimoso - Theme - Saxophone Eb.pdf": [
+   "tessiture-hors-plage"
   ],
   "pdf/Jacob do Bandolim - Minha Saudade - Theme - C.pdf": [
    "tonalite-non-verifiee"
   ],
   "pdf/Jacob do Bandolim - Minha Saudade - Theme - Clarinet Bb.pdf": [
+   "tessiture-hors-plage",
    "tonalite-non-verifiee"
   ],
   "pdf/Jacob do Bandolim - Minha Saudade - Theme - Saxophone Eb.pdf": [
+   "tessiture-hors-plage",
    "tonalite-non-verifiee"
   ],
   "pdf/Jacob do Bandolim - Mulher vaidosa - Theme - C.pdf": [
@@ -88,23 +595,144 @@
   "pdf/Jacob do Bandolim - Mulher vaidosa - Theme - Saxophone Eb.pdf": [
    "tonalite-non-verifiee"
   ],
+  "pdf/Jacob do Bandolim - Nego Frajola - Theme - Saxophone Eb.pdf": [
+   "tessiture-hors-plage"
+  ],
+  "pdf/Jacob do Bandolim - No Retiro do João - Theme - Saxophone Eb.pdf": [
+   "tessiture-hors-plage"
+  ],
   "pdf/Jacob do Bandolim - No Teatro DAlma - Theme - C.pdf": [
    "tonalite-non-verifiee"
   ],
   "pdf/Jacob do Bandolim - No Teatro DAlma - Theme - Clarinet Bb.pdf": [
+   "tessiture-hors-plage",
    "tonalite-non-verifiee"
   ],
   "pdf/Jacob do Bandolim - No Teatro DAlma - Theme - Saxophone Eb.pdf": [
+   "tessiture-hors-plage",
    "tonalite-non-verifiee"
+  ],
+  "pdf/Jacob do Bandolim - Nosso Romance - Theme - Saxophone Eb.pdf": [
+   "tessiture-hors-plage"
   ],
   "pdf/Jacob do Bandolim - Nostalgia - Theme - C.pdf": [
    "tonalite-non-verifiee"
   ],
   "pdf/Jacob do Bandolim - Nostalgia - Theme - Clarinet Bb.pdf": [
+   "tessiture-hors-plage",
    "tonalite-non-verifiee"
   ],
   "pdf/Jacob do Bandolim - Nostalgia - Theme - Saxophone Eb.pdf": [
+   "tessiture-hors-plage",
    "tonalite-non-verifiee"
+  ],
+  "pdf/Jacob do Bandolim - Novos Tempos - Theme - Saxophone Eb.pdf": [
+   "tessiture-hors-plage"
+  ],
+  "pdf/Jacob do Bandolim - O Vôo da Mosca - Theme - Saxophone Eb.pdf": [
+   "tessiture-hors-plage"
+  ],
+  "pdf/Jacob do Bandolim - Orgulhoso - Theme - Saxophone Eb.pdf": [
+   "tessiture-hors-plage"
+  ],
+  "pdf/Jacob do Bandolim - Pateck Cebola - Theme - Saxophone Eb.pdf": [
+   "tessiture-hors-plage"
+  ],
+  "pdf/Jacob do Bandolim - Pensando em Você - Theme - Saxophone Eb.pdf": [
+   "tessiture-hors-plage"
+  ],
+  "pdf/Jacob do Bandolim - Por Que Sonhar - Theme - Clarinet Bb.pdf": [
+   "tessiture-hors-plage"
+  ],
+  "pdf/Jacob do Bandolim - Por Que Sonhar - Theme - Saxophone Eb.pdf": [
+   "tessiture-hors-plage"
+  ],
+  "pdf/Jacob do Bandolim - Preciosa - Theme - Saxophone Eb.pdf": [
+   "tessiture-hors-plage"
+  ],
+  "pdf/Jacob do Bandolim - Primas e Bordões - Theme - Saxophone Eb.pdf": [
+   "tessiture-hors-plage"
+  ],
+  "pdf/Jacob do Bandolim - Prá Você - Theme - Clarinet Bb.pdf": [
+   "tessiture-hors-plage"
+  ],
+  "pdf/Jacob do Bandolim - Prá Você - Theme - Saxophone Eb.pdf": [
+   "tessiture-hors-plage"
+  ],
+  "pdf/Jacob do Bandolim - Pérolas - Theme - Clarinet Bb.pdf": [
+   "tessiture-hors-plage"
+  ],
+  "pdf/Jacob do Bandolim - Pérolas - Theme - Saxophone Eb.pdf": [
+   "tessiture-hors-plage"
+  ],
+  "pdf/Jacob do Bandolim - Receita de Samba - Theme - Clarinet Bb.pdf": [
+   "tessiture-hors-plage"
+  ],
+  "pdf/Jacob do Bandolim - Receita de Samba - Theme - Saxophone Eb.pdf": [
+   "tessiture-hors-plage"
+  ],
+  "pdf/Jacob do Bandolim - Remeleixo - Theme - Saxophone Eb.pdf": [
+   "tessiture-hors-plage"
+  ],
+  "pdf/Jacob do Bandolim - Rua da Imperatriz - Theme - Clarinet Bb.pdf": [
+   "tessiture-hors-plage"
+  ],
+  "pdf/Jacob do Bandolim - Rua da Imperatriz - Theme - Saxophone Eb.pdf": [
+   "tessiture-hors-plage"
+  ],
+  "pdf/Jacob do Bandolim - Sai do Caminho - Theme - Saxophone Eb.pdf": [
+   "tessiture-hors-plage"
+  ],
+  "pdf/Jacob do Bandolim - Saliente - Theme - Saxophone Eb.pdf": [
+   "tessiture-hors-plage"
+  ],
+  "pdf/Jacob do Bandolim - Salões Imperiais - Theme - Clarinet Bb.pdf": [
+   "tessiture-hors-plage"
+  ],
+  "pdf/Jacob do Bandolim - Salões Imperiais - Theme - Saxophone Eb.pdf": [
+   "tessiture-hors-plage"
+  ],
+  "pdf/Jacob do Bandolim - Santa Morena - Theme - Saxophone Eb.pdf": [
+   "tessiture-hors-plage"
+  ],
+  "pdf/Jacob do Bandolim - Sapeca Iaiá - Theme - Saxophone Eb.pdf": [
+   "tessiture-hors-plage"
+  ],
+  "pdf/Jacob do Bandolim - Saudade - Theme - Saxophone Eb.pdf": [
+   "tessiture-hors-plage"
+  ],
+  "pdf/Jacob do Bandolim - Se Alguém Sofreu - Theme - Saxophone Eb.pdf": [
+   "tessiture-hors-plage"
+  ],
+  "pdf/Jacob do Bandolim - Sereno - Theme - Saxophone Eb.pdf": [
+   "tessiture-hors-plage"
+  ],
+  "pdf/Jacob do Bandolim - Tatibitate - Theme - Saxophone Eb.pdf": [
+   "tessiture-hors-plage"
+  ],
+  "pdf/Jacob do Bandolim - Ternura - Theme - Saxophone Eb.pdf": [
+   "tessiture-hors-plage"
+  ],
+  "pdf/Jacob do Bandolim - Toca pro Pau - Theme - Saxophone Eb.pdf": [
+   "tessiture-hors-plage"
+  ],
+  "pdf/Jacob do Bandolim - Treme Treme - Theme - Saxophone Eb.pdf": [
+   "tessiture-hors-plage"
+  ],
+  "pdf/Jacob do Bandolim - Um Bandolim na Escola - Theme - Saxophone Eb.pdf": [
+   "tessiture-hors-plage"
+  ],
+  "pdf/Jacob do Bandolim - Vale Tudo - Theme - Saxophone Eb.pdf": [
+   "tessiture-hors-plage"
+  ],
+  "pdf/Jacob do Bandolim - Valsa - Theme - Clarinet Bb.pdf": [
+   "tessiture-hors-plage"
+  ],
+  "pdf/Jacob do Bandolim - Valsa - Theme - Saxophone Eb.pdf": [
+   "tessiture-hors-plage"
+  ],
+  "pdf/Jacob do Bandolim - Vascaíno - Theme - Saxophone Eb.pdf": [
+   "tessiture-hors-plage"
   ],
   "pdf/Jacob do Bandolim - Velhos Amigos - Theme - C.pdf": [
    "tonalite-non-verifiee"
@@ -113,7 +741,155 @@
    "tonalite-non-verifiee"
   ],
   "pdf/Jacob do Bandolim - Velhos Amigos - Theme - Saxophone Eb.pdf": [
+   "tessiture-hors-plage",
    "tonalite-non-verifiee"
+  ],
+  "pdf/Jacob do Bandolim - Velhos Tempos - Theme - Saxophone Eb.pdf": [
+   "tessiture-hors-plage"
+  ],
+  "pdf/Jacob do Bandolim - Vidinha Boa - Theme - Saxophone Eb.pdf": [
+   "tessiture-hors-plage"
+  ],
+  "pdf/Jayme Vignoli - De Frente prá Baía - Theme - Saxophone Eb.pdf": [
+   "tessiture-hors-plage"
+  ],
+  "pdf/Jayme Vignoli - De frente prá Baía - Theme - Clarinet Bb.pdf": [
+   "tessiture-hors-plage"
+  ],
+  "pdf/Jayme Vignoli - De volta - Theme - Saxophone Eb.pdf": [
+   "tessiture-hors-plage"
+  ],
+  "pdf/Jayme Vignoli - Meio de boreste - Theme - Saxophone Eb.pdf": [
+   "tessiture-hors-plage"
+  ],
+  "pdf/Jayme Vignoli - Noturno mineiro - Theme - Clarinet Bb.pdf": [
+   "tessiture-hors-plage"
+  ],
+  "pdf/Jayme Vignoli - Noturno mineiro - Theme - Saxophone Eb.pdf": [
+   "tessiture-hors-plage"
+  ],
+  "pdf/Joel Nascimento - Não sei porque - Theme - Saxophone Eb.pdf": [
+   "tessiture-hors-plage"
+  ],
+  "pdf/Joel Nascimento - Primavera - Theme - Saxophone Eb.pdf": [
+   "tessiture-hors-plage"
+  ],
+  "pdf/Jonas Silva - Meu Chorinho - Theme - Saxophone Eb.pdf": [
+   "tessiture-hors-plage"
+  ],
+  "pdf/Jorge Cardoso - Balançadinho - Theme - Saxophone Eb.pdf": [
+   "tessiture-hors-plage"
+  ],
+  "pdf/Jorge Cardoso - Gingando no choro - Theme - Saxophone Eb.pdf": [
+   "tessiture-hors-plage"
+  ],
+  "pdf/Jorge Cardoso - Minha terra - Theme - Saxophone Eb.pdf": [
+   "tessiture-hors-plage"
+  ],
+  "pdf/José Toledo - Cuidado violão - Theme - Saxophone Eb.pdf": [
+   "tessiture-hors-plage"
+  ],
+  "pdf/Joubert de Carvalho - Negrinha - Theme - Saxophone Eb.pdf": [
+   "tessiture-hors-plage"
+  ],
+  "pdf/João Lyra - Caçuá - Theme - Saxophone Eb.pdf": [
+   "tessiture-hors-plage"
+  ],
+  "pdf/João Pernambuco - Graúna (violão solo) - Theme - Saxophone Eb.pdf": [
+   "tessiture-hors-plage"
+  ],
+  "pdf/João dos Santos - Paulista - Theme - Saxophone Eb.pdf": [
+   "tessiture-hors-plage"
+  ],
+  "pdf/Juvenal Peixoto - Buliçoso - Theme - Saxophone Eb.pdf": [
+   "tessiture-hors-plage"
+  ],
+  "pdf/Lucas Porto - Domingo de Glória - Theme - Saxophone Eb.pdf": [
+   "tessiture-hors-plage"
+  ],
+  "pdf/Lucas Porto - Lorde Lopes na bandola - Theme - Saxophone Eb.pdf": [
+   "tessiture-hors-plage"
+  ],
+  "pdf/Luis Barcelos - Amigo Gustavo - Theme - Saxophone Eb.pdf": [
+   "tessiture-hors-plage"
+  ],
+  "pdf/Luis Barcelos - Chimarrão - Theme - Saxophone Eb.pdf": [
+   "tessiture-hors-plage"
+  ],
+  "pdf/Luis Barcelos - Curitibano - Theme - Saxophone Eb.pdf": [
+   "tessiture-hors-plage"
+  ],
+  "pdf/Luis Barcelos - Espevitado - Theme - Saxophone Eb.pdf": [
+   "tessiture-hors-plage"
+  ],
+  "pdf/Luis Barcelos - Homenagem a Rossini Ferreira - Theme - Saxophone Eb.pdf": [
+   "tessiture-hors-plage"
+  ],
+  "pdf/Luis Barcelos - Mathias no Choro - Theme - Saxophone Eb.pdf": [
+   "tessiture-hors-plage"
+  ],
+  "pdf/Luiz Americano - Intrigas no Boteco do Padilha - Theme - Saxophone Eb.pdf": [
+   "tessiture-hors-plage"
+  ],
+  "pdf/Luiz Americano - Numa seresta - Theme - Saxophone Eb.pdf": [
+   "tessiture-hors-plage"
+  ],
+  "pdf/Luiz Flavio Alcofra - Depois eu digo - Theme - Saxophone Eb.pdf": [
+   "tessiture-hors-plage"
+  ],
+  "pdf/Luiz Flavio Alcofra - Picote - Theme - Saxophone Eb.pdf": [
+   "tessiture-hors-plage"
+  ],
+  "pdf/Luiz Gonzaga - 13 de dezembro - Theme - Saxophone Eb.pdf": [
+   "tessiture-hors-plage"
+  ],
+  "pdf/Luiz Otávio Braga - Então, chora bandolim - Theme - Clarinet Bb.pdf": [
+   "tessiture-hors-plage"
+  ],
+  "pdf/Luiz Otávio Braga - Então, chora bandolim - Theme - Saxophone Eb.pdf": [
+   "tessiture-hors-plage"
+  ],
+  "pdf/Luperce Miranda - A vida assim é melhor - Theme - Saxophone Eb.pdf": [
+   "tessiture-hors-plage"
+  ],
+  "pdf/Luperce Miranda - Alma e coração - Theme - Saxophone Eb.pdf": [
+   "tessiture-hors-plage"
+  ],
+  "pdf/Luperce Miranda - Bate palmas - Theme - Saxophone Eb.pdf": [
+   "tessiture-hors-plage"
+  ],
+  "pdf/Luperce Miranda - Bernardino - Theme - Saxophone Eb.pdf": [
+   "tessiture-hors-plage"
+  ],
+  "pdf/Luperce Miranda - Caboclo brasileiro - Theme - Saxophone Eb.pdf": [
+   "tessiture-hors-plage"
+  ],
+  "pdf/Luperce Miranda - Caboco zangado - Theme - Saxophone Eb.pdf": [
+   "tessiture-hors-plage"
+  ],
+  "pdf/Luperce Miranda - Capricho - Theme - Saxophone Eb.pdf": [
+   "tessiture-hors-plage"
+  ],
+  "pdf/Luperce Miranda - Foi um sonho - Theme - Saxophone Eb.pdf": [
+   "tessiture-hors-plage"
+  ],
+  "pdf/Luperce Miranda - Lembrando Nazareth - Theme - Saxophone Eb.pdf": [
+   "tessiture-hors-plage"
+  ],
+  "pdf/Luperce Miranda - Na casa do Athayde - Theme - Saxophone Eb.pdf": [
+   "tessiture-hors-plage"
+  ],
+  "pdf/Luperce Miranda - Néa sorrindo - Theme - Saxophone Eb.pdf": [
+   "tessiture-hors-plage"
+  ],
+  "pdf/Luperce Miranda - Picadinho à baiana - Theme - Saxophone Eb.pdf": [
+   "tessiture-hors-plage"
+  ],
+  "pdf/Luperce Miranda - Princesinha - Theme - Saxophone Eb.pdf": [
+   "tessiture-hors-plage"
+  ],
+  "pdf/Luperce Miranda - Quando me lembro - Theme - Saxophone Eb.pdf": [
+   "tessiture-hors-plage"
   ],
   "pdf/Marcílio Lopes - Choro de Irmão - Theme - C.pdf": [
    "tonalite-non-verifiee"
@@ -133,6 +909,66 @@
   "pdf/Marcílio Lopes - Do que ficou guardado - Theme - Saxophone Eb.pdf": [
    "tonalite-non-verifiee"
   ],
+  "pdf/Maurício Carrilho - Latina - Theme - Saxophone Eb.pdf": [
+   "tessiture-hors-plage"
+  ],
+  "pdf/Maurício Carrilho - Proveta na madrugada - Theme - Saxophone Eb.pdf": [
+   "tessiture-hors-plage"
+  ],
+  "pdf/Mário Álvares da Conceição - Helena - Theme - Saxophone Eb.pdf": [
+   "tessiture-hors-plage"
+  ],
+  "pdf/Nelson Cavaquinho - Caminhando - Theme - Saxophone Eb.pdf": [
+   "tessiture-hors-plage"
+  ],
+  "pdf/Niquinho - Polqueando - Theme - Saxophone Eb.pdf": [
+   "tessiture-hors-plage"
+  ],
+  "pdf/Orlando Silveira - Passatempo - Theme - Saxophone Eb.pdf": [
+   "tessiture-hors-plage"
+  ],
+  "pdf/Patápio Silva - Primeiro amor - Theme - Saxophone Eb.pdf": [
+   "tessiture-hors-plage"
+  ],
+  "pdf/Paulinho da Viola - Choro de memórias - Theme - Saxophone Eb.pdf": [
+   "tessiture-hors-plage"
+  ],
+  "pdf/Paulinho da Viola - Inesquecível - Theme - Saxophone Eb.pdf": [
+   "tessiture-hors-plage"
+  ],
+  "pdf/Pedro Galdino - Jocosa - Theme - Saxophone Eb.pdf": [
+   "tessiture-hors-plage"
+  ],
+  "pdf/Pedro Galdino - O teu casamento - Theme - Saxophone Eb.pdf": [
+   "tessiture-hors-plage"
+  ],
+  "pdf/Pedro Raimundo - Escadaria - Theme - Saxophone Eb.pdf": [
+   "tessiture-hors-plage"
+  ],
+  "pdf/Pixinguinha - Abelardo - Theme - Saxophone Eb.pdf": [
+   "tessiture-hors-plage"
+  ],
+  "pdf/Pixinguinha - Acerta o passo - Theme - Saxophone Eb.pdf": [
+   "tessiture-hors-plage"
+  ],
+  "pdf/Pixinguinha - Assim é que é - Theme - Saxophone Eb.pdf": [
+   "tessiture-hors-plage"
+  ],
+  "pdf/Pixinguinha - Benguelê - Theme - Saxophone Eb.pdf": [
+   "tessiture-hors-plage"
+  ],
+  "pdf/Pixinguinha - Carinhoso - Theme - Saxophone Eb.pdf": [
+   "tessiture-hors-plage"
+  ],
+  "pdf/Pixinguinha - Cheguei - Theme - Saxophone Eb.pdf": [
+   "tessiture-hors-plage"
+  ],
+  "pdf/Pixinguinha - Cuidado, colega - Theme - Saxophone Eb.pdf": [
+   "tessiture-hors-plage"
+  ],
+  "pdf/Pixinguinha - Dando topada - Theme - Saxophone Eb.pdf": [
+   "tessiture-hors-plage"
+  ],
   "pdf/Pixinguinha - Desprezado - Theme - C.pdf": [
    "tonalite-non-verifiee"
   ],
@@ -140,7 +976,170 @@
    "tonalite-non-verifiee"
   ],
   "pdf/Pixinguinha - Desprezado - Theme - Saxophone Eb.pdf": [
+   "tessiture-hors-plage",
    "tonalite-non-verifiee"
+  ],
+  "pdf/Pixinguinha - Dominante - Theme - Saxophone Eb.pdf": [
+   "tessiture-hors-plage"
+  ],
+  "pdf/Pixinguinha - Gargalhada - Theme - Saxophone Eb.pdf": [
+   "tessiture-hors-plage"
+  ],
+  "pdf/Pixinguinha - Glória - Theme - Saxophone Eb.pdf": [
+   "tessiture-hors-plage"
+  ],
+  "pdf/Pixinguinha - Já te digo - Theme - Saxophone Eb.pdf": [
+   "tessiture-hors-plage"
+  ],
+  "pdf/Pixinguinha - Minha gente - Theme - Saxophone Eb.pdf": [
+   "tessiture-hors-plage"
+  ],
+  "pdf/Pixinguinha - Minha vez - Theme - Saxophone Eb.pdf": [
+   "tessiture-hors-plage"
+  ],
+  "pdf/Pixinguinha - Nostalgia ao luar - Theme - Saxophone Eb.pdf": [
+   "tessiture-hors-plage"
+  ],
+  "pdf/Pixinguinha - O baú do Raul - Theme - Saxophone Eb.pdf": [
+   "tessiture-hors-plage"
+  ],
+  "pdf/Pixinguinha - Oscarina - Theme - Saxophone Eb.pdf": [
+   "tessiture-hors-plage"
+  ],
+  "pdf/Pixinguinha - Passatempo - Theme - Saxophone Eb.pdf": [
+   "tessiture-hors-plage"
+  ],
+  "pdf/Pixinguinha - Pula sapo - Theme - Clarinet Bb.pdf": [
+   "tessiture-hors-plage"
+  ],
+  "pdf/Pixinguinha - Pula sapo - Theme - Saxophone Eb.pdf": [
+   "tessiture-hors-plage"
+  ],
+  "pdf/Portinho - Louco por música - Theme - Saxophone Eb.pdf": [
+   "tessiture-hors-plage"
+  ],
+  "pdf/Radamés Gnattali - Bolacha queimada - Theme - Clarinet Bb.pdf": [
+   "tessiture-hors-plage"
+  ],
+  "pdf/Radamés Gnattali - Bolacha queimada - Theme - Saxophone Eb.pdf": [
+   "tessiture-hors-plage"
+  ],
+  "pdf/Radamés Gnattali - Cheio de malícia - Theme - Saxophone Eb.pdf": [
+   "tessiture-hors-plage"
+  ],
+  "pdf/Radamés Gnattali - Meu amigo Pixinga - Theme - Saxophone Eb.pdf": [
+   "tessiture-hors-plage"
+  ],
+  "pdf/Radamés Gnattali - Papo de anjo - Theme - Saxophone Eb.pdf": [
+   "tessiture-hors-plage"
+  ],
+  "pdf/Radamés Gnattali - Pé de Moleque bandolim - Theme - Saxophone Eb.pdf": [
+   "tessiture-hors-plage"
+  ],
+  "pdf/Radamés Gnattali - Serenata no Joá - Theme - Saxophone Eb.pdf": [
+   "tessiture-hors-plage"
+  ],
+  "pdf/Rafael Mallmith - Elias no Rio - Theme - Saxophone Eb.pdf": [
+   "tessiture-hors-plage"
+  ],
+  "pdf/Rafael Mallmith - Meu saudoso lar - Theme - Saxophone Eb.pdf": [
+   "tessiture-hors-plage"
+  ],
+  "pdf/Rafael Mallmith - Ninando - Theme - Saxophone Eb.pdf": [
+   "tessiture-hors-plage"
+  ],
+  "pdf/Raul Silva - Meu sabiá - Theme - Saxophone Eb.pdf": [
+   "tessiture-hors-plage"
+  ],
+  "pdf/Raul de Barros - Na Glória - Theme - Saxophone Eb.pdf": [
+   "tessiture-hors-plage"
+  ],
+  "pdf/Rildo hora - Ano Novo - Theme - Saxophone Eb.pdf": [
+   "tessiture-hors-plage"
+  ],
+  "pdf/Rodrigo Lessa - De soslaio - Theme - Saxophone Eb.pdf": [
+   "tessiture-hors-plage"
+  ],
+  "pdf/Rodrigo Lessa - Na gafieira do Moura - Theme - Saxophone Eb.pdf": [
+   "tessiture-hors-plage"
+  ],
+  "pdf/Rossini Ferreira - Ansiedade - Theme - Saxophone Eb.pdf": [
+   "tessiture-hors-plage"
+  ],
+  "pdf/Rossini Ferreira - Devaneio - Theme - Saxophone Eb.pdf": [
+   "tessiture-hors-plage"
+  ],
+  "pdf/Rossini Ferreira - Inspirações - Theme - Saxophone Eb.pdf": [
+   "tessiture-hors-plage"
+  ],
+  "pdf/Rossini Ferreira - Jaira - Theme - Saxophone Eb.pdf": [
+   "tessiture-hors-plage"
+  ],
+  "pdf/Rossini Ferreira - Pé de boi - Theme - Saxophone Eb.pdf": [
+   "tessiture-hors-plage"
+  ],
+  "pdf/Rubens Leal Brito - Evocação - Theme - Saxophone Eb.pdf": [
+   "tessiture-hors-plage"
+  ],
+  "pdf/Santos Coelho - Flor do mal - Theme - Saxophone Eb.pdf": [
+   "tessiture-hors-plage"
+  ],
+  "pdf/Severino Araújo - Espinha de bacalhau - Theme - Saxophone Eb.pdf": [
+   "tessiture-hors-plage"
+  ],
+  "pdf/Severino Araújo - Oh! Clarinete gostoso - Theme - Saxophone Eb.pdf": [
+   "tessiture-hors-plage"
+  ],
+  "pdf/Silvério Pontes - Alinhavando - Theme - Saxophone Eb.pdf": [
+   "tessiture-hors-plage"
+  ],
+  "pdf/Silvério Pontes - Maxixe da família - Theme - Saxophone Eb.pdf": [
+   "tessiture-hors-plage"
+  ],
+  "pdf/Sivuca - Dino pintando o Sete Cordas - Theme - Saxophone Eb.pdf": [
+   "tessiture-hors-plage"
+  ],
+  "pdf/Sivuca - Homenagem à Velha Guarda - Theme - Saxophone Eb.pdf": [
+   "tessiture-hors-plage"
+  ],
+  "pdf/Tico Tico - Orgulhosa - Theme - Saxophone Eb.pdf": [
+   "tessiture-hors-plage"
+  ],
+  "pdf/Toco Preto - No tempo do vovô - Theme - Saxophone Eb.pdf": [
+   "tessiture-hors-plage"
+  ],
+  "pdf/Toninho Ferraguti - Chapéu Palheta - Theme - Saxophone Eb.pdf": [
+   "tessiture-hors-plage"
+  ],
+  "pdf/Villa-Lobos - Choros nº 1 - Theme - Saxophone Eb.pdf": [
+   "tessiture-hors-plage"
+  ],
+  "pdf/Waldir Azevedo - Carioquinha - Theme - Saxophone Eb.pdf": [
+   "tessiture-hors-plage"
+  ],
+  "pdf/Waldir Azevedo - Cavaquinho seresteiro - Theme - Saxophone Eb.pdf": [
+   "tessiture-hors-plage"
+  ],
+  "pdf/Waldir Azevedo - Cinema mudo - Theme - Saxophone Eb.pdf": [
+   "tessiture-hors-plage"
+  ],
+  "pdf/Waldir Azevedo - Delicado - Theme - Saxophone Eb.pdf": [
+   "tessiture-hors-plage"
+  ],
+  "pdf/Waldir Azevedo - Hora de sonhar - Theme - Saxophone Eb.pdf": [
+   "tessiture-hors-plage"
+  ],
+  "pdf/Zequinha de Abreu - Branca - Theme - Saxophone Eb.pdf": [
+   "tessiture-hors-plage"
+  ],
+  "pdf/Zé Menezes - Entre sem bater - Theme - Saxophone Eb.pdf": [
+   "tessiture-hors-plage"
+  ],
+  "pdf/Álvaro Sandim - Flor de Abacate - Theme - Saxophone Eb.pdf": [
+   "tessiture-hors-plage"
+  ],
+  "pdf/Índio do Cavaquinho - Num bate papo - Theme - Saxophone Eb.pdf": [
+   "tessiture-hors-plage"
   ]
  }
 }
