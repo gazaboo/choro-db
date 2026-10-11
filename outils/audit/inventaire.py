@@ -98,6 +98,13 @@ def est_accord(s: str) -> bool:
     return bool(RE_ACCORD.match(s.strip()))
 
 
+# Altérations SMuFL (polices musicales Leland, Bravura…) → caractères Unicode.
+SMUFL = str.maketrans(
+    {"\ue260": "♭", "\ue261": "♮", "\ue262": "♯", "\ue263": "𝄪", "\ue264": "𝄫",
+     # Variantes « texte » (Leland Text) utilisées dans les symboles d’accords.
+     "\ued60": "♭", "\ued61": "♮", "\ued62": "♯", "\ued63": "𝄪", "\ued64": "𝄫"}
+)
+
 RE_RACINE = re.compile(r"^([A-G])([#♯b♭]?)")
 NOTES_PC = {"C": 0, "D": 2, "E": 4, "F": 5, "G": 7, "A": 9, "B": 11}
 
@@ -167,10 +174,12 @@ def analyser_pdf(chemin: Path) -> dict:
         sur_page = []
         for bloc in page.get_text("dict")["blocks"]:
             for ligne in bloc.get("lines", []):
-                for span in ligne["spans"]:
-                    t = span["text"].strip()
-                    if est_accord(t):
-                        sur_page.append((span["bbox"], (span["font"], round(span["size"], 1)), t))
+                spans = ligne["spans"]
+                # MuseScore 4 écrit les altérations d'un accord dans la police musicale
+                # (glyphes SMuFL) : « F » + «  » = F♯. On recompose la ligne.
+                t = "".join(sp["text"] for sp in spans).translate(SMUFL).strip()
+                if spans and est_accord(t):
+                    sur_page.append((ligne["bbox"], (spans[0]["font"], round(spans[0]["size"], 1)), t))
         candidats += [(st, t) for _, st, t in ordre_de_lecture(sur_page)]
     accords = accords_du_style_dominant(candidats)
     res.update(texte=texte_total, images=images, traces=traces, accords=len(accords))

@@ -9,7 +9,7 @@ qu'on veut voir affichée.
 Usage :
     outils/audit/.venv/bin/python -I outils/audit/transposer.py FICHIER.mxl \
         --pas -4 --demi-tons -7          # quinte juste descendante
-    ... --octaves -1 [--mesures 17-32]    # déplacement d'octave, éventuellement partiel
+    ... --octaves -1 [--mesures 16-31]    # octave, éventuellement partiel (positions, 0 = 1re mesure)
 """
 
 from __future__ import annotations
@@ -51,20 +51,15 @@ def _set(parent, tag: str, valeur) -> None:
     el.text = str(valeur)
 
 
-def _dans(mesure_num: str | None, mesures: tuple[int, int] | None) -> bool:
-    if mesures is None:
-        return True
-    try:
-        n = int("".join(c for c in (mesure_num or "") if c.isdigit()))
-    except ValueError:
-        return False
-    return mesures[0] <= n <= mesures[1]
-
-
 def transposer_racine(racine: ET.Element, pas: int, demi_tons: int, mesures: tuple[int, int] | None = None) -> None:
+    """`mesures` = positions (0 = première mesure de la partie), bornes incluses.
+
+    Par position et non par numéro : MuseScore numérote parfois « 66X1 »,
+    l'anacrouse « 0 », et les numéros peuvent se répéter.
+    """
     for part in racine.findall("part"):
-        for mesure in part.findall("measure"):
-            if not _dans(mesure.get("number"), mesures):
+        for position, mesure in enumerate(part.findall("measure")):
+            if mesures is not None and not mesures[0] <= position <= mesures[1]:
                 continue
             for p in mesure.iter("pitch"):
                 s, a, o = transposer_note(
@@ -124,7 +119,7 @@ def main(argv: list[str]) -> int:
     ap.add_argument("--pas", type=int, default=0, help="degrés diatoniques")
     ap.add_argument("--demi-tons", type=int, default=0)
     ap.add_argument("--octaves", type=int, default=0)
-    ap.add_argument("--mesures", help="plage « début-fin » (numéros de mesure)")
+    ap.add_argument("--mesures", help="plage « début-fin » de positions de mesure (0 = première)")
     a = ap.parse_args(argv)
     pas, dt = a.pas + 7 * a.octaves, a.demi_tons + 12 * a.octaves
     mesures = tuple(map(int, a.mesures.split("-"))) if a.mesures else None
@@ -136,3 +131,66 @@ def main(argv: list[str]) -> int:
 
 if __name__ == "__main__":
     sys.exit(main(sys.argv[1:]))
+
+
+# Intervalles admis entre fondamentale et basse : degrés (0–6) → demi-tons.
+INTERVALLES = {0: {0}, 1: {1, 2}, 2: {3, 4}, 3: {5, 6}, 4: {6, 7, 8}, 5: {8, 9}, 6: {10, 11}}
+
+
+def orthographier_basse(root_step: str, root_alter: int, bass_step: str, bass_alter: int) -> tuple[str, int]:
+    """Réécrit la basse d'un accord « X/Y » sous un nom cohérent avec sa fondamentale.
+
+    La transposition automatique des sources produit des basses comme B/E♭ (quarte
+    diminuée) au lieu de B/D♯ (tierce majeure). Même hauteur, autre nom.
+    """
+    d = (LETTRES.index(bass_step) - LETTRES.index(root_step)) % 7
+    s = (PAS[bass_step] + bass_alter - PAS[root_step] - root_alter) % 12
+    if s in INTERVALLES[d]:
+        return bass_step, bass_alter
+    hauteur = PAS[bass_step] + bass_alter
+    candidats = []
+    for deg, demi in INTERVALLES.items():
+        if s not in demi:
+            continue
+        lettre = LETTRES[(LETTRES.index(root_step) + deg) % 7]
+        alter = (hauteur - PAS[lettre] + 6) % 12 - 6
+        if abs(alter) <= 1:
+            candidats.append((abs(alter), lettre, alter))
+    if not candidats:
+        return bass_step, bass_alter
+    _, lettre, alter = min(candidats)
+    return lettre, alter
+
+
+def corriger_basses(racine: ET.Element) -> int:
+    n = 0
+    for h in racine.iter("harmony"):
+        b = h.find("bass")
+        if b is None or h.find("root") is None:
+            continue
+        rs, ra = h.findtext("root/root-step"), int(float(h.findtext("root/root-alter") or 0))
+        bs, ba = b.findtext("bass-step"), int(float(b.findtext("bass-alter") or 0))
+        ns, na = orthographier_basse(rs, ra, bs, ba)
+        if (ns, na) != (bs, ba):
+            b.find("bass-step").text = ns
+            _set(b, "bass-alter", na)
+            n += 1
+    return n
+
+
+def corriger_basses_fichier(chemin: Path) -> int:
+    with zipfile.ZipFile(chemin) as z:
+        contenus = {n: z.read(n) for n in z.namelist()}
+        infos = {n: z.getinfo(n) for n in z.namelist()}
+    c = ET.fromstring(contenus["META-INF/container.xml"])
+    racine_nom = c.find(".//{*}rootfile").get("full-path")
+    texte = contenus[racine_nom]
+    entete = texte[: texte.index(b"<score-partwise")]
+    racine = ET.fromstring(texte)
+    n = corriger_basses(racine)
+    if n:
+        contenus[racine_nom] = entete + ET.tostring(racine, encoding="utf-8")
+        with zipfile.ZipFile(chemin, "w") as z:
+            for nom, data in contenus.items():
+                z.writestr(infos[nom], data, compress_type=zipfile.ZIP_STORED if nom == "mimetype" else zipfile.ZIP_DEFLATED)
+    return n

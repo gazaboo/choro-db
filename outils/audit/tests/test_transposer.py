@@ -42,6 +42,23 @@ def test_transposer_racine_quinte():
 
 def test_octave_partielle():
     r = ET.fromstring(XML)
-    transposer_racine(r, -7, -12, mesures=(2, 2))
+    transposer_racine(r, -7, -12, mesures=(1, 1))  # 2e mesure
     assert [p.findtext("octave") for p in r.iter("pitch")] == ["5", "4"]
     assert r.findtext(".//fifths") == "-1"  # armure inchangée
+
+
+@pytest.mark.parametrize(
+    "accord, attendu",
+    [
+        (("B", 0, "E", -1), ("D", 1)),   # B/E♭ → B/D♯
+        (("F", 1, "B", -1), ("A", 1)),   # F♯/B♭ → F♯/A♯
+        (("C", 1, "F", 0), ("E", 1)),    # C♯/F → C♯/E♯
+        (("G", 1, "C", 0), ("B", 1)),    # G♯/C → G♯/B♯
+        (("D", 0, "F", 1), ("F", 1)),    # D/F♯ déjà juste
+        (("C", 0, "B", -1), ("B", -1)),  # C/B♭ déjà juste
+    ],
+)
+def test_orthographier_basse(accord, attendu):
+    from transposer import orthographier_basse
+
+    assert orthographier_basse(*accord) == attendu
