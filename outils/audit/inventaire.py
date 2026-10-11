@@ -98,6 +98,50 @@ def est_accord(s: str) -> bool:
     return bool(RE_ACCORD.match(s.strip()))
 
 
+RE_RACINE = re.compile(r"^([A-G])([#♯b♭]?)")
+NOTES_PC = {"C": 0, "D": 2, "E": 4, "F": 5, "G": 7, "A": 9, "B": 11}
+
+
+def racine_pc(accord: str) -> int | None:
+    """Classe de hauteur (0–11) de la fondamentale d'un symbole d'accord."""
+    m = RE_RACINE.match(accord)
+    if not m:
+        return None
+    alt = {"#": 1, "♯": 1, "b": -1, "♭": -1}.get(m.group(2), 0)
+    return (NOTES_PC[m.group(1)] + alt) % 12
+
+
+def accords_du_style_dominant(candidats: list[tuple]) -> list[str]:
+    """Garde les symboles écrits dans la police des accords.
+
+    Les lettres de repère (A, B…) ressemblent à des accords : on retient la
+    police + taille la plus fréquente parmi les symboles non ambigus (plus
+    d'un caractère), puis seulement les candidats dans ce style.
+    """
+    styles = Counter(st for st, t in candidats if len(t) > 1)
+    if not styles:
+        return [t for _, t in candidats]
+    dominant = styles.most_common(1)[0][0]
+    return [t for st, t in candidats if st == dominant]
+
+
+def ordre_de_lecture(elements: list[tuple], tolerance: float = 18.0) -> list[tuple]:
+    """Trie des (bbox, …) par ligne (haut → bas) puis de gauche à droite.
+
+    L'ordre d'extraction du texte PDF ne suit pas la lecture : deux éléments
+    sont sur la même ligne si l'écart vertical avec le précédent est inférieur à
+    `tolerance` pt (les accords d'un système sont décalés par le placement
+    automatique ; deux systèmes sont bien plus espacés).
+    """
+    lignes: list[list[tuple]] = []
+    for e in sorted(elements, key=lambda e: e[0][1]):
+        if lignes and e[0][1] - lignes[-1][-1][0][1] < tolerance:
+            lignes[-1].append(e)
+        else:
+            lignes.append([e])
+    return [e for l in lignes for e in sorted(l, key=lambda e: e[0][0])]
+
+
 def analyser_pdf(chemin: Path) -> dict:
     import pymupdf
 
@@ -109,20 +153,31 @@ def analyser_pdf(chemin: Path) -> dict:
     res["pages"] = doc.page_count
     texte_total = 0
     images = 0
+    pages_image = 0
     traces = 0
-    accords: list[str] = []
+    candidats: list[tuple] = []
     for page in doc:
         texte_total += len(page.get_text("text").strip())
-        images += len(page.get_images(full=False))
+        infos = page.get_image_info()
+        images += len(infos)
+        aire = page.rect.width * page.rect.height
+        if any((i["bbox"][2] - i["bbox"][0]) * (i["bbox"][3] - i["bbox"][1]) > 0.5 * aire for i in infos):
+            pages_image += 1
         traces += len(page.get_drawings())
+        sur_page = []
         for bloc in page.get_text("dict")["blocks"]:
             for ligne in bloc.get("lines", []):
                 for span in ligne["spans"]:
-                    if est_accord(span["text"]):
-                        accords.append(span["text"].strip())
+                    t = span["text"].strip()
+                    if est_accord(t):
+                        sur_page.append((span["bbox"], (span["font"], round(span["size"], 1)), t))
+        candidats += [(st, t) for _, st, t in ordre_de_lecture(sur_page)]
+    accords = accords_du_style_dominant(candidats)
     res.update(texte=texte_total, images=images, traces=traces, accords=len(accords))
     res["accords_debut"] = accords[:16]
-    res["scanne"] = texte_total < 20 and images > 0
+    res["racines"] = [r for r in map(racine_pc, accords) if r is not None]
+    # Scan = chaque page est essentiellement une image (même avec une couche OCR).
+    res["scanne"] = doc.page_count > 0 and pages_image == doc.page_count
     if doc.page_count:
         p0 = doc[0]
         res["format"] = [round(p0.rect.width), round(p0.rect.height)]
@@ -175,6 +230,21 @@ def analyser_mxl(chemin: Path) -> dict:
         "titre_lu": _texte(racine.find("work/work-title")) or _texte(racine.find("movement-title")),
         "compositeur_lu": _texte(racine.find("identification/creator[@type='composer']")),
     }
+    credits = []
+    for c in racine.findall("credit"):
+        mots = [w for w in c.findall("credit-words") if w.text and w.text.strip()]
+        if mots:
+            credits.append((_texte(c.find("credit-type")), mots[0]))
+    if not res["titre_lu"]:
+        titres = [w for t, w in credits if t == "title"] or [
+            max((w for _, w in credits), key=lambda w: float(w.get("font-size") or 0), default=None)
+        ]
+        res["titre_lu"] = _texte(titres[0]) if titres and titres[0] is not None else None
+    if not res["compositeur_lu"]:
+        comp = [w for t, w in credits if t == "composer"] or [
+            w for _, w in credits if w.get("justify") == "right"
+        ]
+        res["compositeur_lu"] = _texte(comp[0]) if comp else None
     parties = racine.findall("part")
     res["parties"] = len(parties)
     if not parties:
@@ -193,7 +263,15 @@ def analyser_mxl(chemin: Path) -> dict:
     res["notes"] = len(hauteurs)
     if hauteurs:
         res["ambitus"] = [min(hauteurs), max(hauteurs)]
-    res["accords"] = len(p.findall(".//harmony"))
+    harmonies = p.findall(".//harmony")
+    res["accords"] = len(harmonies)
+    racines = []
+    for h in harmonies:
+        step = _texte(h.find("root/root-step"))
+        if step:
+            alter = int(float(_texte(h.find("root/root-alter")) or 0))
+            racines.append((PAS[step] + alter) % 12)
+    res["racines"] = racines
     res["reperes"] = [_texte(r) for r in p.iter("rehearsal")][:12]
     fifths = p.find(".//attributes/key/fifths")
     res["armure"] = int(_texte(fifths)) if fifths is not None else None

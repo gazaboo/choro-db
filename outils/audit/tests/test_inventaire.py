@@ -70,3 +70,18 @@ def test_analyser_mxl(tmp_path):
     assert r["ambitus"] == [52, 85]  # Mi3, Do#6
     assert r["armure"] == -1 and r["mesure_type"] == "2/4" and r["transpose"] == -2
     assert r["reperes"] == ["B"]
+
+
+def test_ordre_de_lecture():
+    from inventaire import ordre_de_lecture
+
+    els = [((50, 102, 0, 0), "D7"), ((10, 300, 0, 0), "G"), ((10, 100, 0, 0), "C"), ((90, 98, 0, 0), "Am")]
+    assert [e[1] for e in ordre_de_lecture(els)] == ["C", "D7", "Am", "G"]
+
+
+def test_accords_du_style_dominant_ignore_les_reperes():
+    from inventaire import accords_du_style_dominant
+
+    accord, repere = ("Edwin", 12.0), ("Edwin-Bold", 14.0)
+    cand = [(repere, "A"), (accord, "C"), (accord, "G7"), (accord, "Am"), (repere, "B"), (accord, "F")]
+    assert accords_du_style_dominant(cand) == ["C", "G7", "Am", "F"]

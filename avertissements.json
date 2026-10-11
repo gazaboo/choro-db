@@ -1,0 +1,146 @@
+{
+ "_doc": "Avertissements par fichier, affichés par l'application. Codes : tonalite-non-verifiee = les versions du morceau ne concordent pas, tonalité à confirmer.",
+ "fichiers": {
+  "pdf/Abel Ferreira - Doce Melodia - Contraponto - C.pdf": [
+   "tonalite-non-verifiee"
+  ],
+  "pdf/Abel Ferreira - Doce melodia - Theme - C.pdf": [
+   "tonalite-non-verifiee"
+  ],
+  "pdf/Abel Ferreira - Doce melodia - Theme - Clarinet Bb.pdf": [
+   "tonalite-non-verifiee"
+  ],
+  "pdf/Abel Ferreira - Doce melodia - Theme - Saxophone Eb.pdf": [
+   "tonalite-non-verifiee"
+  ],
+  "pdf/Candinho - Artur virou bode - Theme - C.pdf": [
+   "tonalite-non-verifiee"
+  ],
+  "pdf/Candinho - Artur virou bode - Theme - Clarinet Bb.pdf": [
+   "tonalite-non-verifiee"
+  ],
+  "pdf/Candinho - Artur virou bode - Theme - Saxophone Eb.pdf": [
+   "tonalite-non-verifiee"
+  ],
+  "pdf/Ernesto Nazareth - Atrevido - Theme - C.pdf": [
+   "tonalite-non-verifiee"
+  ],
+  "pdf/Ernesto Nazareth - Atrevido - Theme - Clarinet Bb.pdf": [
+   "tonalite-non-verifiee"
+  ],
+  "pdf/Ernesto Nazareth - Atrevido - Theme - Saxophone Eb.pdf": [
+   "tonalite-non-verifiee"
+  ],
+  "pdf/Jacob Do Bandolim - Mimosa - Contraponto - C.pdf": [
+   "tonalite-non-verifiee"
+  ],
+  "pdf/Jacob do Bandolim - Carícia - Theme - C.pdf": [
+   "tonalite-non-verifiee"
+  ],
+  "pdf/Jacob do Bandolim - Carícia - Theme - Clarinet Bb.pdf": [
+   "tonalite-non-verifiee"
+  ],
+  "pdf/Jacob do Bandolim - Carícia - Theme - Saxophone Eb.pdf": [
+   "tonalite-non-verifiee"
+  ],
+  "pdf/Jacob do Bandolim - Cristal - Theme - C.pdf": [
+   "tonalite-non-verifiee"
+  ],
+  "pdf/Jacob do Bandolim - Cristal - Theme - Clarinet Bb.pdf": [
+   "tonalite-non-verifiee"
+  ],
+  "pdf/Jacob do Bandolim - Cristal - Theme - Saxophone Eb.pdf": [
+   "tonalite-non-verifiee"
+  ],
+  "pdf/Jacob do Bandolim - Há nos Olhos Teus Paisagem Linda - Theme - C.pdf": [
+   "tonalite-non-verifiee"
+  ],
+  "pdf/Jacob do Bandolim - Há nos Olhos Teus Paisagem Linda - Theme - Clarinet Bb.pdf": [
+   "tonalite-non-verifiee"
+  ],
+  "pdf/Jacob do Bandolim - Há nos Olhos Teus Paisagem Linda - Theme - Saxophone Eb.pdf": [
+   "tonalite-non-verifiee"
+  ],
+  "pdf/Jacob do Bandolim - Mimosa - Theme - C.pdf": [
+   "tonalite-non-verifiee"
+  ],
+  "pdf/Jacob do Bandolim - Mimosa - Theme - Clarinet Bb.pdf": [
+   "tonalite-non-verifiee"
+  ],
+  "pdf/Jacob do Bandolim - Mimosa - Theme - Saxophone Eb.pdf": [
+   "tonalite-non-verifiee"
+  ],
+  "pdf/Jacob do Bandolim - Minha Saudade - Theme - C.pdf": [
+   "tonalite-non-verifiee"
+  ],
+  "pdf/Jacob do Bandolim - Minha Saudade - Theme - Clarinet Bb.pdf": [
+   "tonalite-non-verifiee"
+  ],
+  "pdf/Jacob do Bandolim - Minha Saudade - Theme - Saxophone Eb.pdf": [
+   "tonalite-non-verifiee"
+  ],
+  "pdf/Jacob do Bandolim - Mulher vaidosa - Theme - C.pdf": [
+   "tonalite-non-verifiee"
+  ],
+  "pdf/Jacob do Bandolim - Mulher vaidosa - Theme - Clarinet Bb.pdf": [
+   "tonalite-non-verifiee"
+  ],
+  "pdf/Jacob do Bandolim - Mulher vaidosa - Theme - Saxophone Eb.pdf": [
+   "tonalite-non-verifiee"
+  ],
+  "pdf/Jacob do Bandolim - No Teatro DAlma - Theme - C.pdf": [
+   "tonalite-non-verifiee"
+  ],
+  "pdf/Jacob do Bandolim - No Teatro DAlma - Theme - Clarinet Bb.pdf": [
+   "tonalite-non-verifiee"
+  ],
+  "pdf/Jacob do Bandolim - No Teatro DAlma - Theme - Saxophone Eb.pdf": [
+   "tonalite-non-verifiee"
+  ],
+  "pdf/Jacob do Bandolim - Nostalgia - Theme - C.pdf": [
+   "tonalite-non-verifiee"
+  ],
+  "pdf/Jacob do Bandolim - Nostalgia - Theme - Clarinet Bb.pdf": [
+   "tonalite-non-verifiee"
+  ],
+  "pdf/Jacob do Bandolim - Nostalgia - Theme - Saxophone Eb.pdf": [
+   "tonalite-non-verifiee"
+  ],
+  "pdf/Jacob do Bandolim - Velhos Amigos - Theme - C.pdf": [
+   "tonalite-non-verifiee"
+  ],
+  "pdf/Jacob do Bandolim - Velhos Amigos - Theme - Clarinet Bb.pdf": [
+   "tonalite-non-verifiee"
+  ],
+  "pdf/Jacob do Bandolim - Velhos Amigos - Theme - Saxophone Eb.pdf": [
+   "tonalite-non-verifiee"
+  ],
+  "pdf/Marcílio Lopes - Choro de Irmão - Theme - C.pdf": [
+   "tonalite-non-verifiee"
+  ],
+  "pdf/Marcílio Lopes - Choro de Irmão - Theme - Clarinet Bb.pdf": [
+   "tonalite-non-verifiee"
+  ],
+  "pdf/Marcílio Lopes - Choro de Irmão - Theme - Saxophone Eb.pdf": [
+   "tonalite-non-verifiee"
+  ],
+  "pdf/Marcílio Lopes - Do que ficou guardado - Theme - C.pdf": [
+   "tonalite-non-verifiee"
+  ],
+  "pdf/Marcílio Lopes - Do que ficou guardado - Theme - Clarinet Bb.pdf": [
+   "tonalite-non-verifiee"
+  ],
+  "pdf/Marcílio Lopes - Do que ficou guardado - Theme - Saxophone Eb.pdf": [
+   "tonalite-non-verifiee"
+  ],
+  "pdf/Pixinguinha - Desprezado - Theme - C.pdf": [
+   "tonalite-non-verifiee"
+  ],
+  "pdf/Pixinguinha - Desprezado - Theme - Clarinet Bb.pdf": [
+   "tonalite-non-verifiee"
+  ],
+  "pdf/Pixinguinha - Desprezado - Theme - Saxophone Eb.pdf": [
+   "tonalite-non-verifiee"
+  ]
+ }
+}
