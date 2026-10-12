@@ -5,9 +5,10 @@ grilles relevées à la main de l'application d'apprentissage : parties (A, B, C
 Coda), une entrée par mesure écrite (`[]` = accord tenu), fins 1 / 2,
 reprises, tonalité de chaque partie. `index.json` liste toutes les grilles.
 
-> ⚠️ **Générées par script, non relues.** Le champ `confidence` dit si une
-> autre partition du morceau confirme la grille (voir « Confiance ») ; le
-> découpage en parties reste à vérifier sur la partition.
+> ⚠️ **Générées par script, non relues.** Seules sont publiées ici les 338
+> grilles qu'une autre partition du morceau confirme (`confidence: high`,
+> voir « Confiance ») ; le découpage en parties reste à vérifier sur la
+> partition. Les 504 autres attendent une relecture (issue dédiée).
 
 ## Deux origines
 
@@ -27,17 +28,20 @@ source — jamais un PDF MuseScore pour une grille MXL, puisqu'il est imprimé
 depuis ce MXL —, en C, Bb ou Eb (la comparaison ignore la transposition), ou
 une grille relevée à la main.
 
-| `confidence` | Règle | Grilles |
-|---|---|---|
-| `high` | un témoin indépendant donne le même enchaînement d'accords (≥ 85 %) et les mêmes accords mesure par mesure (≥ 75 %) ; parties de 4 à 48 mesures, au plus 4 accords par mesure | 338 (331 MXL, 7 PDF) |
-| `medium` | grille MXL non corroborée (témoin trop différent ou absent) ; grille PDF corroborée mais à la structure douteuse | 279 |
-| `low` | grille PDF sans témoin ou en désaccord ; grille contredite par un témoin (enchaînement < 50 % : autre version ?) | 225 |
+| `confidence` | Règle | Grilles | Publiées |
+|---|---|---|---|
+| `high` | un témoin indépendant donne le même enchaînement d'accords (≥ 85 %) et les mêmes accords mesure par mesure (≥ 75 %) ; parties de 4 à 48 mesures, au plus 4 accords par mesure | 338 (331 MXL, 7 PDF) | oui |
+| `medium` | grille MXL non corroborée (témoin trop différent ou absent) ; grille PDF corroborée mais à la structure douteuse | 279 | non |
+| `low` | grille PDF sans témoin ou en désaccord ; grille contredite par un témoin (enchaînement < 50 % : autre version ?) | 225 | non |
+
+`croiser.py` laisse dans `grilles/` les seules grilles `high` et range les
+autres dans `outils/audit/sorties/grilles-a-verifier/` (non versionné).
 
 Un accord diminué compte comme le majeur de même fondamentale : les PDF
 Encore perdent souvent le signe ° à l'export (« G#° » imprimé « G# »).
 Le champ `notes` donne le témoin retenu et son score.
 
-Pourquoi toutes ne sont pas `high` :
+Pourquoi les autres ne sont pas `high` :
 
 - 205 grilles PDF n'ont **aucun témoin** : seul un PDF vectoriel du morceau
   existe (les autres sont des scans) ;
@@ -59,7 +63,7 @@ vérifiée » quand la partition porte cet avertissement.
 ```sh
 outils/audit/.venv/bin/python -I outils/grilles/grilles.py      # MXL → grilles/
 outils/audit/.venv/bin/python -I outils/grilles/grilles_pdf.py  # PDF, pour les morceaux sans MXL
-outils/audit/.venv/bin/python -I outils/grilles/croiser.py       # témoins indépendants → confidence
+outils/audit/.venv/bin/python -I outils/grilles/croiser.py       # témoins indépendants → confidence ; ne garde que les high
 outils/audit/.venv/bin/python outils/grilles/valider.py <dossier des grilles manuelles>
 ```
 

@@ -415,8 +415,9 @@ def ecrire_index() -> None:
     (SORTIE / "index.json").write_text(
         json.dumps(
             {
-                "description": "Grilles d'accords (Ut/C) générées automatiquement : depuis le MusicXML "
-                "(confidence medium) ou le texte d'un PDF vectoriel (low). À vérifier — voir README.md.",
+                "description": "Grilles d'accords (Ut/C) générées automatiquement depuis le MusicXML ou le "
+                "texte d'un PDF vectoriel. Après croiser.py, seules restent celles qu'une partition "
+                "indépendante confirme (confidence high) — voir README.md.",
                 "count": len(index),
                 "songs": index,
             },

@@ -14,6 +14,11 @@ Confiance attribuée :
 - medium : grille MXL non corroborée, ou grille PDF corroborée mais à la structure douteuse ;
 - low    : grille PDF non corroborée, ou contredite par une source indépendante.
 
+Seules les grilles `high` restent publiées dans `grilles/` ; les autres sont
+déplacées dans `outils/audit/sorties/grilles-a-verifier/` (non versionné), en
+attente de relecture. Lancer toute la chaîne (grilles.py, grilles_pdf.py, puis
+ce script) : relancé seul, il ne réévalue que les grilles déjà publiées.
+
 Usage :
     outils/audit/.venv/bin/python -I outils/grilles/croiser.py [--grilles-manuelles DOSSIER]
 """
@@ -37,6 +42,7 @@ from valider import accords, neutre, suite, transposer  # noqa: E402
 SORTIES = RACINE / "outils" / "audit" / "sorties"
 SEUIL_ENCHAINEMENT = 0.85
 SEUIL_MESURES = 0.75
+A_VERIFIER = SORTIES / "grilles-a-verifier"
 
 
 def souple(x: str) -> str:
@@ -122,6 +128,9 @@ def main(argv: list[str]) -> int:
             m = json.loads(f.read_text())
             manuelles.setdefault(normaliser(m["title"]), []).append(m)
     sources, graveurs = sources_par_morceau()
+    A_VERIFIER.mkdir(parents=True, exist_ok=True)
+    for f in A_VERIFIER.glob("*-*.json"):
+        f.unlink()
     bilan, rapport = Counter(), []
     for f in sorted(SORTIE.glob("*-*.json")):
         g = json.loads(f.read_text(encoding="utf-8"))
@@ -165,7 +174,10 @@ def main(argv: list[str]) -> int:
             g["notes"].append("Non corroborée : aucune autre partition lisible de ce morceau.")
         if defauts:
             g["notes"].append("Structure à vérifier : " + " ; ".join(defauts) + ".")
-        f.write_text(json.dumps(g, ensure_ascii=False, indent=1) + "\n", encoding="utf-8")
+        cible = f if confiance == "high" else A_VERIFIER / f.name
+        cible.write_text(json.dumps(g, ensure_ascii=False, indent=1) + "\n", encoding="utf-8")
+        if cible != f:
+            f.unlink()
         bilan[(g["generated"], confiance)] += 1
         etat = "corroborée" if corrobore else "contredite" if contredit else "sans témoin" if not meilleur else "faible accord"
         bilan[(g["generated"], etat)] += 1
