@@ -20,7 +20,8 @@
     [],
     [],
     [
-     "Eb7"
+     "Eb7",
+     "D7"
     ]
    ]
   },
@@ -31,13 +32,15 @@
    "sequence": [
     [],
     [
-     "G"
+     "G",
+     "G/B"
     ],
     [
      "Am",
      "Am/C"
     ],
     [
+     "D7",
      "D/C"
     ],
     [
@@ -55,14 +58,15 @@
      "F#7"
     ],
     [
-     "Bm"
+     "Bm",
+     "D7/A"
     ],
     [
      "G"
     ],
     [
      "Am/C",
-     "Am6/C"
+     "Am"
     ],
     [
      "B7"
@@ -72,13 +76,15 @@
      "E/D"
     ],
     [
-     "Am/C"
+     "Am/C",
+     "Bb"
     ],
     [
      "G/B"
     ],
     [
-     "A7"
+     "A7",
+     "D7"
     ],
     [
      "G"
@@ -88,7 +94,7 @@
   {
    "name": "C",
    "tonic": "C",
-   "bars": "25–42",
+   "bars": "25–41",
    "sequence": [
     [
      "G"
@@ -102,13 +108,15 @@
      "D/F#"
     ],
     [
+     "B7/D#",
      "B7"
     ],
     [
      "Em"
     ],
     [
-     "Em/G"
+     "Em/G",
+     "G#"
     ],
     [
      "D/A",
@@ -121,6 +129,7 @@
      "A7"
     ],
     [
+     "A7/E",
      "A7"
     ],
     [
@@ -134,25 +143,24 @@
     [
      "Em/G"
     ],
-    [],
-    [],
+    [
+     "G#"
+    ],
+    [
+     "B"
+    ],
     [
      "D/A",
      "A7"
-    ],
-    [
-     "D"
     ]
    ]
   },
   {
    "name": "D",
    "tonic": "C",
-   "bars": "43–69",
+   "bars": "43–68",
    "sequence": [
-    [
-     "D"
-    ],
+    [],
     [
      "G"
     ],
@@ -176,7 +184,9 @@
     [
      "G7/B"
     ],
-    [],
+    [
+     "G7/D"
+    ],
     [
      "C/E",
      "C"
@@ -189,7 +199,7 @@
     ],
     [
      "C",
-     "Am6"
+     "Am"
     ],
     [
      "Em/B"
@@ -203,7 +213,9 @@
     [
      "B7"
     ],
-    [],
+    [
+     "Em"
+    ],
     [
      "C"
     ],
@@ -211,13 +223,17 @@
      "E7/B"
     ],
     [
+     "A7",
      "A/G"
     ],
     [
      "Dm/F",
      "Dm/A"
     ],
-    [],
+    [
+     "C",
+     "A"
+    ],
     [
      "C/G",
      "C/E",
@@ -225,9 +241,6 @@
     ],
     [
      "G7"
-    ],
-    [
-     "C"
     ]
    ]
   },
@@ -237,7 +250,8 @@
    "bars": "70–75",
    "sequence": [
     [
-     "C"
+     "C",
+     "D7"
     ],
     [
      "G",
@@ -252,6 +266,7 @@
      "Am/E"
     ],
     [
+     "D7/F#",
      "D7"
     ],
     [
@@ -262,7 +277,8 @@
  ],
  "notes": [
   "Grille générée automatiquement depuis le texte du PDF : à vérifier.",
-  "Reprises et fins non détectées : les mesures sont dans l'ordre d'écriture."
+  "Reprises et fins non détectées : les mesures sont dans l'ordre d'écriture.",
+  "Non corroborée : aucune autre partition lisible de ce morceau."
  ],
  "confidence": "low",
  "source": [

@@ -4,41 +4,51 @@
  "composer": "Pixinguinha",
  "transposition": "c",
  "meter": "2/4",
- "form": "A — B — C — D",
+ "form": "A — A — B — C",
  "parts": [
   {
    "name": "A",
    "tonic": "C",
-   "bars": "1–14",
+   "bars": "1–15",
    "sequence": [
     [
-     "Dm"
+     "Dm",
+     "A7/E"
     ],
     [
-     "Dm/F"
+     "Dm/F",
+     "D7/F#"
     ],
     [
-     "Gm"
+     "Gm",
+     "D7/A"
     ],
     [
      "Gm/Bb"
     ],
     [
-     "Gm6"
+     "Gm"
     ],
     [
      "Dm/F"
     ],
-    [],
-    [],
     [
-     "G/F"
+     "E7/G#"
+    ],
+    [
+     "A/G",
+     "D7/F#"
+    ],
+    [
+     "G/F",
+     "C7/E"
     ],
     [
      "F",
      "Bb7"
     ],
     [
+     "Em",
      "A7"
     ],
     [
@@ -50,59 +60,15 @@
     [
      "Dm",
      "Dm/C"
+    ],
+    [
+     "E7/B",
+     "A7/C#"
     ]
    ]
   },
   {
    "name": "B",
-   "tonic": "C",
-   "bars": "16–30",
-   "sequence": [
-    [],
-    [
-     "Dm"
-    ],
-    [
-     "Dm/F"
-    ],
-    [
-     "Gm"
-    ],
-    [
-     "Gm/Bb"
-    ],
-    [
-     "Gm6"
-    ],
-    [
-     "Dm/F"
-    ],
-    [],
-    [
-     "A/G"
-    ],
-    [
-     "G/F"
-    ],
-    [
-     "F",
-     "Bb7"
-    ],
-    [],
-    [
-     "Dm"
-    ],
-    [
-     "Bb"
-    ],
-    [
-     "Dm",
-     "Dm/C"
-    ]
-   ]
-  },
-  {
-   "name": "C",
    "tonic": "Am",
    "bars": "32–45",
    "sequence": [
@@ -110,24 +76,36 @@
      "Dm"
     ],
     [],
-    [],
+    [
+     "C7"
+    ],
     [
      "F"
     ],
-    [],
-    [],
+    [
+     "A7"
+    ],
+    [
+     "D7"
+    ],
     [
      "G7/B",
-     "Am"
+     "Am",
+     "E7/G#",
+     "A7",
+     "A7/C#"
     ],
     [
      "Dm",
      "D7/F#"
     ],
     [
-     "Gm"
+     "Gm",
+     "G7/B"
     ],
-    [],
+    [
+     "C7"
+    ],
     [
      "F"
     ],
@@ -139,12 +117,13 @@
      "Db(#5)"
     ],
     [
-     "Bb/D"
+     "Bb/D",
+     "C7/E"
     ]
    ]
   },
   {
-   "name": "D",
+   "name": "C",
    "tonic": "C",
    "bars": "46–65",
    "sequence": [
@@ -152,14 +131,16 @@
      "F"
     ],
     [
-     "F"
+     "F",
+     "A7"
     ],
     [
      "Dm"
     ],
     [],
     [
-     "D"
+     "D",
+     "A7/E"
     ],
     [
      "D/F#"
@@ -167,13 +148,22 @@
     [
      "B7"
     ],
-    [],
-    [],
-    [],
-    [],
+    [
+     "E7/G#"
+    ],
     [],
     [
-     "D"
+     "Bm"
+    ],
+    [
+     "E7"
+    ],
+    [
+     "A7"
+    ],
+    [
+     "D",
+     "A7/E"
     ],
     [
      "D/F#"
@@ -188,7 +178,12 @@
      "G"
     ],
     [
-     "D"
+     "D/F#",
+     "B7",
+     "Em",
+     "A7",
+     "D",
+     "A7"
     ],
     [],
     [
@@ -199,7 +194,9 @@
  ],
  "notes": [
   "Grille générée automatiquement depuis le texte du PDF : à vérifier.",
-  "Reprises et fins non détectées : les mesures sont dans l'ordre d'écriture."
+  "Reprises et fins non détectées : les mesures sont dans l'ordre d'écriture.",
+  "Non corroborée : aucune autre partition lisible de ce morceau.",
+  "Structure à vérifier : partie B : mesure à plus de 4 accords ; partie C : mesure à plus de 4 accords."
  ],
  "confidence": "low",
  "source": [

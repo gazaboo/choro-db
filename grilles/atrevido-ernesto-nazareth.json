@@ -270,9 +270,10 @@
  ],
  "notes": [
   "Grille générée automatiquement depuis la partition MusicXML : à vérifier.",
-  "Tonalité de la partition source non vérifiée."
+  "Tonalité de la partition source non vérifiée.",
+  "Corroborée par une autre partition, transposée de -5 demi-tons : enchaînement 89%, mesures 80%."
  ],
- "confidence": "medium",
+ "confidence": "high",
  "source": [
   "mxl/C/Ernesto Nazareth - Atrevido - Theme - C.mxl"
  ],

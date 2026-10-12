@@ -304,9 +304,10 @@
  "notes": [
   "Grille générée automatiquement depuis la partition MusicXML : à vérifier.",
   "C : première mesure sans accord",
-  "Tonalité de la partition source non vérifiée."
+  "Tonalité de la partition source non vérifiée.",
+  "Corroborée par une autre partition : enchaînement 92%, mesures 78%."
  ],
- "confidence": "medium",
+ "confidence": "high",
  "source": [
   "mxl/C/Jacob do Bandolim - Mulher vaidosa - Theme - C.mxl"
  ],

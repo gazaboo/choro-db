@@ -191,7 +191,9 @@
  ],
  "notes": [
   "Grille générée automatiquement depuis la partition MusicXML : à vérifier.",
-  "38/74 mesures sans accord écrit"
+  "38/74 mesures sans accord écrit",
+  "Corroborée par une autre partition : enchaînement 94%, mesures 91%.",
+  "Structure à vérifier : 38/74 mesures sans accord."
  ],
  "confidence": "medium",
  "source": [

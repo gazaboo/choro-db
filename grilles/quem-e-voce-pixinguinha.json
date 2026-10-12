@@ -41,7 +41,9 @@
      "A7"
     ],
     [
-     "Dm"
+     "Dm",
+     "A7/E",
+     "Dm/F"
     ],
     [
      "D7"
@@ -52,7 +54,10 @@
     [
      "Gm"
     ],
-    [],
+    [
+     "Gm/Bb",
+     "Gm"
+    ],
     [
      "Dm/A",
      "Dm/F"
@@ -69,7 +74,9 @@
    "bars": "16–36",
    "sequence": [
     [
-     "Dm"
+     "Dm",
+     "F/A",
+     "Ab"
     ],
     [],
     [
@@ -87,7 +94,8 @@
      "D7/C"
     ],
     [
-     "Gm/Bb"
+     "Gm/Bb",
+     "B"
     ],
     [],
     [
@@ -109,7 +117,9 @@
      "Dm",
      "Dm/C"
     ],
-    [],
+    [
+     "B"
+    ],
     [
      "F/A"
     ],
@@ -202,17 +212,23 @@
   {
    "name": "Coda",
    "tonic": "C",
-   "bars": "58–58",
+   "bars": "58–59",
    "sequence": [
     [
      "Bb"
+    ],
+    [
+     "Bb",
+     "Bb7",
+     "A7"
     ]
    ]
   }
  ],
  "notes": [
   "Grille générée automatiquement depuis le texte du PDF : à vérifier.",
-  "Reprises et fins non détectées : les mesures sont dans l'ordre d'écriture."
+  "Reprises et fins non détectées : les mesures sont dans l'ordre d'écriture.",
+  "Non corroborée : aucune autre partition lisible de ce morceau."
  ],
  "confidence": "low",
  "source": [

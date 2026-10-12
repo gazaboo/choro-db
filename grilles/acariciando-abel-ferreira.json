@@ -224,7 +224,9 @@
   }
  ],
  "notes": [
-  "Grille générée automatiquement depuis la partition MusicXML : à vérifier."
+  "Grille générée automatiquement depuis la partition MusicXML : à vérifier.",
+  "Corroborée par une autre partition, transposée de -2 demi-tons : enchaînement 88%, mesures 83%.",
+  "Structure à vérifier : partie B de 2 mesures ; partie D de 3 mesures."
  ],
  "confidence": "medium",
  "source": [

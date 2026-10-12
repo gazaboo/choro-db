@@ -1,12 +1,12 @@
 {
  "description": "Grilles d'accords (Ut/C) générées automatiquement : depuis le MusicXML (confidence medium) ou le texte d'un PDF vectoriel (low). À vérifier — voir README.md.",
- "count": 843,
+ "count": 842,
  "songs": [
   {
    "song_id": "13-de-dezembro-luiz-gonzaga",
    "title": "13 de dezembro",
    "composer": "Luiz Gonzaga",
-   "confidence": "medium",
+   "confidence": "high",
    "generated": "mxl",
    "file": "13-de-dezembro-luiz-gonzaga.json",
    "parts": [
@@ -19,7 +19,7 @@
    "song_id": "a-baiana-henrique-alves-de-mesquita",
    "title": "A baiana",
    "composer": "Henrique Alves de Mesquita",
-   "confidence": "medium",
+   "confidence": "high",
    "generated": "mxl",
    "file": "a-baiana-henrique-alves-de-mesquita.json",
    "parts": [
@@ -36,7 +36,7 @@
    "song_id": "a-bel-prazer-avena-de-castro",
    "title": "A bel prazer",
    "composer": "Avena de Castro",
-   "confidence": "medium",
+   "confidence": "high",
    "generated": "mxl",
    "file": "a-bel-prazer-avena-de-castro.json",
    "parts": [
@@ -76,7 +76,7 @@
    "song_id": "a-dengosa-joaquim-callado",
    "title": "A dengosa",
    "composer": "Joaquim Callado",
-   "confidence": "medium",
+   "confidence": "high",
    "generated": "mxl",
    "file": "a-dengosa-joaquim-callado.json",
    "parts": [
@@ -107,7 +107,7 @@
    "song_id": "a-mocada-no-samba-tico-tico",
    "title": "A moçada no samba",
    "composer": "Tico Tico",
-   "confidence": "medium",
+   "confidence": "high",
    "generated": "mxl",
    "file": "a-mocada-no-samba-tico-tico.json",
    "parts": [
@@ -150,7 +150,7 @@
    "song_id": "a-vida-assim-e-melhor-luperce-miranda",
    "title": "A vida assim é melhor",
    "composer": "Luperce Miranda",
-   "confidence": "medium",
+   "confidence": "high",
    "generated": "mxl",
    "file": "a-vida-assim-e-melhor-luperce-miranda.json",
    "parts": [
@@ -164,7 +164,7 @@
    "song_id": "a-vida-e-um-buraco-pixinguinha",
    "title": "A vida é um buraco",
    "composer": "Pixinguinha",
-   "confidence": "medium",
+   "confidence": "high",
    "generated": "mxl",
    "file": "a-vida-e-um-buraco-pixinguinha.json",
    "parts": [
@@ -178,7 +178,7 @@
    "song_id": "abelardo-pixinguinha",
    "title": "Abelardo",
    "composer": "Pixinguinha",
-   "confidence": "medium",
+   "confidence": "high",
    "generated": "mxl",
    "file": "abelardo-pixinguinha.json",
    "parts": [
@@ -192,7 +192,7 @@
    "song_id": "abigail-candinho",
    "title": "Abigail",
    "composer": "Candinho",
-   "confidence": "medium",
+   "confidence": "high",
    "generated": "mxl",
    "file": "abigail-candinho.json",
    "parts": [
@@ -219,7 +219,7 @@
    "song_id": "abracando-um-kalu-candinho",
    "title": "Abraçando um Kalu",
    "composer": "Candinho",
-   "confidence": "medium",
+   "confidence": "high",
    "generated": "mxl",
    "file": "abracando-um-kalu-candinho.json",
    "parts": [
@@ -247,7 +247,7 @@
    "song_id": "acerta-o-passo-pixinguinha",
    "title": "Acerta o passo",
    "composer": "Pixinguinha",
-   "confidence": "medium",
+   "confidence": "high",
    "generated": "mxl",
    "file": "acerta-o-passo-pixinguinha.json",
    "parts": [
@@ -301,7 +301,7 @@
    "song_id": "ai-morcego-irineu-de-almeida",
    "title": "Aí, Morcego!",
    "composer": "Irineu de Almeida",
-   "confidence": "medium",
+   "confidence": "high",
    "generated": "mxl",
    "file": "ai-morcego-irineu-de-almeida.json",
    "parts": [
@@ -315,7 +315,7 @@
    "song_id": "ainda-me-recordo-pixinguinha",
    "title": "Ainda me Recordo",
    "composer": "Pixinguinha",
-   "confidence": "medium",
+   "confidence": "high",
    "generated": "mxl",
    "file": "ainda-me-recordo-pixinguinha.json",
    "parts": [
@@ -331,7 +331,7 @@
    "song_id": "alho-no-choro-mauricio-carrilho",
    "title": "Alho no choro",
    "composer": "Maurício Carrilho",
-   "confidence": "medium",
+   "confidence": "high",
    "generated": "mxl",
    "file": "alho-no-choro-mauricio-carrilho.json",
    "parts": [
@@ -344,7 +344,7 @@
    "song_id": "alinhavando-silverio-pontes",
    "title": "Alinhavando",
    "composer": "Silvério Pontes",
-   "confidence": "medium",
+   "confidence": "high",
    "generated": "mxl",
    "file": "alinhavando-silverio-pontes.json",
    "parts": [
@@ -358,7 +358,7 @@
    "song_id": "alma-do-norte-luperce-miranda",
    "title": "Alma do norte",
    "composer": "Luperce Miranda",
-   "confidence": "medium",
+   "confidence": "high",
    "generated": "mxl",
    "file": "alma-do-norte-luperce-miranda.json",
    "parts": [
@@ -371,7 +371,7 @@
    "song_id": "alma-e-coracao-luperce-miranda",
    "title": "Alma e coração",
    "composer": "Luperce Miranda",
-   "confidence": "medium",
+   "confidence": "high",
    "generated": "mxl",
    "file": "alma-e-coracao-luperce-miranda.json",
    "parts": [
@@ -385,7 +385,7 @@
    "song_id": "alumiando-joao-lyra",
    "title": "Alumiando",
    "composer": "João Lyra",
-   "confidence": "medium",
+   "confidence": "high",
    "generated": "mxl",
    "file": "alumiando-joao-lyra.json",
    "parts": [
@@ -415,7 +415,7 @@
    "song_id": "amapa-costa-junior",
    "title": "Amapá",
    "composer": "Costa Júnior",
-   "confidence": "medium",
+   "confidence": "high",
    "generated": "mxl",
    "file": "amapa-costa-junior.json",
    "parts": [
@@ -444,7 +444,7 @@
    "song_id": "ameno-reseda-ernesto-nazareth",
    "title": "Ameno Resedá",
    "composer": "Ernesto Nazareth",
-   "confidence": "medium",
+   "confidence": "high",
    "generated": "mxl",
    "file": "ameno-reseda-ernesto-nazareth.json",
    "parts": [
@@ -458,7 +458,7 @@
    "song_id": "amigo-gustavo-luis-barcelos",
    "title": "Amigo Gustavo",
    "composer": "Luis Barcelos",
-   "confidence": "medium",
+   "confidence": "high",
    "generated": "mxl",
    "file": "amigo-gustavo-luis-barcelos.json",
    "parts": [
@@ -483,7 +483,7 @@
    "song_id": "amigo-siqueira-cidinho-7-cordas",
    "title": "Amigo Siqueira",
    "composer": "Cidinho 7 Cordas",
-   "confidence": "medium",
+   "confidence": "high",
    "generated": "mxl",
    "file": "amigo-siqueira-cidinho-7-cordas.json",
    "parts": [
@@ -496,7 +496,7 @@
    "song_id": "amor-nao-se-compra-bonfiglio-de-oliveira",
    "title": "Amor não se compra",
    "composer": "Bonfíglio de Oliveira",
-   "confidence": "medium",
+   "confidence": "high",
    "generated": "mxl",
    "file": "amor-nao-se-compra-bonfiglio-de-oliveira.json",
    "parts": [
@@ -556,7 +556,7 @@
    "song_id": "andre-de-sapato-novo-andre-victor-correia",
    "title": "André de sapato novo",
    "composer": "André Victor Correia",
-   "confidence": "medium",
+   "confidence": "high",
    "generated": "mxl",
    "file": "andre-de-sapato-novo-andre-victor-correia.json",
    "parts": [
@@ -587,7 +587,7 @@
    "song_id": "ansiedade-rossini-ferreira",
    "title": "Ansiedade",
    "composer": "Rossini Ferreira",
-   "confidence": "medium",
+   "confidence": "high",
    "generated": "mxl",
    "file": "ansiedade-rossini-ferreira.json",
    "parts": [
@@ -645,7 +645,7 @@
    "song_id": "apanhei-te-cavaquinho-ernesto-nazareth",
    "title": "Apanhei-te, cavaquinho",
    "composer": "Ernesto Nazareth",
-   "confidence": "medium",
+   "confidence": "high",
    "generated": "mxl",
    "file": "apanhei-te-cavaquinho-ernesto-nazareth.json",
    "parts": [
@@ -659,7 +659,7 @@
    "song_id": "aperto-de-mao-dino",
    "title": "Aperto de mão",
    "composer": "Dino",
-   "confidence": "medium",
+   "confidence": "high",
    "generated": "mxl",
    "file": "aperto-de-mao-dino.json",
    "parts": [
@@ -673,7 +673,7 @@
    "song_id": "apressado-mauricio-carrilho",
    "title": "Apressado",
    "composer": "Maurício Carrilho",
-   "confidence": "medium",
+   "confidence": "high",
    "generated": "mxl",
    "file": "apressado-mauricio-carrilho.json",
    "parts": [
@@ -687,7 +687,7 @@
    "song_id": "aquarela-na-quixaba-hamilton-de-holanda",
    "title": "Aquarela na Quixaba",
    "composer": "Hamílton de Holanda",
-   "confidence": "medium",
+   "confidence": "low",
    "generated": "mxl",
    "file": "aquarela-na-quixaba-hamilton-de-holanda.json",
    "parts": [
@@ -715,7 +715,7 @@
    "song_id": "arabiando-esmeraldino-sales",
    "title": "Arabiando",
    "composer": "Esmeraldino Sales",
-   "confidence": "medium",
+   "confidence": "high",
    "generated": "mxl",
    "file": "arabiando-esmeraldino-sales.json",
    "parts": [
@@ -742,7 +742,7 @@
    "song_id": "araponga-luiz-gonzaga",
    "title": "Araponga",
    "composer": "Luiz Gonzaga",
-   "confidence": "medium",
+   "confidence": "high",
    "generated": "mxl",
    "file": "araponga-luiz-gonzaga.json",
    "parts": [
@@ -756,7 +756,7 @@
    "song_id": "arranca-toco-meira",
    "title": "Arranca toco",
    "composer": "Meira",
-   "confidence": "medium",
+   "confidence": "high",
    "generated": "mxl",
    "file": "arranca-toco-meira.json",
    "parts": [
@@ -770,7 +770,7 @@
    "song_id": "arranca-trucco-sebastian-luna",
    "title": "Arranca Trucco",
    "composer": "Sebastián Luna",
-   "confidence": "medium",
+   "confidence": "high",
    "generated": "mxl",
    "file": "arranca-trucco-sebastian-luna.json",
    "parts": [
@@ -810,7 +810,7 @@
    "song_id": "artur-virou-bode-candinho",
    "title": "Artur virou bode",
    "composer": "Candinho",
-   "confidence": "medium",
+   "confidence": "high",
    "generated": "mxl",
    "file": "artur-virou-bode-candinho.json",
    "parts": [
@@ -824,7 +824,7 @@
    "song_id": "as-diabruras-do-souto-arthur-camillo",
    "title": "As diabruras do Souto",
    "composer": "Arthur Camillo",
-   "confidence": "medium",
+   "confidence": "high",
    "generated": "mxl",
    "file": "as-diabruras-do-souto-arthur-camillo.json",
    "parts": [
@@ -852,7 +852,7 @@
    "song_id": "assim-e-que-e-pixinguinha",
    "title": "Assim é que é",
    "composer": "Pixinguinha",
-   "confidence": "medium",
+   "confidence": "high",
    "generated": "mxl",
    "file": "assim-e-que-e-pixinguinha.json",
    "parts": [
@@ -867,7 +867,7 @@
    "song_id": "assim-mesmo-luiz-americano",
    "title": "Assim mesmo",
    "composer": "Luiz Americano",
-   "confidence": "medium",
+   "confidence": "high",
    "generated": "mxl",
    "file": "assim-mesmo-luiz-americano.json",
    "parts": [
@@ -881,7 +881,7 @@
    "song_id": "atlantico-ernesto-nazareth",
    "title": "Atlântico",
    "composer": "Ernesto Nazareth",
-   "confidence": "medium",
+   "confidence": "high",
    "generated": "mxl",
    "file": "atlantico-ernesto-nazareth.json",
    "parts": [
@@ -911,7 +911,7 @@
    "song_id": "atrevido-ernesto-nazareth",
    "title": "Atrevido",
    "composer": "Ernesto Nazareth",
-   "confidence": "medium",
+   "confidence": "high",
    "generated": "mxl",
    "file": "atrevido-ernesto-nazareth.json",
    "parts": [
@@ -954,7 +954,7 @@
    "song_id": "ave-maria-erothides-de-campos",
    "title": "Ave Maria",
    "composer": "Erothides de Campos",
-   "confidence": "medium",
+   "confidence": "high",
    "generated": "mxl",
    "file": "ave-maria-erothides-de-campos.json",
    "parts": [
@@ -1038,7 +1038,7 @@
    "song_id": "balsamo-de-amor-dino",
    "title": "Bálsamo de amor",
    "composer": "Dino",
-   "confidence": "medium",
+   "confidence": "high",
    "generated": "mxl",
    "file": "balsamo-de-amor-dino.json",
    "parts": [
@@ -1053,7 +1053,7 @@
    "song_id": "bambino-ernesto-nazareth",
    "title": "Bambino",
    "composer": "Ernesto Nazareth",
-   "confidence": "medium",
+   "confidence": "high",
    "generated": "mxl",
    "file": "bambino-ernesto-nazareth.json",
    "parts": [
@@ -1079,7 +1079,7 @@
    "song_id": "bate-bola-martin-heap",
    "title": "Bate bola",
    "composer": "Martin Heap",
-   "confidence": "medium",
+   "confidence": "high",
    "generated": "mxl",
    "file": "bate-bola-martin-heap.json",
    "parts": [
@@ -1123,7 +1123,7 @@
    "song_id": "beatriz-edu-lobo",
    "title": "Beatriz",
    "composer": "Edu Lobo",
-   "confidence": "medium",
+   "confidence": "low",
    "generated": "mxl",
    "file": "beatriz-edu-lobo.json",
    "parts": [
@@ -1137,7 +1137,7 @@
    "song_id": "beliscando-paulinho-da-viola",
    "title": "Beliscando",
    "composer": "Paulinho da Viola",
-   "confidence": "medium",
+   "confidence": "high",
    "generated": "mxl",
    "file": "beliscando-paulinho-da-viola.json",
    "parts": [
@@ -1151,7 +1151,7 @@
    "song_id": "bella-madrugada-octavio-dutra",
    "title": "Bella madrugada",
    "composer": "Octávio Dutra",
-   "confidence": "medium",
+   "confidence": "high",
    "generated": "mxl",
    "file": "bella-madrugada-octavio-dutra.json",
    "parts": [
@@ -1164,7 +1164,7 @@
    "song_id": "benguele-pixinguinha",
    "title": "Benguelê",
    "composer": "Pixinguinha",
-   "confidence": "medium",
+   "confidence": "high",
    "generated": "mxl",
    "file": "benguele-pixinguinha.json",
    "parts": [
@@ -1179,7 +1179,7 @@
    "song_id": "benzinho-jacob-do-bandolim",
    "title": "Benzinho",
    "composer": "Jacob do Bandolim",
-   "confidence": "medium",
+   "confidence": "high",
    "generated": "mxl",
    "file": "benzinho-jacob-do-bandolim.json",
    "parts": [
@@ -1192,7 +1192,7 @@
    "song_id": "bernardino-luperce-miranda",
    "title": "Bernardino",
    "composer": "Luperce Miranda",
-   "confidence": "medium",
+   "confidence": "high",
    "generated": "mxl",
    "file": "bernardino-luperce-miranda.json",
    "parts": [
@@ -1205,7 +1205,7 @@
    "song_id": "beth-cidinho-7-cordas",
    "title": "Beth",
    "composer": "Cidinho 7 Cordas",
-   "confidence": "medium",
+   "confidence": "high",
    "generated": "mxl",
    "file": "beth-cidinho-7-cordas.json",
    "parts": [
@@ -1295,7 +1295,7 @@
    "song_id": "bionne-chiquinha-gonzaga",
    "title": "Bionne",
    "composer": "Chiquinha Gonzaga",
-   "confidence": "medium",
+   "confidence": "high",
    "generated": "mxl",
    "file": "bionne-chiquinha-gonzaga.json",
    "parts": [
@@ -1321,7 +1321,7 @@
    "song_id": "bisbilhoteiro-jacob-do-bandolim",
    "title": "Bisbilhoteiro",
    "composer": "Jacob do Bandolim",
-   "confidence": "medium",
+   "confidence": "high",
    "generated": "mxl",
    "file": "bisbilhoteiro-jacob-do-bandolim.json",
    "parts": [
@@ -1349,7 +1349,7 @@
    "song_id": "bodinho-de-galocha-dino",
    "title": "Bodinho de galocha",
    "composer": "Dino",
-   "confidence": "medium",
+   "confidence": "high",
    "generated": "mxl",
    "file": "bodinho-de-galocha-dino.json",
    "parts": [
@@ -1362,7 +1362,7 @@
    "song_id": "bola-preta-jacob-do-bandolim",
    "title": "Bola Preta",
    "composer": "Jacob do Bandolim",
-   "confidence": "medium",
+   "confidence": "high",
    "generated": "mxl",
    "file": "bola-preta-jacob-do-bandolim.json",
    "parts": [
@@ -1430,7 +1430,7 @@
    "song_id": "bouquet-mario-alvares-da-conceicao",
    "title": "Bouquet",
    "composer": "Mário Álvares da Conceição",
-   "confidence": "medium",
+   "confidence": "high",
    "generated": "mxl",
    "file": "bouquet-mario-alvares-da-conceicao.json",
    "parts": [
@@ -1458,7 +1458,7 @@
    "song_id": "brasileirinho-waldir-azevedo",
    "title": "Brasileirinho",
    "composer": "Waldir Azevedo",
-   "confidence": "medium",
+   "confidence": "high",
    "generated": "mxl",
    "file": "brasileirinho-waldir-azevedo.json",
    "parts": [
@@ -1472,7 +1472,7 @@
    "song_id": "brejeiro-ernesto-nazareth",
    "title": "Brejeiro",
    "composer": "Ernesto Nazareth",
-   "confidence": "medium",
+   "confidence": "high",
    "generated": "mxl",
    "file": "brejeiro-ernesto-nazareth.json",
    "parts": [
@@ -1484,7 +1484,7 @@
    "song_id": "brincando-ratinho",
    "title": "Brincando",
    "composer": "Ratinho",
-   "confidence": "medium",
+   "confidence": "high",
    "generated": "mxl",
    "file": "brincando-ratinho.json",
    "parts": [
@@ -1497,7 +1497,7 @@
    "song_id": "bulicoso-juvenal-peixoto",
    "title": "Buliçoso",
    "composer": "Juvenal Peixoto",
-   "confidence": "medium",
+   "confidence": "high",
    "generated": "mxl",
    "file": "bulicoso-juvenal-peixoto.json",
    "parts": [
@@ -1524,7 +1524,7 @@
    "song_id": "cabaceira-mon-amour-sivuca",
    "title": "Cabaceira mon amour",
    "composer": "Sivuca",
-   "confidence": "medium",
+   "confidence": "high",
    "generated": "mxl",
    "file": "cabaceira-mon-amour-sivuca.json",
    "parts": [
@@ -1553,7 +1553,7 @@
    "song_id": "caboclo-brasileiro-luperce-miranda",
    "title": "Caboclo brasileiro",
    "composer": "Luperce Miranda",
-   "confidence": "medium",
+   "confidence": "high",
    "generated": "mxl",
    "file": "caboclo-brasileiro-luperce-miranda.json",
    "parts": [
@@ -1609,7 +1609,7 @@
    "song_id": "cacique-mauricio-carrilho",
    "title": "Cacique",
    "composer": "Maurício Carrilho",
-   "confidence": "medium",
+   "confidence": "high",
    "generated": "mxl",
    "file": "cacique-mauricio-carrilho.json",
    "parts": [
@@ -1623,7 +1623,7 @@
    "song_id": "caco-de-vidro-altamiro-carrilho",
    "title": "Caco de vidro",
    "composer": "Altamiro Carrilho",
-   "confidence": "medium",
+   "confidence": "high",
    "generated": "mxl",
    "file": "caco-de-vidro-altamiro-carrilho.json",
    "parts": [
@@ -1649,7 +1649,7 @@
    "song_id": "cacula-claudionor-cruz",
    "title": "Caçula",
    "composer": "Claudionor Cruz",
-   "confidence": "medium",
+   "confidence": "high",
    "generated": "mxl",
    "file": "cacula-claudionor-cruz.json",
    "parts": [
@@ -1663,7 +1663,7 @@
    "song_id": "caipira-mauricio-carrilho",
    "title": "Caipira",
    "composer": "Maurício Carrilho",
-   "confidence": "medium",
+   "confidence": "high",
    "generated": "mxl",
    "file": "caipira-mauricio-carrilho.json",
    "parts": [
@@ -1675,7 +1675,7 @@
    "song_id": "caminhando-nelson-cavaquinho",
    "title": "Caminhando",
    "composer": "Nelson Cavaquinho",
-   "confidence": "medium",
+   "confidence": "high",
    "generated": "mxl",
    "file": "caminhando-nelson-cavaquinho.json",
    "parts": [
@@ -1702,7 +1702,7 @@
    "song_id": "canhoto-benedito-lacerda",
    "title": "Canhoto",
    "composer": "Benedito Lacerda",
-   "confidence": "medium",
+   "confidence": "high",
    "generated": "mxl",
    "file": "canhoto-benedito-lacerda.json",
    "parts": [
@@ -1716,7 +1716,7 @@
    "song_id": "canhoto-sempre-garoto-cidinho-7-cordas",
    "title": "Canhoto sempre garoto",
    "composer": "Cidinho 7 Cordas",
-   "confidence": "medium",
+   "confidence": "high",
    "generated": "mxl",
    "file": "canhoto-sempre-garoto-cidinho-7-cordas.json",
    "parts": [
@@ -1758,7 +1758,7 @@
    "song_id": "caricia-jacob-do-bandolim",
    "title": "Carícia",
    "composer": "Jacob do Bandolim",
-   "confidence": "medium",
+   "confidence": "high",
    "generated": "mxl",
    "file": "caricia-jacob-do-bandolim.json",
    "parts": [
@@ -1785,7 +1785,7 @@
    "song_id": "carioca-ernesto-nazareth",
    "title": "Carioca",
    "composer": "Ernesto Nazareth",
-   "confidence": "medium",
+   "confidence": "high",
    "generated": "mxl",
    "file": "carioca-ernesto-nazareth.json",
    "parts": [
@@ -1814,7 +1814,7 @@
    "song_id": "carnaval-duvidoso-adalberto-azevedo",
    "title": "Carnaval duvidoso",
    "composer": "Adalberto Azevedo",
-   "confidence": "medium",
+   "confidence": "high",
    "generated": "mxl",
    "file": "carnaval-duvidoso-adalberto-azevedo.json",
    "parts": [
@@ -1827,7 +1827,7 @@
    "song_id": "carne-assada-pixinguinha",
    "title": "Carne assada",
    "composer": "Pixinguinha",
-   "confidence": "medium",
+   "confidence": "high",
    "generated": "mxl",
    "file": "carne-assada-pixinguinha.json",
    "parts": [
@@ -1855,7 +1855,7 @@
    "song_id": "carrilho-em-1930-luiz-otavio-braga",
    "title": "Carrilho em 1930",
    "composer": "Luiz Otávio Braga",
-   "confidence": "medium",
+   "confidence": "high",
    "generated": "mxl",
    "file": "carrilho-em-1930-luiz-otavio-braga.json",
    "parts": [
@@ -1869,7 +1869,7 @@
    "song_id": "cascatinha-pixinguinha",
    "title": "Cascatinha",
    "composer": "Pixinguinha",
-   "confidence": "medium",
+   "confidence": "high",
    "generated": "mxl",
    "file": "cascatinha-pixinguinha.json",
    "parts": [
@@ -1883,7 +1883,7 @@
    "song_id": "catita-k-ximbinho",
    "title": "Catita",
    "composer": "K-Ximbinho",
-   "confidence": "medium",
+   "confidence": "high",
    "generated": "mxl",
    "file": "catita-k-ximbinho.json",
    "parts": [
@@ -1908,7 +1908,7 @@
    "song_id": "catrapus-ernesto-nazareth",
    "title": "Catrapus",
    "composer": "Ernesto Nazareth",
-   "confidence": "medium",
+   "confidence": "high",
    "generated": "mxl",
    "file": "catrapus-ernesto-nazareth.json",
    "parts": [
@@ -1936,7 +1936,7 @@
    "song_id": "caxanga-luiz-gonzaga",
    "title": "Caxangá",
    "composer": "Luiz Gonzaga",
-   "confidence": "medium",
+   "confidence": "high",
    "generated": "mxl",
    "file": "caxanga-luiz-gonzaga.json",
    "parts": [
@@ -1950,7 +1950,7 @@
    "song_id": "cecilia-antonio-borges-teixeira",
    "title": "Cecília",
    "composer": "Antônio Borges Teixeira",
-   "confidence": "medium",
+   "confidence": "high",
    "generated": "mxl",
    "file": "cecilia-antonio-borges-teixeira.json",
    "parts": [
@@ -1963,7 +1963,7 @@
    "song_id": "cem-anos-de-choro-capiba",
    "title": "Cem anos de choro",
    "composer": "Capiba",
-   "confidence": "medium",
+   "confidence": "high",
    "generated": "mxl",
    "file": "cem-anos-de-choro-capiba.json",
    "parts": [
@@ -1994,7 +1994,7 @@
    "song_id": "chara-baden-powell",
    "title": "Chará",
    "composer": "Baden Powell",
-   "confidence": "medium",
+   "confidence": "low",
    "generated": "mxl",
    "file": "chara-baden-powell.json",
    "parts": [
@@ -2008,7 +2008,7 @@
    "song_id": "cheguei-pixinguinha",
    "title": "Cheguei",
    "composer": "Pixinguinha",
-   "confidence": "medium",
+   "confidence": "high",
    "generated": "mxl",
    "file": "cheguei-pixinguinha.json",
    "parts": [
@@ -2048,7 +2048,7 @@
    "song_id": "chimarrao-luis-barcelos",
    "title": "Chimarrão",
    "composer": "Luis Barcelos",
-   "confidence": "medium",
+   "confidence": "high",
    "generated": "mxl",
    "file": "chimarrao-luis-barcelos.json",
    "parts": [
@@ -2104,7 +2104,7 @@
    "song_id": "chorando-candinho",
    "title": "Chorando",
    "composer": "Candinho",
-   "confidence": "medium",
+   "confidence": "high",
    "generated": "mxl",
    "file": "chorando-candinho.json",
    "parts": [
@@ -2117,7 +2117,7 @@
    "song_id": "chorando-sem-dolores-rossini-ferreira",
    "title": "Chorando sem Dolores",
    "composer": "Rossini Ferreira",
-   "confidence": "medium",
+   "confidence": "high",
    "generated": "mxl",
    "file": "chorando-sem-dolores-rossini-ferreira.json",
    "parts": [
@@ -2130,7 +2130,7 @@
    "song_id": "chorei-pixinguinha",
    "title": "Chorei",
    "composer": "Pixinguinha",
-   "confidence": "medium",
+   "confidence": "high",
    "generated": "mxl",
    "file": "chorei-pixinguinha.json",
    "parts": [
@@ -2144,7 +2144,7 @@
    "song_id": "chorinho-antigo-waldir-azevedo",
    "title": "Chorinho antigo",
    "composer": "Waldir Azevedo",
-   "confidence": "medium",
+   "confidence": "high",
    "generated": "mxl",
    "file": "chorinho-antigo-waldir-azevedo.json",
    "parts": [
@@ -2160,7 +2160,7 @@
    "song_id": "chorinho-de-gafieira-astor-silva",
    "title": "Chorinho de gafieira",
    "composer": "Astor Silva",
-   "confidence": "medium",
+   "confidence": "high",
    "generated": "mxl",
    "file": "chorinho-de-gafieira-astor-silva.json",
    "parts": [
@@ -2255,7 +2255,7 @@
    "song_id": "choro-de-memorias-paulinho-da-viola",
    "title": "Choro de memórias",
    "composer": "Paulinho da Viola",
-   "confidence": "medium",
+   "confidence": "high",
    "generated": "mxl",
    "file": "choro-de-memorias-paulinho-da-viola.json",
    "parts": [
@@ -2294,7 +2294,7 @@
    "song_id": "choro-do-nezinho-nezinho-da-flauta",
    "title": "Choro do Nezinho",
    "composer": "Nezinho da Flauta",
-   "confidence": "medium",
+   "confidence": "high",
    "generated": "mxl",
    "file": "choro-do-nezinho-nezinho-da-flauta.json",
    "parts": [
@@ -2307,7 +2307,7 @@
    "song_id": "choro-na-denmark-radio-mauricio-carrilho",
    "title": "Choro na Denmark Radio",
    "composer": "Maurício Carrilho",
-   "confidence": "medium",
+   "confidence": "high",
    "generated": "mxl",
    "file": "choro-na-denmark-radio-mauricio-carrilho.json",
    "parts": [
@@ -2321,7 +2321,7 @@
    "song_id": "choro-negro-paulinho-da-viola",
    "title": "Choro negro",
    "composer": "Paulinho da Viola",
-   "confidence": "medium",
+   "confidence": "high",
    "generated": "mxl",
    "file": "choro-negro-paulinho-da-viola.json",
    "parts": [
@@ -2334,7 +2334,7 @@
    "song_id": "choro-novo-em-do-waldir-azevedo",
    "title": "Choro novo em dó",
    "composer": "Waldir Azevedo",
-   "confidence": "medium",
+   "confidence": "high",
    "generated": "mxl",
    "file": "choro-novo-em-do-waldir-azevedo.json",
    "parts": [
@@ -2347,7 +2347,7 @@
    "song_id": "choro-para-luciana-cidinho-7-cordas",
    "title": "Choro para Luciana",
    "composer": "Cidinho 7 Cordas",
-   "confidence": "medium",
+   "confidence": "high",
    "generated": "mxl",
    "file": "choro-para-luciana-cidinho-7-cordas.json",
    "parts": [
@@ -2360,7 +2360,7 @@
    "song_id": "choro-para-walter-simoes-cidinho-7-cordas",
    "title": "Choro para Walter Simões",
    "composer": "Cidinho 7 Cordas",
-   "confidence": "medium",
+   "confidence": "high",
    "generated": "mxl",
    "file": "choro-para-walter-simoes-cidinho-7-cordas.json",
    "parts": [
@@ -2387,7 +2387,7 @@
    "song_id": "choro-pro-leo-luis-barcelos",
    "title": "Choro pro Léo",
    "composer": "Luis Barcelos",
-   "confidence": "medium",
+   "confidence": "high",
    "generated": "mxl",
    "file": "choro-pro-leo-luis-barcelos.json",
    "parts": [
@@ -2414,7 +2414,7 @@
    "song_id": "choro-pro-ze-guinga",
    "title": "Choro pro Zé",
    "composer": "Guinga",
-   "confidence": "medium",
+   "confidence": "low",
    "generated": "mxl",
    "file": "choro-pro-ze-guinga.json",
    "parts": [
@@ -2428,7 +2428,7 @@
    "song_id": "choro-pros-ingenuos-cidinho-7-cordas",
    "title": "Choro pros Ingênuos",
    "composer": "Cidinho 7 Cordas",
-   "confidence": "medium",
+   "confidence": "high",
    "generated": "mxl",
    "file": "choro-pros-ingenuos-cidinho-7-cordas.json",
    "parts": [
@@ -2523,7 +2523,7 @@
    "song_id": "chuvisco-mauricio-carrilho",
    "title": "Chuvisco",
    "composer": "Maurício Carrilho",
-   "confidence": "medium",
+   "confidence": "high",
    "generated": "mxl",
    "file": "chuvisco-mauricio-carrilho.json",
    "parts": [
@@ -2536,7 +2536,7 @@
    "song_id": "cinema-mudo-rossini-ferreira",
    "title": "Cinema mudo",
    "composer": "Rossini Ferreira",
-   "confidence": "medium",
+   "confidence": "high",
    "generated": "mxl",
    "file": "cinema-mudo-rossini-ferreira.json",
    "parts": [
@@ -2548,7 +2548,7 @@
    "song_id": "cinema-mudo-waldir-azevedo",
    "title": "Cinema mudo",
    "composer": "Waldir Azevedo",
-   "confidence": "medium",
+   "confidence": "high",
    "generated": "mxl",
    "file": "cinema-mudo-waldir-azevedo.json",
    "parts": [
@@ -2590,7 +2590,7 @@
    "song_id": "cleonix-moacir-santos",
    "title": "Cleonix",
    "composer": "Moacir Santos",
-   "confidence": "medium",
+   "confidence": "high",
    "generated": "mxl",
    "file": "cleonix-moacir-santos.json",
    "parts": [
@@ -2603,7 +2603,7 @@
    "song_id": "cochichando-pixinguinha",
    "title": "Cochichando",
    "composer": "Pixinguinha",
-   "confidence": "medium",
+   "confidence": "high",
    "generated": "mxl",
    "file": "cochichando-pixinguinha.json",
    "parts": [
@@ -2631,7 +2631,7 @@
    "song_id": "comecando-siqueira-lima",
    "title": "Começando",
    "composer": "Siqueira Lima",
-   "confidence": "low",
+   "confidence": "medium",
    "generated": "pdf",
    "file": "comecando-siqueira-lima.json",
    "parts": [
@@ -2647,7 +2647,7 @@
    "song_id": "comparando-candinho",
    "title": "Comparando",
    "composer": "Candinho",
-   "confidence": "medium",
+   "confidence": "high",
    "generated": "mxl",
    "file": "comparando-candinho.json",
    "parts": [
@@ -2660,7 +2660,7 @@
    "song_id": "concordiando-rossini-ferreira",
    "title": "Concordiando",
    "composer": "Rossini Ferreira",
-   "confidence": "medium",
+   "confidence": "high",
    "generated": "mxl",
    "file": "concordiando-rossini-ferreira.json",
    "parts": [
@@ -2688,7 +2688,7 @@
    "song_id": "consciencia-jacob-do-bandolim",
    "title": "Consciência",
    "composer": "Jacob do Bandolim",
-   "confidence": "medium",
+   "confidence": "high",
    "generated": "mxl",
    "file": "consciencia-jacob-do-bandolim.json",
    "parts": [
@@ -2714,7 +2714,7 @@
    "song_id": "coracao-que-sente-ernesto-nazareth",
    "title": "Coração que sente",
    "composer": "Ernesto Nazareth",
-   "confidence": "medium",
+   "confidence": "high",
    "generated": "mxl",
    "file": "coracao-que-sente-ernesto-nazareth.json",
    "parts": [
@@ -2727,7 +2727,7 @@
    "song_id": "coralina-albertino-pimentel",
    "title": "Coralina",
    "composer": "Albertino Pimentel",
-   "confidence": "medium",
+   "confidence": "high",
    "generated": "mxl",
    "file": "coralina-albertino-pimentel.json",
    "parts": [
@@ -2769,7 +2769,7 @@
    "song_id": "cuidado-colega-pixinguinha",
    "title": "Cuidado, colega",
    "composer": "Pixinguinha",
-   "confidence": "medium",
+   "confidence": "high",
    "generated": "mxl",
    "file": "cuidado-colega-pixinguinha.json",
    "parts": [
@@ -2797,7 +2797,7 @@
    "song_id": "cuidado-dino-tico-tico",
    "title": "Cuidado, Dino",
    "composer": "Tico Tico",
-   "confidence": "medium",
+   "confidence": "high",
    "generated": "mxl",
    "file": "cuidado-dino-tico-tico.json",
    "parts": [
@@ -2850,7 +2850,7 @@
    "song_id": "dada-franklin-da-flauta",
    "title": "Dadá",
    "composer": "Franklin da Flauta",
-   "confidence": "medium",
+   "confidence": "high",
    "generated": "mxl",
    "file": "dada-franklin-da-flauta.json",
    "parts": [
@@ -2864,7 +2864,7 @@
    "song_id": "damas-gratis-eduardo-neves",
    "title": "Damas grátis",
    "composer": "Eduardo Neves",
-   "confidence": "medium",
+   "confidence": "high",
    "generated": "mxl",
    "file": "damas-gratis-eduardo-neves.json",
    "parts": [
@@ -2877,7 +2877,7 @@
    "song_id": "danca-do-urso-candinho",
    "title": "Dança do urso",
    "composer": "Candinho",
-   "confidence": "medium",
+   "confidence": "high",
    "generated": "mxl",
    "file": "danca-do-urso-candinho.json",
    "parts": [
@@ -2904,7 +2904,7 @@
    "song_id": "de-bahia-a-ceara-moacir-santos",
    "title": "De Bahia a Ceará",
    "composer": "Moacir Santos",
-   "confidence": "medium",
+   "confidence": "high",
    "generated": "mxl",
    "file": "de-bahia-a-ceara-moacir-santos.json",
    "parts": [
@@ -2918,7 +2918,7 @@
    "song_id": "de-bem-com-a-vida-luciana-rabello",
    "title": "De bem com a vida",
    "composer": "Luciana Rabello",
-   "confidence": "medium",
+   "confidence": "high",
    "generated": "mxl",
    "file": "de-bem-com-a-vida-luciana-rabello.json",
    "parts": [
@@ -2932,7 +2932,7 @@
    "song_id": "de-coracao-a-coracao-jacob-do-bandolim",
    "title": "De Coração a Coração",
    "composer": "Jacob do Bandolim",
-   "confidence": "medium",
+   "confidence": "high",
    "generated": "mxl",
    "file": "de-coracao-a-coracao-jacob-do-bandolim.json",
    "parts": [
@@ -2975,7 +2975,7 @@
    "song_id": "de-repente-abel-luiz",
    "title": "De repente",
    "composer": "Abel Luiz",
-   "confidence": "medium",
+   "confidence": "high",
    "generated": "mxl",
    "file": "de-repente-abel-luiz.json",
    "parts": [
@@ -3016,7 +3016,7 @@
    "song_id": "dedilhando-orlando-silveira",
    "title": "Dedilhando",
    "composer": "Orlando Silveira",
-   "confidence": "medium",
+   "confidence": "high",
    "generated": "mxl",
    "file": "dedilhando-orlando-silveira.json",
    "parts": [
@@ -3041,7 +3041,7 @@
    "song_id": "deixa-falar-afonso-machado",
    "title": "Deixa falar",
    "composer": "Afonso Machado",
-   "confidence": "medium",
+   "confidence": "high",
    "generated": "mxl",
    "file": "deixa-falar-afonso-machado.json",
    "parts": [
@@ -3054,7 +3054,7 @@
    "song_id": "deixe-o-breque-pra-mim-altamiro-carrilho",
    "title": "Deixe o breque prá mim",
    "composer": "Altamiro Carrilho",
-   "confidence": "medium",
+   "confidence": "high",
    "generated": "mxl",
    "file": "deixe-o-breque-pra-mim-altamiro-carrilho.json",
    "parts": [
@@ -3081,7 +3081,7 @@
    "song_id": "dengoso-jonas-silva",
    "title": "Dengoso",
    "composer": "Jonas Silva",
-   "confidence": "medium",
+   "confidence": "high",
    "generated": "mxl",
    "file": "dengoso-jonas-silva.json",
    "parts": [
@@ -3122,7 +3122,7 @@
    "song_id": "desprezado-pixinguinha",
    "title": "Desprezado",
    "composer": "Pixinguinha",
-   "confidence": "medium",
+   "confidence": "high",
    "generated": "mxl",
    "file": "desprezado-pixinguinha.json",
    "parts": [
@@ -3136,7 +3136,7 @@
    "song_id": "desvairada-garoto",
    "title": "Desvairada",
    "composer": "Garoto",
-   "confidence": "medium",
+   "confidence": "high",
    "generated": "mxl",
    "file": "desvairada-garoto.json",
    "parts": [
@@ -3149,7 +3149,7 @@
    "song_id": "deu-abobora-na-retreta-candinho",
    "title": "Deu abóbora na retreta",
    "composer": "Candinho",
-   "confidence": "medium",
+   "confidence": "high",
    "generated": "mxl",
    "file": "deu-abobora-na-retreta-candinho.json",
    "parts": [
@@ -3162,7 +3162,7 @@
    "song_id": "devagar-e-sempre-pixinguinha",
    "title": "Devagar e sempre",
    "composer": "Pixinguinha",
-   "confidence": "medium",
+   "confidence": "high",
    "generated": "mxl",
    "file": "devagar-e-sempre-pixinguinha.json",
    "parts": [
@@ -3202,7 +3202,7 @@
    "song_id": "diabinho-maluco-jacob-do-bandolim",
    "title": "Diabinho Maluco",
    "composer": "Jacob do Bandolim",
-   "confidence": "medium",
+   "confidence": "high",
    "generated": "mxl",
    "file": "diabinho-maluco-jacob-do-bandolim.json",
    "parts": [
@@ -3216,7 +3216,7 @@
    "song_id": "diabolica-pixinguinha",
    "title": "Diabólica",
    "composer": "Pixinguinha",
-   "confidence": "medium",
+   "confidence": "high",
    "generated": "mxl",
    "file": "diabolica-pixinguinha.json",
    "parts": [
@@ -3229,7 +3229,7 @@
    "song_id": "dialogando-avena-de-castro",
    "title": "Dialogando",
    "composer": "Avena de Castro",
-   "confidence": "medium",
+   "confidence": "high",
    "generated": "mxl",
    "file": "dialogando-avena-de-castro.json",
    "parts": [
@@ -3256,7 +3256,7 @@
    "song_id": "displicente-pixinguinha",
    "title": "Displicente",
    "composer": "Pixinguinha",
-   "confidence": "medium",
+   "confidence": "high",
    "generated": "mxl",
    "file": "displicente-pixinguinha.json",
    "parts": [
@@ -3270,7 +3270,7 @@
    "song_id": "diva-albertino-pimentel",
    "title": "Diva",
    "composer": "Albertino Pimentel",
-   "confidence": "medium",
+   "confidence": "high",
    "generated": "mxl",
    "file": "diva-albertino-pimentel.json",
    "parts": [
@@ -3314,7 +3314,7 @@
    "song_id": "doce-de-coco-jacob-do-bandolim",
    "title": "Doce de Côco",
    "composer": "Jacob do Bandolim",
-   "confidence": "medium",
+   "confidence": "high",
    "generated": "mxl",
    "file": "doce-de-coco-jacob-do-bandolim.json",
    "parts": [
@@ -3328,7 +3328,7 @@
    "song_id": "doce-melodia-abel-ferreira",
    "title": "Doce melodia",
    "composer": "Abel Ferreira",
-   "confidence": "medium",
+   "confidence": "high",
    "generated": "mxl",
    "file": "doce-melodia-abel-ferreira.json",
    "parts": [
@@ -3340,7 +3340,7 @@
    "song_id": "doidinho-benedito-lacerda",
    "title": "Doidinho",
    "composer": "Benedito Lacerda",
-   "confidence": "medium",
+   "confidence": "high",
    "generated": "mxl",
    "file": "doidinho-benedito-lacerda.json",
    "parts": [
@@ -3354,7 +3354,7 @@
    "song_id": "dois-amigos-cidinho-7-cordas",
    "title": "Dois amigos",
    "composer": "Cidinho 7 Cordas",
-   "confidence": "medium",
+   "confidence": "high",
    "generated": "mxl",
    "file": "dois-amigos-cidinho-7-cordas.json",
    "parts": [
@@ -3381,7 +3381,7 @@
    "song_id": "dominante-pixinguinha",
    "title": "Dominante",
    "composer": "Pixinguinha",
-   "confidence": "medium",
+   "confidence": "high",
    "generated": "mxl",
    "file": "dominante-pixinguinha.json",
    "parts": [
@@ -3426,7 +3426,7 @@
    "song_id": "don-bastos-de-marechal-joao-lyra",
    "title": "Don Bastos de Marechal",
    "composer": "João Lyra",
-   "confidence": "medium",
+   "confidence": "high",
    "generated": "mxl",
    "file": "don-bastos-de-marechal-joao-lyra.json",
    "parts": [
@@ -3439,7 +3439,7 @@
    "song_id": "e-ahi-octavio-dutra",
    "title": "E ahi!",
    "composer": "Octávio Dutra",
-   "confidence": "medium",
+   "confidence": "high",
    "generated": "mxl",
    "file": "e-ahi-octavio-dutra.json",
    "parts": [
@@ -3453,7 +3453,7 @@
    "song_id": "e-do-que-ha-luiz-americano",
    "title": "É Do Que Há",
    "composer": "Luiz Americano",
-   "confidence": "low",
+   "confidence": "high",
    "generated": "pdf",
    "file": "e-do-que-ha-luiz-americano.json",
    "parts": [
@@ -3473,7 +3473,8 @@
    "parts": [
     "A",
     "B",
-    "C"
+    "C",
+    "D"
    ]
   },
   {
@@ -3522,7 +3523,7 @@
    "song_id": "elias-no-rio-rafael-mallmith",
    "title": "Elias no Rio",
    "composer": "Rafael Mallmith",
-   "confidence": "medium",
+   "confidence": "high",
    "generated": "mxl",
    "file": "elias-no-rio-rafael-mallmith.json",
    "parts": [
@@ -3549,7 +3550,7 @@
    "song_id": "em-que-epoca-aymore",
    "title": "Em que época",
    "composer": "Aymoré",
-   "confidence": "medium",
+   "confidence": "high",
    "generated": "mxl",
    "file": "em-que-epoca-aymore.json",
    "parts": [
@@ -3561,7 +3562,7 @@
    "song_id": "em-ti-pensando-anacleto-de-medeiros",
    "title": "Em ti pensando",
    "composer": "Anacleto de Medeiros",
-   "confidence": "medium",
+   "confidence": "low",
    "generated": "mxl",
    "file": "em-ti-pensando-anacleto-de-medeiros.json",
    "parts": [
@@ -3574,7 +3575,7 @@
    "song_id": "emboladinho-bruno-rian",
    "title": "Emboladinho",
    "composer": "Bruno Rian",
-   "confidence": "medium",
+   "confidence": "high",
    "generated": "mxl",
    "file": "emboladinho-bruno-rian.json",
    "parts": [
@@ -3588,7 +3589,7 @@
    "song_id": "emotivo-gabriel-trucco",
    "title": "Emotivo",
    "composer": "Gabriel Trucco",
-   "confidence": "medium",
+   "confidence": "high",
    "generated": "mxl",
    "file": "emotivo-gabriel-trucco.json",
    "parts": [
@@ -3602,7 +3603,7 @@
    "song_id": "encabulado-ze-menezes",
    "title": "Encabulado",
    "composer": "Zé Menezes",
-   "confidence": "medium",
+   "confidence": "high",
    "generated": "mxl",
    "file": "encabulado-ze-menezes.json",
    "parts": [
@@ -3628,7 +3629,7 @@
    "song_id": "encontros-inesqueciveis-elias-barboza-rs",
    "title": "Encontros inesquecíveis",
    "composer": "Elias Barboza RS",
-   "confidence": "medium",
+   "confidence": "high",
    "generated": "mxl",
    "file": "encontros-inesqueciveis-elias-barboza-rs.json",
    "parts": [
@@ -3642,7 +3643,7 @@
    "song_id": "enigmatico-altamiro-carrilho",
    "title": "Enigmático",
    "composer": "Altamiro Carrilho",
-   "confidence": "medium",
+   "confidence": "high",
    "generated": "mxl",
    "file": "enigmatico-altamiro-carrilho.json",
    "parts": [
@@ -3669,7 +3670,7 @@
    "song_id": "entre-amigos-raul-silva",
    "title": "Entre amigos",
    "composer": "Raul Silva",
-   "confidence": "medium",
+   "confidence": "high",
    "generated": "mxl",
    "file": "entre-amigos-raul-silva.json",
    "parts": [
@@ -3721,7 +3722,7 @@
    "song_id": "eponina-ernesto-nazareth",
    "title": "Eponina",
    "composer": "Ernesto Nazareth",
-   "confidence": "medium",
+   "confidence": "high",
    "generated": "mxl",
    "file": "eponina-ernesto-nazareth.json",
    "parts": [
@@ -3735,7 +3736,7 @@
    "song_id": "ermelinda-joaquim-callado",
    "title": "Ermelinda",
    "composer": "Joaquim Callado",
-   "confidence": "medium",
+   "confidence": "high",
    "generated": "mxl",
    "file": "ermelinda-joaquim-callado.json",
    "parts": [
@@ -3770,7 +3771,7 @@
    "song_id": "escorregando-ernesto-nazareth",
    "title": "Escorregando",
    "composer": "Ernesto Nazareth",
-   "confidence": "medium",
+   "confidence": "high",
    "generated": "mxl",
    "file": "escorregando-ernesto-nazareth.json",
    "parts": [
@@ -3798,7 +3799,7 @@
    "song_id": "espere-um-pouco-pixinguinha",
    "title": "Espere um pouco",
    "composer": "Pixinguinha",
-   "confidence": "medium",
+   "confidence": "high",
    "generated": "mxl",
    "file": "espere-um-pouco-pixinguinha.json",
    "parts": [
@@ -3812,7 +3813,7 @@
    "song_id": "espevitado-luis-barcelos",
    "title": "Espevitado",
    "composer": "Luis Barcelos",
-   "confidence": "medium",
+   "confidence": "high",
    "generated": "mxl",
    "file": "espevitado-luis-barcelos.json",
    "parts": [
@@ -3840,7 +3841,7 @@
    "song_id": "esquerdinha-na-gafieira-altamiro-carrilho",
    "title": "Esquerdinha na gafieira",
    "composer": "Altamiro Carrilho",
-   "confidence": "medium",
+   "confidence": "high",
    "generated": "mxl",
    "file": "esquerdinha-na-gafieira-altamiro-carrilho.json",
    "parts": [
@@ -3854,7 +3855,7 @@
    "song_id": "esta-se-coando-anacleto-de-medeiros",
    "title": "Está se coando",
    "composer": "Anacleto de Medeiros",
-   "confidence": "medium",
+   "confidence": "high",
    "generated": "mxl",
    "file": "esta-se-coando-anacleto-de-medeiros.json",
    "parts": [
@@ -3883,7 +3884,7 @@
    "song_id": "estilizando-candinho",
    "title": "Estilizando",
    "composer": "Candinho",
-   "confidence": "medium",
+   "confidence": "high",
    "generated": "mxl",
    "file": "estilizando-candinho.json",
    "parts": [
@@ -3896,7 +3897,7 @@
    "song_id": "estou-ai-jose-carlos-maciel",
    "title": "Estou aí",
    "composer": "José Carlos Maciel",
-   "confidence": "medium",
+   "confidence": "high",
    "generated": "mxl",
    "file": "estou-ai-jose-carlos-maciel.json",
    "parts": [
@@ -3935,7 +3936,7 @@
    "song_id": "evocacao-de-jacob-avena-de-castro",
    "title": "Evocação de Jacob",
    "composer": "Avena de Castro",
-   "confidence": "medium",
+   "confidence": "high",
    "generated": "mxl",
    "file": "evocacao-de-jacob-avena-de-castro.json",
    "parts": [
@@ -3948,7 +3949,7 @@
    "song_id": "evocacao-eduardo-souto",
    "title": "Evocação",
    "composer": "Eduardo Souto",
-   "confidence": "medium",
+   "confidence": "high",
    "generated": "mxl",
    "file": "evocacao-eduardo-souto.json",
    "parts": [
@@ -3962,7 +3963,7 @@
    "song_id": "evocacao-rubens-leal-brito",
    "title": "Evocação",
    "composer": "Rubens Leal Brito",
-   "confidence": "medium",
+   "confidence": "high",
    "generated": "mxl",
    "file": "evocacao-rubens-leal-brito.json",
    "parts": [
@@ -3990,7 +3991,7 @@
    "song_id": "falando-as-flores-mario-alvares-da-conceicao",
    "title": "Falando às flores",
    "composer": "Mário Álvares da Conceição",
-   "confidence": "medium",
+   "confidence": "high",
    "generated": "mxl",
    "file": "falando-as-flores-mario-alvares-da-conceicao.json",
    "parts": [
@@ -4031,7 +4032,7 @@
    "song_id": "fantasia-ao-luar-albertino-pimentel",
    "title": "Fantasia ao luar",
    "composer": "Albertino Pimentel",
-   "confidence": "medium",
+   "confidence": "high",
    "generated": "mxl",
    "file": "fantasia-ao-luar-albertino-pimentel.json",
    "parts": [
@@ -4045,7 +4046,7 @@
    "song_id": "farrula-anacleto-de-medeiros",
    "title": "Farrula",
    "composer": "Anacleto de Medeiros",
-   "confidence": "medium",
+   "confidence": "high",
    "generated": "mxl",
    "file": "farrula-anacleto-de-medeiros.json",
    "parts": [
@@ -4058,7 +4059,7 @@
    "song_id": "fascinante-rossini-ferreira",
    "title": "Fascinante",
    "composer": "Rossini Ferreira",
-   "confidence": "medium",
+   "confidence": "high",
    "generated": "mxl",
    "file": "fascinante-rossini-ferreira.json",
    "parts": [
@@ -4142,7 +4143,7 @@
    "song_id": "flamengo-bonfiglio-de-oliveira",
    "title": "Flamengo",
    "composer": "Bonfíglio de Oliveira",
-   "confidence": "medium",
+   "confidence": "high",
    "generated": "mxl",
    "file": "flamengo-bonfiglio-de-oliveira.json",
    "parts": [
@@ -4208,7 +4209,7 @@
    "song_id": "flor-de-liz-cicero-de-menezes",
    "title": "Flor de Liz",
    "composer": "Cícero de Menezes",
-   "confidence": "medium",
+   "confidence": "high",
    "generated": "mxl",
    "file": "flor-de-liz-cicero-de-menezes.json",
    "parts": [
@@ -4221,7 +4222,7 @@
    "song_id": "flor-do-cerrado-waldir-azevedo",
    "title": "Flor do Cerrado",
    "composer": "Waldir Azevedo",
-   "confidence": "medium",
+   "confidence": "high",
    "generated": "mxl",
    "file": "flor-do-cerrado-waldir-azevedo.json",
    "parts": [
@@ -4235,7 +4236,7 @@
    "song_id": "flor-do-mal-santos-coelho",
    "title": "Flor do mal",
    "composer": "Santos Coelho",
-   "confidence": "medium",
+   "confidence": "high",
    "generated": "mxl",
    "file": "flor-do-mal-santos-coelho.json",
    "parts": [
@@ -4248,7 +4249,7 @@
    "song_id": "flores-da-vida-patapio-silva",
    "title": "Flores da vida",
    "composer": "Patápio Silva",
-   "confidence": "medium",
+   "confidence": "high",
    "generated": "mxl",
    "file": "flores-da-vida-patapio-silva.json",
    "parts": [
@@ -4262,7 +4263,7 @@
    "song_id": "flores-moacir-santos",
    "title": "Flores",
    "composer": "Moacir Santos",
-   "confidence": "medium",
+   "confidence": "high",
    "generated": "mxl",
    "file": "flores-moacir-santos.json",
    "parts": [
@@ -4289,7 +4290,7 @@
    "song_id": "foi-numa-festa-jacob-do-bandolim",
    "title": "Foi Numa Festa",
    "composer": "Jacob do Bandolim",
-   "confidence": "medium",
+   "confidence": "high",
    "generated": "mxl",
    "file": "foi-numa-festa-jacob-do-bandolim.json",
    "parts": [
@@ -4332,7 +4333,7 @@
    "song_id": "formigueiro-mauricio-carrilho",
    "title": "Formigueiro",
    "composer": "Maurício Carrilho",
-   "confidence": "medium",
+   "confidence": "high",
    "generated": "mxl",
    "file": "formigueiro-mauricio-carrilho.json",
    "parts": [
@@ -4346,7 +4347,7 @@
    "song_id": "forro-de-gala-jacob-do-bandolim",
    "title": "Forró de Gala",
    "composer": "Jacob do Bandolim",
-   "confidence": "medium",
+   "confidence": "high",
    "generated": "mxl",
    "file": "forro-de-gala-jacob-do-bandolim.json",
    "parts": [
@@ -4375,7 +4376,7 @@
    "song_id": "gadu-namorando-lalau-do-bandolim",
    "title": "Gadu namorando",
    "composer": "Lalau do Bandolim",
-   "confidence": "low",
+   "confidence": "high",
    "generated": "pdf",
    "file": "gadu-namorando-lalau-do-bandolim.json",
    "parts": [
@@ -4388,7 +4389,7 @@
    "song_id": "garanhuns-dominguinhos",
    "title": "Garanhuns",
    "composer": "Dominguinhos",
-   "confidence": "medium",
+   "confidence": "high",
    "generated": "mxl",
    "file": "garanhuns-dominguinhos.json",
    "parts": [
@@ -4402,7 +4403,7 @@
    "song_id": "gargalhada-pixinguinha",
    "title": "Gargalhada",
    "composer": "Pixinguinha",
-   "confidence": "medium",
+   "confidence": "high",
    "generated": "mxl",
    "file": "gargalhada-pixinguinha.json",
    "parts": [
@@ -4415,7 +4416,7 @@
    "song_id": "garoto-ernesto-nazareth",
    "title": "Garoto",
    "composer": "Ernesto Nazareth",
-   "confidence": "medium",
+   "confidence": "high",
    "generated": "mxl",
    "file": "garoto-ernesto-nazareth.json",
    "parts": [
@@ -4429,7 +4430,7 @@
    "song_id": "gaucho-chiquinha-gonzaga",
    "title": "Gaucho",
    "composer": "Chiquinha Gonzaga",
-   "confidence": "medium",
+   "confidence": "high",
    "generated": "mxl",
    "file": "gaucho-chiquinha-gonzaga.json",
    "parts": [
@@ -4442,7 +4443,7 @@
    "song_id": "gingando-dino",
    "title": "Gingando",
    "composer": "Dino",
-   "confidence": "medium",
+   "confidence": "low",
    "generated": "mxl",
    "file": "gingando-dino.json",
    "parts": [
@@ -4469,7 +4470,7 @@
    "song_id": "gloria-pixinguinha",
    "title": "Glória",
    "composer": "Pixinguinha",
-   "confidence": "medium",
+   "confidence": "high",
    "generated": "mxl",
    "file": "gloria-pixinguinha.json",
    "parts": [
@@ -4482,7 +4483,7 @@
    "song_id": "gordo-amigo-herval-daumas",
    "title": "Gordo amigo",
    "composer": "Herval Daumas",
-   "confidence": "medium",
+   "confidence": "high",
    "generated": "mxl",
    "file": "gordo-amigo-herval-daumas.json",
    "parts": [
@@ -4496,7 +4497,7 @@
    "song_id": "gorgulho-benedito-lacerda",
    "title": "Gorgulho",
    "composer": "Benedito Lacerda",
-   "confidence": "medium",
+   "confidence": "high",
    "generated": "mxl",
    "file": "gorgulho-benedito-lacerda.json",
    "parts": [
@@ -4525,7 +4526,7 @@
    "song_id": "gotas-de-ouro-ernesto-nazareth",
    "title": "Gotas de ouro",
    "composer": "Ernesto Nazareth",
-   "confidence": "medium",
+   "confidence": "high",
    "generated": "mxl",
    "file": "gotas-de-ouro-ernesto-nazareth.json",
    "parts": [
@@ -4571,7 +4572,7 @@
    "song_id": "guara-bonfiglio-de-oliveira",
    "title": "Guará",
    "composer": "Bonfíglio de Oliveira",
-   "confidence": "medium",
+   "confidence": "high",
    "generated": "mxl",
    "file": "guara-bonfiglio-de-oliveira.json",
    "parts": [
@@ -4585,7 +4586,7 @@
    "song_id": "guaracy-altamiro-carrilho",
    "title": "Guaracy",
    "composer": "Altamiro Carrilho",
-   "confidence": "medium",
+   "confidence": "high",
    "generated": "mxl",
    "file": "guaracy-altamiro-carrilho.json",
    "parts": [
@@ -4597,7 +4598,7 @@
    "song_id": "guerreiro-ernesto-nazareth",
    "title": "Guerreiro",
    "composer": "Ernesto Nazareth",
-   "confidence": "medium",
+   "confidence": "high",
    "generated": "mxl",
    "file": "guerreiro-ernesto-nazareth.json",
    "parts": [
@@ -4611,7 +4612,7 @@
    "song_id": "guiomar-cincinato-s-dos-santos",
    "title": "Guiomar",
    "composer": "Cincinato S. dos Santos",
-   "confidence": "medium",
+   "confidence": "high",
    "generated": "mxl",
    "file": "guiomar-cincinato-s-dos-santos.json",
    "parts": [
@@ -4624,7 +4625,7 @@
    "song_id": "ha-nos-olhos-teus-paisagem-linda-jacob-do-bandolim",
    "title": "Há nos Olhos Teus Paisagem Linda",
    "composer": "Jacob do Bandolim",
-   "confidence": "medium",
+   "confidence": "high",
    "generated": "mxl",
    "file": "ha-nos-olhos-teus-paisagem-linda-jacob-do-bandolim.json",
    "parts": [
@@ -4637,7 +4638,7 @@
    "song_id": "harmonia-selvagem-dante-santoro",
    "title": "Harmonia selvagem",
    "composer": "Dante Santoro",
-   "confidence": "medium",
+   "confidence": "high",
    "generated": "mxl",
    "file": "harmonia-selvagem-dante-santoro.json",
    "parts": [
@@ -4651,7 +4652,7 @@
    "song_id": "haroldo-no-choro-abel-ferreira",
    "title": "Haroldo no choro",
    "composer": "Abel Ferreira",
-   "confidence": "medium",
+   "confidence": "high",
    "generated": "mxl",
    "file": "haroldo-no-choro-abel-ferreira.json",
    "parts": [
@@ -4679,7 +4680,7 @@
    "song_id": "helena-mario-alvares-da-conceicao",
    "title": "Helena",
    "composer": "Mário Álvares da Conceição",
-   "confidence": "medium",
+   "confidence": "high",
    "generated": "mxl",
    "file": "helena-mario-alvares-da-conceicao.json",
    "parts": [
@@ -4719,7 +4720,7 @@
    "song_id": "homenagem-a-pixinguinha-dominguinhos",
    "title": "Homenagem a Pixinguinha",
    "composer": "Dominguinhos",
-   "confidence": "medium",
+   "confidence": "high",
    "generated": "mxl",
    "file": "homenagem-a-pixinguinha-dominguinhos.json",
    "parts": [
@@ -4745,7 +4746,7 @@
    "song_id": "homenagem-a-velha-guarda-sivuca",
    "title": "Homenagem à Velha Guarda",
    "composer": "Sivuca",
-   "confidence": "medium",
+   "confidence": "high",
    "generated": "mxl",
    "file": "homenagem-a-velha-guarda-sivuca.json",
    "parts": [
@@ -4811,7 +4812,7 @@
    "song_id": "ida-e-volta-cidinho-7-cordas",
    "title": "Ida e volta",
    "composer": "Cidinho 7 Cordas",
-   "confidence": "medium",
+   "confidence": "high",
    "generated": "mxl",
    "file": "ida-e-volta-cidinho-7-cordas.json",
    "parts": [
@@ -4840,7 +4841,7 @@
    "song_id": "implorando-anacleto-de-medeiros",
    "title": "Implorando",
    "composer": "Anacleto de Medeiros",
-   "confidence": "medium",
+   "confidence": "high",
    "generated": "mxl",
    "file": "implorando-anacleto-de-medeiros.json",
    "parts": [
@@ -4853,7 +4854,7 @@
    "song_id": "improviso-joaquim-callado",
    "title": "Improviso",
    "composer": "Joaquim Callado",
-   "confidence": "medium",
+   "confidence": "high",
    "generated": "mxl",
    "file": "improviso-joaquim-callado.json",
    "parts": [
@@ -4883,7 +4884,7 @@
    "song_id": "inesquecivel-paulinho-da-viola",
    "title": "Inesquecível",
    "composer": "Paulinho da Viola",
-   "confidence": "medium",
+   "confidence": "high",
    "generated": "mxl",
    "file": "inesquecivel-paulinho-da-viola.json",
    "parts": [
@@ -4896,7 +4897,7 @@
    "song_id": "ingenuo-pixinguinha",
    "title": "Ingênuo",
    "composer": "Pixinguinha",
-   "confidence": "medium",
+   "confidence": "high",
    "generated": "mxl",
    "file": "ingenuo-pixinguinha.json",
    "parts": [
@@ -4921,7 +4922,7 @@
    "song_id": "inspiracoes-rossini-ferreira",
    "title": "Inspirações",
    "composer": "Rossini Ferreira",
-   "confidence": "medium",
+   "confidence": "high",
    "generated": "mxl",
    "file": "inspiracoes-rossini-ferreira.json",
    "parts": [
@@ -4961,7 +4962,7 @@
    "song_id": "ivo-domecq-nezinho-da-flauta",
    "title": "Ivo Domecq",
    "composer": "Nezinho da Flauta",
-   "confidence": "medium",
+   "confidence": "high",
    "generated": "mxl",
    "file": "ivo-domecq-nezinho-da-flauta.json",
    "parts": [
@@ -4989,7 +4990,7 @@
    "song_id": "j-da-gema-joao-lyra",
    "title": "J. da Gema",
    "composer": "João Lyra",
-   "confidence": "medium",
+   "confidence": "high",
    "generated": "mxl",
    "file": "j-da-gema-joao-lyra.json",
    "parts": [
@@ -5019,7 +5020,7 @@
    "song_id": "ja-que-nao-toco-violao-jacob-do-bandolim",
    "title": "Já que não toco violão",
    "composer": "Jacob do Bandolim",
-   "confidence": "medium",
+   "confidence": "low",
    "generated": "mxl",
    "file": "ja-que-nao-toco-violao-jacob-do-bandolim.json",
    "parts": [
@@ -5033,7 +5034,7 @@
    "song_id": "ja-te-digo-pixinguinha",
    "title": "Já te digo",
    "composer": "Pixinguinha",
-   "confidence": "medium",
+   "confidence": "high",
    "generated": "mxl",
    "file": "ja-te-digo-pixinguinha.json",
    "parts": [
@@ -5047,7 +5048,7 @@
    "song_id": "jaira-rossini-ferreira",
    "title": "Jaira",
    "composer": "Rossini Ferreira",
-   "confidence": "medium",
+   "confidence": "high",
    "generated": "mxl",
    "file": "jaira-rossini-ferreira.json",
    "parts": [
@@ -5060,7 +5061,7 @@
    "song_id": "jamais-jacob-do-bandolim",
    "title": "Jamais",
    "composer": "Jacob do Bandolim",
-   "confidence": "medium",
+   "confidence": "high",
    "generated": "mxl",
    "file": "jamais-jacob-do-bandolim.json",
    "parts": [
@@ -5114,7 +5115,7 @@
    "song_id": "joaquim-virou-padre-pixinguinha",
    "title": "Joaquim virou padre",
    "composer": "Pixinguinha",
-   "confidence": "medium",
+   "confidence": "high",
    "generated": "mxl",
    "file": "joaquim-virou-padre-pixinguinha.json",
    "parts": [
@@ -5127,7 +5128,7 @@
    "song_id": "jocosa-pedro-galdino",
    "title": "Jocosa",
    "composer": "Pedro Galdino",
-   "confidence": "medium",
+   "confidence": "high",
    "generated": "mxl",
    "file": "jocosa-pedro-galdino.json",
    "parts": [
@@ -5140,7 +5141,7 @@
    "song_id": "joquei-de-elefante-dante-santoro",
    "title": "Jóquei de elefante",
    "composer": "Dante Santoro",
-   "confidence": "medium",
+   "confidence": "high",
    "generated": "mxl",
    "file": "joquei-de-elefante-dante-santoro.json",
    "parts": [
@@ -5154,7 +5155,7 @@
    "song_id": "josias-na-parada-cidinho-7-cordas",
    "title": "Josias na parada",
    "composer": "Cidinho 7 Cordas",
-   "confidence": "medium",
+   "confidence": "high",
    "generated": "mxl",
    "file": "josias-na-parada-cidinho-7-cordas.json",
    "parts": [
@@ -5166,7 +5167,7 @@
    "song_id": "jovina-domingos-pecci",
    "title": "Jovina",
    "composer": "Domingos Pecci",
-   "confidence": "medium",
+   "confidence": "high",
    "generated": "mxl",
    "file": "jovina-domingos-pecci.json",
    "parts": [
@@ -5179,7 +5180,7 @@
    "song_id": "juriti-raul-silva",
    "title": "Juriti",
    "composer": "Raul Silva",
-   "confidence": "medium",
+   "confidence": "high",
    "generated": "mxl",
    "file": "juriti-raul-silva.json",
    "parts": [
@@ -5192,7 +5193,7 @@
    "song_id": "juventude-saudosa-amador-pinho",
    "title": "Juventude saudosa",
    "composer": "Amador Pinho",
-   "confidence": "medium",
+   "confidence": "high",
    "generated": "mxl",
    "file": "juventude-saudosa-amador-pinho.json",
    "parts": [
@@ -5218,7 +5219,7 @@
    "song_id": "labirinto-ernesto-nazareth",
    "title": "Labirinto",
    "composer": "Ernesto Nazareth",
-   "confidence": "medium",
+   "confidence": "high",
    "generated": "mxl",
    "file": "labirinto-ernesto-nazareth.json",
    "parts": [
@@ -5232,7 +5233,7 @@
    "song_id": "lagrimas-de-virgem-luiz-americano",
    "title": "Lágrimas de virgem",
    "composer": "Luiz Americano",
-   "confidence": "medium",
+   "confidence": "high",
    "generated": "mxl",
    "file": "lagrimas-de-virgem-luiz-americano.json",
    "parts": [
@@ -5246,7 +5247,7 @@
    "song_id": "lamento-pixinguinha",
    "title": "Lamento",
    "composer": "Pixinguinha",
-   "confidence": "medium",
+   "confidence": "high",
    "generated": "mxl",
    "file": "lamento-pixinguinha.json",
    "parts": [
@@ -5260,7 +5261,7 @@
    "song_id": "lampiao-do-paraty-gabriel-trucco",
    "title": "Lampião do Paraty",
    "composer": "Gabriel Trucco",
-   "confidence": "medium",
+   "confidence": "high",
    "generated": "mxl",
    "file": "lampiao-do-paraty-gabriel-trucco.json",
    "parts": [
@@ -5273,7 +5274,7 @@
    "song_id": "lapeando-com-o-barcelos-rafael-mallmith",
    "title": "Lapeando com o Barcelos",
    "composer": "Rafael Mallmith",
-   "confidence": "medium",
+   "confidence": "high",
    "generated": "mxl",
    "file": "lapeando-com-o-barcelos-rafael-mallmith.json",
    "parts": [
@@ -5301,7 +5302,7 @@
    "song_id": "leao-de-chacara-dino",
    "title": "Leão de chácara",
    "composer": "Dino",
-   "confidence": "medium",
+   "confidence": "high",
    "generated": "mxl",
    "file": "leao-de-chacara-dino.json",
    "parts": [
@@ -5326,7 +5327,7 @@
    "song_id": "lembrancas-de-recife-rossini-ferreira",
    "title": "Lembranças de Recife",
    "composer": "Rossini Ferreira",
-   "confidence": "medium",
+   "confidence": "high",
    "generated": "mxl",
    "file": "lembrancas-de-recife-rossini-ferreira.json",
    "parts": [
@@ -5366,7 +5367,7 @@
    "song_id": "lembrando-nazareth-luperce-miranda",
    "title": "Lembrando Nazareth",
    "composer": "Luperce Miranda",
-   "confidence": "medium",
+   "confidence": "high",
    "generated": "mxl",
    "file": "lembrando-nazareth-luperce-miranda.json",
    "parts": [
@@ -5379,7 +5380,7 @@
    "song_id": "lembro-me-ainda-dino",
    "title": "Lembro-me ainda",
    "composer": "Dino",
-   "confidence": "medium",
+   "confidence": "high",
    "generated": "mxl",
    "file": "lembro-me-ainda-dino.json",
    "parts": [
@@ -5393,7 +5394,7 @@
    "song_id": "levanta-meu-nego-pixinguinha",
    "title": "Levanta meu nego",
    "composer": "Pixinguinha",
-   "confidence": "medium",
+   "confidence": "high",
    "generated": "mxl",
    "file": "levanta-meu-nego-pixinguinha.json",
    "parts": [
@@ -5410,7 +5411,7 @@
    "song_id": "lidia-anacleto-de-medeiros",
    "title": "Lídia",
    "composer": "Anacleto de Medeiros",
-   "confidence": "medium",
+   "confidence": "high",
    "generated": "mxl",
    "file": "lidia-anacleto-de-medeiros.json",
    "parts": [
@@ -5453,7 +5454,7 @@
    "song_id": "lingua-de-preto-honorino-lopes",
    "title": "Língua de preto",
    "composer": "Honorino Lopes",
-   "confidence": "medium",
+   "confidence": "low",
    "generated": "mxl",
    "file": "lingua-de-preto-honorino-lopes.json",
    "parts": [
@@ -5467,7 +5468,7 @@
    "song_id": "linguagem-do-coracao-joaquim-callado",
    "title": "Linguagem do coração",
    "composer": "Joaquim Callado",
-   "confidence": "medium",
+   "confidence": "high",
    "generated": "mxl",
    "file": "linguagem-do-coracao-joaquim-callado.json",
    "parts": [
@@ -5561,7 +5562,7 @@
    "song_id": "luar-no-arpoador-jacob-do-bandolim",
    "title": "Luar no Arpoador",
    "composer": "Jacob do Bandolim",
-   "confidence": "medium",
+   "confidence": "high",
    "generated": "mxl",
    "file": "luar-no-arpoador-jacob-do-bandolim.json",
    "parts": [
@@ -5574,7 +5575,7 @@
    "song_id": "luiz-americano-em-cabo-frio-luiz-americano",
    "title": "Luiz Americano em Cabo Frio",
    "composer": "Luiz Americano",
-   "confidence": "medium",
+   "confidence": "high",
    "generated": "mxl",
    "file": "luiz-americano-em-cabo-frio-luiz-americano.json",
    "parts": [
@@ -5605,7 +5606,7 @@
    "song_id": "machuca-mane-pixinguinha",
    "title": "Machuca Mané",
    "composer": "Pixinguinha",
-   "confidence": "medium",
+   "confidence": "high",
    "generated": "mxl",
    "file": "machuca-mane-pixinguinha.json",
    "parts": [
@@ -5619,7 +5620,7 @@
    "song_id": "machucando-adalberto-de-souza",
    "title": "Machucando",
    "composer": "Adalberto de Souza",
-   "confidence": "medium",
+   "confidence": "high",
    "generated": "mxl",
    "file": "machucando-adalberto-de-souza.json",
    "parts": [
@@ -5633,7 +5634,7 @@
    "song_id": "magoado-dilermando-reis",
    "title": "Magoado",
    "composer": "Dilermando Reis",
-   "confidence": "medium",
+   "confidence": "high",
    "generated": "mxl",
    "file": "magoado-dilermando-reis.json",
    "parts": [
@@ -5661,7 +5662,7 @@
    "song_id": "maluquinha-mauricio-carrilho",
    "title": "Maluquinha",
    "composer": "Maurício Carrilho",
-   "confidence": "medium",
+   "confidence": "high",
    "generated": "mxl",
    "file": "maluquinha-mauricio-carrilho.json",
    "parts": [
@@ -5687,7 +5688,7 @@
    "song_id": "manga-rosa-jonas-silva",
    "title": "Manga rosa",
    "composer": "Jonas Silva",
-   "confidence": "medium",
+   "confidence": "high",
    "generated": "mxl",
    "file": "manga-rosa-jonas-silva.json",
    "parts": [
@@ -5700,7 +5701,7 @@
    "song_id": "manguaceira-marcilio-lopes",
    "title": "Manguaceira",
    "composer": "Marcílio Lopes",
-   "confidence": "medium",
+   "confidence": "high",
    "generated": "mxl",
    "file": "manguaceira-marcilio-lopes.json",
    "parts": [
@@ -5714,7 +5715,7 @@
    "song_id": "manhoso-evandro-do-bandolim",
    "title": "Manhoso",
    "composer": "Evandro do Bandolim",
-   "confidence": "medium",
+   "confidence": "high",
    "generated": "mxl",
    "file": "manhoso-evandro-do-bandolim.json",
    "parts": [
@@ -5741,7 +5742,7 @@
    "song_id": "maria-de-lourdes-cidinho-7-cordas",
    "title": "Maria de Lourdes",
    "composer": "Cidinho 7 Cordas",
-   "confidence": "medium",
+   "confidence": "high",
    "generated": "mxl",
    "file": "maria-de-lourdes-cidinho-7-cordas.json",
    "parts": [
@@ -5767,7 +5768,7 @@
    "song_id": "mariana-em-sarilho-irineu-de-almeida",
    "title": "Mariana em sarilho",
    "composer": "Irineu de Almeida",
-   "confidence": "medium",
+   "confidence": "high",
    "generated": "mxl",
    "file": "mariana-em-sarilho-irineu-de-almeida.json",
    "parts": [
@@ -5780,7 +5781,7 @@
    "song_id": "marilene-pixinguinha",
    "title": "Marilene",
    "composer": "Pixinguinha",
-   "confidence": "medium",
+   "confidence": "high",
    "generated": "mxl",
    "file": "marilene-pixinguinha.json",
    "parts": [
@@ -5836,7 +5837,7 @@
    "song_id": "maxixe-carioca-marcio-almeida",
    "title": "Maxixe carioca",
    "composer": "Márcio Almeida",
-   "confidence": "medium",
+   "confidence": "high",
    "generated": "mxl",
    "file": "maxixe-carioca-marcio-almeida.json",
    "parts": [
@@ -5849,7 +5850,7 @@
    "song_id": "maxixe-da-familia-silverio-pontes",
    "title": "Maxixe da família",
    "composer": "Silvério Pontes",
-   "confidence": "medium",
+   "confidence": "high",
    "generated": "mxl",
    "file": "maxixe-da-familia-silverio-pontes.json",
    "parts": [
@@ -5878,7 +5879,7 @@
    "song_id": "maxixe-na-tuba-jacob-do-bandolim",
    "title": "Maxixe na tuba",
    "composer": "Jacob do Bandolim",
-   "confidence": "medium",
+   "confidence": "high",
    "generated": "mxl",
    "file": "maxixe-na-tuba-jacob-do-bandolim.json",
    "parts": [
@@ -5932,7 +5933,7 @@
    "song_id": "meio-de-boreste-jayme-vignoli",
    "title": "Meio de boreste",
    "composer": "Jayme Vignoli",
-   "confidence": "medium",
+   "confidence": "low",
    "generated": "mxl",
    "file": "meio-de-boreste-jayme-vignoli.json",
    "parts": [
@@ -5975,7 +5976,7 @@
    "song_id": "menino-de-ouro-ernesto-nazareth",
    "title": "Menino de ouro",
    "composer": "Ernesto Nazareth",
-   "confidence": "medium",
+   "confidence": "high",
    "generated": "mxl",
    "file": "menino-de-ouro-ernesto-nazareth.json",
    "parts": [
@@ -5991,7 +5992,7 @@
    "song_id": "mercedes-luiz-de-faria",
    "title": "Mercedes",
    "composer": "Luiz de Faria",
-   "confidence": "medium",
+   "confidence": "high",
    "generated": "mxl",
    "file": "mercedes-luiz-de-faria.json",
    "parts": [
@@ -6032,7 +6033,7 @@
    "song_id": "meu-carnaval-cincinato-s-dos-santos",
    "title": "Meu carnaval",
    "composer": "Cincinato S. dos Santos",
-   "confidence": "medium",
+   "confidence": "high",
    "generated": "mxl",
    "file": "meu-carnaval-cincinato-s-dos-santos.json",
    "parts": [
@@ -6045,7 +6046,7 @@
    "song_id": "meu-chapeu-virou-pandeiro-candinho",
    "title": "Meu chapéu virou pandeiro",
    "composer": "Candinho",
-   "confidence": "medium",
+   "confidence": "high",
    "generated": "mxl",
    "file": "meu-chapeu-virou-pandeiro-candinho.json",
    "parts": [
@@ -6071,7 +6072,7 @@
    "song_id": "meu-lamento-jacob-do-bandolim",
    "title": "Meu Lamento",
    "composer": "Jacob do Bandolim",
-   "confidence": "medium",
+   "confidence": "high",
    "generated": "mxl",
    "file": "meu-lamento-jacob-do-bandolim.json",
    "parts": [
@@ -6084,7 +6085,7 @@
    "song_id": "meu-sabia-raul-silva",
    "title": "Meu sabiá",
    "composer": "Raul Silva",
-   "confidence": "medium",
+   "confidence": "high",
    "generated": "mxl",
    "file": "meu-sabia-raul-silva.json",
    "parts": [
@@ -6098,7 +6099,7 @@
    "song_id": "meu-saudoso-lar-rafael-mallmith",
    "title": "Meu saudoso lar",
    "composer": "Rafael Mallmith",
-   "confidence": "medium",
+   "confidence": "high",
    "generated": "mxl",
    "file": "meu-saudoso-lar-rafael-mallmith.json",
    "parts": [
@@ -6127,7 +6128,7 @@
    "song_id": "meu-sonho-cristovao-bastos",
    "title": "Meu sonho",
    "composer": "Cristovão Bastos",
-   "confidence": "medium",
+   "confidence": "high",
    "generated": "mxl",
    "file": "meu-sonho-cristovao-bastos.json",
    "parts": [
@@ -6183,7 +6184,7 @@
    "song_id": "migalhas-de-amor-jacob-do-bandolim",
    "title": "Migalhas de Amor",
    "composer": "Jacob do Bandolim",
-   "confidence": "medium",
+   "confidence": "high",
    "generated": "mxl",
    "file": "migalhas-de-amor-jacob-do-bandolim.json",
    "parts": [
@@ -6210,7 +6211,7 @@
    "song_id": "mimoso-jacob-do-bandolim",
    "title": "Mimoso",
    "composer": "Jacob do Bandolim",
-   "confidence": "medium",
+   "confidence": "low",
    "generated": "mxl",
    "file": "mimoso-jacob-do-bandolim.json",
    "parts": [
@@ -6237,7 +6238,7 @@
    "song_id": "minha-flauta-de-prata-meira",
    "title": "Minha flauta de prata",
    "composer": "Meira",
-   "confidence": "medium",
+   "confidence": "high",
    "generated": "mxl",
    "file": "minha-flauta-de-prata-meira.json",
    "parts": [
@@ -6251,7 +6252,7 @@
    "song_id": "minha-gente-pixinguinha",
    "title": "Minha gente",
    "composer": "Pixinguinha",
-   "confidence": "medium",
+   "confidence": "high",
    "generated": "mxl",
    "file": "minha-gente-pixinguinha.json",
    "parts": [
@@ -6265,7 +6266,7 @@
    "song_id": "minha-lagrima-luiz-americano",
    "title": "Minha lágrima",
    "composer": "Luiz Americano",
-   "confidence": "medium",
+   "confidence": "high",
    "generated": "mxl",
    "file": "minha-lagrima-luiz-americano.json",
    "parts": [
@@ -6278,7 +6279,7 @@
    "song_id": "minha-maria-cidinho-7-cordas",
    "title": "Minha Maria",
    "composer": "Cidinho 7 Cordas",
-   "confidence": "medium",
+   "confidence": "high",
    "generated": "mxl",
    "file": "minha-maria-cidinho-7-cordas.json",
    "parts": [
@@ -6373,7 +6374,7 @@
    "song_id": "moderno-esmeraldino-sales",
    "title": "Moderno",
    "composer": "Esmeraldino Sales",
-   "confidence": "medium",
+   "confidence": "high",
    "generated": "mxl",
    "file": "moderno-esmeraldino-sales.json",
    "parts": [
@@ -6398,7 +6399,7 @@
    "song_id": "modulando-rubens-leal-brito",
    "title": "Modulando",
    "composer": "Rubens Leal Brito",
-   "confidence": "medium",
+   "confidence": "high",
    "generated": "mxl",
    "file": "modulando-rubens-leal-brito.json",
    "parts": [
@@ -6411,7 +6412,7 @@
    "song_id": "morena-boa-de-ouro-ary-barroso",
    "title": "Morena Boa de Ouro",
    "composer": "Ary Barroso",
-   "confidence": "medium",
+   "confidence": "high",
    "generated": "mxl",
    "file": "morena-boa-de-ouro-ary-barroso.json",
    "parts": [
@@ -6427,7 +6428,7 @@
    "song_id": "mulher-vaidosa-jacob-do-bandolim",
    "title": "Mulher vaidosa",
    "composer": "Jacob do Bandolim",
-   "confidence": "medium",
+   "confidence": "high",
    "generated": "mxl",
    "file": "mulher-vaidosa-jacob-do-bandolim.json",
    "parts": [
@@ -6443,7 +6444,7 @@
    "song_id": "mumbaba-severino-araujo",
    "title": "Mumbaba",
    "composer": "Severino Araújo",
-   "confidence": "medium",
+   "confidence": "low",
    "generated": "mxl",
    "file": "mumbaba-severino-araujo.json",
    "parts": [
@@ -6457,7 +6458,7 @@
    "song_id": "murmurando-fon-fon",
    "title": "Murmurando",
    "composer": "Fon Fon",
-   "confidence": "medium",
+   "confidence": "high",
    "generated": "mxl",
    "file": "murmurando-fon-fon.json",
    "parts": [
@@ -6471,7 +6472,7 @@
    "song_id": "musicos-e-poetas-sivuca",
    "title": "Músicos e poetas",
    "composer": "Sivuca",
-   "confidence": "medium",
+   "confidence": "high",
    "generated": "mxl",
    "file": "musicos-e-poetas-sivuca.json",
    "parts": [
@@ -6484,7 +6485,7 @@
    "song_id": "na-casa-do-athayde-luperce-miranda",
    "title": "Na casa do Athayde",
    "composer": "Luperce Miranda",
-   "confidence": "medium",
+   "confidence": "high",
    "generated": "mxl",
    "file": "na-casa-do-athayde-luperce-miranda.json",
    "parts": [
@@ -6498,7 +6499,7 @@
    "song_id": "na-gafieira-do-moura-rodrigo-lessa",
    "title": "Na gafieira do Moura",
    "composer": "Rodrigo Lessa",
-   "confidence": "medium",
+   "confidence": "high",
    "generated": "mxl",
    "file": "na-gafieira-do-moura-rodrigo-lessa.json",
    "parts": [
@@ -6511,7 +6512,7 @@
    "song_id": "na-gloria-raul-de-barros",
    "title": "Na Glória",
    "composer": "Raul de Barros",
-   "confidence": "medium",
+   "confidence": "high",
    "generated": "mxl",
    "file": "na-gloria-raul-de-barros.json",
    "parts": [
@@ -6525,7 +6526,7 @@
    "song_id": "na-sombra-da-caramboleira-alvaro-carrilho",
    "title": "Na sombra da Caramboleira",
    "composer": "Álvaro Carrilho",
-   "confidence": "medium",
+   "confidence": "high",
    "generated": "mxl",
    "file": "na-sombra-da-caramboleira-alvaro-carrilho.json",
    "parts": [
@@ -6538,7 +6539,7 @@
    "song_id": "nao-escapa-candinho",
    "title": "Não escapa",
    "composer": "Candinho",
-   "confidence": "medium",
+   "confidence": "high",
    "generated": "mxl",
    "file": "nao-escapa-candinho.json",
    "parts": [
@@ -6551,7 +6552,7 @@
    "song_id": "nao-gostei-dos-seus-modos-aristides-oliveira",
    "title": "Não gostei dos seus modos",
    "composer": "Aristides Oliveira",
-   "confidence": "medium",
+   "confidence": "high",
    "generated": "mxl",
    "file": "nao-gostei-dos-seus-modos-aristides-oliveira.json",
    "parts": [
@@ -6579,7 +6580,7 @@
    "song_id": "nao-me-toques-zequinha-de-abreu",
    "title": "Não me toques",
    "composer": "Zequinha de Abreu",
-   "confidence": "medium",
+   "confidence": "high",
    "generated": "mxl",
    "file": "nao-me-toques-zequinha-de-abreu.json",
    "parts": [
@@ -6592,7 +6593,7 @@
    "song_id": "nao-posso-mais-pixinguinha",
    "title": "Não posso mais",
    "composer": "Pixinguinha",
-   "confidence": "medium",
+   "confidence": "high",
    "generated": "mxl",
    "file": "nao-posso-mais-pixinguinha.json",
    "parts": [
@@ -6606,7 +6607,7 @@
    "song_id": "nao-se-impressione-chiquinha-gonzaga",
    "title": "Não se impressione",
    "composer": "Chiquinha Gonzaga",
-   "confidence": "medium",
+   "confidence": "high",
    "generated": "mxl",
    "file": "nao-se-impressione-chiquinha-gonzaga.json",
    "parts": [
@@ -6618,7 +6619,7 @@
    "song_id": "nao-sei-porque-joel-nascimento",
    "title": "Não sei porque",
    "composer": "Joel Nascimento",
-   "confidence": "medium",
+   "confidence": "high",
    "generated": "mxl",
    "file": "nao-sei-porque-joel-nascimento.json",
    "parts": [
@@ -6645,7 +6646,7 @@
    "song_id": "naquele-tempo-pixinguinha",
    "title": "Naquele tempo",
    "composer": "Pixinguinha",
-   "confidence": "medium",
+   "confidence": "high",
    "generated": "mxl",
    "file": "naquele-tempo-pixinguinha.json",
    "parts": [
@@ -6697,7 +6698,7 @@
    "song_id": "negrinha-joubert-de-carvalho",
    "title": "Negrinha",
    "composer": "Joubert de Carvalho",
-   "confidence": "medium",
+   "confidence": "high",
    "generated": "mxl",
    "file": "negrinha-joubert-de-carvalho.json",
    "parts": [
@@ -6712,7 +6713,7 @@
    "song_id": "nem-ela-nem-eu-nelson-alves",
    "title": "Nem ela, nem eu",
    "composer": "Nelson Alves",
-   "confidence": "medium",
+   "confidence": "high",
    "generated": "mxl",
    "file": "nem-ela-nem-eu-nelson-alves.json",
    "parts": [
@@ -6758,7 +6759,7 @@
    "song_id": "nina-cincinato-s-dos-santos",
    "title": "Nina",
    "composer": "Cincinato S. dos Santos",
-   "confidence": "medium",
+   "confidence": "low",
    "generated": "mxl",
    "file": "nina-cincinato-s-dos-santos.json",
    "parts": [
@@ -6771,7 +6772,7 @@
    "song_id": "ninando-rafael-mallmith",
    "title": "Ninando",
    "composer": "Rafael Mallmith",
-   "confidence": "medium",
+   "confidence": "high",
    "generated": "mxl",
    "file": "ninando-rafael-mallmith.json",
    "parts": [
@@ -6811,7 +6812,7 @@
    "song_id": "no-jardim-jacob-do-bandolim",
    "title": "No Jardim",
    "composer": "Jacob do Bandolim",
-   "confidence": "medium",
+   "confidence": "high",
    "generated": "mxl",
    "file": "no-jardim-jacob-do-bandolim.json",
    "parts": [
@@ -6839,7 +6840,7 @@
    "song_id": "no-meu-tempo-era-assim-eduardo-souto",
    "title": "No meu tempo era assim",
    "composer": "Eduardo Souto",
-   "confidence": "medium",
+   "confidence": "high",
    "generated": "mxl",
    "file": "no-meu-tempo-era-assim-eduardo-souto.json",
    "parts": [
@@ -6853,7 +6854,7 @@
    "song_id": "no-paraiso-das-mulatas-guio-de-morais",
    "title": "No paraíso das mulatas",
    "composer": "Guio de Morais",
-   "confidence": "medium",
+   "confidence": "high",
    "generated": "mxl",
    "file": "no-paraiso-das-mulatas-guio-de-morais.json",
    "parts": [
@@ -6891,7 +6892,7 @@
    "song_id": "no-tempo-do-vovo-toco-preto",
    "title": "No tempo do vovô",
    "composer": "Toco Preto",
-   "confidence": "medium",
+   "confidence": "high",
    "generated": "mxl",
    "file": "no-tempo-do-vovo-toco-preto.json",
    "parts": [
@@ -6946,7 +6947,7 @@
    "song_id": "nostalgia-ao-luar-pixinguinha",
    "title": "Nostalgia ao luar",
    "composer": "Pixinguinha",
-   "confidence": "medium",
+   "confidence": "high",
    "generated": "mxl",
    "file": "nostalgia-ao-luar-pixinguinha.json",
    "parts": [
@@ -6987,7 +6988,7 @@
    "song_id": "novos-rumos-rossini-ferreira",
    "title": "Novos rumos",
    "composer": "Rossini Ferreira",
-   "confidence": "medium",
+   "confidence": "high",
    "generated": "mxl",
    "file": "novos-rumos-rossini-ferreira.json",
    "parts": [
@@ -7013,7 +7014,7 @@
    "song_id": "num-bate-papo-indio-do-cavaquinho",
    "title": "Num bate papo",
    "composer": "Índio do Cavaquinho",
-   "confidence": "medium",
+   "confidence": "high",
    "generated": "mxl",
    "file": "num-bate-papo-indio-do-cavaquinho.json",
    "parts": [
@@ -7027,7 +7028,7 @@
    "song_id": "num-domingo-de-sol-jose-carlos-maciel",
    "title": "Num domingo de sol",
    "composer": "José Carlos Maciel",
-   "confidence": "medium",
+   "confidence": "high",
    "generated": "mxl",
    "file": "num-domingo-de-sol-jose-carlos-maciel.json",
    "parts": [
@@ -7039,7 +7040,7 @@
    "song_id": "numa-seresta-luiz-americano",
    "title": "Numa seresta",
    "composer": "Luiz Americano",
-   "confidence": "medium",
+   "confidence": "high",
    "generated": "mxl",
    "file": "numa-seresta-luiz-americano.json",
    "parts": [
@@ -7053,7 +7054,7 @@
    "song_id": "o-alvorecer-ernesto-nazareth",
    "title": "O alvorecer",
    "composer": "Ernesto Nazareth",
-   "confidence": "medium",
+   "confidence": "high",
    "generated": "mxl",
    "file": "o-alvorecer-ernesto-nazareth.json",
    "parts": [
@@ -7081,7 +7082,7 @@
    "song_id": "o-bom-filho-a-casa-torna-bonfiglio-de-oliveira",
    "title": "O bom filho à casa torna",
    "composer": "Bonfíglio de Oliveira",
-   "confidence": "medium",
+   "confidence": "high",
    "generated": "mxl",
    "file": "o-bom-filho-a-casa-torna-bonfiglio-de-oliveira.json",
    "parts": [
@@ -7109,7 +7110,7 @@
    "song_id": "o-coco-do-coco-guinga",
    "title": "O coco do coco",
    "composer": "Guinga",
-   "confidence": "medium",
+   "confidence": "high",
    "generated": "mxl",
    "file": "o-coco-do-coco-guinga.json",
    "parts": [
@@ -7137,7 +7138,7 @@
    "song_id": "o-eterno-jovem-bach-altamiro-carrilho",
    "title": "O eterno jovem Bach",
    "composer": "Altamiro Carrilho",
-   "confidence": "medium",
+   "confidence": "high",
    "generated": "mxl",
    "file": "o-eterno-jovem-bach-altamiro-carrilho.json",
    "parts": [
@@ -7150,7 +7151,7 @@
    "song_id": "o-gato-e-o-canario-pixinguinha",
    "title": "O gato e o canário",
    "composer": "Pixinguinha",
-   "confidence": "medium",
+   "confidence": "high",
    "generated": "mxl",
    "file": "o-gato-e-o-canario-pixinguinha.json",
    "parts": [
@@ -7164,7 +7165,7 @@
    "song_id": "o-no-candinho",
    "title": "O nó",
    "composer": "Candinho",
-   "confidence": "medium",
+   "confidence": "high",
    "generated": "mxl",
    "file": "o-no-candinho.json",
    "parts": [
@@ -7191,7 +7192,7 @@
    "song_id": "o-que-ha-ernesto-nazareth",
    "title": "O que há",
    "composer": "Ernesto Nazareth",
-   "confidence": "medium",
+   "confidence": "high",
    "generated": "mxl",
    "file": "o-que-ha-ernesto-nazareth.json",
    "parts": [
@@ -7205,7 +7206,7 @@
    "song_id": "o-rasga-pixinguinha",
    "title": "O rasga",
    "composer": "Pixinguinha",
-   "confidence": "medium",
+   "confidence": "high",
    "generated": "mxl",
    "file": "o-rasga-pixinguinha.json",
    "parts": [
@@ -7232,7 +7233,7 @@
    "song_id": "o-teu-olhar-anacleto-de-medeiros",
    "title": "O teu olhar",
    "composer": "Anacleto de Medeiros",
-   "confidence": "medium",
+   "confidence": "high",
    "generated": "mxl",
    "file": "o-teu-olhar-anacleto-de-medeiros.json",
    "parts": [
@@ -7274,7 +7275,7 @@
    "song_id": "oculto-pixinguinha",
    "title": "Oculto",
    "composer": "Pixinguinha",
-   "confidence": "medium",
+   "confidence": "high",
    "generated": "mxl",
    "file": "oculto-pixinguinha.json",
    "parts": [
@@ -7316,7 +7317,7 @@
    "song_id": "oh-clarinete-gostoso-severino-araujo",
    "title": "Oh! Clarinete gostoso",
    "composer": "Severino Araújo",
-   "confidence": "medium",
+   "confidence": "high",
    "generated": "mxl",
    "file": "oh-clarinete-gostoso-severino-araujo.json",
    "parts": [
@@ -7329,7 +7330,7 @@
    "song_id": "okik-ryas-avena-de-castro",
    "title": "Okik-Ryas",
    "composer": "Avena de Castro",
-   "confidence": "medium",
+   "confidence": "high",
    "generated": "mxl",
    "file": "okik-ryas-avena-de-castro.json",
    "parts": [
@@ -7344,7 +7345,7 @@
    "song_id": "olha-a-cara-dele-candinho",
    "title": "Olha a cara dele",
    "composer": "Candinho",
-   "confidence": "medium",
+   "confidence": "high",
    "generated": "mxl",
    "file": "olha-a-cara-dele-candinho.json",
    "parts": [
@@ -7357,7 +7358,7 @@
    "song_id": "olympia-cincinato-s-dos-santos",
    "title": "Olympia",
    "composer": "Cincinato S. dos Santos",
-   "confidence": "medium",
+   "confidence": "high",
    "generated": "mxl",
    "file": "olympia-cincinato-s-dos-santos.json",
    "parts": [
@@ -7386,7 +7387,7 @@
    "song_id": "orgulhosa-tico-tico",
    "title": "Orgulhosa",
    "composer": "Tico Tico",
-   "confidence": "medium",
+   "confidence": "high",
    "generated": "mxl",
    "file": "orgulhosa-tico-tico.json",
    "parts": [
@@ -7413,7 +7414,7 @@
    "song_id": "os-boemios-anacleto-de-medeiros",
    "title": "Os boêmios",
    "composer": "Anacleto de Medeiros",
-   "confidence": "medium",
+   "confidence": "high",
    "generated": "mxl",
    "file": "os-boemios-anacleto-de-medeiros.json",
    "parts": [
@@ -7427,7 +7428,7 @@
    "song_id": "os-cinco-camaradas-avena-de-castro",
    "title": "Os cinco camaradas",
    "composer": "Avena de Castro",
-   "confidence": "medium",
+   "confidence": "high",
    "generated": "mxl",
    "file": "os-cinco-camaradas-avena-de-castro.json",
    "parts": [
@@ -7440,7 +7441,7 @@
    "song_id": "os-cinco-companheiros-pixinguinha",
    "title": "Os cinco companheiros",
    "composer": "Pixinguinha",
-   "confidence": "medium",
+   "confidence": "high",
    "generated": "mxl",
    "file": "os-cinco-companheiros-pixinguinha.json",
    "parts": [
@@ -7480,7 +7481,7 @@
    "song_id": "oscarina-pixinguinha",
    "title": "Oscarina",
    "composer": "Pixinguinha",
-   "confidence": "medium",
+   "confidence": "high",
    "generated": "mxl",
    "file": "oscarina-pixinguinha.json",
    "parts": [
@@ -7493,7 +7494,7 @@
    "song_id": "ouro-sobre-azul-ernesto-nazareth",
    "title": "Ouro sobre azul",
    "composer": "Ernesto Nazareth",
-   "confidence": "medium",
+   "confidence": "high",
    "generated": "mxl",
    "file": "ouro-sobre-azul-ernesto-nazareth.json",
    "parts": [
@@ -7508,7 +7509,7 @@
    "song_id": "pablo-no-choro-alvaro-carrilho",
    "title": "Pablo no choro",
    "composer": "Álvaro Carrilho",
-   "confidence": "medium",
+   "confidence": "high",
    "generated": "mxl",
    "file": "pablo-no-choro-alvaro-carrilho.json",
    "parts": [
@@ -7521,7 +7522,7 @@
    "song_id": "paciente-pixinguinha",
    "title": "Paciente",
    "composer": "Pixinguinha",
-   "confidence": "medium",
+   "confidence": "high",
    "generated": "mxl",
    "file": "paciente-pixinguinha.json",
    "parts": [
@@ -7535,7 +7536,7 @@
    "song_id": "pagao-pixinguinha",
    "title": "Pagão",
    "composer": "Pixinguinha",
-   "confidence": "medium",
+   "confidence": "high",
    "generated": "mxl",
    "file": "pagao-pixinguinha.json",
    "parts": [
@@ -7576,7 +7577,7 @@
    "song_id": "papa-leguas-luiz-flavio-alcofra",
    "title": "Papa Léguas",
    "composer": "Luiz Flavio Alcofra",
-   "confidence": "medium",
+   "confidence": "high",
    "generated": "mxl",
    "file": "papa-leguas-luiz-flavio-alcofra.json",
    "parts": [
@@ -7629,7 +7630,7 @@
    "song_id": "paraquedista-jose-leocadio",
    "title": "Paraquedista",
    "composer": "José Leocádio",
-   "confidence": "medium",
+   "confidence": "high",
    "generated": "mxl",
    "file": "paraquedista-jose-leocadio.json",
    "parts": [
@@ -7642,7 +7643,7 @@
    "song_id": "parati-dancante-eduardo-souto",
    "title": "Parati dançante",
    "composer": "Eduardo Souto",
-   "confidence": "medium",
+   "confidence": "high",
    "generated": "mxl",
    "file": "parati-dancante-eduardo-souto.json",
    "parts": [
@@ -7656,7 +7657,7 @@
    "song_id": "pardal-embriagado-patrocinio-gomes",
    "title": "Pardal embriagado",
    "composer": "Patrocínio Gomes",
-   "confidence": "medium",
+   "confidence": "high",
    "generated": "mxl",
    "file": "pardal-embriagado-patrocinio-gomes.json",
    "parts": [
@@ -7670,7 +7671,7 @@
    "song_id": "parece-com-ninguem-paulinho-marques",
    "title": "Parece com ninguém",
    "composer": "Paulinho Marques",
-   "confidence": "medium",
+   "confidence": "high",
    "generated": "mxl",
    "file": "parece-com-ninguem-paulinho-marques.json",
    "parts": [
@@ -7696,7 +7697,7 @@
    "song_id": "passatempo-pixinguinha",
    "title": "Passatempo",
    "composer": "Pixinguinha",
-   "confidence": "medium",
+   "confidence": "high",
    "generated": "mxl",
    "file": "passatempo-pixinguinha.json",
    "parts": [
@@ -7710,7 +7711,7 @@
    "song_id": "passinho-de-moca-henrique-dourado",
    "title": "Passinho de moça",
    "composer": "Henrique Dourado",
-   "confidence": "medium",
+   "confidence": "high",
    "generated": "mxl",
    "file": "passinho-de-moca-henrique-dourado.json",
    "parts": [
@@ -7752,7 +7753,7 @@
    "song_id": "pe-de-boi-rossini-ferreira",
    "title": "Pé de boi",
    "composer": "Rossini Ferreira",
-   "confidence": "medium",
+   "confidence": "high",
    "generated": "mxl",
    "file": "pe-de-boi-rossini-ferreira.json",
    "parts": [
@@ -7807,7 +7808,7 @@
    "song_id": "peguei-a-reta-porfirio-costa",
    "title": "Peguei a reta",
    "composer": "Porfirio Costa",
-   "confidence": "medium",
+   "confidence": "high",
    "generated": "mxl",
    "file": "peguei-a-reta-porfirio-costa.json",
    "parts": [
@@ -7821,7 +7822,7 @@
    "song_id": "pensando-em-voce-cincinato-s-dos-santos",
    "title": "Pensando em você",
    "composer": "Cincinato S. dos Santos",
-   "confidence": "medium",
+   "confidence": "high",
    "generated": "mxl",
    "file": "pensando-em-voce-cincinato-s-dos-santos.json",
    "parts": [
@@ -7874,7 +7875,7 @@
    "song_id": "perigoso-orlando-silveira",
    "title": "Perigoso",
    "composer": "Orlando Silveira",
-   "confidence": "medium",
+   "confidence": "high",
    "generated": "mxl",
    "file": "perigoso-orlando-silveira.json",
    "parts": [
@@ -7928,7 +7929,7 @@
    "song_id": "picadinho-a-baiana-luperce-miranda",
    "title": "Picadinho à baiana",
    "composer": "Luperce Miranda",
-   "confidence": "medium",
+   "confidence": "high",
    "generated": "mxl",
    "file": "picadinho-a-baiana-luperce-miranda.json",
    "parts": [
@@ -7970,7 +7971,7 @@
    "song_id": "pinguim-ernesto-nazareth",
    "title": "Pinguim",
    "composer": "Ernesto Nazareth",
-   "confidence": "medium",
+   "confidence": "high",
    "generated": "mxl",
    "file": "pinguim-ernesto-nazareth.json",
    "parts": [
@@ -7999,7 +8000,7 @@
    "song_id": "pixinga-cristovao-bastos",
    "title": "Pixinga",
    "composer": "Cristovão Bastos",
-   "confidence": "medium",
+   "confidence": "high",
    "generated": "mxl",
    "file": "pixinga-cristovao-bastos.json",
    "parts": [
@@ -8054,7 +8055,7 @@
    "song_id": "polca-marcio-almeida",
    "title": "Polca",
    "composer": "Márcio Almeida",
-   "confidence": "medium",
+   "confidence": "high",
    "generated": "mxl",
    "file": "polca-marcio-almeida.json",
    "parts": [
@@ -8082,7 +8083,7 @@
    "song_id": "polqueando-niquinho",
    "title": "Polqueando",
    "composer": "Niquinho",
-   "confidence": "medium",
+   "confidence": "high",
    "generated": "mxl",
    "file": "polqueando-niquinho.json",
    "parts": [
@@ -8137,7 +8138,7 @@
    "song_id": "praga-de-sogra-joaquim-sobreiro",
    "title": "Praga de sogra",
    "composer": "Joaquim Sobreiro",
-   "confidence": "medium",
+   "confidence": "high",
    "generated": "mxl",
    "file": "praga-de-sogra-joaquim-sobreiro.json",
    "parts": [
@@ -8164,7 +8165,7 @@
    "song_id": "preciosa-jacob-do-bandolim",
    "title": "Preciosa",
    "composer": "Jacob do Bandolim",
-   "confidence": "medium",
+   "confidence": "high",
    "generated": "mxl",
    "file": "preciosa-jacob-do-bandolim.json",
    "parts": [
@@ -8177,7 +8178,7 @@
    "song_id": "predileto-claudionor-cruz",
    "title": "Predileto",
    "composer": "Claudionor Cruz",
-   "confidence": "medium",
+   "confidence": "high",
    "generated": "mxl",
    "file": "predileto-claudionor-cruz.json",
    "parts": [
@@ -8190,7 +8191,7 @@
    "song_id": "pretensioso-benedito-lacerda",
    "title": "Pretensioso",
    "composer": "Benedito Lacerda",
-   "confidence": "medium",
+   "confidence": "high",
    "generated": "mxl",
    "file": "pretensioso-benedito-lacerda.json",
    "parts": [
@@ -8232,7 +8233,7 @@
    "song_id": "primavera-joel-nascimento",
    "title": "Primavera",
    "composer": "Joel Nascimento",
-   "confidence": "medium",
+   "confidence": "high",
    "generated": "mxl",
    "file": "primavera-joel-nascimento.json",
    "parts": [
@@ -8260,7 +8261,7 @@
    "song_id": "princesinha-luperce-miranda",
    "title": "Princesinha",
    "composer": "Luperce Miranda",
-   "confidence": "medium",
+   "confidence": "high",
    "generated": "mxl",
    "file": "princesinha-luperce-miranda.json",
    "parts": [
@@ -8302,7 +8303,7 @@
    "song_id": "proezas-de-solon-pixinguinha",
    "title": "Proezas de Solon",
    "composer": "Pixinguinha",
-   "confidence": "medium",
+   "confidence": "high",
    "generated": "mxl",
    "file": "proezas-de-solon-pixinguinha.json",
    "parts": [
@@ -8341,7 +8342,7 @@
    "song_id": "pula-sapo-pixinguinha",
    "title": "Pula sapo",
    "composer": "Pixinguinha",
-   "confidence": "medium",
+   "confidence": "high",
    "generated": "mxl",
    "file": "pula-sapo-pixinguinha.json",
    "parts": [
@@ -8370,7 +8371,7 @@
    "song_id": "puxa-puxa-garoto",
    "title": "Puxa puxa",
    "composer": "Garoto",
-   "confidence": "medium",
+   "confidence": "high",
    "generated": "mxl",
    "file": "puxa-puxa-garoto.json",
    "parts": [
@@ -8384,7 +8385,7 @@
    "song_id": "qualquer-coisa-irineu-de-almeida",
    "title": "Qualquer coisa",
    "composer": "Irineu de Almeida",
-   "confidence": "medium",
+   "confidence": "high",
    "generated": "mxl",
    "file": "qualquer-coisa-irineu-de-almeida.json",
    "parts": [
@@ -8397,7 +8398,7 @@
    "song_id": "quando-fala-o-coracao-avena-de-castro",
    "title": "Quando fala o coração",
    "composer": "Avena de Castro",
-   "confidence": "medium",
+   "confidence": "high",
    "generated": "mxl",
    "file": "quando-fala-o-coracao-avena-de-castro.json",
    "parts": [
@@ -8606,8 +8607,7 @@
     "A",
     "B",
     "C",
-    "D",
-    "Coda"
+    "D"
    ]
   },
   {
@@ -8736,7 +8736,7 @@
    "song_id": "remexendo-radames-gnattali",
    "title": "Remexendo",
    "composer": "Radamés Gnattali",
-   "confidence": "medium",
+   "confidence": "high",
    "generated": "mxl",
    "file": "remexendo-radames-gnattali.json",
    "parts": [
@@ -8790,7 +8790,7 @@
    "song_id": "rio-antigo-altamiro-carrilho",
    "title": "Rio Antigo",
    "composer": "Altamiro Carrilho",
-   "confidence": "low",
+   "confidence": "high",
    "generated": "pdf",
    "file": "rio-antigo-altamiro-carrilho.json",
    "parts": [
@@ -8870,7 +8870,7 @@
    "song_id": "rosa-pixinguinha",
    "title": "Rosa",
    "composer": "Pixinguinha",
-   "confidence": "low",
+   "confidence": "high",
    "generated": "pdf",
    "file": "rosa-pixinguinha.json",
    "parts": [
@@ -8883,7 +8883,7 @@
    "song_id": "rua-da-imperatriz-jacob-do-bandolim",
    "title": "Rua da Imperatriz",
    "composer": "Jacob do Bandolim",
-   "confidence": "medium",
+   "confidence": "high",
    "generated": "mxl",
    "file": "rua-da-imperatriz-jacob-do-bandolim.json",
    "parts": [
@@ -8924,7 +8924,7 @@
    "song_id": "sai-do-caminho-jacob-do-bandolim",
    "title": "Sai do Caminho",
    "composer": "Jacob do Bandolim",
-   "confidence": "medium",
+   "confidence": "high",
    "generated": "mxl",
    "file": "sai-do-caminho-jacob-do-bandolim.json",
    "parts": [
@@ -8975,7 +8975,7 @@
    "song_id": "saliente-jacob-do-bandolim",
    "title": "Saliente",
    "composer": "Jacob do Bandolim",
-   "confidence": "medium",
+   "confidence": "high",
    "generated": "mxl",
    "file": "saliente-jacob-do-bandolim.json",
    "parts": [
@@ -9103,15 +9103,14 @@
    "parts": [
     "A",
     "B",
-    "C",
-    "D"
+    "C"
    ]
   },
   {
    "song_id": "santa-morena-jacob-do-bandolim",
    "title": "Santa Morena",
    "composer": "Jacob do Bandolim",
-   "confidence": "medium",
+   "confidence": "high",
    "generated": "mxl",
    "file": "santa-morena-jacob-do-bandolim.json",
    "parts": [
@@ -9242,7 +9241,7 @@
    "song_id": "saudade-jacob-do-bandolim",
    "title": "Saudade",
    "composer": "Jacob do Bandolim",
-   "confidence": "medium",
+   "confidence": "high",
    "generated": "mxl",
    "file": "saudade-jacob-do-bandolim.json",
    "parts": [
@@ -9332,7 +9331,7 @@
    "song_id": "saxofone-por-que-choras-ratinho",
    "title": "Saxofone Por Que Choras",
    "composer": "Ratinho",
-   "confidence": "low",
+   "confidence": "medium",
    "generated": "pdf",
    "file": "saxofone-por-que-choras-ratinho.json",
    "parts": [
@@ -9376,8 +9375,7 @@
    "parts": [
     "A",
     "B",
-    "C",
-    "D"
+    "C"
    ]
   },
   {
@@ -9504,7 +9502,7 @@
    "song_id": "serenata-no-joa-radames-gnattali",
    "title": "Serenata no Joá",
    "composer": "Radamés Gnattali",
-   "confidence": "medium",
+   "confidence": "high",
    "generated": "mxl",
    "file": "serenata-no-joa-radames-gnattali.json",
    "parts": [
@@ -9720,7 +9718,8 @@
    "file": "soledad-gabriel-trucco.json",
    "parts": [
     "A",
-    "B"
+    "B",
+    "C"
    ]
   },
   {
@@ -9746,8 +9745,7 @@
    "parts": [
     "A",
     "B",
-    "C",
-    "D"
+    "C"
    ]
   },
   {
@@ -9792,7 +9790,7 @@
    "song_id": "sonoroso-k-ximbinho",
    "title": "Sonoroso",
    "composer": "K Ximbinho",
-   "confidence": "low",
+   "confidence": "high",
    "generated": "pdf",
    "file": "sonoroso-k-ximbinho.json",
    "parts": [
@@ -9941,9 +9939,7 @@
    "parts": [
     "A",
     "B",
-    "C",
-    "D",
-    "E"
+    "C"
    ]
   },
   {
@@ -10071,7 +10067,7 @@
    "song_id": "ternura-jacob-do-bandolim",
    "title": "Ternura",
    "composer": "Jacob do Bandolim",
-   "confidence": "medium",
+   "confidence": "high",
    "generated": "mxl",
    "file": "ternura-jacob-do-bandolim.json",
    "parts": [
@@ -10271,7 +10267,7 @@
    "song_id": "treme-treme-jacob-do-bandolim",
    "title": "Treme Treme",
    "composer": "Jacob do Bandolim",
-   "confidence": "medium",
+   "confidence": "high",
    "generated": "mxl",
    "file": "treme-treme-jacob-do-bandolim.json",
    "parts": [
@@ -10457,7 +10453,8 @@
    "file": "tupinamba-ernesto-nazareth.json",
    "parts": [
     "A",
-    "B"
+    "B",
+    "C"
    ]
   },
   {
@@ -10491,7 +10488,7 @@
    "song_id": "um-a-zero-pixinguinha",
    "title": "Um A Zero",
    "composer": "Pixinguinha",
-   "confidence": "low",
+   "confidence": "high",
    "generated": "pdf",
    "file": "um-a-zero-pixinguinha.json",
    "parts": [
@@ -10607,7 +10604,7 @@
     "A",
     "B",
     "C",
-    "Coda"
+    "D"
    ]
   },
   {
@@ -10621,6 +10618,7 @@
     "A",
     "B",
     "C",
+    "D",
     "Coda"
    ]
   },
@@ -10696,18 +10694,6 @@
    "confidence": "low",
    "generated": "pdf",
    "file": "um-dia-de-verao-cristovao-bastos.json",
-   "parts": [
-    "A",
-    "B"
-   ]
-  },
-  {
-   "song_id": "um-tom-pra-jobim-sivuca",
-   "title": "Um tom pra Jobim",
-   "composer": "Sivuca",
-   "confidence": "low",
-   "generated": "pdf",
-   "file": "um-tom-pra-jobim-sivuca.json",
    "parts": [
     "A",
     "B"
@@ -10913,8 +10899,7 @@
    "file": "valsa-eduardo-neves.json",
    "parts": [
     "A",
-    "B",
-    "C"
+    "B"
    ]
   },
   {
@@ -10934,7 +10919,7 @@
    "song_id": "valsa-jacob-do-bandolim",
    "title": "Valsa",
    "composer": "Jacob do Bandolim",
-   "confidence": "medium",
+   "confidence": "high",
    "generated": "mxl",
    "file": "valsa-jacob-do-bandolim.json",
    "parts": [
@@ -10978,7 +10963,8 @@
    "file": "valter-sirva-se-da-setima-indio-do-cavaquinho.json",
    "parts": [
     "A",
-    "B"
+    "B",
+    "Coda"
    ]
   },
   {
@@ -11033,7 +11019,8 @@
     "A",
     "B",
     "C",
-    "D"
+    "D",
+    "Coda"
    ]
   },
   {
@@ -11089,8 +11076,7 @@
    "parts": [
     "A",
     "B",
-    "C",
-    "Coda"
+    "C"
    ]
   },
   {
@@ -11180,10 +11166,7 @@
    "generated": "pdf",
    "file": "vermelhinho-afonso-machado.json",
    "parts": [
-    "A",
-    "B",
-    "C",
-    "Coda"
+    "A"
    ]
   },
   {
@@ -11308,7 +11291,7 @@
    "song_id": "voltei-ao-meu-lugar-maestro-carioca",
    "title": "Voltei ao meu lugar",
    "composer": "Maestro Carioca",
-   "confidence": "medium",
+   "confidence": "high",
    "generated": "mxl",
    "file": "voltei-ao-meu-lugar-maestro-carioca.json",
    "parts": [
@@ -11387,7 +11370,7 @@
    "song_id": "vou-vivendo-pixinguinha",
    "title": "Vou Vivendo",
    "composer": "Pixinguinha",
-   "confidence": "low",
+   "confidence": "high",
    "generated": "pdf",
    "file": "vou-vivendo-pixinguinha.json",
    "parts": [

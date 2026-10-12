@@ -238,9 +238,10 @@
  ],
  "notes": [
   "Grille générée automatiquement depuis la partition MusicXML : à vérifier.",
-  "A : première mesure sans accord"
+  "A : première mesure sans accord",
+  "Corroborée par une autre partition : enchaînement 94%, mesures 87%."
  ],
- "confidence": "medium",
+ "confidence": "high",
  "source": [
   "mxl/C/Jacob do Bandolim - De Coração a Coração - Theme - C.mxl"
  ],

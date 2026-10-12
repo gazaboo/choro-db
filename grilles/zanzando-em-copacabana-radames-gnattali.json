@@ -9,40 +9,69 @@
   {
    "name": "A",
    "tonic": "Am",
-   "bars": "1–15",
+   "bars": "1–16",
    "sequence": [
     [
-     "G7(b9)"
+     "Bm7(b5)",
+     "E7(b13)"
     ],
-    [],
-    [],
     [
+     "Dm7",
      "G7(b9)"
     ],
-    [],
-    [],
+    [
+     "Em7"
+    ],
+    [
+     "Fm7",
+     "Bb7(9)",
+     "Ebm7"
+    ],
+    [
+     "Gm7",
+     "G7(b9)"
+    ],
+    [
+     "Am7",
+     "D7(9)"
+    ],
+    [
+     "Bb7(9)"
+    ],
     [
      "Am6",
      "D7(9)"
     ],
     [
-     "G6"
+     "G6",
+     "Em7"
+    ],
+    [
+     "Dm7"
+    ],
+    [
+     "Em7"
+    ],
+    [
+     "Fm7"
+    ],
+    [
+     "Gm7"
+    ],
+    [
+     "Am7",
+     "D7(9)"
     ],
     [],
-    [],
-    [],
-    [],
-    [],
-    [],
     [
-     "Am6"
+     "D7(9)"
     ]
    ]
   },
   {
    "name": "B",
    "tonic": "C",
-   "bars": "16–32",
+   "bars": "17–33",
    "sequence": [
     [
      "G6"
@@ -82,28 +111,36 @@
     [
      "Bb7"
     ],
-    [],
+    [
+     "C7"
+    ],
     [
      "Fm"
     ],
     [
-     "Cm"
+     "Cm",
+     "F#"
     ],
     [
+     "Fm7",
      "Fm",
-     "Bb7(13)"
+     "Bb7(13)",
+     "Bb7(#5)"
     ]
    ]
   },
   {
    "name": "C",
    "tonic": "C",
-   "bars": "33–59",
+   "bars": "34–60",
    "sequence": [
     [
-     "Eb6"
+     "Eb6",
+     "F#",
+     "Fm7"
     ],
     [
+     "Fb7",
      "Eb6"
     ],
     [
@@ -120,7 +157,8 @@
      "Ab6"
     ],
     [
-     "C6"
+     "C6",
+     "G7(b9"
     ],
     [
      "C6"
@@ -129,11 +167,19 @@
      "Bbm7",
      "Eb7(9)"
     ],
+    [
+     "Abmaj7"
+    ],
     [],
-    [],
-    [],
-    [],
-    [],
+    [
+     "Fm7"
+    ],
+    [
+     "Ab"
+    ],
+    [
+     "Abmaj7"
+    ],
     [],
     [],
     [],
@@ -141,10 +187,16 @@
     [],
     [],
     [
-     "Ab"
+     "Ab",
+     "A"
     ],
-    [],
-    [],
+    [
+     "Eb6/Bb",
+     "F7(13)"
+    ],
+    [
+     "Bb7(b9"
+    ],
     [
      "Eb6"
     ]
@@ -153,13 +205,18 @@
   {
    "name": "D",
    "tonic": "C",
-   "bars": "60–80",
+   "bars": "61–83",
    "sequence": [
     [
-     "Fm"
+     "Fm",
+     "Bb7(#5)",
+     "Eb6"
     ],
-    [],
     [
+     "F#"
+    ],
+    [
+     "Fm7",
      "Fb7"
     ],
     [
@@ -172,20 +229,28 @@
      "Ab6"
     ],
     [
-     "C6"
+     "C6",
+     "G7(b9"
     ],
-    [
-     "C6"
-    ],
+    [],
     [
      "Bbm7",
      "Eb7(9)"
     ],
-    [],
-    [],
-    [],
+    [
+     "Abmaj7"
+    ],
     [],
     [
+     "Fm7"
+    ],
+    [
+     "Ab",
+     "F#",
+     "Fm7"
+    ],
+    [
+     "Abmaj7",
      "Ab7",
      "G7(b9)"
     ],
@@ -196,27 +261,43 @@
     [],
     [],
     [
-     "Ab"
+     "Ab",
+     "A"
+    ],
+    [
+     "Eb6/Bb",
+     "F7(13)"
+    ],
+    [
+     "Bb7(b9"
     ]
    ]
   },
   {
    "name": "Coda",
    "tonic": "C",
-   "bars": "83–84",
+   "bars": "84–88",
    "sequence": [
     [
      "Eb6"
     ],
     [
      "G6"
+    ],
+    [
+     "F#"
+    ],
+    [],
+    [
+     "Gmaj7"
     ]
    ]
   }
  ],
  "notes": [
   "Grille générée automatiquement depuis le texte du PDF : à vérifier.",
-  "Reprises et fins non détectées : les mesures sont dans l'ordre d'écriture."
+  "Reprises et fins non détectées : les mesures sont dans l'ordre d'écriture.",
+  "Non corroborée : aucune autre partition lisible de ce morceau."
  ],
  "confidence": "low",
  "source": [

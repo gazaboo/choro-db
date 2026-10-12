@@ -24,7 +24,10 @@
      "C",
      "C/Bb"
     ],
-    [],
+    [
+     "F/A",
+     "Fm/Ab"
+    ],
     [
      "C/G"
     ],
@@ -46,7 +49,7 @@
     ],
     [
      "Dm",
-     "Fm6"
+     "Fm"
     ],
     [
      "C"
@@ -59,7 +62,7 @@
   },
   {
    "name": "B",
-   "tonic": "C",
+   "tonic": "Am",
    "bars": "16–50",
    "sequence": [
     [
@@ -70,7 +73,8 @@
     ],
     [],
     [
-     "G"
+     "G",
+     "Bb"
     ],
     [
      "G/B"
@@ -81,11 +85,15 @@
     [
      "D7"
     ],
-    [],
+    [
+     "Am"
+    ],
     [
      "D7"
     ],
-    [],
+    [
+     "Am"
+    ],
     [
      "D7"
     ],
@@ -93,7 +101,8 @@
      "G"
     ],
     [
-     "G"
+     "G",
+     "Bb"
     ],
     [
      "G7"
@@ -101,12 +110,15 @@
     [
      "C"
     ],
-    [],
+    [
+     "C#"
+    ],
     [
      "G/D",
      "E7"
     ],
     [
+     "Am",
      "D7"
     ],
     [
@@ -138,11 +150,14 @@
     [
      "C"
     ],
-    [],
+    [
+     "C#"
+    ],
     [
      "G"
     ],
     [
+     "Am",
      "D7"
     ],
     [
@@ -173,7 +188,8 @@
      "F"
     ],
     [
-     "F"
+     "F",
+     "Cm"
     ],
     [
      "D7"
@@ -184,7 +200,9 @@
     [
      "Gm"
     ],
-    [],
+    [
+     "B"
+    ],
     [
      "F/C",
      "D7"
@@ -198,9 +216,10 @@
  ],
  "notes": [
   "Grille générée automatiquement depuis le texte du PDF : à vérifier.",
-  "Reprises et fins non détectées : les mesures sont dans l'ordre d'écriture."
+  "Reprises et fins non détectées : les mesures sont dans l'ordre d'écriture.",
+  "Corroborée par une grille relevée à la main : enchaînement 90%, mesures 82%."
  ],
- "confidence": "low",
+ "confidence": "high",
  "source": [
   "pdf/Pixinguinha - Um A Zero - Theme - C - variant 1.pdf"
  ],

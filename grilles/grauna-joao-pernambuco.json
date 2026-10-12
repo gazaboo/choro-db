@@ -33,7 +33,10 @@
     [
      "A"
     ],
-    [],
+    [
+     "F#",
+     "F"
+    ],
     [
      "Am",
      "F7"
@@ -90,8 +93,13 @@
     [
      "E7"
     ],
-    [],
-    [],
+    [
+     "Bb"
+    ],
+    [
+     "A",
+     "G#"
+    ],
     [
      "C/G",
      "A7"
@@ -112,8 +120,13 @@
     [
      "E7"
     ],
-    [],
-    [],
+    [
+     "Bb"
+    ],
+    [
+     "A",
+     "G#"
+    ],
     [
      "C/G",
      "A7"
@@ -161,7 +174,7 @@
     ],
     [
      "E",
-     "C#m7"
+     "C#m"
     ],
     [
      "F#7",
@@ -197,7 +210,7 @@
   {
    "name": "Coda",
    "tonic": "Am",
-   "bars": "55–57",
+   "bars": "55–59",
    "sequence": [
     [
      "A"
@@ -207,13 +220,19 @@
     ],
     [
      "Am"
+    ],
+    [],
+    [
+     "E7",
+     "Am"
     ]
    ]
   }
  ],
  "notes": [
   "Grille générée automatiquement depuis le texte du PDF : à vérifier.",
-  "Reprises et fins non détectées : les mesures sont dans l'ordre d'écriture."
+  "Reprises et fins non détectées : les mesures sont dans l'ordre d'écriture.",
+  "Non corroborée : aucune autre partition lisible de ce morceau."
  ],
  "confidence": "low",
  "source": [

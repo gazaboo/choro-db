@@ -83,7 +83,10 @@
     [
      "D7"
     ],
-    [],
+    [
+     "Fm",
+     "G7"
+    ],
     [
      "Cm"
     ],
@@ -105,7 +108,10 @@
     [
      "D7"
     ],
-    [],
+    [
+     "Fm",
+     "G7"
+    ],
     [
      "Cm"
     ],
@@ -173,13 +179,16 @@
      "Bb"
     ],
     [
-     "Fm6",
+     "Fm",
      "G7"
     ],
     [
      "C7"
     ],
-    [],
+    [
+     "Ebm",
+     "F7"
+    ],
     [
      "Bb"
     ],
@@ -214,7 +223,8 @@
  ],
  "notes": [
   "Grille générée automatiquement depuis le texte du PDF : à vérifier.",
-  "Reprises et fins non détectées : les mesures sont dans l'ordre d'écriture."
+  "Reprises et fins non détectées : les mesures sont dans l'ordre d'écriture.",
+  "Non corroborée : aucune autre partition lisible de ce morceau."
  ],
  "confidence": "low",
  "source": [

@@ -8,13 +8,18 @@
  "parts": [
   {
    "name": "A",
-   "tonic": "C",
-   "bars": "1–15",
+   "tonic": "Am",
+   "bars": "1–16",
    "sequence": [
     [
+     "E"
+    ],
+    [
      "Dm"
     ],
-    [],
+    [
+     "Bb"
+    ],
     [],
     [
      "Gm",
@@ -24,15 +29,25 @@
      "Dm"
     ],
     [
+     "E7",
      "E/D"
     ],
-    [],
-    [],
+    [
+     "A7/C#"
+    ],
+    [
+     "E"
+    ],
     [
      "Dm"
     ],
-    [],
-    [],
+    [
+     "Bb"
+    ],
+    [
+     "Am7(b5)",
+     "D7"
+    ],
     [
      "Gm",
      "Em7(b5)"
@@ -41,7 +56,8 @@
      "Dm"
     ],
     [
-     "Eb"
+     "Eb",
+     "A7"
     ],
     [
      "Dm"
@@ -51,65 +67,91 @@
   {
    "name": "B",
    "tonic": "C",
-   "bars": "16–32",
+   "bars": "17–33",
    "sequence": [
     [
-     "Dm"
+     "Dm",
+     "Bbm6/Db",
+     "C7"
     ],
     [
-     "F"
+     "F",
+     "D7/F#"
     ],
     [
      "Gm",
      "D7(9)"
     ],
     [
-     "Gm"
+     "Gm",
+     "C7"
     ],
     [
-     "F"
+     "F",
+     "A7"
     ],
     [
-     "Dm"
+     "Dm",
+     "G7"
     ],
     [
      "C",
      "Ab7"
     ],
     [
-     "Db"
+     "Db",
+     "G7"
     ],
-    [],
-    [],
+    [
+     "C7"
+    ],
+    [
+     "F7"
+    ],
     [
      "Bb6"
     ],
-    [],
+    [
+     "D7/A",
+     "D7"
+    ],
     [
      "Gm"
     ],
-    [],
+    [
+     "G#",
+     "G"
+    ],
     [
      "Dm/F",
      "Em7(b5)"
     ],
     [
-     "Dm"
+     "Dm",
+     "E7/B",
+     "A7/C#"
     ],
     [
-     "Dm"
+     "Dm",
+     "Bbm6/Db",
+     "C7"
     ]
    ]
   },
   {
    "name": "C",
    "tonic": "C",
-   "bars": "33–53",
+   "bars": "34–54",
    "sequence": [
     [
      "Dm"
     ],
-    [],
+    [
+     "Dm",
+     "Bb7",
+     "Em",
+     "A7"
+    ],
     [],
     [
      "D6"
@@ -117,9 +159,12 @@
     [
      "E7(9)"
     ],
-    [],
     [
-     "D6"
+     "A7"
+    ],
+    [
+     "D6",
+     "A7"
     ],
     [
      "D6",
@@ -133,7 +178,8 @@
      "C#7"
     ],
     [
-     "F#m"
+     "F#m",
+     "A7"
     ],
     [
      "D6"
@@ -141,7 +187,9 @@
     [
      "E7(9)"
     ],
-    [],
+    [
+     "A7"
+    ],
     [
      "D6",
      "D/C"
@@ -151,14 +199,18 @@
      "Bb/Ab"
     ],
     [
-     "D/A"
+     "D/A",
+     "B7"
     ],
     [
-     "Em"
+     "Em",
+     "A7"
     ],
     [
      "D",
      "Bm",
+     "Em7",
+     "A7",
      "D"
     ],
     [],
@@ -171,7 +223,9 @@
  ],
  "notes": [
   "Grille générée automatiquement depuis le texte du PDF : à vérifier.",
-  "Reprises et fins non détectées : les mesures sont dans l'ordre d'écriture."
+  "Reprises et fins non détectées : les mesures sont dans l'ordre d'écriture.",
+  "Non corroborée : aucune autre partition lisible de ce morceau.",
+  "Structure à vérifier : partie C : mesure à plus de 4 accords."
  ],
  "confidence": "low",
  "source": [

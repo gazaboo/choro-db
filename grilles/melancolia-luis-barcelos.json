@@ -59,7 +59,6 @@
      "Db7"
     ],
     [
-     "F/C",
      "G7",
      "C7"
     ],
@@ -168,7 +167,8 @@
  ],
  "notes": [
   "Grille générée automatiquement depuis le texte du PDF : à vérifier.",
-  "Reprises et fins non détectées : les mesures sont dans l'ordre d'écriture."
+  "Reprises et fins non détectées : les mesures sont dans l'ordre d'écriture.",
+  "Non corroborée : une autre partition ne concorde qu'à 87% (enchaînement)."
  ],
  "confidence": "low",
  "source": [

@@ -312,7 +312,9 @@
   }
  ],
  "notes": [
-  "Grille générée automatiquement depuis la partition MusicXML : à vérifier."
+  "Grille générée automatiquement depuis la partition MusicXML : à vérifier.",
+  "Corroborée par une autre partition : enchaînement 96%, mesures 88%.",
+  "Structure à vérifier : partie C de 2 mesures."
  ],
  "confidence": "medium",
  "source": [

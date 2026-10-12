@@ -22,8 +22,7 @@
      "Gm"
     ],
     [
-     "Gm",
-     "Gm6"
+     "Gm"
     ],
     [
      "D",
@@ -44,6 +43,7 @@
     ],
     [],
     [
+     "G",
      "G7(13)"
     ],
     [
@@ -65,7 +65,10 @@
    "tonic": "C",
    "bars": "16–35",
    "sequence": [
-    [],
+    [
+     "Gm",
+     "D7(b13)"
+    ],
     [
      "G",
      "D7"
@@ -86,7 +89,7 @@
     ],
     [
      "G",
-     "Em6"
+     "Em"
     ],
     [
      "Bm"
@@ -125,7 +128,8 @@
      "A7",
      "D7",
      "G",
-     "D7"
+     "D7",
+     "G"
     ],
     [],
     [
@@ -136,7 +140,9 @@
  ],
  "notes": [
   "Grille générée automatiquement depuis le texte du PDF : à vérifier.",
-  "Reprises et fins non détectées : les mesures sont dans l'ordre d'écriture."
+  "Reprises et fins non détectées : les mesures sont dans l'ordre d'écriture.",
+  "Non corroborée : aucune autre partition lisible de ce morceau.",
+  "Structure à vérifier : partie B : mesure à plus de 4 accords."
  ],
  "confidence": "low",
  "source": [

@@ -4,21 +4,23 @@
  "composer": "Silvério Pontes",
  "transposition": "c",
  "meter": "2/4",
- "form": "A — B — C — Coda",
+ "form": "A — B — C — A",
  "parts": [
   {
    "name": "A",
    "tonic": "C",
-   "bars": "1–5",
+   "bars": "1–7",
    "sequence": [
     [
      "F/A",
      "Bb/Ab"
     ],
     [
-     "Eb/G"
+     "Eb/G",
+     "Gb"
     ],
     [
+     "Fm73",
      "Bb7"
     ],
     [
@@ -28,19 +30,25 @@
     [
      "F/A",
      "Bb/Ab"
+    ],
+    [],
+    [
+     "Fm73"
     ]
    ]
   },
   {
    "name": "B",
    "tonic": "C",
-   "bars": "8–22",
+   "bars": "8–24",
    "sequence": [
     [],
     [
-     "Eb6"
+     "Eb6",
+     "Ebmaj7"
     ],
     [
+     "Fm7",
      "Fm6"
     ],
     [
@@ -55,9 +63,13 @@
      "Eb6"
     ],
     [
-     "Bb/D"
+     "Bb/D",
+     "Gm7"
     ],
-    [],
+    [
+     "C7",
+     "F7"
+    ],
     [
      "Bb7",
      "Bb/Ab"
@@ -66,12 +78,15 @@
      "Eb/G"
     ],
     [
+     "Fm7",
      "Fm6"
     ],
     [
-     "Bb7(9)"
+     "Bb7(9)",
+     "G7/B"
     ],
     [
+     "C7",
      "C/Bb"
     ],
     [
@@ -79,7 +94,16 @@
      "Abm6"
     ],
     [
-     "Eb/G"
+     "Eb/G",
+     "C7",
+     "Fm7"
+    ],
+    [
+     "Bb7(b13)"
+    ],
+    [
+     "Eb6",
+     "Bb7"
     ]
    ]
   },
@@ -92,8 +116,12 @@
      "Eb6"
     ],
     [],
-    [],
-    [],
+    [
+     "C7"
+    ],
+    [
+     "F7"
+    ],
     [
      "Bb7"
     ],
@@ -105,14 +133,20 @@
      "B/A"
     ],
     [
-     "Eb/Bb"
+     "Eb/Bb",
+     "Cm7"
     ],
-    [],
+    [
+     "F7"
+    ],
     [
      "Bb7",
      "Db7"
     ],
-    [],
+    [
+     "C7",
+     "C7/E"
+    ],
     [
      "F/Eb"
     ],
@@ -127,46 +161,23 @@
      "B/A"
     ],
     [
-     "Eb/Bb"
+     "Eb/Bb",
+     "Cm7"
     ],
     [
+     "Fm7",
      "Bb7"
     ],
     [
      "Eb6"
-    ]
-   ]
-  },
-  {
-   "name": "Coda",
-   "tonic": "C",
-   "bars": "43–49",
-   "sequence": [
-    [],
-    [
-     "Eb6"
-    ],
-    [
-     "F/A",
-     "Bb/Ab"
-    ],
-    [
-     "Eb/G"
-    ],
-    [
-     "Bb7"
-    ],
-    [],
-    [
-     "F/A",
-     "Bb/Ab"
     ]
    ]
   }
  ],
  "notes": [
   "Grille générée automatiquement depuis le texte du PDF : à vérifier.",
-  "Reprises et fins non détectées : les mesures sont dans l'ordre d'écriture."
+  "Reprises et fins non détectées : les mesures sont dans l'ordre d'écriture.",
+  "Non corroborée : aucune autre partition lisible de ce morceau."
  ],
  "confidence": "low",
  "source": [

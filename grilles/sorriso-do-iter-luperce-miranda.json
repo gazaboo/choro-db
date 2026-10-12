@@ -30,7 +30,7 @@
      "Bb7"
     ],
     [
-     "Gm6",
+     "Gm",
      "A7"
     ],
     [
@@ -55,7 +55,8 @@
      "A7"
     ],
     [
-     "Dm"
+     "Dm",
+     "Bm"
     ],
     [
      "A",
@@ -75,8 +76,7 @@
      "D7"
     ],
     [
-     "Gm",
-     "Gm6"
+     "Gm"
     ],
     [
      "Dm"
@@ -184,7 +184,7 @@
      "Bb7"
     ],
     [
-     "Gm6",
+     "Gm",
      "A7"
     ],
     [
@@ -195,7 +195,8 @@
  ],
  "notes": [
   "Grille générée automatiquement depuis le texte du PDF : à vérifier.",
-  "Reprises et fins non détectées : les mesures sont dans l'ordre d'écriture."
+  "Reprises et fins non détectées : les mesures sont dans l'ordre d'écriture.",
+  "Non corroborée : aucune autre partition lisible de ce morceau."
  ],
  "confidence": "low",
  "source": [

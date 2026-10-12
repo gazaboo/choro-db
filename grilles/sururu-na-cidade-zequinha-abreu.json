@@ -70,7 +70,8 @@
      "Dm"
     ],
     [
-     "A7"
+     "A7",
+     "A7/C#"
     ]
    ]
   },
@@ -138,9 +139,7 @@
     [
      "F"
     ],
-    [
-     "F"
-    ],
+    [],
     [
      "Dm"
     ],
@@ -152,7 +151,10 @@
     [
      "D/F#"
     ],
-    [],
+    [
+     "D/F#",
+     "F"
+    ],
     [
      "Em"
     ],
@@ -187,7 +189,8 @@
      "Em"
     ],
     [
-     "D/F#"
+     "D/F#",
+     "Bm"
     ],
     [
      "Em",
@@ -204,7 +207,9 @@
  ],
  "notes": [
   "Grille générée automatiquement depuis le texte du PDF : à vérifier.",
-  "Reprises et fins non détectées : les mesures sont dans l'ordre d'écriture."
+  "Reprises et fins non détectées : les mesures sont dans l'ordre d'écriture.",
+  "Non corroborée : aucune autre partition lisible de ce morceau.",
+  "Structure à vérifier : partie A de 3 mesures."
  ],
  "confidence": "low",
  "source": [

@@ -4,43 +4,38 @@
  "composer": "Luiz Gonzaga",
  "transposition": "c",
  "meter": "2/4",
- "form": "A — B — C — D",
+ "form": "A — B — C",
  "parts": [
   {
    "name": "A",
    "tonic": "Am",
-   "bars": "1–8",
+   "bars": "1–15",
    "sequence": [
-    [
-     "Bm7(b5)"
-    ],
     [
      "Dm"
     ],
     [
+     "D",
      "Bb7"
     ],
     [
      "A7",
-     "A/G"
+     "A/G",
+     "Dm/F"
     ],
-    [],
     [
-     "Dm"
+     "A7/E"
+    ],
+    [
+     "Dm",
+     "Bm"
     ],
     [
      "Am"
     ],
     [
      "E7"
-    ]
-   ]
-  },
-  {
-   "name": "B",
-   "tonic": "C",
-   "bars": "9–16",
-   "sequence": [
+    ],
     [
      "Bb7",
      "Bb/Ab"
@@ -49,6 +44,7 @@
      "Dm/A"
     ],
     [
+     "B",
      "Bb7"
     ],
     [
@@ -59,52 +55,59 @@
     [
      "D/C"
     ],
-    [],
+    [
+     "Gm/Bb",
+     "Gm"
+    ],
     [
      "Dm"
     ],
     [
-     "Bb7"
+     "Bb7",
+     "A7"
+    ]
+   ]
+  },
+  {
+   "name": "B",
+   "tonic": "C",
+   "bars": "16–25",
+   "sequence": [
+    [
+     "Dm",
+     "A7"
+    ],
+    [
+     "Dm"
+    ],
+    [],
+    [
+     "A7"
+    ],
+    [
+     "Dm"
+    ],
+    [
+     "A7"
+    ],
+    [
+     "Dm"
+    ],
+    [
+     "A7"
+    ],
+    [
+     "Dm"
+    ],
+    [
+     "A7"
     ]
    ]
   },
   {
    "name": "C",
    "tonic": "C",
-   "bars": "17–26",
-   "sequence": [
-    [],
-    [
-     "Dm"
-    ],
-    [],
-    [
-     "A7"
-    ],
-    [
-     "Dm"
-    ],
-    [
-     "A7"
-    ],
-    [
-     "Dm"
-    ],
-    [
-     "A7"
-    ],
-    [
-     "Dm"
-    ],
-    [
-     "A7"
-    ]
-   ]
-  },
-  {
-   "name": "D",
-   "tonic": "C",
-   "bars": "27–47",
+   "bars": "26–46",
    "sequence": [
     [
      "Dm"
@@ -123,7 +126,8 @@
     ],
     [],
     [
-     "D"
+     "D",
+     "Bm"
     ],
     [
      "Em"
@@ -139,6 +143,7 @@
     ],
     [
      "D/F#",
+     "Bm",
      "A7/E"
     ],
     [
@@ -158,6 +163,7 @@
      "D/A"
     ],
     [
+     "Em",
      "A7",
      "D",
      "A7",
@@ -173,7 +179,9 @@
  ],
  "notes": [
   "Grille générée automatiquement depuis le texte du PDF : à vérifier.",
-  "Reprises et fins non détectées : les mesures sont dans l'ordre d'écriture."
+  "Reprises et fins non détectées : les mesures sont dans l'ordre d'écriture.",
+  "Non corroborée : aucune autre partition lisible de ce morceau.",
+  "Structure à vérifier : partie C : mesure à plus de 4 accords."
  ],
  "confidence": "low",
  "source": [

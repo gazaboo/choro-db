@@ -12,10 +12,12 @@
    "bars": "1–6",
    "sequence": [
     [
-     "Dm6"
+     "Dm"
     ],
     [],
-    [],
+    [
+     "D"
+    ],
     [],
     [
      "Gm"
@@ -66,7 +68,7 @@
     ],
     [],
     [
-     "Gm6"
+     "Gm"
     ],
     [
      "A7"
@@ -119,7 +121,7 @@
      "Dm"
     ],
     [
-     "Cm6"
+     "Cm"
     ],
     [
      "D7"
@@ -145,13 +147,19 @@
      "Dm"
     ],
     [],
-    [],
+    [
+     "G7"
+    ],
     [],
     [
      "C7"
     ],
-    [],
-    [],
+    [
+     "G#"
+    ],
+    [
+     "A"
+    ],
     [
      "D7"
     ],
@@ -193,15 +201,15 @@
      "Dm"
     ],
     [
-     "Dm",
-     "Dm6"
+     "Dm"
     ]
    ]
   }
  ],
  "notes": [
   "Grille générée automatiquement depuis le texte du PDF : à vérifier.",
-  "Reprises et fins non détectées : les mesures sont dans l'ordre d'écriture."
+  "Reprises et fins non détectées : les mesures sont dans l'ordre d'écriture.",
+  "Non corroborée : aucune autre partition lisible de ce morceau."
  ],
  "confidence": "low",
  "source": [

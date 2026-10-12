@@ -35,6 +35,7 @@
      "D7"
     ],
     [
+     "G",
      "D7/F#"
     ],
     [
@@ -52,13 +53,14 @@
     ],
     [
      "C",
-     "Cm6"
+     "Cm"
     ],
     [
      "G6/D"
     ],
     [
-     "A7/C#"
+     "A7/C#",
+     "D7"
     ]
    ]
   },
@@ -89,15 +91,17 @@
     ],
     [
      "G",
-     "Gm6"
+     "Gm"
     ],
     [
      "D"
     ],
     [
+     "Em",
      "A7"
     ],
     [
+     "F",
      "D/F#"
     ],
     [
@@ -114,13 +118,13 @@
     ],
     [
      "G",
-     "Gm6"
+     "Gm"
     ],
     [
      "D"
     ],
     [
-     "Em7",
+     "Em",
      "A7"
     ]
    ]
@@ -154,7 +158,8 @@
      "Am"
     ],
     [
-     "F"
+     "F",
+     "F#"
     ],
     [
      "C"
@@ -164,6 +169,7 @@
      "G7"
     ],
     [
+     "F#",
      "C/G"
     ],
     [
@@ -194,7 +200,8 @@
  ],
  "notes": [
   "Grille générée automatiquement depuis le texte du PDF : à vérifier.",
-  "Reprises et fins non détectées : les mesures sont dans l'ordre d'écriture."
+  "Reprises et fins non détectées : les mesures sont dans l'ordre d'écriture.",
+  "Non corroborée : aucune autre partition lisible de ce morceau."
  ],
  "confidence": "low",
  "source": [

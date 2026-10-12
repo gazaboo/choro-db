@@ -44,15 +44,20 @@
     [
      "G7"
     ],
-    [],
     [
-     "Fm6"
+     "E"
     ],
     [
-     "A7",
-     "Bm7(b5)"
+     "Fmaj7",
+     "Fm"
     ],
     [
+     "Em",
+     "A7"
+    ],
+    [
+     "Dm",
+     "G7",
      "E7(b9)"
     ],
     [
@@ -66,14 +71,16 @@
    "bars": "17–32",
    "sequence": [
     [
-     "F#m7(b5)",
+     "F#m",
      "C"
     ],
     [],
     [
      "Am"
     ],
-    [],
+    [
+     "Bm"
+    ],
     [],
     [
      "Am"
@@ -82,20 +89,21 @@
      "B7"
     ],
     [
-     "Em",
-     "Em7(b5)"
+     "Em"
     ],
     [
      "B7"
     ],
     [
-     "Dm6",
+     "Dm",
      "E7"
     ],
     [
      "Am"
     ],
-    [],
+    [
+     "Em"
+    ],
     [
      "A7"
     ],
@@ -104,6 +112,7 @@
      "Dm"
     ],
     [
+     "Dm",
      "G7"
     ],
     [
@@ -138,7 +147,9 @@
     [
      "F"
     ],
-    [],
+    [
+     "F"
+    ],
     [],
     [
      "C7"
@@ -156,7 +167,8 @@
      "Dm"
     ],
     [
-     "E7"
+     "E7",
+     "F"
     ],
     [
      "Fadd9/A"
@@ -166,14 +178,14 @@
      "Gb7"
     ],
     [
-     "F"
+     "F",
+     "Ab"
     ],
     [
+     "Gm",
      "C7"
     ],
-    [
-     "F6"
-    ],
+    [],
     [
      "F6"
     ]
@@ -182,7 +194,8 @@
  ],
  "notes": [
   "Grille générée automatiquement depuis le texte du PDF : à vérifier.",
-  "Reprises et fins non détectées : les mesures sont dans l'ordre d'écriture."
+  "Reprises et fins non détectées : les mesures sont dans l'ordre d'écriture.",
+  "Non corroborée : aucune autre partition lisible de ce morceau."
  ],
  "confidence": "low",
  "source": [

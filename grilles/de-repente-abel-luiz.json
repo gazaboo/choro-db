@@ -170,9 +170,10 @@
  ],
  "notes": [
   "Grille générée automatiquement depuis la partition MusicXML : à vérifier.",
-  "Coda : première mesure sans accord"
+  "Coda : première mesure sans accord",
+  "Corroborée par une autre partition : enchaînement 86%, mesures 84%."
  ],
- "confidence": "medium",
+ "confidence": "high",
  "source": [
   "mxl/C/Abel Luiz - De repente - Theme - C.mxl"
  ],

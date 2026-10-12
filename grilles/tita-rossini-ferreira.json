@@ -18,21 +18,27 @@
      "Dm/C"
     ],
     [
-     "Bm7(b5)"
+     "Bm"
     ],
     [],
     [
      "C7(9)"
     ],
-    [],
+    [
+     "C7/E"
+    ],
     [
      "F6"
     ],
-    [],
+    [
+     "A7/C#"
+    ],
     [
      "Dm"
     ],
-    [],
+    [
+     "A7/E"
+    ],
     [
      "Dm/F"
     ],
@@ -45,12 +51,16 @@
     [
      "G/F"
     ],
-    [],
-    [],
     [
-     "Cm6/Eb"
+     "C7/E"
     ],
     [],
+    [
+     "Cm"
+    ],
+    [
+     "D7"
+    ],
     [
      "Gm"
     ],
@@ -61,28 +71,44 @@
      "E7"
     ],
     [],
-    [],
+    [
+     "A7"
+    ],
     [],
     [
      "Bb"
     ],
-    [],
+    [
+     "G#"
+    ],
     [
      "F/A"
     ],
     [],
-    [],
-    [],
-    [],
+    [
+     "Cm"
+    ],
+    [
+     "F7"
+    ],
     [
      "Bb"
     ],
-    [],
-    [],
+    [
+     "Bb"
+    ],
+    [
+     "B"
+    ],
+    [
+     "G#"
+    ],
     [
      "F/A"
     ],
-    [],
+    [
+     "D7/F#"
+    ],
     [
      "G7(9)"
     ],
@@ -116,30 +142,44 @@
      "Am"
     ],
     [],
-    [],
-    [],
-    [],
-    [],
     [
-     "F/A"
-    ],
-    [],
-    [
-     "G7(9)"
-    ],
-    [],
-    [
-     "Bbm6/Db"
-    ],
-    [],
-    [
-     "F"
+     "Bb6"
     ],
     [],
     [
      "Gm"
     ],
+    [
+     "G#"
+    ],
+    [
+     "F/A"
+    ],
+    [
+     "Dm"
+    ],
+    [
+     "G7(9)"
+    ],
     [],
+    [
+     "Bbm"
+    ],
+    [
+     "C7"
+    ],
+    [
+     "F"
+    ],
+    [
+     "D7/F#"
+    ],
+    [
+     "Gm"
+    ],
+    [
+     "E7/G#"
+    ],
     [
      "A7"
     ],
@@ -153,13 +193,21 @@
     [
      "Bb"
     ],
-    [],
+    [
+     "B"
+    ],
     [
      "F/C"
     ],
-    [],
-    [],
-    [],
+    [
+     "Dm"
+    ],
+    [
+     "Gm"
+    ],
+    [
+     "C7"
+    ],
     [
      "F"
     ]
@@ -168,7 +216,8 @@
  ],
  "notes": [
   "Grille générée automatiquement depuis le texte du PDF : à vérifier.",
-  "Reprises et fins non détectées : les mesures sont dans l'ordre d'écriture."
+  "Reprises et fins non détectées : les mesures sont dans l'ordre d'écriture.",
+  "Non corroborée : aucune autre partition lisible de ce morceau."
  ],
  "confidence": "low",
  "source": [

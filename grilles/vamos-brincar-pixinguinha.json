@@ -54,10 +54,11 @@
     ],
     [
      "Dm",
-     "Fm6"
+     "Fm"
     ],
     [
-     "C/E"
+     "C/E",
+     "Am"
     ],
     [
      "D7",
@@ -86,7 +87,9 @@
     [
      "Dm"
     ],
-    [],
+    [
+     "Bm"
+    ],
     [
      "Am"
     ],
@@ -109,8 +112,7 @@
      "Dm"
     ],
     [
-     "Dm",
-     "Dm6"
+     "Dm"
     ],
     [
      "Am/E"
@@ -163,7 +165,8 @@
      "Gm"
     ],
     [
-     "Bb"
+     "Bb",
+     "B"
     ],
     [
      "F/C",
@@ -181,7 +184,8 @@
  ],
  "notes": [
   "Grille générée automatiquement depuis le texte du PDF : à vérifier.",
-  "Reprises et fins non détectées : les mesures sont dans l'ordre d'écriture."
+  "Reprises et fins non détectées : les mesures sont dans l'ordre d'écriture.",
+  "Non corroborée : aucune autre partition lisible de ce morceau."
  ],
  "confidence": "low",
  "source": [

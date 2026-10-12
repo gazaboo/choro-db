@@ -227,9 +227,10 @@
   }
  ],
  "notes": [
-  "Grille générée automatiquement depuis la partition MusicXML : à vérifier."
+  "Grille générée automatiquement depuis la partition MusicXML : à vérifier.",
+  "Corroborée par une grille relevée à la main : enchaînement 97%, mesures 85%."
  ],
- "confidence": "medium",
+ "confidence": "high",
  "source": [
   "mxl/C/Pixinguinha - Cochichando - Theme - C.mxl"
  ],

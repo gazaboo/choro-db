@@ -188,9 +188,10 @@
   }
  ],
  "notes": [
-  "Grille générée automatiquement depuis la partition MusicXML : à vérifier."
+  "Grille générée automatiquement depuis la partition MusicXML : à vérifier.",
+  "Corroborée par une autre partition : enchaînement 98%, mesures 96%."
  ],
- "confidence": "medium",
+ "confidence": "high",
  "source": [
   "mxl/C/Márcio Almeida - Maxixe carioca - Theme - C.mxl"
  ],

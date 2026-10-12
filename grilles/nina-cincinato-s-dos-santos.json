@@ -170,9 +170,10 @@
   }
  ],
  "notes": [
-  "Grille générée automatiquement depuis la partition MusicXML : à vérifier."
+  "Grille générée automatiquement depuis la partition MusicXML : à vérifier.",
+  "Contredite par une autre partition (enchaînement 49%) : version différente ?"
  ],
- "confidence": "medium",
+ "confidence": "low",
  "source": [
   "mxl/C/Cincinato S. dos Santos - Nina - Theme - C.mxl"
  ],

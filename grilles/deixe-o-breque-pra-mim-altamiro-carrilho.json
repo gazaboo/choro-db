@@ -340,9 +340,10 @@
  ],
  "notes": [
   "Grille générée automatiquement depuis la partition MusicXML : à vérifier.",
-  "C : première mesure sans accord"
+  "C : première mesure sans accord",
+  "Corroborée par une autre partition : enchaînement 90%, mesures 75%."
  ],
- "confidence": "medium",
+ "confidence": "high",
  "source": [
   "mxl/C/Altamiro Carrilho - Deixe o breque prá mim - Theme - C.mxl"
  ],

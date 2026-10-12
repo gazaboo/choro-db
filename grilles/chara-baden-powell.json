@@ -234,9 +234,10 @@
   }
  ],
  "notes": [
-  "Grille générée automatiquement depuis la partition MusicXML : à vérifier."
+  "Grille générée automatiquement depuis la partition MusicXML : à vérifier.",
+  "Contredite par une autre partition (enchaînement 45%) : version différente ?"
  ],
- "confidence": "medium",
+ "confidence": "low",
  "source": [
   "mxl/C/Baden Powell - Chará - Theme - C.mxl"
  ],

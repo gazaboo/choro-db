@@ -246,9 +246,10 @@
   }
  ],
  "notes": [
-  "Grille générée automatiquement depuis la partition MusicXML : à vérifier."
+  "Grille générée automatiquement depuis la partition MusicXML : à vérifier.",
+  "Contredite par une autre partition (enchaînement 17%) : version différente ?"
  ],
- "confidence": "medium",
+ "confidence": "low",
  "source": [
   "mxl/C/Jacob do Bandolim - Já que não toco violão - Theme - C.mxl"
  ],

@@ -257,9 +257,10 @@
   }
  ],
  "notes": [
-  "Grille générée automatiquement depuis la partition MusicXML : à vérifier."
+  "Grille générée automatiquement depuis la partition MusicXML : à vérifier.",
+  "Corroborée par une autre partition : enchaînement 94%, mesures 92%."
  ],
- "confidence": "medium",
+ "confidence": "high",
  "source": [
   "mxl/C/Cidinho 7 Cordas - Beth - Theme - C.mxl"
  ],

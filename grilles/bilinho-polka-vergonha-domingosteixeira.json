@@ -9,7 +9,7 @@
   {
    "name": "A",
    "tonic": "C",
-   "bars": "1–12",
+   "bars": "1–13",
    "sequence": [
     [
      "A"
@@ -24,7 +24,7 @@
      "C"
     ],
     [
-     "Dm6"
+     "Dm"
     ],
     [
      "A/C#"
@@ -46,24 +46,27 @@
     ],
     [
      "F"
+    ],
+    [
+     "F"
     ]
    ]
   },
   {
    "name": "B",
    "tonic": "Am",
-   "bars": "14–35",
+   "bars": "14–34",
    "sequence": [
     [
      "A",
      "F#7"
     ],
     [
+     "Bm",
      "E7"
     ],
     [
-     "A",
-     "Em7(b5)"
+     "A"
     ],
     [
      "F",
@@ -74,10 +77,14 @@
      "C7"
     ],
     [
-     "F"
+     "F",
+     "A7",
+     "Dm"
     ],
     [],
-    [],
+    [
+     "Em"
+    ],
     [
      "A7"
     ],
@@ -116,11 +123,11 @@
     ],
     [
      "Db",
-     "Ebm7(b5)"
+     "Ebm"
     ],
-    [],
     [
-     "Dm"
+     "Em",
+     "A7"
     ]
    ]
   },
@@ -129,12 +136,17 @@
    "tonic": "C",
    "bars": "37–54",
    "sequence": [
-    [],
+    [
+     "E7"
+    ],
     [
      "F",
      "D7"
     ],
-    [],
+    [
+     "Gm",
+     "C7"
+    ],
     [
      "F",
      "Bb/F",
@@ -157,7 +169,9 @@
     [
      "D7"
     ],
-    [],
+    [
+     "Gm"
+    ],
     [
      "Bb7"
     ],
@@ -165,12 +179,14 @@
      "Eb"
     ],
     [
-     "Ebm6"
+     "Ebm"
     ],
     [
      "Bb"
     ],
-    [],
+    [
+     "Cm"
+    ],
     [
      "Bb"
     ]
@@ -183,6 +199,7 @@
    "sequence": [
     [],
     [
+     "Bm",
      "E7"
     ],
     [
@@ -193,6 +210,7 @@
      "D7"
     ],
     [
+     "Gm",
      "C7"
     ],
     [
@@ -200,6 +218,7 @@
      "D7"
     ],
     [
+     "Gm",
      "C7"
     ],
     [
@@ -207,6 +226,7 @@
      "D7"
     ],
     [
+     "Gm",
      "C7"
     ],
     [
@@ -217,7 +237,8 @@
  ],
  "notes": [
   "Grille générée automatiquement depuis le texte du PDF : à vérifier.",
-  "Reprises et fins non détectées : les mesures sont dans l'ordre d'écriture."
+  "Reprises et fins non détectées : les mesures sont dans l'ordre d'écriture.",
+  "Non corroborée : aucune autre partition lisible de ce morceau."
  ],
  "confidence": "low",
  "source": [

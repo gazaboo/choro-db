@@ -173,9 +173,10 @@
   }
  ],
  "notes": [
-  "Grille générée automatiquement depuis la partition MusicXML : à vérifier."
+  "Grille générée automatiquement depuis la partition MusicXML : à vérifier.",
+  "Corroborée par une autre partition : enchaînement 91%, mesures 87%."
  ],
- "confidence": "medium",
+ "confidence": "high",
  "source": [
   "mxl/C/Dino - Bodinho de galocha - Theme - C.mxl"
  ],

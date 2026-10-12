@@ -9,8 +9,11 @@
   {
    "name": "A",
    "tonic": "C",
-   "bars": "1–36",
+   "bars": "1–39",
    "sequence": [
+    [
+     "Cmaj7(9)"
+    ],
     [
      "A7(b9)"
     ],
@@ -18,30 +21,42 @@
      "Dm7(9)"
     ],
     [
-     "Dm7(9)",
+     "Dm",
      "A7(b9)"
     ],
     [
-     "G4"
+     "G7(9)"
     ],
-    [],
-    [],
     [
+     "G7(9"
+    ],
+    [
+     "Cmaj7(9)"
+    ],
+    [
+     "Cmaj7(9)",
      "D7(9)"
     ],
     [
+     "Em",
      "G7(b13)"
     ],
     [],
-    [],
-    [],
+    [
+     "Dm"
+    ],
+    [
+     "Dm"
+    ],
     [],
     [],
     [],
     [
      "Db7(9)"
     ],
-    [],
+    [
+     "Cmaj7(9)"
+    ],
     [],
     [
      "Dm7(9)"
@@ -50,41 +65,65 @@
      "Dm7(9)"
     ],
     [
-     "Dm6/F"
+     "Dm"
     ],
     [
      "E7(b13)"
     ],
-    [],
-    [],
-    [],
+    [
+     "Am"
+    ],
+    [
+     "Am"
+    ],
+    [
+     "Fm"
+    ],
     [],
     [],
     [
      "A7(b9)"
     ],
-    [],
-    [],
-    [],
-    [],
     [
-     "G4"
+     "Dm"
+    ],
+    [
+     "G7(9"
+    ],
+    [
+     "Cmaj7"
     ],
     [],
-    [],
+    [
+     "G7(9)"
+    ],
     [],
     [
-     "Bb4"
+     "Cmaj7(9)"
+    ],
+    [
+     "Cmaj7(9)"
+    ],
+    [
+     "Bb7(9)"
+    ],
+    [],
+    [
+     "Ebmaj7(9)"
     ]
    ]
   },
   {
    "name": "B",
    "tonic": "C",
-   "bars": "39–61",
+   "bars": "40–69",
    "sequence": [
-    [],
-    [],
+    [
+     "Ebmaj7(9)"
+    ],
+    [
+     "Ebmaj7(9)"
+    ],
     [
      "C7(b9)"
     ],
@@ -97,22 +136,34 @@
     [],
     [],
     [],
-    [],
-    [],
+    [
+     "Ebmaj7(9)"
+    ],
+    [
+     "Gm"
+    ],
     [
      "C7(b9)"
     ],
-    [],
-    [],
+    [
+     "Fm"
+    ],
+    [
+     "Fm"
+    ],
     [
      "F7(9)"
     ],
     [
      "F7(9)"
     ],
+    [
+     "Bb7(9"
+    ],
     [],
-    [],
-    [],
+    [
+     "Ebmaj7(9)"
+    ],
     [
      "C7(b9)"
     ],
@@ -120,20 +171,38 @@
      "Fm7(9)"
     ],
     [
-     "Fm7(9)"
+     "Fm7(9)",
+     "Abm"
     ],
     [
-     "Fm6/Ab"
+     "Fm",
+     "E7(#9"
     ],
     [
      "G7(b13)"
+    ],
+    [
+     "Cm"
+    ],
+    [
+     "Cm"
+    ],
+    [],
+    [],
+    [
+     "Ebmaj7(9)"
+    ],
+    [],
+    [
+     "Fm"
     ]
    ]
   }
  ],
  "notes": [
   "Grille générée automatiquement depuis le texte du PDF : à vérifier.",
-  "Reprises et fins non détectées : les mesures sont dans l'ordre d'écriture."
+  "Reprises et fins non détectées : les mesures sont dans l'ordre d'écriture.",
+  "Non corroborée : aucune autre partition lisible de ce morceau."
  ],
  "confidence": "low",
  "source": [

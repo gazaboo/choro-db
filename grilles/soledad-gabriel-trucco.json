@@ -4,66 +4,91 @@
  "composer": "Gabriel Trucco",
  "transposition": "c",
  "meter": "2/4",
- "form": "A — B",
+ "form": "A — B — C",
  "parts": [
   {
    "name": "A",
    "tonic": "C",
-   "bars": "1–20",
+   "bars": "1–2",
    "sequence": [
     [
-     "Cm7(11)"
-    ],
-    [],
-    [],
-    [],
-    [
-     "Cm/Bb"
+     "Ab/Gb",
+     "Fm6",
+     "Eb"
     ],
     [
-     "D7/A",
-     "Fm6/Ab"
-    ],
-    [
-     "Cm7(9)"
-    ],
-    [
-     "Db7(9)"
-    ],
-    [
-     "Cm7(9)"
-    ],
-    [],
-    [
-     "Ab6"
-    ],
-    [],
-    [
-     "Fm7(9)"
-    ],
-    [
-     "Eb6"
-    ],
-    [],
-    [],
-    [],
-    [
-     "Ab7"
-    ],
-    [],
-    [
-     "Cm6",
-     "G7"
+     "Cm"
     ]
    ]
   },
   {
    "name": "B",
    "tonic": "C",
-   "bars": "21–39",
+   "bars": "5–21",
+   "sequence": [
+    [],
+    [
+     "Cm",
+     "Cm/Bb"
+    ],
+    [
+     "D7/A",
+     "Fm"
+    ],
+    [
+     "Cm"
+    ],
+    [
+     "Db7(9)"
+    ],
+    [
+     "Cm"
+    ],
+    [
+     "Gm"
+    ],
+    [
+     "Ab6",
+     "Gm"
+    ],
+    [],
+    [
+     "Fm"
+    ],
+    [
+     "Eb6"
+    ],
+    [
+     "Fm",
+     "Gm"
+    ],
+    [
+     "C7"
+    ],
+    [
+     "Fm",
+     "F#",
+     "Cm"
+    ],
+    [
+     "Ab7",
+     "D7/A"
+    ],
+    [
+     "G7"
+    ],
+    [
+     "G7"
+    ]
+   ]
+  },
+  {
+   "name": "C",
+   "tonic": "C",
+   "bars": "22–40",
    "sequence": [
     [
-     "Cm6",
+     "Cm",
      "Bb7"
     ],
     [
@@ -72,18 +97,25 @@
     [
      "F7(9)/Eb"
     ],
-    [
-     "Abm6/Eb"
-    ],
     [],
     [
+     "Ebmaj7"
+    ],
+    [
+     "Em",
      "A7"
     ],
-    [],
     [
+     "Dmaj7"
+    ],
+    [
+     "Dm",
      "G7"
     ],
-    [],
+    [
+     "Cm",
+     "D"
+    ],
     [
      "Eb6"
     ],
@@ -101,7 +133,7 @@
     ],
     [],
     [
-     "Abm6",
+     "Abm",
      "Bb7"
     ],
     [
@@ -113,14 +145,17 @@
      "G7"
     ],
     [
-     "Ab7"
+     "Ab7",
+     "Fm"
     ]
    ]
   }
  ],
  "notes": [
   "Grille générée automatiquement depuis le texte du PDF : à vérifier.",
-  "Reprises et fins non détectées : les mesures sont dans l'ordre d'écriture."
+  "Reprises et fins non détectées : les mesures sont dans l'ordre d'écriture.",
+  "Non corroborée : aucune autre partition lisible de ce morceau.",
+  "Structure à vérifier : partie A de 2 mesures."
  ],
  "confidence": "low",
  "source": [

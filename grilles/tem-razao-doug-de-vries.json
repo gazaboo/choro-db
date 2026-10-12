@@ -13,19 +13,23 @@
    "sequence": [
     [
      "D#7(b9)",
-     "G#m7"
+     "G#m"
     ],
     [
      "E",
      "D#7(b9)"
     ],
     [
-     "F#7"
+     "F#7",
+     "G#m"
     ],
-    [],
+    [
+     "B7"
+    ],
     [
      "E",
-     "F#7"
+     "F#7",
+     "B7"
     ],
     [
      "E"
@@ -39,16 +43,20 @@
      "E"
     ],
     [],
-    [],
+    [
+     "B7"
+    ],
     [
      "B7(b9)"
     ],
     [
-     "Am6"
+     "Amaj7",
+     "Am"
     ],
     [],
     [
-     "F/A"
+     "F/A",
+     "B7"
     ]
    ]
   },
@@ -58,11 +66,9 @@
    "bars": "17–34",
    "sequence": [
     [
-     "E",
-     "C#m7(b5)"
+     "B7"
     ],
     [
-     "E",
      "F#7"
     ],
     [],
@@ -71,33 +77,44 @@
      "F#7(b9)"
     ],
     [
-     "Am6",
-     "F#m7(b5)"
+     "Am",
+     "F#m"
     ],
-    [],
-    [],
+    [
+     "F7"
+    ],
+    [
+     "Em",
+     "C#m"
+    ],
     [
      "B7(b9)"
     ],
     [
      "Bm"
     ],
-    [],
-    [],
+    [
+     "E7"
+    ],
+    [
+     "B7"
+    ],
     [
      "Em"
     ],
     [
-     "Am6",
+     "Am",
      "B7(b9)"
     ],
     [],
-    [],
     [
-     "Am6"
+     "Bm"
     ],
     [
-     "Em6"
+     "Am"
+    ],
+    [
+     "Em"
     ],
     [
      "C/Bb"
@@ -109,8 +126,13 @@
    "tonic": "C",
    "bars": "35–55",
    "sequence": [
-    [],
-    [],
+    [
+     "B7"
+    ],
+    [
+     "Em",
+     "B7"
+    ],
     [
      "E",
      "E7"
@@ -119,11 +141,15 @@
     [
      "A"
     ],
-    [],
     [
      "A"
     ],
-    [],
+    [
+     "A"
+    ],
+    [
+     "G7"
+    ],
     [
      "Bm",
      "F#7(b9)"
@@ -141,17 +167,25 @@
     [
      "A"
     ],
-    [],
-    [],
+    [
+     "A"
+    ],
     [],
     [
-     "Dm6"
+     "Dmaj7"
     ],
     [
-     "A/C#"
+     "Dm"
     ],
     [
+     "A/C#",
+     "C"
+    ],
+    [
+     "Bm",
      "E7(13)",
+     "A",
+     "E7",
      "A"
     ],
     [],
@@ -163,7 +197,9 @@
  ],
  "notes": [
   "Grille générée automatiquement depuis le texte du PDF : à vérifier.",
-  "Reprises et fins non détectées : les mesures sont dans l'ordre d'écriture."
+  "Reprises et fins non détectées : les mesures sont dans l'ordre d'écriture.",
+  "Non corroborée : aucune autre partition lisible de ce morceau.",
+  "Structure à vérifier : partie C : mesure à plus de 4 accords."
  ],
  "confidence": "low",
  "source": [

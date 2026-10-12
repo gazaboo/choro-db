@@ -4,15 +4,15 @@
  "composer": "Eduardo Neves",
  "transposition": "c",
  "meter": "2/4",
- "form": "A — B — C — D — Coda",
+ "form": "A — B — C — D",
  "parts": [
   {
    "name": "A",
    "tonic": "C",
-   "bars": "1–11",
+   "bars": "1–15",
    "sequence": [
     [
-     "Bm7(b5)"
+     "Am"
     ],
     [
      "Bb7(#11)"
@@ -22,9 +22,11 @@
     ],
     [],
     [
-     "Dm6"
+     "Dm"
     ],
-    [],
+    [
+     "Bm"
+    ],
     [
      "F#7(#11)"
     ],
@@ -35,11 +37,17 @@
      "F/A"
     ],
     [
-     "Bm7(b5)",
+     "G#",
      "E7(b9)"
     ],
     [
      "C/G"
+    ],
+    [],
+    [],
+    [],
+    [
+     "Bm"
     ]
    ]
   },
@@ -54,7 +62,7 @@
     [],
     [
      "A7(b9)",
-     "Dm6"
+     "Dm"
     ],
     [],
     [
@@ -62,7 +70,7 @@
     ],
     [],
     [
-     "Gm6"
+     "Gm"
     ],
     [],
     [
@@ -72,7 +80,9 @@
     [
      "F7"
     ],
-    [],
+    [
+     "Am"
+    ],
     [
      "C7(9)"
     ],
@@ -152,6 +162,7 @@
      "C6"
     ],
     [
+     "Gm",
      "C7",
      "A7(b13)"
     ],
@@ -159,9 +170,13 @@
      "F6"
     ],
     [],
+    [
+     "F#m"
+    ],
     [],
-    [],
-    [],
+    [
+     "Em"
+    ],
     [],
     [
      "D7(9)"
@@ -201,21 +216,12 @@
      "Am"
     ]
    ]
-  },
-  {
-   "name": "Coda",
-   "tonic": "Am",
-   "bars": "74–74",
-   "sequence": [
-    [
-     "Am6"
-    ]
-   ]
   }
  ],
  "notes": [
   "Grille générée automatiquement depuis le texte du PDF : à vérifier.",
-  "Reprises et fins non détectées : les mesures sont dans l'ordre d'écriture."
+  "Reprises et fins non détectées : les mesures sont dans l'ordre d'écriture.",
+  "Non corroborée : aucune autre partition lisible de ce morceau."
  ],
  "confidence": "low",
  "source": [

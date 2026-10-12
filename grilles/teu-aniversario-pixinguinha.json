@@ -12,31 +12,41 @@
    "bars": "1–16",
    "sequence": [
     [
-     "Dm"
+     "Dm",
+     "A7"
     ],
     [
      "Dm"
     ],
-    [],
+    [
+     "D7/F#"
+    ],
     [
      "Gm"
     ],
     [
      "Gm/Bb"
     ],
-    [],
-    [],
+    [
+     "A7"
+    ],
+    [
+     "A7/C#"
+    ],
     [
      "Dm"
     ],
     [
      "Dm",
-     "Em7(b5)"
+     "Em7(b5)",
+     "A7"
     ],
     [
      "Dm"
     ],
-    [],
+    [
+     "D7/F#"
+    ],
     [
      "Gm"
     ],
@@ -45,7 +55,10 @@
      "Dm",
      "Gm"
     ],
-    [],
+    [
+     "E7/B",
+     "A7"
+    ],
     [
      "Dm"
     ]
@@ -58,36 +71,52 @@
    "sequence": [
     [],
     [
-     "F"
+     "F",
+     "D7/F#"
     ],
     [],
-    [],
+    [
+     "C7"
+    ],
     [
      "F"
     ],
-    [],
+    [
+     "A7"
+    ],
     [
      "Dm"
     ],
-    [],
-    [],
     [
-     "F"
+     "G7"
+    ],
+    [
+     "C7"
+    ],
+    [
+     "F",
+     "G#"
     ],
     [
      "Cm"
     ],
-    [],
     [
-     "Bb"
+     "F7"
     ],
     [
      "Bb"
     ],
     [
-     "F/A"
+     "Bb"
     ],
-    [],
+    [
+     "F/A",
+     "D7"
+    ],
+    [
+     "G7",
+     "C7"
+    ],
     [
      "F"
     ]
@@ -96,7 +125,7 @@
   {
    "name": "C",
    "tonic": "C",
-   "bars": "34–47",
+   "bars": "34–49",
    "sequence": [
     [],
     [
@@ -106,7 +135,9 @@
     [
      "Cm"
     ],
-    [],
+    [
+     "F7"
+    ],
     [
      "Bb"
     ],
@@ -117,17 +148,21 @@
      "Dm"
     ],
     [
-     "Gm6"
+     "Gm6",
+     "A7"
     ],
     [
      "Dm",
-     "Eb/G"
+     "Eb/G",
+     "F7"
     ],
     [
      "Bb",
      "Bb/F"
     ],
-    [],
+    [
+     "Fm7"
+    ],
     [
      "Bb7",
      "Bb/Ab"
@@ -135,13 +170,21 @@
     [],
     [
      "Ebm6/Gb"
+    ],
+    [
+     "G7"
+    ],
+    [
+     "C7",
+     "F7"
     ]
    ]
   }
  ],
  "notes": [
   "Grille générée automatiquement depuis le texte du PDF : à vérifier.",
-  "Reprises et fins non détectées : les mesures sont dans l'ordre d'écriture."
+  "Reprises et fins non détectées : les mesures sont dans l'ordre d'écriture.",
+  "Non corroborée : aucune autre partition lisible de ce morceau."
  ],
  "confidence": "low",
  "source": [

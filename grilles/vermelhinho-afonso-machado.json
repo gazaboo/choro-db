@@ -4,99 +4,173 @@
  "composer": "Afonso Machado",
  "transposition": "c",
  "meter": "2/4",
- "form": "A — B — C — Coda",
+ "form": "A",
  "parts": [
   {
    "name": "A",
-   "tonic": "Am",
-   "bars": "1–11",
+   "tonic": "C",
+   "bars": "1–52",
    "sequence": [
     [
-     "Am6"
+     "Amaj7",
+     "C"
     ],
     [],
     [],
     [],
+    [
+     "Amaj7",
+     "C"
+    ],
+    [
+     "C",
+     "Bm"
+    ],
+    [],
+    [],
+    [],
+    [
+     "Am"
+    ],
+    [
+     "Am"
+    ],
+    [
+     "F#",
+     "A"
+    ],
+    [
+     "Bm",
+     "E7(b9)"
+    ],
+    [
+     "Am"
+    ],
     [
      "Am/G"
     ],
     [
-     "Em7(b5)"
+     "Em"
     ],
     [
      "A7(b9)"
     ],
-    [],
+    [
+     "Dm"
+    ],
     [
      "G7"
     ],
-    [],
+    [
+     "Cmaj7"
+    ],
     [
      "A7(b13)"
-    ]
-   ]
-  },
-  {
-   "name": "B",
-   "tonic": "C",
-   "bars": "20–32",
-   "sequence": [
-    [],
-    [],
+    ],
     [
-     "F#m7"
+     "Dm",
+     "A7/E",
+     "Dm7/F"
+    ],
+    [
+     "Eb",
+     "C"
+    ],
+    [
+     "Bm"
+    ],
+    [
+     "Bb7(9"
+    ],
+    [
+     "Dm"
+    ],
+    [
+     "G7(9)"
+    ],
+    [
+     "Cmaj7"
+    ],
+    [
+     "Bb7(9"
     ],
     [],
+    [
+     "Amaj7"
+    ],
+    [
+     "F#m"
+    ],
+    [
+     "Bm"
+    ],
     [
      "Bb7(9)"
     ],
-    [],
     [
-     "F#m7"
+     "Amaj7"
     ],
-    [],
+    [
+     "F#m"
+    ],
+    [
+     "Em"
+    ],
     [
      "A7"
     ],
-    [],
     [
-     "Dm6"
+     "Dmaj7"
     ],
-    [],
+    [
+     "Dm"
+    ],
+    [
+     "Cmaj7"
+    ],
     [
      "A7(13)"
-    ]
-   ]
-  },
-  {
-   "name": "C",
-   "tonic": "C",
-   "bars": "33–34",
-   "sequence": [
-    [],
+    ],
+    [
+     "Dm"
+    ],
     [
      "G7"
-    ]
-   ]
-  },
-  {
-   "name": "Coda",
-   "tonic": "C",
-   "bars": "37–39",
-   "sequence": [
-    [],
+    ],
     [
+     "Cmaj7"
+    ],
+    [
+     "Bb7(9"
+    ],
+    [
+     "Dm"
+    ],
+    [
+     "Bm3",
      "E7"
     ],
     [
      "A6"
+    ],
+    [],
+    [
+     "Amaj7",
+     "C"
+    ],
+    [
+     "C",
+     "Bm"
     ]
    ]
   }
  ],
  "notes": [
   "Grille générée automatiquement depuis le texte du PDF : à vérifier.",
-  "Reprises et fins non détectées : les mesures sont dans l'ordre d'écriture."
+  "Reprises et fins non détectées : les mesures sont dans l'ordre d'écriture.",
+  "Parties non repérées dans la partition : une seule partie.",
+  "Non corroborée : aucune autre partition lisible de ce morceau.",
+  "Structure à vérifier : partie A de 52 mesures."
  ],
  "confidence": "low",
  "source": [

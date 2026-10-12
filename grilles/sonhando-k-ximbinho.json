@@ -9,7 +9,7 @@
   {
    "name": "A",
    "tonic": "Am",
-   "bars": "1–14",
+   "bars": "1–15",
    "sequence": [
     [
      "Em",
@@ -55,6 +55,9 @@
     [
      "Em",
      "Em/D"
+    ],
+    [
+     "B7"
     ]
    ]
   },
@@ -91,7 +94,8 @@
      "E7"
     ],
     [
-     "Am"
+     "Am",
+     "F#7/C#"
     ],
     [
      "D7"
@@ -113,9 +117,7 @@
    "tonic": "C",
    "bars": "34–54",
    "sequence": [
-    [
-     "Em"
-    ],
+    [],
     [
      "Em",
      "B7"
@@ -135,7 +137,9 @@
     [
      "E/G#"
     ],
-    [],
+    [
+     "G#m"
+    ],
     [],
     [
      "B7(9)"
@@ -149,7 +153,9 @@
     [],
     [],
     [],
-    [],
+    [
+     "Dm"
+    ],
     [],
     [
      "A6",
@@ -165,7 +171,8 @@
  ],
  "notes": [
   "Grille générée automatiquement depuis le texte du PDF : à vérifier.",
-  "Reprises et fins non détectées : les mesures sont dans l'ordre d'écriture."
+  "Reprises et fins non détectées : les mesures sont dans l'ordre d'écriture.",
+  "Non corroborée : une grille relevée à la main, transposée de -3 demi-tons ne concorde qu'à 65% (enchaînement)."
  ],
  "confidence": "low",
  "source": [

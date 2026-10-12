@@ -18,12 +18,16 @@
      "C#7"
     ],
     [
-     "F#m7(b5)"
+     "F#m"
     ],
-    [],
-    [],
     [
-     "Gm6",
+     "B7"
+    ],
+    [
+     "Em"
+    ],
+    [
+     "Gm",
      "A7"
     ],
     [
@@ -34,10 +38,14 @@
   {
    "name": "B",
    "tonic": "C",
-   "bars": "8–20",
+   "bars": "8–22",
    "sequence": [
-    [],
-    [],
+    [
+     "D7"
+    ],
+    [
+     "A7"
+    ],
     [],
     [
      "D"
@@ -46,21 +54,35 @@
      "C#7"
     ],
     [
-     "F#m7"
+     "F#m"
     ],
-    [],
     [
-     "D",
-     "F#m7(b5)"
+     "Em",
+     "A7"
     ],
-    [],
-    [],
-    [],
+    [
+     "D"
+    ],
+    [
+     "E7"
+    ],
+    [
+     "A7"
+    ],
+    [
+     "D7"
+    ],
     [
      "G"
     ],
     [
      "C#7"
+    ],
+    [
+     "F#m"
+    ],
+    [
+     "B7"
     ]
    ]
   },
@@ -69,8 +91,12 @@
    "tonic": "C",
    "bars": "23–26",
    "sequence": [
-    [],
-    [],
+    [
+     "Em"
+    ],
+    [
+     "A7"
+    ],
     [
      "D"
     ],
@@ -84,9 +110,12 @@
    "tonic": "C",
    "bars": "27–29",
    "sequence": [
-    [],
     [
-     "Gm6"
+     "Em"
+    ],
+    [
+     "Gm",
+     "A7"
     ],
     [
      "D"
@@ -96,9 +125,11 @@
   {
    "name": "E",
    "tonic": "C",
-   "bars": "31–49",
+   "bars": "31–50",
    "sequence": [
-    [],
+    [
+     "A7"
+    ],
     [],
     [
      "D"
@@ -142,13 +173,18 @@
     ],
     [
      "D"
+    ],
+    [
+     "D7"
     ]
    ]
   }
  ],
  "notes": [
   "Grille générée automatiquement depuis le texte du PDF : à vérifier.",
-  "Reprises et fins non détectées : les mesures sont dans l'ordre d'écriture."
+  "Reprises et fins non détectées : les mesures sont dans l'ordre d'écriture.",
+  "Non corroborée : aucune autre partition lisible de ce morceau.",
+  "Structure à vérifier : partie D de 3 mesures."
  ],
  "confidence": "low",
  "source": [

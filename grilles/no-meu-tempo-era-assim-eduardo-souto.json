@@ -257,9 +257,10 @@
   }
  ],
  "notes": [
-  "Grille générée automatiquement depuis la partition MusicXML : à vérifier."
+  "Grille générée automatiquement depuis la partition MusicXML : à vérifier.",
+  "Corroborée par une autre partition : enchaînement 94%, mesures 88%."
  ],
- "confidence": "medium",
+ "confidence": "high",
  "source": [
   "mxl/C/Eduardo Souto - No meu tempo era assim - Theme - C.mxl"
  ],

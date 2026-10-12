@@ -14,18 +14,30 @@
     [
      "G"
     ],
-    [],
-    [],
-    [],
+    [
+     "G#"
+    ],
+    [
+     "D7/A"
+    ],
+    [
+     "D7"
+    ],
     [
      "Am"
     ],
-    [],
+    [
+     "A#"
+    ],
     [
      "G/B"
     ],
-    [],
-    [],
+    [
+     "Bm"
+    ],
+    [
+     "G7"
+    ],
     [
      "G7(#5)"
     ],
@@ -33,7 +45,7 @@
      "C6"
     ],
     [
-     "Cm6"
+     "Cm"
     ],
     [
      "G/B"
@@ -64,11 +76,15 @@
     [
      "Gm/F"
     ],
-    [],
+    [
+     "A7/E"
+    ],
     [
      "Eb7(b5)"
     ],
-    [],
+    [
+     "D4"
+    ],
     [
      "D7"
     ],
@@ -79,7 +95,7 @@
      "Gm/Bb"
     ],
     [
-     "Fm6/Ab"
+     "Fm"
     ],
     [
      "G7"
@@ -88,7 +104,9 @@
      "C7"
     ],
     [],
-    [],
+    [
+     "F7"
+    ],
     [],
     [
      "Bb"
@@ -103,11 +121,15 @@
     [
      "Gm/F"
     ],
-    [],
+    [
+     "A7/E"
+    ],
     [
      "Eb7(b5)"
     ],
-    [],
+    [
+     "D4"
+    ],
     [
      "D7"
     ],
@@ -121,7 +143,7 @@
      "Cm"
     ],
     [
-     "Am7(b5)"
+     "Am"
     ],
     [
      "Gm/Bb"
@@ -132,7 +154,9 @@
     [
      "A7/C#"
     ],
-    [],
+    [
+     "D7"
+    ],
     [
      "Gm"
     ]
@@ -140,8 +164,8 @@
   },
   {
    "name": "C",
-   "tonic": "C",
-   "bars": "50–67",
+   "tonic": "Am",
+   "bars": "50–68",
    "sequence": [
     [
      "Gm"
@@ -149,22 +173,36 @@
     [
      "Gm"
     ],
-    [],
+    [
+     "C7"
+    ],
     [
      "F"
     ],
-    [],
-    [],
-    [],
+    [
+     "F#"
+    ],
+    [
+     "C7/G"
+    ],
+    [
+     "C7"
+    ],
     [
      "Gm"
     ],
-    [],
+    [
+     "G#"
+    ],
     [
      "F/A"
     ],
-    [],
-    [],
+    [
+     "Am"
+    ],
+    [
+     "F7"
+    ],
     [
      "F7(#5)"
     ],
@@ -172,14 +210,19 @@
      "Bb6"
     ],
     [
-     "Bbm6"
+     "Bbm"
     ],
     [
      "F/A"
     ],
-    [],
+    [
+     "C7/G"
+    ],
     [
      "F"
+    ],
+    [
+     "D7"
     ]
    ]
   },
@@ -198,7 +241,7 @@
      "C6"
     ],
     [
-     "Cm6"
+     "Cm"
     ],
     [
      "G/B"
@@ -214,7 +257,8 @@
  ],
  "notes": [
   "Grille générée automatiquement depuis le texte du PDF : à vérifier.",
-  "Reprises et fins non détectées : les mesures sont dans l'ordre d'écriture."
+  "Reprises et fins non détectées : les mesures sont dans l'ordre d'écriture.",
+  "Non corroborée : aucune autre partition lisible de ce morceau."
  ],
  "confidence": "low",
  "source": [

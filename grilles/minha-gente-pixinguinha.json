@@ -363,9 +363,10 @@
   }
  ],
  "notes": [
-  "Grille générée automatiquement depuis la partition MusicXML : à vérifier."
+  "Grille générée automatiquement depuis la partition MusicXML : à vérifier.",
+  "Corroborée par une autre partition : enchaînement 93%, mesures 90%."
  ],
- "confidence": "medium",
+ "confidence": "high",
  "source": [
   "mxl/C/Pixinguinha - Minha gente - Theme - C.mxl"
  ],

@@ -241,9 +241,10 @@
   }
  ],
  "notes": [
-  "Grille générée automatiquement depuis la partition MusicXML : à vérifier."
+  "Grille générée automatiquement depuis la partition MusicXML : à vérifier.",
+  "Corroborée par une autre partition : enchaînement 91%, mesures 85%."
  ],
- "confidence": "medium",
+ "confidence": "high",
  "source": [
   "mxl/C/Luperce Miranda - Na casa do Athayde - Theme - C.mxl"
  ],

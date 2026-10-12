@@ -32,7 +32,7 @@ from inventaire import SMUFL, analyser_nom, est_accord  # noqa: E402
 
 NOTATION = [
     (r"[♯]", "#"), (r"[♭]", "b"), (r"°7", "dim7"), (r"°", "dim"), (r"ø7?", "m7b5"),
-    (r"(?<![a-z])min", "m"), (r"7M|M7|maj7|Maj7|Δ", "maj7"), (r"^([A-G][#b]?)-", r"\1m"),
+    (r"^([A-G][#b]?)o(?=7?(?:/|$))", r"\1dim"), (r"(?<![a-z])min", "m"), (r"7M|M7|maj7|Maj7|Δ", "maj7"), (r"^([A-G][#b]?)-", r"\1m"),
 ]
 RE_REPERE = re.compile(r"^[A-H]$")
 
@@ -70,20 +70,65 @@ def lire_page(page: pymupdf.Page) -> tuple[list, list, set]:
         for i, b in enumerate(boites)
         if any(abs(b.x + b.w - x) <= portees[b.staff_index].space * 1.5 for x in doubles[b.staff_index])
     }
-    textes = []
-    for bloc in page.get_text("dict")["blocks"]:
-        for ligne in bloc.get("lines", []):
-            spans = ligne["spans"]
-            t = "".join(sp["text"] for sp in spans).translate(SMUFL).strip()
-            if spans and t:
-                textes.append((ligne["bbox"], (spans[0]["font"], round(spans[0]["size"], 1)), t))
-    return boites, textes, fins
+    return boites, jetons(page), fins
+
+
+POLICES_NOTES = ("maestro", "petrucci", "opus", "sonata", "bravura", "jazz", "engraver")
+
+
+def jetons(page: pymupdf.Page) -> list[tuple]:
+    """Textes de la page, fragments contigus recollés : (bbox, style, texte).
+
+    Encore imprime « A » et son chiffrage « 7 » en deux fragments (le second en
+    exposant, plus petit, après un blanc) ; MuseScore écrit les altérations dans
+    une autre police. Deux fragments qui se touchent (écart ≤ 2 pt, même
+    hauteur à peu près) forment un seul jeton ; le style est celui du premier.
+    """
+    spans = [
+        sp
+        for b in page.get_text("dict")["blocks"]
+        for l in b.get("lines", [])
+        for sp in l["spans"]
+        # Police musicale : seulement une altération seule (Encore : « b », « # » ; MuseScore : SMuFL).
+        if not any(n in sp["font"].lower() for n in POLICES_NOTES)
+        or sp["text"].translate(SMUFL) != sp["text"]
+        or sp["text"].strip() in ("b", "#")
+        # Un blanc large sépare deux accords (« G   C ») : il ne doit pas les recoller.
+        if sp["text"].strip() or sp["bbox"][2] - sp["bbox"][0] <= 2.5
+    ]
+    spans.sort(key=lambda sp: (round(sp["bbox"][1] / 4), sp["bbox"][0]))
+    groupes: list[list] = []
+    for sp in sorted(spans, key=lambda sp: sp["bbox"][0]):
+        x0, y0, x1, y1 = sp["bbox"]
+        cible = None
+        for g in groupes:
+            gx1, gy0, gy1 = g[-1]["bbox"][2], min(s["bbox"][1] for s in g), max(s["bbox"][3] for s in g)
+            recouvre = min(y1, gy1) - max(y0, gy0)
+            ecart = 5.0 if g[-1]["text"].rstrip().endswith("(") else 2.5  # « 7( » … « 9) »
+            if -0.5 <= x0 - gx1 <= ecart and recouvre >= 0.3 * min(y1 - y0, gy1 - gy0):
+                cible = g
+                break
+        if cible is not None:
+            cible.append(sp)
+        else:
+            groupes.append([sp])
+    out = []
+    for g in groupes:
+        texte = "".join(s["text"] for s in g).translate(SMUFL)
+        serre = texte.replace(" ", "")
+        texte = serre if est_accord(notation(serre)) else texte.strip()
+        if not texte:
+            continue
+        premier = next((s for s in g if s["text"].strip()), g[0])
+        bbox = (min(s["bbox"][0] for s in g), min(s["bbox"][1] for s in g), max(s["bbox"][2] for s in g), max(s["bbox"][3] for s in g))
+        out.append((bbox, (premier["font"], round(premier["size"], 1)), texte))
+    return out
 
 
 def grille_pdf(chemin: Path) -> dict | None:
     doc = pymupdf.open(chemin)
     pages = [lire_page(p) for p in doc]
-    styles = Counter(st for _, textes, _ in pages for _, st, t in textes if est_accord(t) and len(t) > 1)
+    styles = Counter(st for _, textes, _ in pages for _, st, t in textes if est_accord(notation(t)) and len(t) > 1)
     if not styles:
         return None
     style = styles.most_common(1)[0][0]
@@ -99,7 +144,7 @@ def grille_pdf(chemin: Path) -> dict | None:
             if not dedans:
                 continue
             i = dedans[0]
-            if st == style and est_accord(t):
+            if st == style and est_accord(notation(t)):
                 cases[i].append((x, notation(t)))
             elif RE_REPERE.match(t) and st != style:
                 # Lettre de repère : début de partie, sauf si elle apparaît déjà.

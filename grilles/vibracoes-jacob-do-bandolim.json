@@ -12,7 +12,6 @@
    "bars": "1–23",
    "sequence": [
     [
-     "Dm",
      "A7/E"
     ],
     [
@@ -32,7 +31,9 @@
     [
      "Dm"
     ],
-    [],
+    [
+     "Cm6/Eb"
+    ],
     [
      "D7/F#"
     ],
@@ -48,7 +49,9 @@
     [
      "A7"
     ],
-    [],
+    [
+     "Cm6/Eb"
+    ],
     [
      "D7"
     ],
@@ -56,7 +59,7 @@
      "G7"
     ],
     [
-     "Bbm6",
+     "Bbm6/Db",
      "C7",
      "C7/E",
      "F",
@@ -66,10 +69,11 @@
      "Gm"
     ],
     [
+     "Gm6/Bb",
      "A7/E"
     ],
     [
-     "Dm/F"
+     "D"
     ],
     [
      "Dm"
@@ -85,7 +89,7 @@
   {
    "name": "B",
    "tonic": "C",
-   "bars": "24–57",
+   "bars": "24–56",
    "sequence": [
     [
      "Dm",
@@ -113,7 +117,7 @@
     ],
     [],
     [
-     "Bbm6"
+     "Bbm6/Db"
     ],
     [
      "F/C"
@@ -151,7 +155,7 @@
      "Dm"
     ],
     [
-     "Bbm6"
+     "Bbm6/Db"
     ],
     [
      "Cm7"
@@ -159,9 +163,7 @@
     [
      "F7"
     ],
-    [
-     "Bbm6"
-    ],
+    [],
     [],
     [
      "F/C",
@@ -174,29 +176,27 @@
     [
      "G7"
     ],
-    [],
     [
-     "F"
+     "Bbm6/Db"
     ]
    ]
   },
   {
    "name": "Coda",
    "tonic": "C",
-   "bars": "58–59",
+   "bars": "58–58",
    "sequence": [
     [
      "Bb7"
-    ],
-    [
-     "D6"
     ]
    ]
   }
  ],
  "notes": [
   "Grille générée automatiquement depuis le texte du PDF : à vérifier.",
-  "Reprises et fins non détectées : les mesures sont dans l'ordre d'écriture."
+  "Reprises et fins non détectées : les mesures sont dans l'ordre d'écriture.",
+  "Non corroborée : une grille relevée à la main ne concorde qu'à 88% (enchaînement).",
+  "Structure à vérifier : partie A : mesure à plus de 4 accords."
  ],
  "confidence": "low",
  "source": [

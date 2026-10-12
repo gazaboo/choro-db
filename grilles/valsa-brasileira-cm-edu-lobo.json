@@ -15,14 +15,20 @@
      "G7(b9)"
     ],
     [
-     "Cm7(9)"
+     "Cm"
     ],
-    [],
     [
-     "Dm7(9)"
+     "C#"
     ],
-    [],
-    [],
+    [
+     "Dm"
+    ],
+    [
+     "D#"
+    ],
+    [
+     "Cmaj7/E"
+    ],
     [
      "G/F"
     ],
@@ -42,7 +48,8 @@
      "Cm"
     ],
     [
-     "Am7(b5)"
+     "Am",
+     "D7(b9"
     ],
     [],
     [
@@ -52,23 +59,34 @@
   },
   {
    "name": "B",
-   "tonic": "C",
-   "bars": "16–24",
+   "tonic": "Am",
+   "bars": "16–27",
    "sequence": [
     [
-     "Cm7"
+     "Cm"
     ],
     [],
     [
-     "Cm7"
+     "Cm"
+    ],
+    [
+     "C#"
     ],
     [],
     [],
     [],
-    [],
-    [],
+    [
+     "B"
+    ],
     [
      "Eb7/Bb"
+    ],
+    [],
+    [
+     "Ab"
+    ],
+    [
+     "Am"
     ]
    ]
   },
@@ -77,18 +95,21 @@
    "tonic": "C",
    "bars": "28–36",
    "sequence": [
-    [],
-    [],
-    [],
     [
-     "Cm/Bb"
+     "D7(b9"
     ],
+    [
+     "Ab7(9"
+    ],
+    [],
+    [],
     [
      "Cm/B"
     ],
     [],
     [
-     "F7(9)"
+     "F7(9)",
+     "F#"
     ],
     [
      "Cm/G"
@@ -108,25 +129,32 @@
     ],
     [],
     [
-     "Fm7(b5)"
+     "Fm"
     ],
     [],
     [
-     "Dbm6/Fb"
+     "Dbm"
     ],
     [
      "Eb7(b9)"
     ],
-    [],
+    [
+     "Ab"
+    ],
     [
      "G7(b9)"
     ],
     [
-     "Cm7",
+     "Cm",
      "Cm/Bb"
     ],
-    [],
-    [],
+    [
+     "Am",
+     "D7(b9"
+    ],
+    [
+     "Gmaj7"
+    ],
     [
      "G7(b9)"
     ]
@@ -164,12 +192,14 @@
      "Cb7(13)"
     ],
     [
-     "Abm69"
+     "Abm6"
     ],
     [
-     "Fm7(9)"
+     "Fm"
     ],
-    [],
+    [
+     "Emaj7"
+    ],
     [
      "Eb"
     ]
@@ -178,7 +208,8 @@
  ],
  "notes": [
   "Grille générée automatiquement depuis le texte du PDF : à vérifier.",
-  "Reprises et fins non détectées : les mesures sont dans l'ordre d'écriture."
+  "Reprises et fins non détectées : les mesures sont dans l'ordre d'écriture.",
+  "Non corroborée : aucune autre partition lisible de ce morceau."
  ],
  "confidence": "low",
  "source": [

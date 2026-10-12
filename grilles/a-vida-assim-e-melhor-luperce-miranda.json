@@ -225,9 +225,10 @@
   }
  ],
  "notes": [
-  "Grille générée automatiquement depuis la partition MusicXML : à vérifier."
+  "Grille générée automatiquement depuis la partition MusicXML : à vérifier.",
+  "Corroborée par une autre partition : enchaînement 88%, mesures 85%."
  ],
- "confidence": "medium",
+ "confidence": "high",
  "source": [
   "mxl/C/Luperce Miranda - A vida assim é melhor - Theme - C.mxl"
  ],

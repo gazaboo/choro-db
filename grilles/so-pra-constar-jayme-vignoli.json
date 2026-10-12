@@ -12,39 +12,39 @@
    "bars": "1–14",
    "sequence": [
     [
-     "Bb6"
+     "Bb9"
     ],
     [],
     [
-     "D6"
+     "D9/A"
     ],
     [],
     [
-     "Bb6"
+     "Bb9"
     ],
     [
      "Bb/Ab"
     ],
     [
-     "D6"
+     "D9/A"
     ],
     [
      "B7(b13)",
-     "D6"
+     "D9"
     ],
     [
      "Cm6"
     ],
     [
+     "B7",
      "Em7(b5)"
     ],
     [
-     "A7(b13)",
-     "E7(9)"
+     "A7(b13)"
     ],
     [],
     [
-     "Bb6",
+     "Bb9/D",
      "Gm6/Bb"
     ],
     [
@@ -62,21 +62,23 @@
      "A7(13)"
     ],
     [
-     "Bb6"
+     "Bb9/D"
     ],
-    [],
     [
-     "D6"
+     "D7(9)"
+    ],
+    [
+     "D9"
     ],
     [],
     [
      "B7(b13)"
     ],
     [],
-    [
-     "D4"
-    ],
     [],
+    [
+     "Cmmaj7/Eb"
+    ],
     [
      "Am6/E"
     ],
@@ -89,7 +91,7 @@
      "C7(9)"
     ],
     [
-     "D6"
+     "D9/F#"
     ]
    ]
   },
@@ -101,7 +103,9 @@
     [
      "Fm6"
     ],
-    [],
+    [
+     "Em7"
+    ],
     [],
     [
      "Bb7(9)",
@@ -117,35 +121,59 @@
      "Dm6/F"
     ],
     [],
-    [],
-    [],
-    [],
-    [],
-    [],
-    [],
     [
-     "G#m7(11)"
+     "Aadd9/E",
+     "Aadd9"
     ],
     [],
     [
+     "Bm7"
+    ],
+    [
+     "C#7(b13)",
+     "G7(#9"
+    ],
+    [
+     "Bm7"
+    ],
+    [],
+    [
+     "G#m"
+    ],
+    [],
+    [
+     "F#mmaj7",
      "F#m7"
     ],
-    [],
+    [
+     "Ab7(b13)",
+     "Ab7(b13)/Gb"
+    ],
     [
      "Cm/G",
-     "C7(b9)"
+     "C7(b9)",
+     "Cm7"
     ],
     [
      "Cm/Bb"
     ],
-    [],
-    [],
-    [],
+    [
+     "A"
+    ],
+    [
+     "Ab"
+    ],
+    [
+     "Gm7"
+    ],
     [],
     [
      "Fm/Ab"
     ],
-    [],
+    [
+     "F7/A",
+     "F7/C"
+    ],
     [
      "Aadd9/C#",
      "G7(13)"
@@ -160,12 +188,11 @@
    "tonic": "C",
    "bars": "57–60",
    "sequence": [
-    [
-     "B7(9)"
-    ],
+    [],
     [],
     [
-     "Bb7(9)"
+     "Bb7(9)",
+     "F7(#9"
     ],
     [
      "C#/E"
@@ -177,9 +204,7 @@
    "tonic": "C",
    "bars": "61–64",
    "sequence": [
-    [
-     "B7(9)"
-    ],
+    [],
     [],
     [
      "C7(#9)",
@@ -188,13 +213,13 @@
      "F#7(#11)"
     ],
     [
-     "Bb6"
+     "Bb9/F"
     ]
    ]
   },
   {
    "name": "F",
-   "tonic": "Am",
+   "tonic": "C",
    "bars": "65–86",
    "sequence": [
     [],
@@ -202,27 +227,27 @@
     [],
     [],
     [
-     "Bb/Ab"
+     "Bb/Ab",
+     "D7(9)"
     ],
     [
-     "D6"
+     "D9/A"
     ],
     [
-     "D6"
+     "D9"
     ],
     [
-     "Bb6"
+     "Bb9/D"
     ],
     [
      "B7(b13)"
     ],
-    [
-     "D4"
-    ],
     [],
     [
-     "Am6/E",
-     "D6"
+     "Cmmaj7/Eb"
+    ],
+    [
+     "Am6/E"
     ],
     [],
     [
@@ -230,10 +255,12 @@
     ],
     [
      "C7(9)",
-     "D6"
+     "D9"
     ],
     [
-     "A6"
+     "D9/F#",
+     "A9/C#",
+     "Cmaj7(9)"
     ],
     [
      "Fm6",
@@ -256,7 +283,8 @@
  ],
  "notes": [
   "Grille générée automatiquement depuis le texte du PDF : à vérifier.",
-  "Reprises et fins non détectées : les mesures sont dans l'ordre d'écriture."
+  "Reprises et fins non détectées : les mesures sont dans l'ordre d'écriture.",
+  "Non corroborée : aucune autre partition lisible de ce morceau."
  ],
  "confidence": "low",
  "source": [

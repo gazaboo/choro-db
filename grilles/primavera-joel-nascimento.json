@@ -298,9 +298,10 @@
  ],
  "notes": [
   "Grille générée automatiquement depuis la partition MusicXML : à vérifier.",
-  "B : première mesure sans accord"
+  "B : première mesure sans accord",
+  "Corroborée par une autre partition : enchaînement 96%, mesures 89%."
  ],
- "confidence": "medium",
+ "confidence": "high",
  "source": [
   "mxl/C/Joel Nascimento - Primavera - Theme - C.mxl"
  ],

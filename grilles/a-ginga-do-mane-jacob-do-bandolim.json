@@ -277,7 +277,9 @@
  ],
  "notes": [
   "Grille générée automatiquement depuis la partition MusicXML : à vérifier.",
-  "E : première mesure sans accord"
+  "E : première mesure sans accord",
+  "Non corroborée : une autre partition ne concorde qu'à 85% (enchaînement).",
+  "Structure à vérifier : partie C de 1 mesures."
  ],
  "confidence": "medium",
  "source": [

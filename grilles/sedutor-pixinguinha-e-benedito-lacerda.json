@@ -4,15 +4,15 @@
  "composer": "Pixinguinha E Benedito Lacerda",
  "transposition": "c",
  "meter": "2/4",
- "form": "A — B — C — D",
+ "form": "A — B — C",
  "parts": [
   {
    "name": "A",
    "tonic": "C",
-   "bars": "1–14",
+   "bars": "1–15",
    "sequence": [
     [
-     "Gm6/Bb"
+     "Gm"
     ],
     [
      "Dm/A"
@@ -24,7 +24,7 @@
      "D7"
     ],
     [
-     "Gm6/Bb"
+     "Gm"
     ],
     [
      "Dm/A"
@@ -36,7 +36,7 @@
      "A7"
     ],
     [
-     "Gm6/Bb"
+     "Gm"
     ],
     [
      "Dm/A"
@@ -52,17 +52,19 @@
     ],
     [
      "Dm/F"
+    ],
+    [
+     "Em",
+     "A7"
     ]
    ]
   },
   {
    "name": "B",
    "tonic": "C",
-   "bars": "16–24",
+   "bars": "16–32",
    "sequence": [
-    [
-     "Dm"
-    ],
+    [],
     [
      "Dm"
     ],
@@ -90,14 +92,7 @@
     [
      "D7",
      "G7"
-    ]
-   ]
-  },
-  {
-   "name": "C",
-   "tonic": "C",
-   "bars": "25–32",
-   "sequence": [
+    ],
     [
      "C7"
     ],
@@ -116,7 +111,7 @@
     ],
     [
      "Gm",
-     "Bbm6"
+     "Bbm"
     ],
     [
      "F/A",
@@ -129,7 +124,7 @@
    ]
   },
   {
-   "name": "D",
+   "name": "C",
    "tonic": "C",
    "bars": "33–53",
    "sequence": [
@@ -188,13 +183,14 @@
     ],
     [
      "Em",
-     "Gm6"
+     "Gm"
     ],
     [
      "D/F#",
      "B7"
     ],
     [
+     "Em",
      "A7"
     ],
     [
@@ -208,7 +204,8 @@
  ],
  "notes": [
   "Grille générée automatiquement depuis le texte du PDF : à vérifier.",
-  "Reprises et fins non détectées : les mesures sont dans l'ordre d'écriture."
+  "Reprises et fins non détectées : les mesures sont dans l'ordre d'écriture.",
+  "Non corroborée : aucune autre partition lisible de ce morceau."
  ],
  "confidence": "low",
  "source": [

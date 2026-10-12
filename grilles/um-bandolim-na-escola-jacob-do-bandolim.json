@@ -214,7 +214,9 @@
  ],
  "notes": [
   "Grille générée automatiquement depuis la partition MusicXML : à vérifier.",
-  "51/81 mesures sans accord écrit"
+  "51/81 mesures sans accord écrit",
+  "Non corroborée : une autre partition ne concorde qu'à 85% (enchaînement).",
+  "Structure à vérifier : partie A de 1 mesures ; 51/81 mesures sans accord."
  ],
  "confidence": "medium",
  "source": [

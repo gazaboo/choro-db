@@ -14,19 +14,28 @@
     [
      "Em"
     ],
-    [],
     [
-     "Am"
+     "G#"
+    ],
+    [
+     "Am",
+     "E7/B"
     ],
     [
      "Am/C"
     ],
-    [],
-    [],
+    [
+     "F7"
+    ],
+    [
+     "B7/F#"
+    ],
     [
      "Em"
     ],
-    [],
+    [
+     "B7"
+    ],
     [
      "Em"
     ],
@@ -40,27 +49,39 @@
     [
      "Bm/A"
     ],
-    [],
-    [],
-    [],
+    [
+     "G#"
+    ],
+    [
+     "G"
+    ],
+    [
+     "B7/F#"
+    ],
     [],
     [
      "Em"
     ],
-    [],
+    [
+     "G#"
+    ],
     [
      "Am",
-     "E7(b9)"
+     "E7(b9)",
+     "E7/B"
     ],
     [
      "Am/C"
     ],
     [
+     "F7",
      "D7(b9)"
     ],
-    [],
     [
-     "Dm6/F"
+     "B7/F#"
+    ],
+    [
+     "Dm"
     ],
     [],
     [
@@ -91,23 +112,35 @@
     [
      "Em"
     ],
-    [],
-    [],
     [
-     "Am"
+     "E7",
+     "F"
+    ],
+    [
+     "E7/G#",
+     "E7"
+    ],
+    [
+     "Am",
+     "E7/B"
     ],
     [
      "Am/C",
      "D7(b9)"
     ],
-    [],
+    [
+     "D7",
+     "Eb"
+    ],
     [
      "D7/F#"
     ],
     [
      "G"
     ],
-    [],
+    [
+     "F"
+    ],
     [
      "C/E"
     ],
@@ -116,12 +149,14 @@
      "G/D"
     ],
     [
-     "Am6"
+     "Am"
     ],
     [
      "Em/G"
     ],
-    [],
+    [
+     "B7/F#"
+    ],
     [
      "Em"
     ]
@@ -145,26 +180,38 @@
     [
      "E"
     ],
-    [],
     [
      "E"
     ],
-    [],
+    [
+     "E"
+    ],
+    [
+     "B7/F#"
+    ],
     [
      "E/G#"
     ],
-    [],
+    [
+     "G"
+    ],
     [
      "F#m"
     ],
     [
      "C#7/G#"
     ],
-    [],
-    [],
-    [],
     [
-     "Dm6"
+     "F#m"
+    ],
+    [
+     "D7/F#"
+    ],
+    [
+     "F#m"
+    ],
+    [
+     "Dm"
     ],
     [
      "F#7/C#"
@@ -173,21 +220,30 @@
      "F#7"
     ],
     [
+     "B7",
      "A/C#"
     ],
-    [],
+    [
+     "B7/D#"
+    ],
     [
      "E"
     ],
-    [],
     [
      "E"
     ],
-    [],
+    [
+     "E"
+    ],
+    [
+     "B7/F#"
+    ],
     [
      "E7"
     ],
-    [],
+    [
+     "E7/G#"
+    ],
     [
      "A"
     ],
@@ -198,16 +254,20 @@
      "F#m"
     ],
     [
-     "F#m7(b5)"
+     "F#m"
     ],
     [
-     "G#m7(b5)"
+     "G#m"
     ],
     [
      "C#7(b9)"
     ],
-    [],
-    [],
+    [
+     "C7"
+    ],
+    [
+     "B7"
+    ],
     [
      "E"
     ],
@@ -220,7 +280,8 @@
  ],
  "notes": [
   "Grille générée automatiquement depuis le texte du PDF : à vérifier.",
-  "Reprises et fins non détectées : les mesures sont dans l'ordre d'écriture."
+  "Reprises et fins non détectées : les mesures sont dans l'ordre d'écriture.",
+  "Non corroborée : aucune autre partition lisible de ce morceau."
  ],
  "confidence": "low",
  "source": [

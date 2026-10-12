@@ -50,11 +50,11 @@
     [
      "B7/F#",
      "Am",
-     "Bm7(b5)"
+     "Bm"
     ],
     [
      "B7",
-     "Dm6/F",
+     "Dm",
      "E7"
     ],
     [
@@ -69,9 +69,18 @@
      "Am",
      "E7/G#"
     ],
-    [],
-    [],
-    [],
+    [
+     "Am/G",
+     "A7/C#"
+    ],
+    [
+     "Dm/F",
+     "A7/E"
+    ],
+    [
+     "Dm",
+     "Dm/C"
+    ],
     [
      "E7/B"
     ],
@@ -80,7 +89,7 @@
      "E7/B"
     ],
     [
-     "Gm6/Bb"
+     "Gm"
     ],
     [
      "A7",
@@ -91,16 +100,19 @@
     ],
     [
      "Dm",
-     "Bm7(b5)"
+     "Bm"
     ],
     [
      "Am/C"
     ],
     [
      "Am",
-     "Am/G"
+     "Am/G",
+     "B7/F#"
     ],
-    [],
+    [
+     "Dm6/F"
+    ],
     [
      "E7"
     ],
@@ -135,7 +147,7 @@
      "Am/C"
     ],
     [
-     "Gm6/Bb"
+     "Gm"
     ],
     [
      "A7"
@@ -150,7 +162,9 @@
     [
      "Dm"
     ],
-    [],
+    [
+     "Bm"
+    ],
     [
      "Am/C"
     ],
@@ -160,7 +174,7 @@
     ],
     [
      "B7",
-     "Dm6/F"
+     "Dm"
     ],
     [
      "E7"
@@ -210,8 +224,7 @@
      "A/C#"
     ],
     [
-     "A",
-     "Em6/G"
+     "A"
     ],
     [],
     [
@@ -244,6 +257,7 @@
     ],
     [
      "A",
+     "Am",
      "E7"
     ]
    ]
@@ -251,9 +265,10 @@
  ],
  "notes": [
   "Grille générée automatiquement depuis le texte du PDF : à vérifier.",
-  "Reprises et fins non détectées : les mesures sont dans l'ordre d'écriture."
+  "Reprises et fins non détectées : les mesures sont dans l'ordre d'écriture.",
+  "Corroborée par une grille relevée à la main : enchaînement 90%, mesures 79%."
  ],
- "confidence": "low",
+ "confidence": "high",
  "source": [
   "pdf/Luiz Americano - É Do Que Há - Theme - C.pdf"
  ],

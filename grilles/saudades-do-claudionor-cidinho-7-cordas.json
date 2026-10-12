@@ -9,17 +9,30 @@
   {
    "name": "A",
    "tonic": "Am",
-   "bars": "1–13",
+   "bars": "1–15",
    "sequence": [
     [
-     "D"
+     "Em7",
+     "A7"
     ],
-    [],
-    [],
     [
+     "D",
+     "F"
+    ],
+    [
+     "Em7",
+     "A7"
+    ],
+    [
+     "Dmaj7",
+     "F"
+    ],
+    [
+     "Em7",
      "F#7"
     ],
     [
+     "Bm7",
      "G#m7(b5)"
     ],
     [
@@ -27,13 +40,22 @@
      "C#7"
     ],
     [
-     "F#m7"
+     "F#m7",
+     "F#",
+     "F"
     ],
-    [],
     [
-     "D"
+     "Em7",
+     "A7"
     ],
-    [],
+    [
+     "D",
+     "F"
+    ],
+    [
+     "Em7",
+     "A7"
+    ],
     [
      "Am"
     ],
@@ -42,71 +64,103 @@
      "Gm6"
     ],
     [
-     "D/F#"
+     "D/F#",
+     "F"
+    ],
+    [
+     "Em7",
+     "A7"
     ]
    ]
   },
   {
    "name": "B",
-   "tonic": "C",
-   "bars": "15–31",
+   "tonic": "Am",
+   "bars": "16–33",
    "sequence": [
     [
-     "D"
+     "D",
+     "F"
     ],
     [
      "Dm",
      "Dm/C"
     ],
     [],
-    [],
+    [
+     "B",
+     "A7"
+    ],
     [
      "Dm"
     ],
     [
-     "Em7(b5)"
+     "Em7(b5)",
+     "A7"
     ],
     [
      "Dm",
      "Dm/C"
     ],
-    [],
+    [
+     "B",
+     "A7"
+    ],
     [
      "Dm",
      "Dm6"
     ],
-    [],
+    [
+     "Am7",
+     "E7/B"
+    ],
     [
      "Gm6/Bb"
     ],
-    [],
+    [
+     "B",
+     "A7"
+    ],
     [
      "Dm"
     ],
     [
-     "Gm6"
+     "Gm6",
+     "A7"
     ],
-    [],
-    [],
     [
+     "D7/F#"
+    ],
+    [
+     "G7",
+     "C7"
+    ],
+    [
+     "F7",
      "Bb7"
+    ],
+    [
+     "Ebmaj7",
+     "A7"
     ]
    ]
   },
   {
    "name": "Coda",
    "tonic": "C",
-   "bars": "33–38",
+   "bars": "34–39",
    "sequence": [
     [
      "Dm",
      "Dm/C"
     ],
     [
-     "D"
+     "D",
+     "F"
     ],
     [
-     "D"
+     "D",
+     "D(#5)"
     ],
     [
      "G",
@@ -123,7 +177,8 @@
  ],
  "notes": [
   "Grille générée automatiquement depuis le texte du PDF : à vérifier.",
-  "Reprises et fins non détectées : les mesures sont dans l'ordre d'écriture."
+  "Reprises et fins non détectées : les mesures sont dans l'ordre d'écriture.",
+  "Non corroborée : aucune autre partition lisible de ce morceau."
  ],
  "confidence": "low",
  "source": [

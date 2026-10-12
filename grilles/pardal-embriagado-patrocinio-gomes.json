@@ -234,9 +234,10 @@
   }
  ],
  "notes": [
-  "Grille générée automatiquement depuis la partition MusicXML : à vérifier."
+  "Grille générée automatiquement depuis la partition MusicXML : à vérifier.",
+  "Corroborée par une autre partition : enchaînement 87%, mesures 87%."
  ],
- "confidence": "medium",
+ "confidence": "high",
  "source": [
   "mxl/C/Patrocínio Gomes - Pardal embriagado - Theme - C.mxl"
  ],

@@ -89,15 +89,20 @@
     [],
     [],
     [
-     "D7(b9)"
+     "D7(b9)",
+     "A7(b9)"
     ],
     [
      "Gm7(9)"
     ],
-    [],
-    [],
     [
-     "A4"
+     "Gbmaj7(9)"
+    ],
+    [
+     "Fmaj7(9)"
+    ],
+    [
+     "A7(b9"
     ]
    ]
   },
@@ -108,7 +113,7 @@
    "sequence": [
     [],
     [
-     "Dm7(9)"
+     "Dm"
     ],
     [
      "Am7(9)"
@@ -127,14 +132,15 @@
      "Am7(9)"
     ],
     [
-     "Dm7(11)"
+     "Dm"
     ]
    ]
   }
  ],
  "notes": [
   "Grille générée automatiquement depuis le texte du PDF : à vérifier.",
-  "Reprises et fins non détectées : les mesures sont dans l'ordre d'écriture."
+  "Reprises et fins non détectées : les mesures sont dans l'ordre d'écriture.",
+  "Non corroborée : aucune autre partition lisible de ce morceau."
  ],
  "confidence": "low",
  "source": [

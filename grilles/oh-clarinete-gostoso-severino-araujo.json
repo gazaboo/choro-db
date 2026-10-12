@@ -222,9 +222,10 @@
   }
  ],
  "notes": [
-  "Grille générée automatiquement depuis la partition MusicXML : à vérifier."
+  "Grille générée automatiquement depuis la partition MusicXML : à vérifier.",
+  "Corroborée par une autre partition : enchaînement 99%, mesures 99%."
  ],
- "confidence": "medium",
+ "confidence": "high",
  "source": [
   "mxl/C/Severino Araújo - Oh! Clarinete gostoso - Theme - C.mxl"
  ],

@@ -251,9 +251,10 @@
   }
  ],
  "notes": [
-  "Grille générée automatiquement depuis la partition MusicXML : à vérifier."
+  "Grille générée automatiquement depuis la partition MusicXML : à vérifier.",
+  "Corroborée par une autre partition : enchaînement 98%, mesures 94%."
  ],
- "confidence": "medium",
+ "confidence": "high",
  "source": [
   "mxl/C/Pixinguinha - Gargalhada - Theme - C.mxl"
  ],

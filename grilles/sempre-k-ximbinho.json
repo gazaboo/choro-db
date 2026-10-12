@@ -9,13 +9,15 @@
   {
    "name": "A",
    "tonic": "C",
-   "bars": "1–14",
+   "bars": "1–15",
    "sequence": [
     [
      "F",
      "D7/F#"
     ],
-    [],
+    [
+     "Gm"
+    ],
     [
      "C7"
     ],
@@ -27,9 +29,11 @@
      "G7"
     ],
     [
-     "C"
+     "C",
+     "Am"
     ],
     [
+     "Dm",
      "G7"
     ],
     [
@@ -39,15 +43,25 @@
      "F",
      "D7/F#"
     ],
-    [],
+    [
+     "Gm"
+    ],
     [
      "C7"
     ],
-    [],
-    [],
+    [
+     "C"
+    ],
+    [
+     "B"
+    ],
     [
      "F",
      "D7"
+    ],
+    [
+     "Gm",
+     "C7"
     ]
    ]
   },
@@ -77,9 +91,13 @@
     [
      "Gm"
     ],
+    [
+     "Gm"
+    ],
     [],
-    [],
-    [],
+    [
+     "Em"
+    ],
     [
      "Dm",
      "A7"
@@ -98,7 +116,7 @@
      "Gm"
     ],
     [
-     "Em7(b5)"
+     "Em"
     ],
     [
      "Dm"
@@ -112,7 +130,8 @@
  ],
  "notes": [
   "Grille générée automatiquement depuis le texte du PDF : à vérifier.",
-  "Reprises et fins non détectées : les mesures sont dans l'ordre d'écriture."
+  "Reprises et fins non détectées : les mesures sont dans l'ordre d'écriture.",
+  "Non corroborée : aucune autre partition lisible de ce morceau."
  ],
  "confidence": "low",
  "source": [

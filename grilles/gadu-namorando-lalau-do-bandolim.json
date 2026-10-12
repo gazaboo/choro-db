@@ -129,7 +129,7 @@
   {
    "name": "C",
    "tonic": "C",
-   "bars": "34–53",
+   "bars": "34–55",
    "sequence": [
     [
      "Am"
@@ -190,15 +190,20 @@
     ],
     [
      "F"
+    ],
+    [],
+    [
+     "C"
     ]
    ]
   }
  ],
  "notes": [
   "Grille générée automatiquement depuis le texte du PDF : à vérifier.",
-  "Reprises et fins non détectées : les mesures sont dans l'ordre d'écriture."
+  "Reprises et fins non détectées : les mesures sont dans l'ordre d'écriture.",
+  "Corroborée par une autre partition : enchaînement 95%, mesures 88%."
  ],
- "confidence": "low",
+ "confidence": "high",
  "source": [
   "pdf/Lalau do Bandolim - Gadu namorando - Theme - C.pdf"
  ],

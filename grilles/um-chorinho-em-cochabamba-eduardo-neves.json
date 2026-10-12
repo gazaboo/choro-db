@@ -4,23 +4,37 @@
  "composer": "Eduardo Neves",
  "transposition": "c",
  "meter": "2/4",
- "form": "A — B — C — Coda",
+ "form": "A — B — C — D — A",
  "parts": [
   {
    "name": "A",
    "tonic": "C",
-   "bars": "1–19",
+   "bars": "1–4",
    "sequence": [
     [
-     "Gm6",
-     "A7"
+     "Dm"
     ],
-    [],
     [
-     "Gm6",
+     "Gm",
      "A7"
     ],
-    [],
+    [
+     "Dm"
+    ],
+    [
+     "Gm",
+     "A7"
+    ]
+   ]
+  },
+  {
+   "name": "B",
+   "tonic": "C",
+   "bars": "5–20",
+   "sequence": [
+    [
+     "Dm"
+    ],
     [],
     [
      "C7"
@@ -42,12 +56,14 @@
      "A7"
     ],
     [],
-    [],
+    [
+     "Gm"
+    ],
     [
      "A7"
     ],
     [
-     "Dm6"
+     "Dm"
     ],
     [
      "F7(13)"
@@ -61,16 +77,16 @@
    ]
   },
   {
-   "name": "B",
+   "name": "C",
    "tonic": "C",
-   "bars": "20–38",
+   "bars": "21–39",
    "sequence": [
     [
-     "Dm6"
+     "Dm"
     ],
     [],
     [
-     "Dm6"
+     "Dm"
     ],
     [],
     [],
@@ -78,9 +94,13 @@
      "Bb7"
     ],
     [],
+    [
+     "Dm"
+    ],
     [],
-    [],
-    [],
+    [
+     "Gm"
+    ],
     [
      "C7(9)"
     ],
@@ -89,17 +109,19 @@
     ],
     [],
     [
-     "Em7(b5)"
+     "Em"
     ],
     [
      "A7(b9)"
     ],
-    [],
+    [
+     "Dm"
+    ],
     [
      "F7"
     ],
     [
-     "Em7(b5)"
+     "Em"
     ],
     [
      "A7"
@@ -107,13 +129,17 @@
    ]
   },
   {
-   "name": "C",
+   "name": "D",
    "tonic": "C",
-   "bars": "39–47",
+   "bars": "40–48",
    "sequence": [
+    [
+     "Dm"
+    ],
     [],
-    [],
-    [],
+    [
+     "Dm"
+    ],
     [],
     [],
     [
@@ -130,29 +156,12 @@
      "A7"
     ]
    ]
-  },
-  {
-   "name": "Coda",
-   "tonic": "C",
-   "bars": "48–52",
-   "sequence": [
-    [],
-    [],
-    [
-     "Gm6",
-     "A7"
-    ],
-    [],
-    [
-     "Gm6",
-     "A7"
-    ]
-   ]
   }
  ],
  "notes": [
   "Grille générée automatiquement depuis le texte du PDF : à vérifier.",
-  "Reprises et fins non détectées : les mesures sont dans l'ordre d'écriture."
+  "Reprises et fins non détectées : les mesures sont dans l'ordre d'écriture.",
+  "Non corroborée : une autre partition, transposée de -2 demi-tons ne concorde qu'à 74% (enchaînement)."
  ],
  "confidence": "low",
  "source": [

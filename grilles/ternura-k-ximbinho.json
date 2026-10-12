@@ -8,13 +8,15 @@
  "parts": [
   {
    "name": "A",
-   "tonic": "Am",
+   "tonic": "C",
    "bars": "1–30",
    "sequence": [
     [
      "Cm"
     ],
-    [],
+    [
+     "Cm"
+    ],
     [
      "Fm"
     ],
@@ -27,11 +29,15 @@
     [
      "Ab7"
     ],
-    [],
+    [
+     "Dm"
+    ],
     [
      "G7"
     ],
-    [],
+    [
+     "Gm"
+    ],
     [
      "C7(b9)"
     ],
@@ -39,10 +45,10 @@
      "Fm"
     ],
     [
-     "Fm6"
+     "Fm"
     ],
     [
-     "Am7(b5)"
+     "Am"
     ],
     [
      "D7(b9)"
@@ -54,8 +60,12 @@
     [
      "Cm"
     ],
-    [],
-    [],
+    [
+     "Cm"
+    ],
+    [
+     "Fm"
+    ],
     [
      "G7"
     ],
@@ -66,23 +76,28 @@
      "Ab7"
     ],
     [
-     "Dm7(b5)"
+     "Dm"
     ],
     [
      "G7"
     ],
-    [],
+    [
+     "Gm"
+    ],
     [],
     [
      "Fm"
     ],
-    [],
+    [
+     "Dm"
+    ],
     [
      "Cm",
      "Cm/Bb"
     ],
     [
-     "Ab7"
+     "Ab7",
+     "G7"
     ]
    ]
   },
@@ -92,19 +107,23 @@
    "bars": "31–65",
    "sequence": [
     [
-     "Cm"
+     "Cm",
+     "Fm"
     ],
     [
      "Cm"
     ],
     [
-     "Cm"
+     "Cm",
+     "Fm"
     ],
     [
      "Cm"
     ],
     [],
-    [],
+    [
+     "Dm"
+    ],
     [
      "G7"
     ],
@@ -112,16 +131,69 @@
      "Cm"
     ],
     [
-     "Cm6"
+     "Cm"
     ],
-    [],
+    [
+     "Fm"
+    ],
     [
      "Bb7"
     ],
     [
      "Eb",
      "Eb/D",
-     "Bbm6/Db"
+     "Bbm"
+    ],
+    [],
+    [
+     "Fm"
+    ],
+    [
+     "Abm",
+     "Bb/Ab"
+    ],
+    [
+     "Gm"
+    ],
+    [
+     "Gm",
+     "C7"
+    ],
+    [
+     "Fm"
+    ],
+    [
+     "Abm",
+     "Bb73"
+    ],
+    [
+     "Eb"
+    ],
+    [
+     "Cm"
+    ],
+    [
+     "Dm"
+    ],
+    [
+     "G7"
+    ],
+    [
+     "Cm"
+    ],
+    [
+     "Cm"
+    ],
+    [
+     "Fm"
+    ],
+    [
+     "Bb7"
+    ],
+    [
+     "Eb",
+     "Gm/D",
+     "Bbm"
     ],
     [
      "C7"
@@ -130,53 +202,22 @@
      "Fm"
     ],
     [
-     "Abm7",
+     "Abm",
      "Bb/Ab"
     ],
-    [],
-    [],
+    [
+     "Gm"
+    ],
+    [
+     "Gm",
+     "C7"
+    ],
     [
      "Fm"
     ],
     [
-     "Abm6",
-     "Bb7"
-    ],
-    [
-     "Eb"
-    ],
-    [],
-    [],
-    [
-     "G7"
-    ],
-    [
-     "Cm"
-    ],
-    [
-     "Cm6"
-    ],
-    [],
-    [
-     "Bb7"
-    ],
-    [
-     "Eb",
-     "Gm/D"
-    ],
-    [],
-    [
-     "Fm"
-    ],
-    [],
-    [],
-    [],
-    [
-     "Fm"
-    ],
-    [
-     "Abm6",
-     "Bb7"
+     "Abm",
+     "Bb73"
     ]
    ]
   },
@@ -201,7 +242,8 @@
  ],
  "notes": [
   "Grille générée automatiquement depuis le texte du PDF : à vérifier.",
-  "Reprises et fins non détectées : les mesures sont dans l'ordre d'écriture."
+  "Reprises et fins non détectées : les mesures sont dans l'ordre d'écriture.",
+  "Contredite par une grille relevée à la main, transposée de +5 demi-tons (enchaînement 29%) : version différente ?"
  ],
  "confidence": "low",
  "source": [

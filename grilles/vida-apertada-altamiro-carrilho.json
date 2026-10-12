@@ -23,7 +23,9 @@
     [
      "Bb6"
     ],
-    [],
+    [
+     "Gm"
+    ],
     [
      "Dm"
     ],
@@ -45,19 +47,21 @@
     ],
     [],
     [],
-    [],
     [
-     "B"
+     "F#7"
+    ],
+    [
+     "B",
+     "F7"
     ]
    ]
   },
   {
    "name": "B",
-   "tonic": "C",
+   "tonic": "Am",
    "bars": "16–32",
    "sequence": [
     [
-     "Bb",
      "F7"
     ],
     [
@@ -103,10 +107,13 @@
      "G7"
     ],
     [
-     "Cm"
+     "Cm",
+     "Am"
     ],
     [
-     "Gm"
+     "Gm",
+     "A7",
+     "D7"
     ]
    ]
   },
@@ -115,8 +122,14 @@
    "tonic": "Am",
    "bars": "33–53",
    "sequence": [
-    [],
-    [],
+    [
+     "Gm",
+     "D7"
+    ],
+    [
+     "Gm",
+     "F7"
+    ],
     [
      "Bb7"
     ],
@@ -133,7 +146,9 @@
     [
      "Eb6"
     ],
-    [],
+    [
+     "Cm"
+    ],
     [
      "G6"
     ],
@@ -158,7 +173,8 @@
      "Eb7(9)"
     ],
     [
-     "Ab6"
+     "Ab6",
+     "A"
     ],
     [
      "Eb/Bb",
@@ -169,7 +185,6 @@
      "Bb7",
      "Eb",
      "Bb7",
-     "Eb",
      "F7"
     ],
     [],
@@ -181,7 +196,9 @@
  ],
  "notes": [
   "Grille générée automatiquement depuis le texte du PDF : à vérifier.",
-  "Reprises et fins non détectées : les mesures sont dans l'ordre d'écriture."
+  "Reprises et fins non détectées : les mesures sont dans l'ordre d'écriture.",
+  "Non corroborée : aucune autre partition lisible de ce morceau.",
+  "Structure à vérifier : partie C : mesure à plus de 4 accords."
  ],
  "confidence": "low",
  "source": [

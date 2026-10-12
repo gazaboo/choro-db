@@ -223,9 +223,10 @@
   }
  ],
  "notes": [
-  "Grille générée automatiquement depuis la partition MusicXML : à vérifier."
+  "Grille générée automatiquement depuis la partition MusicXML : à vérifier.",
+  "Corroborée par une autre partition : enchaînement 91%, mesures 88%."
  ],
- "confidence": "medium",
+ "confidence": "high",
  "source": [
   "mxl/C/Paulinho Marques - Parece com ninguém - Theme - C.mxl"
  ],

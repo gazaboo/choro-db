@@ -213,9 +213,10 @@
  ],
  "notes": [
   "Grille générée automatiquement depuis la partition MusicXML : à vérifier.",
-  "A : première mesure sans accord"
+  "A : première mesure sans accord",
+  "Contredite par une autre partition (enchaînement 48%) : version différente ?"
  ],
- "confidence": "medium",
+ "confidence": "low",
  "source": [
   "mxl/C/Jayme Vignoli - Meio de boreste - Theme - C.mxl"
  ],

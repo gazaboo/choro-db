@@ -179,9 +179,10 @@
   }
  ],
  "notes": [
-  "Grille générée automatiquement depuis la partition MusicXML : à vérifier."
+  "Grille générée automatiquement depuis la partition MusicXML : à vérifier.",
+  "Corroborée par une autre partition : enchaînement 98%, mesures 89%."
  ],
- "confidence": "medium",
+ "confidence": "high",
  "source": [
   "mxl/C/Luperce Miranda - Lembrando Nazareth - Theme - C.mxl"
  ],

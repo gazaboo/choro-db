@@ -4,7 +4,7 @@
  "composer": "Eduardo Neves",
  "transposition": "c",
  "meter": "2/4",
- "form": "A — B — C",
+ "form": "A — B",
  "parts": [
   {
    "name": "A",
@@ -14,34 +14,54 @@
     [
      "Bb6"
     ],
-    [],
-    [],
     [
+     "A"
+    ],
+    [
+     "Dm"
+    ],
+    [
+     "Cm",
      "Cm/Bb"
     ],
-    [],
     [
+     "Am"
+    ],
+    [
+     "Gm",
      "Gm/F"
     ],
     [],
-    [],
-    [],
+    [
+     "Em"
+    ],
+    [
+     "D47"
+    ],
     [
      "D7(b9)"
     ],
-    [],
     [
-     "Ebm6/Gb"
+     "Gm"
+    ],
+    [
+     "Ebm"
     ],
     [],
     [
      "C/E"
     ],
     [
-     "Eb6"
+     "Eb6",
+     "Dm"
     ],
-    [],
-    [],
+    [
+     "Gm"
+    ],
+    [
+     "Ebm",
+     "F7(b9"
+    ],
     [
      "Bb6"
     ]
@@ -50,33 +70,28 @@
   {
    "name": "B",
    "tonic": "C",
-   "bars": "19–22",
+   "bars": "19–35",
    "sequence": [
-    [],
     [
-     "Gm6"
+     "F#"
     ],
     [
-     "Bbm6"
+     "Gm"
+    ],
+    [
+     "Bbm"
     ],
     [
      "F/A"
-    ]
-   ]
-  },
-  {
-   "name": "C",
-   "tonic": "C",
-   "bars": "23–35",
-   "sequence": [
-    [
-     "G#m6"
     ],
     [
-     "Gm6"
+     "G#m"
     ],
     [
-     "Cm7(b5)"
+     "Gm"
+    ],
+    [
+     "Cm"
     ],
     [
      "Bb/F"
@@ -85,24 +100,26 @@
      "B/E"
     ],
     [
-     "Abm7(9)"
+     "Abm"
     ],
     [
-     "Bbm7(9)",
+     "Bbm",
      "Eb7(b9)"
     ],
     [
-     "Abm6",
+     "Abm",
      "G7(b13)"
     ],
-    [],
     [
-     "Ebm7(9)",
+     "Bb7(b9"
+    ],
+    [
+     "Ebm",
      "Ebm/Db"
     ],
     [
      "Ab7(9)",
-     "Bm6"
+     "Bm"
     ],
     [
      "Gb6"
@@ -116,7 +133,8 @@
  ],
  "notes": [
   "Grille générée automatiquement depuis le texte du PDF : à vérifier.",
-  "Reprises et fins non détectées : les mesures sont dans l'ordre d'écriture."
+  "Reprises et fins non détectées : les mesures sont dans l'ordre d'écriture.",
+  "Non corroborée : aucune autre partition lisible de ce morceau."
  ],
  "confidence": "low",
  "source": [

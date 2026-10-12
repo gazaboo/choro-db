@@ -54,22 +54,23 @@
      "Am/C",
      "D/C"
     ],
-    [],
     [
-     "Eb7"
+     "Bm"
+    ],
+    [
+     "Am",
+     "Eb7",
+     "D7"
     ]
    ]
   },
   {
    "name": "B",
    "tonic": "Am",
-   "bars": "16–33",
+   "bars": "16–35",
    "sequence": [
+    [],
     [
-     "G"
-    ],
-    [
-     "G",
      "F#7"
     ],
     [],
@@ -77,7 +78,10 @@
      "Bm",
      "Bm/A"
     ],
-    [],
+    [
+     "Em",
+     "F#7"
+    ],
     [
      "Bm",
      "G7"
@@ -90,7 +94,10 @@
      "D",
      "Bm"
     ],
-    [],
+    [
+     "Em",
+     "A7"
+    ],
     [
      "D",
      "F#m/C#"
@@ -107,11 +114,16 @@
     [
      "C/E"
     ],
-    [],
     [
+     "Bm",
+     "G#"
+    ],
+    [
+     "Am",
      "D7"
     ],
     [
+     "Bm",
      "E7"
     ],
     [
@@ -120,13 +132,19 @@
      "G",
      "F#7",
      "G"
+    ],
+    [],
+    [
+     "Gmaj7(9)"
     ]
    ]
   }
  ],
  "notes": [
   "Grille générée automatiquement depuis le texte du PDF : à vérifier.",
-  "Reprises et fins non détectées : les mesures sont dans l'ordre d'écriture."
+  "Reprises et fins non détectées : les mesures sont dans l'ordre d'écriture.",
+  "Non corroborée : aucune autre partition lisible de ce morceau.",
+  "Structure à vérifier : partie B : mesure à plus de 4 accords."
  ],
  "confidence": "low",
  "source": [

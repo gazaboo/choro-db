@@ -279,9 +279,10 @@
   }
  ],
  "notes": [
-  "Grille générée automatiquement depuis la partition MusicXML : à vérifier."
+  "Grille générée automatiquement depuis la partition MusicXML : à vérifier.",
+  "Corroborée par une autre partition : enchaînement 96%, mesures 89%."
  ],
- "confidence": "medium",
+ "confidence": "high",
  "source": [
   "mxl/C/Jonas Silva - Manga rosa - Theme - C.mxl"
  ],

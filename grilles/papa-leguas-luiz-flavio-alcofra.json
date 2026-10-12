@@ -244,9 +244,10 @@
  ],
  "notes": [
   "Grille générée automatiquement depuis la partition MusicXML : à vérifier.",
-  "A : première mesure sans accord"
+  "A : première mesure sans accord",
+  "Corroborée par une autre partition : enchaînement 95%, mesures 82%."
  ],
- "confidence": "medium",
+ "confidence": "high",
  "source": [
   "mxl/C/Luiz Flavio Alcofra - Papa Léguas - Theme - C.mxl"
  ],

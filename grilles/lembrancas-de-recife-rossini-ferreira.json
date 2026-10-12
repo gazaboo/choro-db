@@ -143,9 +143,10 @@
   }
  ],
  "notes": [
-  "Grille générée automatiquement depuis la partition MusicXML : à vérifier."
+  "Grille générée automatiquement depuis la partition MusicXML : à vérifier.",
+  "Corroborée par une autre partition : enchaînement 100%, mesures 97%."
  ],
- "confidence": "medium",
+ "confidence": "high",
  "source": [
   "mxl/C/Rossini Ferreira - Lembranças de Recife - Theme - C.mxl"
  ],

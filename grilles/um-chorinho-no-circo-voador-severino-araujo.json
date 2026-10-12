@@ -4,20 +4,32 @@
  "composer": "Severino Araújo",
  "transposition": "c",
  "meter": "2/4",
- "form": "A — B — C — Coda",
+ "form": "A — B — C — D — Coda",
  "parts": [
   {
    "name": "A",
-   "tonic": "Am",
-   "bars": "1–34",
+   "tonic": "C",
+   "bars": "1–4",
    "sequence": [
+    [
+     "Bbmaj7"
+    ],
     [
      "Db7/Ab"
     ],
-    [],
+    [
+     "Gm"
+    ],
     [
      "C7"
-    ],
+    ]
+   ]
+  },
+  {
+   "name": "B",
+   "tonic": "Am",
+   "bars": "5–35",
+   "sequence": [
     [],
     [
      "F/A",
@@ -46,9 +58,11 @@
     [
      "F7"
     ],
-    [],
     [
-     "Bbm6"
+     "Bbmaj7"
+    ],
+    [
+     "Bbm"
     ],
     [
      "F",
@@ -102,7 +116,9 @@
     [
      "Db7"
     ],
-    [],
+    [
+     "Am"
+    ],
     [
      "Ab7"
     ],
@@ -115,9 +131,9 @@
    ]
   },
   {
-   "name": "B",
+   "name": "C",
    "tonic": "C",
-   "bars": "35–53",
+   "bars": "36–54",
    "sequence": [
     [
      "F"
@@ -138,9 +154,7 @@
     [
      "Dm"
     ],
-    [
-     "Cm6/Eb"
-    ],
+    [],
     [
      "D7"
     ],
@@ -154,7 +168,7 @@
      "Bb7"
     ],
     [
-     "Gm6",
+     "Gm",
      "A7"
     ],
     [
@@ -168,7 +182,6 @@
      "A7"
     ],
     [
-     "Cm6/Eb",
      "D7"
     ],
     [
@@ -184,14 +197,17 @@
    ]
   },
   {
-   "name": "C",
+   "name": "D",
    "tonic": "C",
-   "bars": "54–61",
+   "bars": "55–62",
    "sequence": [
     [
      "Dm"
     ],
-    [],
+    [
+     "Dm",
+     "C7"
+    ],
     [
      "F"
     ],
@@ -215,17 +231,20 @@
   {
    "name": "Coda",
    "tonic": "C",
-   "bars": "62–66",
+   "bars": "63–67",
    "sequence": [
     [
      "F"
     ],
     [],
-    [],
+    [
+     "Bbmaj7"
+    ],
     [
      "Db7/Ab"
     ],
     [
+     "Gm",
      "C7"
     ]
    ]
@@ -233,7 +252,8 @@
  ],
  "notes": [
   "Grille générée automatiquement depuis le texte du PDF : à vérifier.",
-  "Reprises et fins non détectées : les mesures sont dans l'ordre d'écriture."
+  "Reprises et fins non détectées : les mesures sont dans l'ordre d'écriture.",
+  "Non corroborée : aucune autre partition lisible de ce morceau."
  ],
  "confidence": "low",
  "source": [

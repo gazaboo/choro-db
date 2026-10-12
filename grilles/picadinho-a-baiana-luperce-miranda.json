@@ -209,9 +209,10 @@
   }
  ],
  "notes": [
-  "Grille générée automatiquement depuis la partition MusicXML : à vérifier."
+  "Grille générée automatiquement depuis la partition MusicXML : à vérifier.",
+  "Corroborée par une autre partition : enchaînement 95%, mesures 85%."
  ],
- "confidence": "medium",
+ "confidence": "high",
  "source": [
   "mxl/C/Luperce Miranda - Picadinho à baiana - Theme - C.mxl"
  ],

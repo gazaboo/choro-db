@@ -12,10 +12,12 @@
    "bars": "1–16",
    "sequence": [
     [
-     "F"
+     "F",
+     "F#"
     ],
     [
-     "C"
+     "C",
+     "E7"
     ],
     [
      "Am",
@@ -23,21 +25,28 @@
      "D7"
     ],
     [
-     "Am"
+     "Am",
+     "G7",
+     "E7"
     ],
     [
      "Am",
-     "C"
+     "C",
+     "E7"
     ],
-    [],
     [
-     "Dm"
+     "A7"
+    ],
+    [
+     "Dm",
+     "A7"
     ],
     [
      "Dm",
      "F"
     ],
     [
+     "F#",
      "C"
     ],
     [],
@@ -47,14 +56,16 @@
     [],
     [],
     [
-     "D7"
+     "A7",
+     "D7",
+     "G7"
     ]
    ]
   },
   {
    "name": "B",
    "tonic": "Am",
-   "bars": "17–32",
+   "bars": "17–33",
    "sequence": [
     [
      "Dm",
@@ -64,20 +75,28 @@
      "C"
     ],
     [
-     "Am"
+     "Am",
+     "E7",
+     "B7"
     ],
     [
      "Am"
     ],
-    [],
+    [
+     "E7",
+     "A7"
+    ],
     [
      "Dm"
     ],
-    [],
+    [
+     "G7"
+    ],
     [
      "C"
     ],
     [
+     "A7",
      "Dm"
     ],
     [],
@@ -88,6 +107,10 @@
     [],
     [
      "Am"
+    ],
+    [
+     "B7",
+     "E7"
     ]
    ]
   },
@@ -96,14 +119,11 @@
    "tonic": "C",
    "bars": "34–54",
    "sequence": [
+    [],
+    [],
     [
-     "Am"
-    ],
-    [
-     "Am"
-    ],
-    [
-     "C"
+     "C",
+     "C7"
     ],
     [],
     [
@@ -115,29 +135,35 @@
     ],
     [
      "F",
-     "Gm"
+     "Gm",
+     "A7"
     ],
     [
      "Dm",
      "D7"
     ],
     [
-     "Gm"
+     "Gm",
+     "D7"
     ],
     [
      "Gm"
     ],
     [
-     "Bbm6",
+     "Bbm",
      "F"
     ],
-    [],
+    [
+     "D7"
+    ],
     [],
     [],
     [],
     [],
     [],
     [
+     "G7",
+     "C7",
      "F"
     ],
     [],
@@ -149,7 +175,9 @@
  ],
  "notes": [
   "Grille générée automatiquement depuis le texte du PDF : à vérifier.",
-  "Reprises et fins non détectées : les mesures sont dans l'ordre d'écriture."
+  "Reprises et fins non détectées : les mesures sont dans l'ordre d'écriture.",
+  "Non corroborée : aucune autre partition lisible de ce morceau.",
+  "Structure à vérifier : 22/54 mesures sans accord."
  ],
  "confidence": "low",
  "source": [

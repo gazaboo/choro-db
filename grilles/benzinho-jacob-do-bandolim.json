@@ -261,9 +261,10 @@
   }
  ],
  "notes": [
-  "Grille générée automatiquement depuis la partition MusicXML : à vérifier."
+  "Grille générée automatiquement depuis la partition MusicXML : à vérifier.",
+  "Corroborée par une grille relevée à la main : enchaînement 96%, mesures 81%."
  ],
- "confidence": "medium",
+ "confidence": "high",
  "source": [
   "mxl/C/Jacob do Bandolim - Benzinho - Theme - C.mxl"
  ],

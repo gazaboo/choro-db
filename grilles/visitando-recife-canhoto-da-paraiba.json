@@ -56,7 +56,8 @@
      "F7"
     ],
     [
-     "G"
+     "G",
+     "Bb"
     ],
     [
      "Am",
@@ -119,10 +120,14 @@
     [
      "F7"
     ],
-    [],
     [
-     "Em",
+     "F#m",
      "B7"
+    ],
+    [
+     "B7",
+     "Em",
+     "D7"
     ],
     [],
     [
@@ -134,7 +139,8 @@
  ],
  "notes": [
   "Grille générée automatiquement depuis le texte du PDF : à vérifier.",
-  "Reprises et fins non détectées : les mesures sont dans l'ordre d'écriture."
+  "Reprises et fins non détectées : les mesures sont dans l'ordre d'écriture.",
+  "Non corroborée : aucune autre partition lisible de ce morceau."
  ],
  "confidence": "low",
  "source": [

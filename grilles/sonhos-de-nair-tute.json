@@ -37,7 +37,9 @@
     [
      "A7/C#"
     ],
-    [],
+    [
+     "Dm"
+    ],
     [
      "Dm/C"
     ],
@@ -53,7 +55,9 @@
     [
      "C7/E"
     ],
-    [],
+    [
+     "F"
+    ],
     [
      "F"
     ],
@@ -72,7 +76,7 @@
     ],
     [],
     [
-     "Bbm6"
+     "Bbm"
     ],
     [],
     [
@@ -117,7 +121,7 @@
     ],
     [],
     [
-     "Fm6"
+     "Fm"
     ],
     [],
     [
@@ -160,7 +164,7 @@
     ],
     [],
     [
-     "Gm7(b5)"
+     "Gm"
     ],
     [
      "Fm/Ab"
@@ -183,7 +187,7 @@
     ],
     [],
     [
-     "Gm7(b5)"
+     "Gm"
     ],
     [
      "Fm/Ab"
@@ -203,7 +207,8 @@
  ],
  "notes": [
   "Grille générée automatiquement depuis le texte du PDF : à vérifier.",
-  "Reprises et fins non détectées : les mesures sont dans l'ordre d'écriture."
+  "Reprises et fins non détectées : les mesures sont dans l'ordre d'écriture.",
+  "Non corroborée : aucune autre partition lisible de ce morceau."
  ],
  "confidence": "low",
  "source": [

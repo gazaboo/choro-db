@@ -15,7 +15,9 @@
      "Dm"
     ],
     [],
-    [],
+    [
+     "E7"
+    ],
     [],
     [
      "A7"
@@ -33,7 +35,7 @@
     ],
     [
      "Dm",
-     "Bm7(b5)"
+     "Bm"
     ],
     [
      "Am"
@@ -51,13 +53,17 @@
      "Dm"
     ],
     [],
-    [],
+    [
+     "E7"
+    ],
     [],
     [
      "A7"
     ],
     [],
-    [],
+    [
+     "D7"
+    ],
     [],
     [
      "Gm"
@@ -99,7 +105,9 @@
      "F"
     ],
     [],
-    [],
+    [
+     "A7"
+    ],
     [],
     [
      "Dm"
@@ -115,7 +123,7 @@
     ],
     [],
     [
-     "Em7(b5)"
+     "Em"
     ],
     [
      "A7"
@@ -148,7 +156,9 @@
      "D"
     ],
     [],
-    [],
+    [
+     "Em"
+    ],
     [],
     [
      "Em"
@@ -181,7 +191,7 @@
     ],
     [],
     [
-     "Gm6"
+     "Gm"
     ],
     [],
     [
@@ -207,9 +217,11 @@
  ],
  "notes": [
   "Grille générée automatiquement depuis le texte du PDF : à vérifier.",
-  "Reprises et fins non détectées : les mesures sont dans l'ordre d'écriture."
+  "Reprises et fins non détectées : les mesures sont dans l'ordre d'écriture.",
+  "Corroborée par une grille relevée à la main : enchaînement 91%, mesures 92%.",
+  "Structure à vérifier : 44/90 mesures sans accord."
  ],
- "confidence": "low",
+ "confidence": "medium",
  "source": [
   "pdf/Ratinho - Saxofone Por Que Choras - Theme - C.pdf"
  ],

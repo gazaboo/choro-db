@@ -216,7 +216,8 @@
  ],
  "notes": [
   "Grille générée automatiquement depuis la partition MusicXML : à vérifier.",
-  "Tonalité de la partition source non vérifiée."
+  "Tonalité de la partition source non vérifiée.",
+  "Non corroborée : une autre partition ne concorde qu'à 78% (enchaînement)."
  ],
  "confidence": "medium",
  "source": [

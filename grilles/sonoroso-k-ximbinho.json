@@ -8,7 +8,7 @@
  "parts": [
   {
    "name": "A",
-   "tonic": "Am",
+   "tonic": "C",
    "bars": "1–14",
    "sequence": [
     [
@@ -23,7 +23,7 @@
     ],
     [
      "Dm",
-     "Bm7(b5)"
+     "Bm"
     ],
     [
      "A"
@@ -43,16 +43,19 @@
     [
      "A7"
     ],
-    [],
     [
-     "Gm",
-     "Gm6"
+     "Cm",
+     "D7"
+    ],
+    [
+     "Gm"
     ],
     [
      "Dm"
     ],
     [
-     "E7"
+     "E7",
+     "A7"
     ]
    ]
   },
@@ -74,9 +77,18 @@
     [
      "F"
     ],
-    [],
-    [],
-    [],
+    [
+     "Em",
+     "A7"
+    ],
+    [
+     "Cm",
+     "D7/F#"
+    ],
+    [
+     "Gm",
+     "G#"
+    ],
     [
      "F/A"
     ],
@@ -88,16 +100,19 @@
     ],
     [],
     [
-     "F"
+     "F",
+     "Em"
     ],
     [
-     "Cm6/G"
+     "A7",
+     "Cm"
     ],
     [
      "D7/F#"
     ],
     [
-     "Gm"
+     "Gm",
+     "G#"
     ],
     [
      "F/A",
@@ -111,7 +126,7 @@
   },
   {
    "name": "C",
-   "tonic": "C",
+   "tonic": "Am",
    "bars": "33–51",
    "sequence": [
     [
@@ -131,11 +146,12 @@
     ],
     [],
     [
-     "D/F#"
+     "D/F#",
+     "F"
     ],
     [
      "Em",
-     "C#m7(b5)"
+     "C#m"
     ],
     [
      "F#7"
@@ -155,6 +171,7 @@
     ],
     [],
     [
+     "Am",
      "D7"
     ],
     [
@@ -162,10 +179,11 @@
     ],
     [
      "G",
-     "Gm6"
+     "Gm"
     ],
     [
-     "D/A"
+     "D/A",
+     "Bm"
     ],
     [
      "E7",
@@ -176,9 +194,10 @@
  ],
  "notes": [
   "Grille générée automatiquement depuis le texte du PDF : à vérifier.",
-  "Reprises et fins non détectées : les mesures sont dans l'ordre d'écriture."
+  "Reprises et fins non détectées : les mesures sont dans l'ordre d'écriture.",
+  "Corroborée par une grille relevée à la main : enchaînement 90%, mesures 79%."
  ],
- "confidence": "low",
+ "confidence": "high",
  "source": [
   "pdf/K Ximbinho - Sonoroso - Theme - C - variant 1.pdf"
  ],

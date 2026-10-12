@@ -12,7 +12,26 @@
    "bars": "1–27",
    "sequence": [
     [
-     "Am"
+     "Am",
+     "Bb"
+    ],
+    [],
+    [
+     "Am",
+     "Bb"
+    ],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [
+     "Am",
+     "Bb"
     ],
     [],
     [
@@ -23,35 +42,28 @@
     [],
     [],
     [],
-    [],
-    [],
-    [],
-    [],
+    [
+     "Bm",
+     "E7"
+    ],
     [
      "Am"
     ],
-    [],
     [
-     "Am"
-    ],
-    [],
-    [],
-    [],
-    [],
-    [],
-    [],
-    [],
-    [
+     "Dm",
      "G7"
     ],
     [
+     "Cmaj7",
      "C7/Bb"
     ],
     [
      "F/A",
      "E7/G#"
     ],
-    [],
+    [
+     "Am"
+    ],
     [
      "F6",
      "E7"
@@ -70,48 +82,65 @@
      "G7"
     ],
     [
+     "Cmaj7",
      "A7"
     ],
-    [],
+    [
+     "Dm",
+     "G7"
+    ],
     [
      "C6"
     ],
     [],
     [
-     "A/G"
+     "Am",
+     "A/G",
+     "Dm/F"
     ],
-    [],
+    [
+     "D7/F#"
+    ],
     [
      "G7"
     ],
     [
+     "Dm",
      "G7"
     ],
     [
+     "Cmaj7",
      "A7"
     ],
     [
-     "G7"
+     "Dm",
+     "G7",
+     "Em"
     ],
     [
      "A7",
      "D7/F#"
     ],
     [
-     "Fm6"
+     "Fm"
     ],
     [
-     "A7"
+     "A7",
+     "Dm"
     ]
    ]
   },
   {
    "name": "C",
-   "tonic": "Am",
+   "tonic": "C",
    "bars": "44–62",
    "sequence": [
-    [],
-    [],
+    [
+     "Cmaj7"
+    ],
+    [
+     "Cmaj7"
+    ],
     [
      "Am"
     ],
@@ -119,9 +148,11 @@
     [
      "A6"
     ],
-    [],
     [
-     "Bbm7"
+     "Cm"
+    ],
+    [
+     "Bbm"
     ],
     [
      "A6"
@@ -129,26 +160,37 @@
     [],
     [],
     [],
-    [],
+    [
+     "Bm"
+    ],
     [
      "A6"
     ],
-    [],
-    [],
+    [
+     "Cm"
+    ],
+    [
+     "Bbm"
+    ],
     [
      "A7"
     ],
-    [],
-    [],
     [
-     "Bm7"
+     "Dmaj7"
+    ],
+    [
+     "Cmaj7",
+     "Fmaj7"
+    ],
+    [
+     "Bm"
     ]
    ]
   },
   {
    "name": "Coda",
-   "tonic": "C",
-   "bars": "63–67",
+   "tonic": "Am",
+   "bars": "63–69",
    "sequence": [
     [
      "A6"
@@ -162,13 +204,21 @@
     ],
     [
      "Bb6"
+    ],
+    [
+     "F6",
+     "E7"
+    ],
+    [
+     "Am"
     ]
    ]
   }
  ],
  "notes": [
   "Grille générée automatiquement depuis le texte du PDF : à vérifier.",
-  "Reprises et fins non détectées : les mesures sont dans l'ordre d'écriture."
+  "Reprises et fins non détectées : les mesures sont dans l'ordre d'écriture.",
+  "Non corroborée : aucune autre partition lisible de ce morceau."
  ],
  "confidence": "low",
  "source": [

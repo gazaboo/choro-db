@@ -295,7 +295,9 @@
  ],
  "notes": [
   "Grille générée automatiquement depuis la partition MusicXML : à vérifier.",
-  "Tonalité de la partition source non vérifiée."
+  "Tonalité de la partition source non vérifiée.",
+  "Non corroborée : une autre partition, transposée de -5 demi-tons ne concorde qu'à 79% (enchaînement).",
+  "Structure à vérifier : partie C de 3 mesures."
  ],
  "confidence": "medium",
  "source": [

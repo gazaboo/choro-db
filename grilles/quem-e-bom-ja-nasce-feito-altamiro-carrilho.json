@@ -8,21 +8,25 @@
  "parts": [
   {
    "name": "A",
-   "tonic": "C",
+   "tonic": "Am",
    "bars": "1–15",
    "sequence": [
     [
-     "G/B"
+     "G/B",
+     "Bb",
+     "Am"
     ],
     [
      "D7"
     ],
     [
-     "G6"
+     "G6",
+     "G"
     ],
     [
+     "Am",
      "D7",
-     "Bm7(b5)"
+     "Bm"
     ],
     [
      "E7/G#"
@@ -35,25 +39,30 @@
     ],
     [],
     [
-     "G/B"
+     "G/B",
+     "Bb"
     ],
     [
+     "Am",
      "D7(9)"
     ],
     [
+     "Dm",
      "G7"
     ],
     [
      "C"
     ],
     [
-     "C7"
+     "C7",
+     "A#"
     ],
     [
      "B7",
      "E7"
     ],
     [
+     "Am",
      "D7"
     ]
    ]
@@ -64,11 +73,9 @@
    "bars": "16–32",
    "sequence": [
     [
-     "G",
      "D7"
     ],
     [
-     "G",
      "B7"
     ],
     [],
@@ -83,7 +90,7 @@
     ],
     [
      "Am",
-     "F#m7(b5)"
+     "F#m"
     ],
     [
      "Em/G"
@@ -110,11 +117,12 @@
      "E7"
     ],
     [
-     "Am",
-     "Am6"
+     "Am"
     ],
     [
-     "Em/G"
+     "Em/G",
+     "F#7",
+     "B7"
     ]
    ]
   },
@@ -124,11 +132,9 @@
    "bars": "33–51",
    "sequence": [
     [
-     "Em",
      "B7"
     ],
     [
-     "Em",
      "D7"
     ],
     [
@@ -139,7 +145,9 @@
     [
      "C6"
     ],
-    [],
+    [
+     "Dm"
+    ],
     [
      "G7(9)"
     ],
@@ -148,13 +156,13 @@
     ],
     [
      "C6",
-     "F#m7(b5)"
+     "F#m"
     ],
     [
      "Em/G"
     ],
     [
-     "F#m7(b5)",
+     "F#m",
      "B7"
     ],
     [
@@ -174,14 +182,14 @@
      "Dm"
     ],
     [
-     "Fm6",
-     "Fm6/Ab"
+     "Fm"
     ],
     [
      "C/G",
      "A7/C#"
     ],
     [
+     "Dm",
      "G7(9)"
     ]
    ]
@@ -204,7 +212,8 @@
  ],
  "notes": [
   "Grille générée automatiquement depuis le texte du PDF : à vérifier.",
-  "Reprises et fins non détectées : les mesures sont dans l'ordre d'écriture."
+  "Reprises et fins non détectées : les mesures sont dans l'ordre d'écriture.",
+  "Non corroborée : aucune autre partition lisible de ce morceau."
  ],
  "confidence": "low",
  "source": [

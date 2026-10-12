@@ -9,16 +9,18 @@
   {
    "name": "A",
    "tonic": "C",
-   "bars": "1–14",
+   "bars": "1–15",
    "sequence": [
     [
-     "C"
+     "C",
+     "G7"
     ],
     [
      "C"
     ],
     [
-     "C"
+     "C",
+     "A7"
     ],
     [
      "Dm"
@@ -26,47 +28,60 @@
     [
      "Dm/F"
     ],
-    [],
+    [
+     "G7"
+    ],
     [
      "G/F"
     ],
     [
-     "C/E"
+     "C/E",
+     "G7"
+    ],
+    [
+     "C",
+     "G7"
     ],
     [
      "C"
     ],
     [
-     "C"
-    ],
-    [],
-    [
-     "F"
+     "C7"
     ],
     [
      "F"
+    ],
+    [
+     "F",
+     "F#"
     ],
     [
      "C/G"
+    ],
+    [
+     "D7",
+     "G7"
     ]
    ]
   },
   {
    "name": "B",
    "tonic": "C",
-   "bars": "16–31",
+   "bars": "16–32",
    "sequence": [
-    [
-     "C"
-    ],
-    [
-     "C"
-    ],
     [],
+    [
+     "C"
+    ],
+    [
+     "E7"
+    ],
     [
      "Am"
     ],
-    [],
+    [
+     "D7"
+    ],
     [
      "G"
     ],
@@ -76,23 +91,34 @@
     [
      "C/E"
     ],
-    [],
     [
-     "C"
-    ],
-    [
-     "Dm"
+     "G7"
     ],
     [
      "C"
     ],
-    [],
+    [
+     "Dm",
+     "G7"
+    ],
     [
      "C"
     ],
-    [],
+    [
+     "G7"
+    ],
     [
      "C"
+    ],
+    [
+     "G7"
+    ],
+    [
+     "C"
+    ],
+    [
+     "D7",
+     "G7"
     ]
    ]
   },
@@ -108,40 +134,58 @@
      "C"
     ],
     [
-     "C"
+     "C",
+     "C7"
     ],
     [],
     [
      "F"
     ],
-    [],
     [
-     "F"
+     "C7"
     ],
-    [],
+    [
+     "F",
+     "G7"
+    ],
+    [
+     "C7"
+    ],
     [
      "Gm"
     ],
     [],
-    [],
-    [],
+    [
+     "G7"
+    ],
+    [
+     "C7"
+    ],
     [
      "F"
     ],
     [
+     "C7",
      "Gm6/Bb"
     ],
-    [],
+    [
+     "A7"
+    ],
     [
      "Dm"
     ],
-    [],
+    [
+     "B"
+    ],
     [
      "F",
      "Dm"
     ],
     [
-     "F"
+     "G7",
+     "C7",
+     "F",
+     "G7"
     ],
     [],
     [
@@ -152,7 +196,8 @@
  ],
  "notes": [
   "Grille générée automatiquement depuis le texte du PDF : à vérifier.",
-  "Reprises et fins non détectées : les mesures sont dans l'ordre d'écriture."
+  "Reprises et fins non détectées : les mesures sont dans l'ordre d'écriture.",
+  "Non corroborée : aucune autre partition lisible de ce morceau."
  ],
  "confidence": "low",
  "source": [

@@ -314,7 +314,8 @@
   }
  ],
  "notes": [
-  "Grille générée automatiquement depuis la partition MusicXML : à vérifier."
+  "Grille générée automatiquement depuis la partition MusicXML : à vérifier.",
+  "Non corroborée : une autre partition ne concorde qu'à 90% (enchaînement)."
  ],
  "confidence": "medium",
  "source": [

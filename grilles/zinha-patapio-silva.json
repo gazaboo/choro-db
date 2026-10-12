@@ -9,19 +9,32 @@
   {
    "name": "A",
    "tonic": "C",
-   "bars": "1–13",
+   "bars": "1–15",
    "sequence": [
     [
-     "D6/F#"
+     "D6/F#",
+     "G6"
     ],
     [
      "D6/F#"
     ],
-    [],
-    [],
-    [],
     [
-     "A/G"
+     "D6/F#",
+     "F"
+    ],
+    [
+     "A7/E"
+    ],
+    [
+     "Em"
+    ],
+    [
+     "A7"
+    ],
+    [
+     "A7",
+     "A/G",
+     "Gm"
     ],
     [
      "D6/F#"
@@ -37,47 +50,55 @@
     [
      "G/B"
     ],
-    [
-     "Gm6/Bb"
-    ],
+    [],
     [
      "D/A"
+    ],
+    [
+     "A7"
     ]
    ]
   },
   {
    "name": "B",
    "tonic": "Am",
-   "bars": "15–31",
+   "bars": "16–33",
    "sequence": [
     [
-     "D"
+     "Am"
     ],
-    [
-     "D"
-    ],
-    [],
     [],
     [],
     [
-     "A6"
+     "E7"
     ],
-    [
-     "A/C#",
-     "Am6/C"
-    ],
-    [],
     [
      "E7/G#"
     ],
     [
      "A6"
     ],
-    [],
+    [
+     "A/C#"
+    ],
+    [
+     "E7/B"
+    ],
+    [
+     "E7/G#"
+    ],
+    [
+     "A6"
+    ],
+    [
+     "Dm"
+    ],
     [
      "E7"
     ],
-    [],
+    [
+     "E7/G#"
+    ],
     [
      "A6"
     ],
@@ -85,33 +106,37 @@
      "A6",
      "A/G"
     ],
-    [
-     "Dm6/F"
-    ],
+    [],
     [
      "A/E"
+    ],
+    [
+     "E7"
     ]
    ]
   },
   {
    "name": "C",
    "tonic": "C",
-   "bars": "33–53",
+   "bars": "34–54",
    "sequence": [
     [
-     "A",
      "C6/G"
     ],
     [
-     "A",
+     "D7/F#",
      "A7"
     ],
     [
-     "D"
+     "D",
+     "D7/A"
     ],
-    [],
     [
-     "G6"
+     "D7/A"
+    ],
+    [
+     "G6",
+     "Am"
     ],
     [],
     [],
@@ -120,18 +145,24 @@
     ],
     [
      "G6",
-     "C6/G"
+     "C6/G",
+     "Bb"
     ],
     [],
-    [],
     [
-     "G/B"
+     "C"
+    ],
+    [
+     "G/B",
+     "C#"
     ],
     [
      "G6"
     ],
     [],
-    [],
+    [
+     "G"
+    ],
     [
      "G6"
     ],
@@ -143,7 +174,6 @@
     ],
     [
      "D7",
-     "G",
      "A7"
     ],
     [],
@@ -155,7 +185,8 @@
  ],
  "notes": [
   "Grille générée automatiquement depuis le texte du PDF : à vérifier.",
-  "Reprises et fins non détectées : les mesures sont dans l'ordre d'écriture."
+  "Reprises et fins non détectées : les mesures sont dans l'ordre d'écriture.",
+  "Non corroborée : aucune autre partition lisible de ce morceau."
  ],
  "confidence": "low",
  "source": [

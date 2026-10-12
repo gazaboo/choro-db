@@ -158,9 +158,10 @@
   }
  ],
  "notes": [
-  "Grille générée automatiquement depuis la partition MusicXML : à vérifier."
+  "Grille générée automatiquement depuis la partition MusicXML : à vérifier.",
+  "Corroborée par une autre partition : enchaînement 94%, mesures 85%."
  ],
- "confidence": "medium",
+ "confidence": "high",
  "source": [
   "mxl/C/Anacleto de Medeiros - Implorando - Theme - C.mxl"
  ],

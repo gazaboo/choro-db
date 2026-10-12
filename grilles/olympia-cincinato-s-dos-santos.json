@@ -229,9 +229,10 @@
   }
  ],
  "notes": [
-  "Grille générée automatiquement depuis la partition MusicXML : à vérifier."
+  "Grille générée automatiquement depuis la partition MusicXML : à vérifier.",
+  "Corroborée par une autre partition : enchaînement 89%, mesures 76%."
  ],
- "confidence": "medium",
+ "confidence": "high",
  "source": [
   "mxl/C/Cincinato S. dos Santos - Olympia - Theme - C.mxl"
  ],

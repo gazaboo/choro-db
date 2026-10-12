@@ -144,7 +144,8 @@
      "G"
     ],
     [
-     "G"
+     "G",
+     "G#"
     ],
     [
      "D/A"
@@ -161,9 +162,10 @@
  ],
  "notes": [
   "Grille générée automatiquement depuis le texte du PDF : à vérifier.",
-  "Reprises et fins non détectées : les mesures sont dans l'ordre d'écriture."
+  "Reprises et fins non détectées : les mesures sont dans l'ordre d'écriture.",
+  "Corroborée par une grille relevée à la main : enchaînement 88%, mesures 91%."
  ],
- "confidence": "low",
+ "confidence": "high",
  "source": [
   "pdf/Altamiro Carrilho - Rio Antigo - Theme - C.pdf"
  ],

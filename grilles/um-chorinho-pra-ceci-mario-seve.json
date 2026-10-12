@@ -19,14 +19,20 @@
     [],
     [],
     [],
-    [],
+    [
+     "A7(9)",
+     "Gm"
+    ],
     [],
     [
-     "F6"
+     "F6",
+     "Cm"
     ],
     [],
     [],
-    [],
+    [
+     "B"
+    ],
     [
      "F6"
     ]
@@ -34,8 +40,8 @@
   },
   {
    "name": "B",
-   "tonic": "C",
-   "bars": "14–21",
+   "tonic": "Am",
+   "bars": "14–23",
    "sequence": [
     [],
     [],
@@ -43,10 +49,19 @@
     [],
     [],
     [],
-    [],
     [
-     "Gm7(9)",
+     "Am"
+    ],
+    [
+     "Gm",
      "Gm/F"
+    ],
+    [
+     "Em"
+    ],
+    [
+     "Dm",
+     "Bm"
     ]
    ]
   },
@@ -75,21 +90,26 @@
      "A/G"
     ],
     [
-     "D6/F#"
+     "D6/F#",
+     "Cm"
     ],
-    [],
+    [
+     "F7(13)"
+    ],
     [
      "Bb6"
     ],
     [
-     "Fm7(11)"
+     "Fm"
     ]
    ]
   }
  ],
  "notes": [
   "Grille générée automatiquement depuis le texte du PDF : à vérifier.",
-  "Reprises et fins non détectées : les mesures sont dans l'ordre d'écriture."
+  "Reprises et fins non détectées : les mesures sont dans l'ordre d'écriture.",
+  "Non corroborée : aucune autre partition lisible de ce morceau.",
+  "Structure à vérifier : 26/41 mesures sans accord."
  ],
  "confidence": "low",
  "source": [

@@ -9,12 +9,17 @@
   {
    "name": "A",
    "tonic": "C",
-   "bars": "1–12",
+   "bars": "1–14",
    "sequence": [
+    [
+     "Cmaj7"
+    ],
     [
      "B7"
     ],
-    [],
+    [
+     "Cmaj7"
+    ],
     [
      "A7(9)"
     ],
@@ -22,60 +27,103 @@
      "D7(9)"
     ],
     [
+     "Dm",
      "G7(13)"
     ],
-    [],
+    [
+     "Cmaj7",
+     "Am"
+    ],
     [
      "D7(9)",
      "G7(13)"
     ],
-    [],
+    [
+     "Cmaj7"
+    ],
     [
      "B7"
     ],
-    [],
+    [
+     "Cmaj7"
+    ],
     [
      "A7(9)"
     ],
     [
      "D7(9)"
+    ],
+    [
+     "Dm",
+     "G7"
     ]
    ]
   },
   {
    "name": "B",
    "tonic": "C",
-   "bars": "14–31",
+   "bars": "15–32",
    "sequence": [
-    [],
+    [
+     "Cmaj7"
+    ],
     [
      "C7(9)"
     ],
-    [],
     [
+     "Fmaj7",
+     "Dm"
+    ],
+    [
+     "Gm",
      "C7"
     ],
     [
+     "Am",
      "F7(9)"
     ],
-    [],
-    [],
     [
-     "Gm7",
+     "Bbmaj7",
+     "B"
+    ],
+    [
+     "Am",
+     "Dm"
+    ],
+    [
+     "Gm",
      "C7(9)"
     ],
-    [],
-    [],
-    [],
     [
+     "Fmaj7",
+     "Dm"
+    ],
+    [
+     "G7(9)",
+     "C7(9)"
+    ],
+    [
+     "Fmaj7",
+     "Dm"
+    ],
+    [
+     "Gm",
      "C7"
     ],
     [
+     "Am",
      "F7(9)"
     ],
-    [],
-    [],
     [
+     "Bbmaj7",
+     "B"
+    ],
+    [
+     "Am",
+     "Dm"
+    ],
+    [
+     "Gm",
      "C7"
     ],
     [
@@ -89,7 +137,7 @@
   {
    "name": "C",
    "tonic": "C",
-   "bars": "32–49",
+   "bars": "33–50",
    "sequence": [
     [
      "C"
@@ -99,7 +147,8 @@
     ],
     [],
     [
-     "F"
+     "F",
+     "F#"
     ],
     [
      "G7"
@@ -108,6 +157,7 @@
      "C7"
     ],
     [
+     "F",
      "F6"
     ],
     [
@@ -120,10 +170,12 @@
      "G7"
     ],
     [
+     "Gm",
      "C7"
     ],
     [
-     "F"
+     "F",
+     "F#"
     ],
     [
      "G7"
@@ -132,10 +184,11 @@
      "C7"
     ],
     [
+     "Cm",
      "F7"
     ],
     [
-     "Bbm7",
+     "Bbm",
      "Eb7(9)"
     ],
     [
@@ -143,6 +196,7 @@
      "D7(9)"
     ],
     [
+     "Gm",
      "C7(9)"
     ]
    ]
@@ -150,28 +204,35 @@
   {
    "name": "Coda",
    "tonic": "C",
-   "bars": "50–53",
+   "bars": "51–55",
    "sequence": [
     [
      "F",
      "C7(9)"
     ],
     [
-     "F"
+     "F",
+     "F#7",
+     "G7"
     ],
     [
      "C",
      "C7"
     ],
     [
+     "Fm",
      "Bb7(9)"
+    ],
+    [
+     "Cmaj7"
     ]
    ]
   }
  ],
  "notes": [
   "Grille générée automatiquement depuis le texte du PDF : à vérifier.",
-  "Reprises et fins non détectées : les mesures sont dans l'ordre d'écriture."
+  "Reprises et fins non détectées : les mesures sont dans l'ordre d'écriture.",
+  "Non corroborée : aucune autre partition lisible de ce morceau."
  ],
  "confidence": "low",
  "source": [

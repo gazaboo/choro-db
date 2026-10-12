@@ -98,7 +98,8 @@
      "C7"
     ],
     [
-     "F"
+     "F",
+     "F/A"
     ],
     [
      "C/G"
@@ -128,7 +129,7 @@
     ],
     [
      "Bb",
-     "Bbm6/Db"
+     "Bbm"
     ],
     [
      "F/C",
@@ -185,9 +186,13 @@
      "G7"
     ],
     [
-     "Cm"
+     "Cm",
+     "A"
     ],
-    [],
+    [
+     "Eb/Bb",
+     "Bb7"
+    ],
     [
      "Eb"
     ]
@@ -196,7 +201,8 @@
  ],
  "notes": [
   "Grille générée automatiquement depuis le texte du PDF : à vérifier.",
-  "Reprises et fins non détectées : les mesures sont dans l'ordre d'écriture."
+  "Reprises et fins non détectées : les mesures sont dans l'ordre d'écriture.",
+  "Non corroborée : aucune autre partition lisible de ce morceau."
  ],
  "confidence": "low",
  "source": [

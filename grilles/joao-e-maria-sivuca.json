@@ -235,7 +235,9 @@
   }
  ],
  "notes": [
-  "Grille générée automatiquement depuis la partition MusicXML : à vérifier."
+  "Grille générée automatiquement depuis la partition MusicXML : à vérifier.",
+  "Non corroborée : une autre partition ne concorde qu'à 87% (enchaînement).",
+  "Structure à vérifier : partie A de 66 mesures."
  ],
  "confidence": "medium",
  "source": [

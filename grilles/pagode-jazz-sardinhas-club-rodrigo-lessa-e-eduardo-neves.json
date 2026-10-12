@@ -9,8 +9,12 @@
   {
    "name": "A",
    "tonic": "C",
-   "bars": "1–3",
+   "bars": "1–5",
    "sequence": [
+    [
+     "Cm"
+    ],
+    [],
     [
      "Ab7(13)"
     ],
@@ -22,38 +26,48 @@
   },
   {
    "name": "B",
-   "tonic": "C",
-   "bars": "7–14",
+   "tonic": "Am",
+   "bars": "9–16",
    "sequence": [
     [],
-    [],
     [
-     "Abm6"
-    ],
-    [],
-    [
-     "Abm6"
-    ],
-    [],
-    [
-     "Ab47(9)"
+     "Cm"
     ],
     [
-     "Cm7(9)"
+     "Am",
+     "Abm"
+    ],
+    [
+     "Cm"
+    ],
+    [
+     "Am",
+     "Abm"
+    ],
+    [
+     "Cm"
+    ],
+    [
+     "Ab7(9)"
+    ],
+    [
+     "Cm"
     ]
    ]
   },
   {
    "name": "C",
    "tonic": "C",
-   "bars": "16–23",
+   "bars": "18–25",
    "sequence": [
     [
-     "Cm7(9)"
+     "Cm"
     ],
     [],
     [],
-    [],
+    [
+     "Bmaj7"
+    ],
     [],
     [],
     [],
@@ -65,12 +79,14 @@
   {
    "name": "Coda",
    "tonic": "C",
-   "bars": "26–33",
+   "bars": "28–35",
    "sequence": [
     [],
     [],
     [],
-    [],
+    [
+     "Cm"
+    ],
     [],
     [
      "Ab7(13)"
@@ -84,7 +100,9 @@
  ],
  "notes": [
   "Grille générée automatiquement depuis le texte du PDF : à vérifier.",
-  "Reprises et fins non détectées : les mesures sont dans l'ordre d'écriture."
+  "Reprises et fins non détectées : les mesures sont dans l'ordre d'écriture.",
+  "Non corroborée : aucune autre partition lisible de ce morceau.",
+  "Structure à vérifier : 13/29 mesures sans accord."
  ],
  "confidence": "low",
  "source": [

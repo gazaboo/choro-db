@@ -8,51 +8,73 @@
  "parts": [
   {
    "name": "A",
-   "tonic": "Am",
-   "bars": "1–20",
+   "tonic": "C",
+   "bars": "1–22",
    "sequence": [
     [
-     "Em7(b5)",
+     "C4"
+    ],
+    [
+     "Fmaj7"
+    ],
+    [
+     "Em",
      "A7(b9)"
     ],
     [
      "Dm"
     ],
     [
-     "Dm6"
+     "Dm"
     ],
-    [],
-    [],
-    [],
-    [],
     [
-     "Bm7(b5)"
+     "Gm"
+    ],
+    [
+     "C7"
+    ],
+    [
+     "Cm"
+    ],
+    [
+     "F7"
+    ],
+    [
+     "Bm"
     ],
     [
      "E7(#9)"
     ],
     [
-     "Am7(b5)"
+     "Am"
     ],
     [
      "D7(#9)"
     ],
     [
-     "Gm7(b5)"
+     "Gm"
     ],
     [
      "C7(#9)"
     ],
-    [],
-    [],
-    [],
+    [
+     "Fmaj7"
+    ],
+    [
+     "Gm"
+    ],
+    [
+     "Ab"
+    ],
     [
      "B/A"
     ],
     [
-     "G#m7"
+     "G#m"
     ],
-    [],
+    [
+     "Gm"
+    ],
     [
      "Gb7(#11)"
     ]
@@ -61,23 +83,35 @@
   {
    "name": "B",
    "tonic": "C",
-   "bars": "21–32",
+   "bars": "23–35",
    "sequence": [
-    [],
-    [],
-    [],
-    [],
     [
-     "Ebm6"
+     "C4"
+    ],
+    [
+     "C4"
+    ],
+    [
+     "Fm"
+    ],
+    [
+     "E"
+    ],
+    [
+     "Ebm"
     ],
     [
      "D7"
     ],
-    [],
+    [
+     "G4"
+    ],
     [
      "G7(b9)"
     ],
-    [],
+    [
+     "Cm"
+    ],
     [
      "Cm/Bb"
     ],
@@ -85,28 +119,39 @@
      "F7(b9)/A"
     ],
     [
-     "Abm6",
+     "Abm",
      "G7(b9)"
+    ],
+    [
+     "B"
     ]
    ]
   },
   {
    "name": "Coda",
    "tonic": "C",
-   "bars": "34–37",
+   "bars": "36–40",
    "sequence": [
     [],
-    [],
-    [],
+    [
+     "C4"
+    ],
+    [
+     "C4"
+    ],
     [
      "Gb7(#11)"
+    ],
+    [
+     "Fmaj7"
     ]
    ]
   }
  ],
  "notes": [
   "Grille générée automatiquement depuis le texte du PDF : à vérifier.",
-  "Reprises et fins non détectées : les mesures sont dans l'ordre d'écriture."
+  "Reprises et fins non détectées : les mesures sont dans l'ordre d'écriture.",
+  "Non corroborée : aucune autre partition lisible de ce morceau."
  ],
  "confidence": "low",
  "source": [

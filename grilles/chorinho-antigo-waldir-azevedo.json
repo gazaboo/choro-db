@@ -253,9 +253,10 @@
  ],
  "notes": [
   "Grille générée automatiquement depuis la partition MusicXML : à vérifier.",
-  "E : première mesure sans accord"
+  "E : première mesure sans accord",
+  "Corroborée par une autre partition : enchaînement 89%, mesures 93%."
  ],
- "confidence": "medium",
+ "confidence": "high",
  "source": [
   "mxl/C/Waldir Azevedo - Chorinho antigo - Theme - C.mxl"
  ],

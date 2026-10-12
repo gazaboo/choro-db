@@ -4,39 +4,47 @@
  "composer": "Guerra Peixe",
  "transposition": "c",
  "meter": "2/4",
- "form": "A — B — C — D",
+ "form": "A — B — C — D — Coda",
  "parts": [
   {
    "name": "A",
-   "tonic": "C",
-   "bars": "1–13",
+   "tonic": "Am",
+   "bars": "1–15",
    "sequence": [
     [
-     "Gm6"
+     "Am"
+    ],
+    [
+     "G#"
+    ],
+    [
+     "Gm"
     ],
     [
      "D/F#"
     ],
     [
-     "G4"
+     "G7(9)"
     ],
     [
      "Gb7(#5)"
     ],
     [
-     "Fm6"
+     "Fm"
     ],
     [
-     "G7(b9)"
+     "G4",
+     "G7(b9)",
+     "Am"
     ],
     [
-     "C6"
+     "C9"
     ],
     [
      "Db7(9)"
     ],
     [
-     "C4",
+     "C7(9)",
      "C7(b9)"
     ],
     [
@@ -53,17 +61,23 @@
   {
    "name": "B",
    "tonic": "Am",
-   "bars": "14–31",
+   "bars": "16–33",
    "sequence": [
     [
+     "Am",
      "E7(b9)"
     ],
-    [],
     [
+     "Am"
+    ],
+    [
+     "Dm",
      "G7(9)"
     ],
     [
-     "Bm7(b5)"
+     "Cmaj7",
+     "Fmaj7",
+     "Bm"
     ],
     [
      "E7(b9)"
@@ -71,37 +85,52 @@
     [
      "Am",
      "Am/G",
-     "Dm6/F"
+     "Dm"
     ],
-    [],
+    [
+     "E7"
+    ],
     [
      "Am",
      "Am/G"
     ],
-    [],
     [
-     "E7"
+     "F#",
+     "F7"
     ],
-    [],
     [
-     "Bm7(b5)"
+     "E7",
+     "A7/C#"
+    ],
+    [
+     "Dm",
+     "G7"
+    ],
+    [
+     "Cmaj7",
+     "Fmaj7",
+     "Bm"
     ],
     [
      "E7(b9)",
-     "Gm6/Bb"
-    ],
-    [],
-    [
-     "Dm"
+     "Gm"
     ],
     [
+     "A7"
+    ],
+    [
+     "Dm",
+     "D#"
+    ],
+    [
+     "Cmaj7/E",
      "F6"
     ],
     [
-     "Bm7(b5)",
      "E7(b13)"
     ],
     [
+     "Am",
      "Eb7(9)"
     ]
    ]
@@ -109,13 +138,16 @@
   {
    "name": "C",
    "tonic": "Am",
-   "bars": "32–44",
+   "bars": "34–46",
    "sequence": [
     [
+     "Dm",
      "G7(9)"
     ],
     [
-     "Bm7(b5)"
+     "Cmaj7",
+     "Fmaj7",
+     "Bm"
     ],
     [
      "E7(b9)"
@@ -123,7 +155,7 @@
     [
      "Am",
      "Am/G",
-     "Dm6/F"
+     "Dm"
     ],
     [
      "E7"
@@ -133,35 +165,52 @@
      "Am/G"
     ],
     [
+     "F#",
      "F7"
     ],
-    [],
-    [],
     [
-     "Bm7(b5)"
+     "E7",
+     "A7/C#"
     ],
-    [
-     "Gm6/Bb"
-    ],
-    [],
     [
      "Dm",
+     "G7"
+    ],
+    [
+     "Cmaj7",
+     "Fmaj7",
+     "Bm"
+    ],
+    [
+     "Gm"
+    ],
+    [
+     "A7"
+    ],
+    [
+     "Dm",
+     "D#",
+     "Cmaj7/E",
      "F6",
-     "Bm7(b5)",
+     "Bm",
      "E7(b13)",
+     "Am",
      "E7(b9)"
     ]
    ]
   },
   {
    "name": "D",
-   "tonic": "C",
-   "bars": "45–62",
+   "tonic": "Am",
+   "bars": "47–64",
    "sequence": [
-    [],
+    [
+     "Am",
+     "A7(9)"
+    ],
     [],
     [
-     "D6"
+     "D9"
     ],
     [
      "C#7(b9)"
@@ -173,20 +222,20 @@
      "B7(b9)"
     ],
     [
-     "Bb7(9)"
+     "Bb7(9)",
+     "Amaj7"
     ],
     [
-     "F#m7"
+     "F#m"
     ],
     [
      "B7(9)"
     ],
     [
-     "E4",
      "E7(9)"
     ],
     [
-     "D6"
+     "D9"
     ],
     [
      "C#7(b9)"
@@ -201,20 +250,42 @@
      "Bb/D"
     ],
     [
-     "A/C#"
+     "A/C#",
+     "F7/C"
     ],
     [
+     "Bm",
      "E7(9)"
     ],
     [
-     "A6"
+     "A9"
+    ]
+   ]
+  },
+  {
+   "name": "Coda",
+   "tonic": "Am",
+   "bars": "65–67",
+   "sequence": [
+    [
+     "A",
+     "C"
+    ],
+    [
+     "D#",
+     "F#"
+    ],
+    [
+     "Am"
     ]
    ]
   }
  ],
  "notes": [
   "Grille générée automatiquement depuis le texte du PDF : à vérifier.",
-  "Reprises et fins non détectées : les mesures sont dans l'ordre d'écriture."
+  "Reprises et fins non détectées : les mesures sont dans l'ordre d'écriture.",
+  "Non corroborée : aucune autre partition lisible de ce morceau.",
+  "Structure à vérifier : partie C : mesure à plus de 4 accords."
  ],
  "confidence": "low",
  "source": [

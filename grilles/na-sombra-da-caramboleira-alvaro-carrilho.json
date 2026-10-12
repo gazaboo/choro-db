@@ -171,9 +171,10 @@
   }
  ],
  "notes": [
-  "Grille générée automatiquement depuis la partition MusicXML : à vérifier."
+  "Grille générée automatiquement depuis la partition MusicXML : à vérifier.",
+  "Corroborée par une autre partition : enchaînement 96%, mesures 95%."
  ],
- "confidence": "medium",
+ "confidence": "high",
  "source": [
   "mxl/C/Álvaro Carrilho - Na sombra da Caramboleira - Theme - C.mxl"
  ],

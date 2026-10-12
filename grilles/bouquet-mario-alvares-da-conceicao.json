@@ -251,9 +251,10 @@
   }
  ],
  "notes": [
-  "Grille générée automatiquement depuis la partition MusicXML : à vérifier."
+  "Grille générée automatiquement depuis la partition MusicXML : à vérifier.",
+  "Corroborée par une autre partition : enchaînement 91%, mesures 82%."
  ],
- "confidence": "medium",
+ "confidence": "high",
  "source": [
   "mxl/C/Mário Álvares da Conceição - Bouquet - Theme - C.mxl"
  ],

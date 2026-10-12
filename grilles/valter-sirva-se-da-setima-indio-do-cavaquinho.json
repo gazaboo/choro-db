@@ -4,18 +4,24 @@
  "composer": "Índio do Cavaquinho",
  "transposition": "c",
  "meter": "2/4",
- "form": "A — B",
+ "form": "A — B — Coda",
  "parts": [
   {
    "name": "A",
    "tonic": "C",
-   "bars": "1–16",
+   "bars": "1–17",
    "sequence": [
+    [
+     "A7",
+     "F6/A"
+    ],
     [
      "Fm/Ab",
      "C/G"
     ],
-    [],
+    [
+     "D79"
+    ],
     [
      "G7"
     ],
@@ -30,9 +36,12 @@
      "D7/F#"
     ],
     [
-     "G/F"
+     "G/F",
+     "Em7b5"
     ],
-    [],
+    [
+     "A7"
+    ],
     [],
     [],
     [],
@@ -56,13 +65,14 @@
   {
    "name": "B",
    "tonic": "C",
-   "bars": "17–34",
+   "bars": "18–35",
    "sequence": [
     [
      "D7/F#"
     ],
     [],
     [
+     "G#",
      "F/A",
      "D7/F#"
     ],
@@ -75,6 +85,7 @@
      "C7/E"
     ],
     [
+     "F6",
      "A7"
     ],
     [
@@ -95,6 +106,8 @@
      "G#"
     ],
     [
+     "F6/A",
+     "D7",
      "G7"
     ],
     [
@@ -102,7 +115,9 @@
     ],
     [],
     [],
-    [],
+    [
+     "C6"
+    ],
     [
      "D7/F#"
     ],
@@ -110,11 +125,22 @@
      "F"
     ]
    ]
+  },
+  {
+   "name": "Coda",
+   "tonic": "C",
+   "bars": "36–36",
+   "sequence": [
+    [
+     "G7"
+    ]
+   ]
   }
  ],
  "notes": [
   "Grille générée automatiquement depuis le texte du PDF : à vérifier.",
-  "Reprises et fins non détectées : les mesures sont dans l'ordre d'écriture."
+  "Reprises et fins non détectées : les mesures sont dans l'ordre d'écriture.",
+  "Non corroborée : aucune autre partition lisible de ce morceau."
  ],
  "confidence": "low",
  "source": [

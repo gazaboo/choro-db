@@ -15,19 +15,27 @@
      "G"
     ],
     [
-     "C"
+     "C",
+     "B"
     ],
-    [],
     [
+     "D7/A"
+    ],
+    [
+     "G",
+     "C/G",
      "G"
     ],
     [
-     "G"
+     "G",
+     "G7"
     ],
     [
      "Am/G"
     ],
-    [],
+    [
+     "D7"
+    ],
     [
      "G"
     ]
@@ -45,16 +53,21 @@
     [
      "D/F#"
     ],
-    [],
+    [
+     "A7/E"
+    ],
     [
      "D6"
     ],
-    [],
+    [
+     "A7"
+    ],
     [
      "D/A"
     ],
     [
-     "G"
+     "G",
+     "A7"
     ]
    ]
   },
@@ -67,7 +80,8 @@
      "D"
     ],
     [
-     "D"
+     "D",
+     "D7"
     ],
     [],
     [
@@ -76,11 +90,15 @@
     [
      "G7/D"
     ],
-    [],
+    [
+     "G7/B"
+    ],
     [
      "C"
     ],
-    [],
+    [
+     "Am"
+    ],
     [
      "Dm",
      "Dm/C"
@@ -97,7 +115,8 @@
  ],
  "notes": [
   "Grille générée automatiquement depuis le texte du PDF : à vérifier.",
-  "Reprises et fins non détectées : les mesures sont dans l'ordre d'écriture."
+  "Reprises et fins non détectées : les mesures sont dans l'ordre d'écriture.",
+  "Contredite par une grille relevée à la main, transposée de +2 demi-tons (enchaînement 21%) : version différente ?"
  ],
  "confidence": "low",
  "source": [

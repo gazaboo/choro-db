@@ -5,42 +5,61 @@ grilles relevées à la main de l'application d'apprentissage : parties (A, B, C
 Coda), une entrée par mesure écrite (`[]` = accord tenu), fins 1 / 2,
 reprises, tonalité de chaque partie. `index.json` liste toutes les grilles.
 
-> ⚠️ **Générées par script, non relues.** Les accords et leur ordre sont
-> fiables ; le découpage en parties et l'alignement exact sur les mesures sont à
-> vérifier sur la partition.
+> ⚠️ **Générées par script, non relues.** Le champ `confidence` dit si une
+> autre partition du morceau confirme la grille (voir « Confiance ») ; le
+> découpage en parties reste à vérifier sur la partition.
 
 ## Deux origines
 
-| `generated` | `confidence` | Source | Ce qui est lu |
-|---|---|---|---|
-| `mxl` | `medium` | `mxl/C/<…> - Theme - C.mxl` | accords exacts mesure par mesure, reprises, fins 1 / 2, coda, armure |
-| `pdf` | `low` | PDF C vectoriel le plus riche en chiffrages (morceaux sans MXL) | accords du texte rangés sous leurs barres de mesure ; parties coupées aux doubles barres ; reprises et fins non détectées |
+| `generated` | Source | Ce qui est lu |
+|---|---|---|
+| `mxl` | `mxl/C/<…> - Theme - C.mxl` | accords exacts mesure par mesure, reprises, fins 1 / 2, coda, armure |
+| `pdf` | PDF C vectoriel le plus riche en chiffrages (morceaux sans MXL) | accords du texte rangés sous leurs barres de mesure ; parties coupées aux doubles barres ; reprises et fins non détectées |
 
 Les morceaux disponibles uniquement en scan n'ont pas de grille : leurs
 chiffrages ne sont pas du texte.
 
-## Ce que valent les grilles
+## Confiance
 
-Comparées aux grilles relevées à la main (mêmes morceaux, accords simplifiés,
-toutes tonalités confondues) :
+Chaque grille est comparée à une partition **indépendante** du même morceau
+(`outils/grilles/croiser.py`) : un PDF vectoriel d'un autre logiciel que sa
+source — jamais un PDF MuseScore pour une grille MXL, puisqu'il est imprimé
+depuis ce MXL —, en C, Bb ou Eb (la comparaison ignore la transposition), ou
+une grille relevée à la main.
 
-- **MXL** (30 morceaux) : 81 % des mesures identiques, 88 % de l'enchaînement
-  d'accords ; même nombre de parties 23 fois sur 30.
-- **PDF** (44 morceaux) : 70 % des mesures, 81 % de l'enchaînement ; même
-  nombre de parties 30 fois sur 44.
+| `confidence` | Règle | Grilles |
+|---|---|---|
+| `high` | un témoin indépendant donne le même enchaînement d'accords (≥ 85 %) et les mêmes accords mesure par mesure (≥ 75 %) ; parties de 4 à 48 mesures, au plus 4 accords par mesure | 338 (331 MXL, 7 PDF) |
+| `medium` | grille MXL non corroborée (témoin trop différent ou absent) ; grille PDF corroborée mais à la structure douteuse | 279 |
+| `low` | grille PDF sans témoin ou en désaccord ; grille contredite par un témoin (enchaînement < 50 % : autre version ?) | 225 |
 
-Les écarts restants viennent pour moitié des grilles manuelles elles-mêmes, dont
-l'alignement sur les mesures est approximatif ; les autres sont des
-partitions d'une autre version (tonalité ou harmonisation différente).
+Un accord diminué compte comme le majeur de même fondamentale : les PDF
+Encore perdent souvent le signe ° à l'export (« G#° » imprimé « G# »).
+Le champ `notes` donne le témoin retenu et son score.
 
-Le champ `notes` signale les points douteux, dont « Tonalité de la partition
-source non vérifiée » quand la partition porte cet avertissement.
+Pourquoi toutes ne sont pas `high` :
+
+- 205 grilles PDF n'ont **aucun témoin** : seul un PDF vectoriel du morceau
+  existe (les autres sont des scans) ;
+- 234 grilles MXL concordent à moins de 85 % avec leur original : le plus
+  souvent, des portées ou des chiffrages que la lecture du PDF témoin ne
+  trouve pas sur certaines mises en page ; parfois une harmonisation
+  différente.
+
+Face aux grilles relevées à la main : MXL 81 % des mesures identiques et 88 %
+de l'enchaînement (30 morceaux) ; lecture PDF 76 % et 86 % (39 morceaux). Une
+partie de l'écart vient des grilles manuelles, dont l'alignement sur les
+mesures est approximatif.
+
+Le champ `notes` signale aussi « Tonalité de la partition source non
+vérifiée » quand la partition porte cet avertissement.
 
 ## Régénérer
 
 ```sh
 outils/audit/.venv/bin/python -I outils/grilles/grilles.py      # MXL → grilles/
 outils/audit/.venv/bin/python -I outils/grilles/grilles_pdf.py  # PDF, pour les morceaux sans MXL
+outils/audit/.venv/bin/python -I outils/grilles/croiser.py       # témoins indépendants → confidence
 outils/audit/.venv/bin/python outils/grilles/valider.py <dossier des grilles manuelles>
 ```
 

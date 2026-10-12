@@ -68,9 +68,7 @@
    "tonic": "Am",
    "bars": "16–32",
    "sequence": [
-    [
-     "Em"
-    ],
+    [],
     [
      "Em"
     ],
@@ -106,7 +104,7 @@
     ],
     [
      "G",
-     "Dm6/F"
+     "Dm"
     ],
     [
      "E7",
@@ -160,7 +158,7 @@
     ],
     [
      "G",
-     "Em6"
+     "Em"
     ],
     [
      "Bm/F#"
@@ -190,7 +188,7 @@
     ],
     [
      "C",
-     "Cm6"
+     "Cm"
     ],
     [
      "G/D",
@@ -219,7 +217,8 @@
  ],
  "notes": [
   "Grille générée automatiquement depuis le texte du PDF : à vérifier.",
-  "Reprises et fins non détectées : les mesures sont dans l'ordre d'écriture."
+  "Reprises et fins non détectées : les mesures sont dans l'ordre d'écriture.",
+  "Non corroborée : aucune autre partition lisible de ce morceau."
  ],
  "confidence": "low",
  "source": [

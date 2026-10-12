@@ -12,6 +12,7 @@
    "bars": "1–15",
    "sequence": [
     [
+     "A7",
      "A7/C#"
     ],
     [
@@ -25,7 +26,7 @@
      "Gm"
     ],
     [
-     "Em7(b5)"
+     "Em"
     ],
     [
      "Dm",
@@ -35,26 +36,31 @@
      "E7/B",
      "Bb7"
     ],
-    [],
     [
+     "A7"
+    ],
+    [
+     "A7",
      "A/C#"
     ],
     [
      "Dm"
     ],
     [
+     "D7",
      "D7/F#"
     ],
     [
      "Gm"
     ],
     [
-     "Gm6"
+     "Gm"
     ],
     [
      "Dm/F"
     ],
     [
+     "E7",
      "A7"
     ]
    ]
@@ -70,16 +76,21 @@
     [
      "Dm"
     ],
-    [],
+    [
+     "C7"
+    ],
     [
      "F"
     ],
     [
      "A7"
     ],
-    [],
     [
-     "Gm"
+     "D7"
+    ],
+    [
+     "Gm",
+     "B"
     ],
     [
      "F/C"
@@ -87,23 +98,31 @@
     [
      "G7"
     ],
-    [],
+    [
+     "C7"
+    ],
     [
      "C7/G"
     ],
     [
      "F"
     ],
-    [],
-    [],
     [
-     "Gm"
+     "A7"
+    ],
+    [
+     "D7"
+    ],
+    [
+     "Gm",
+     "B"
     ],
     [
      "F/C"
     ],
     [
-     "G7"
+     "G7",
+     "C7"
     ]
    ]
   },
@@ -123,7 +142,8 @@
     ],
     [],
     [
-     "D"
+     "D",
+     "A7"
     ],
     [
      "D"
@@ -131,12 +151,16 @@
     [
      "D"
     ],
-    [],
+    [
+     "A7/C#"
+    ],
     [],
     [
      "Bm"
     ],
-    [],
+    [
+     "E7"
+    ],
     [
      "A7"
     ],
@@ -146,29 +170,35 @@
     [
      "D/F#"
     ],
-    [],
+    [
+     "D7/A"
+    ],
     [
      "G"
     ],
     [
      "G/B",
-     "Gm6/Bb"
+     "Gm"
     ],
     [
-     "D/A"
+     "D/A",
+     "Bm"
     ],
     [
+     "Em",
      "A7"
     ],
     [
-     "D"
+     "D",
+     "A7"
     ]
    ]
   }
  ],
  "notes": [
   "Grille générée automatiquement depuis le texte du PDF : à vérifier.",
-  "Reprises et fins non détectées : les mesures sont dans l'ordre d'écriture."
+  "Reprises et fins non détectées : les mesures sont dans l'ordre d'écriture.",
+  "Non corroborée : aucune autre partition lisible de ce morceau."
  ],
  "confidence": "low",
  "source": [

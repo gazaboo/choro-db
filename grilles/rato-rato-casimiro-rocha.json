@@ -28,8 +28,13 @@
      "Am",
      "Am/G"
     ],
-    [],
-    [],
+    [
+     "D7/F#"
+    ],
+    [
+     "D7",
+     "Bb"
+    ],
     [
      "G/B"
     ],
@@ -39,18 +44,24 @@
     [
      "G/B"
     ],
-    [],
+    [
+     "G7",
+     "G7/F"
+    ],
     [
      "C/E"
     ],
     [
-     "C"
+     "C",
+     "C#"
     ],
     [
-     "G/D"
+     "G/D",
+     "E7"
     ],
     [
-     "Am"
+     "Am",
+     "D7"
     ]
    ]
   },
@@ -68,17 +79,21 @@
     ],
     [],
     [
-     "G/B"
+     "G/B",
+     "E7"
     ],
     [
      "Am"
     ],
-    [],
+    [
+     "Am7",
+     "E7/B"
+    ],
     [
      "Am/C"
     ],
     [
-     "D4",
+     "D7(9)",
      "D/C"
     ],
     [
@@ -88,16 +103,23 @@
      "G"
     ],
     [],
-    [],
+    [
+     "G7"
+    ],
     [
      "C6"
     ],
     [
-     "C"
+     "C",
+     "C#"
     ],
-    [],
     [
-     "Am"
+     "G/D",
+     "G6/B"
+    ],
+    [
+     "Am",
+     "D7"
     ],
     [
      "G"
@@ -107,10 +129,11 @@
   {
    "name": "C",
    "tonic": "C",
-   "bars": "34–49",
+   "bars": "34–50",
    "sequence": [
     [
-     "G"
+     "G",
+     "G7"
     ],
     [],
     [
@@ -122,10 +145,13 @@
      "Dm"
     ],
     [],
-    [],
+    [
+     "G7"
+    ],
     [],
     [
-     "C"
+     "C",
+     "G7"
     ],
     [
      "C"
@@ -134,16 +160,23 @@
      "C6",
      "Gm6/Bb"
     ],
-    [],
+    [
+     "A7"
+    ],
     [
      "Dm"
     ],
     [
-     "F"
+     "F",
+     "F#"
     ],
     [
      "C/G",
      "C/E"
+    ],
+    [
+     "D7",
+     "G7"
     ]
    ]
   },
@@ -165,6 +198,7 @@
      "Bm",
      "C",
      "G/D",
+     "D7",
      "G"
     ]
    ]
@@ -172,7 +206,9 @@
  ],
  "notes": [
   "Grille générée automatiquement depuis le texte du PDF : à vérifier.",
-  "Reprises et fins non détectées : les mesures sont dans l'ordre d'écriture."
+  "Reprises et fins non détectées : les mesures sont dans l'ordre d'écriture.",
+  "Non corroborée : aucune autre partition lisible de ce morceau.",
+  "Structure à vérifier : partie Coda : mesure à plus de 4 accords."
  ],
  "confidence": "low",
  "source": [

@@ -83,3 +83,27 @@ def test_notation_des_pdf():
     assert notation("B♭7M") == "Bbmaj7"
     assert notation("Eø") == "Em7b5"
     assert notation("A-7") == "Am7"
+
+
+def test_diminue_encore_et_chiffrage_colle():
+    assert notation("G#o") == "G#dim"
+    assert notation("Co7/E") == "Cdim7/E"
+
+
+def test_corroboration_tolere_le_diminue_perdu_a_l_export():
+    from croiser import souple
+
+    assert souple("G#dim|C7") == "G#|C7"
+    assert souple("Em7b5") == "Em7b5"
+
+
+def test_un_pdf_musescore_ne_corrobore_pas_une_grille_mxl():
+    from croiser import independant
+
+    graveurs = {"pdf/a.pdf": "musescore", "pdf/b.pdf": "pscript", "pdf/c.pdf": "pscript"}
+    mxl = {"generated": "mxl", "source": ["mxl/C/x.mxl"]}
+    pdf = {"generated": "pdf", "source": ["pdf/b.pdf"]}
+    assert not independant("pdf/a.pdf", mxl, graveurs)
+    assert independant("pdf/b.pdf", mxl, graveurs)
+    assert not independant("pdf/c.pdf", pdf, graveurs)  # même logiciel que la source
+    assert independant("pdf/a.pdf", pdf, graveurs)
