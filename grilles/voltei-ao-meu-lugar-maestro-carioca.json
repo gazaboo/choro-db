@@ -1,0 +1,209 @@
+{
+ "song_id": "voltei-ao-meu-lugar-maestro-carioca",
+ "title": "Voltei ao meu lugar",
+ "composer": "Maestro Carioca",
+ "transposition": "c",
+ "meter": "2/4",
+ "form": "A — B",
+ "parts": [
+  {
+   "name": "A",
+   "tonic": "Dm",
+   "bars": "0–32",
+   "repeat": false,
+   "sequence": [
+    [
+     "F"
+    ],
+    [
+     "Fmaj7"
+    ],
+    [
+     "Am7b5"
+    ],
+    [
+     "D7"
+    ],
+    [
+     "Gm",
+     "D7/A"
+    ],
+    [
+     "Gm/Bb"
+    ],
+    [
+     "Bbm6/Db"
+    ],
+    [
+     "C7"
+    ],
+    [
+     "F/A"
+    ],
+    [
+     "Abdim"
+    ],
+    [
+     "Gm7"
+    ],
+    [
+     "C7",
+     "A7/C#"
+    ],
+    [
+     "Dm"
+    ],
+    [
+     "G7"
+    ],
+    [
+     "Gm"
+    ],
+    [
+     "Bbm6",
+     "C7"
+    ],
+    [
+     "F"
+    ],
+    [
+     "Fmaj7"
+    ],
+    [
+     "Am7b5"
+    ],
+    [
+     "D7"
+    ],
+    [
+     "Gm",
+     "D7/A"
+    ],
+    [
+     "Gm/Bb"
+    ],
+    [
+     "Bbm6/Db"
+    ],
+    [
+     "C7"
+    ],
+    [
+     "Cm7"
+    ],
+    [
+     "F7"
+    ],
+    [
+     "Bb"
+    ],
+    [
+     "Bdim"
+    ],
+    [
+     "F",
+     "Dm"
+    ],
+    [
+     "Bbm6",
+     "C7"
+    ],
+    [
+     "F"
+    ],
+    [
+     "A7"
+    ]
+   ]
+  },
+  {
+   "name": "B",
+   "tonic": "F",
+   "bars": "33–57",
+   "repeat": false,
+   "sequence": [
+    [
+     "Dm"
+    ],
+    [
+     "Dm/C"
+    ],
+    [
+     "Gm/Bb"
+    ],
+    [
+     "Gm",
+     "Em7b5"
+    ],
+    [
+     "Dm/F"
+    ],
+    [
+     "Gm6"
+    ],
+    [
+     "G#dim"
+    ],
+    [
+     "A7"
+    ],
+    [
+     "D7"
+    ],
+    [
+     "D/F#"
+    ],
+    [
+     "G7"
+    ],
+    [
+     "B7/B"
+    ],
+    [
+     "C7"
+    ],
+    [
+     "C7/E"
+    ],
+    [
+     "F"
+    ],
+    [],
+    [
+     "Db7/Ab"
+    ],
+    [],
+    [
+     "Gb"
+    ],
+    [
+     "Ebm7"
+    ],
+    [
+     "D7",
+     "Db7"
+    ],
+    [
+     "C7",
+     "C/Bb"
+    ],
+    [
+     "F/A"
+    ],
+    [
+     "C7"
+    ],
+    []
+   ]
+  }
+ ],
+ "notes": [
+  "Grille générée automatiquement depuis la partition MusicXML : à vérifier.",
+  "Corroborée par une autre partition : enchaînement 95%, mesures 94%."
+ ],
+ "confidence": "high",
+ "source": [
+  "mxl/C/Maestro Carioca - Voltei ao meu lugar - Theme - C.mxl"
+ ],
+ "generated": "mxl"
+}

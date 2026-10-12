@@ -1,0 +1,238 @@
+{
+ "song_id": "serenata-no-joa-radames-gnattali",
+ "title": "Serenata no Joá",
+ "composer": "Radamés Gnattali",
+ "transposition": "c",
+ "meter": "2/4",
+ "form": "A (reprise) — B (reprise) — C (reprise) — Coda",
+ "parts": [
+  {
+   "name": "A",
+   "tonic": "Dm",
+   "bars": "1–16",
+   "repeat": true,
+   "sequence": [
+    [
+     "Dm",
+     "Dm/C"
+    ],
+    [
+     "Bdim",
+     "Gm6/Bb"
+    ],
+    [
+     "A7",
+     "A/G"
+    ],
+    [
+     "Dm",
+     "A7"
+    ],
+    [
+     "Dm",
+     "Bm7b5"
+    ],
+    [
+     "Am",
+     "F/Eb"
+    ],
+    [
+     "Bb/D",
+     "E7"
+    ],
+    [
+     "A7"
+    ],
+    [
+     "Dm",
+     "Dm/C"
+    ],
+    [
+     "Bdim",
+     "Gm6/Bb"
+    ],
+    [
+     "A7",
+     "A/G"
+    ],
+    [
+     "Dm/F",
+     "D7/F#"
+    ],
+    [
+     "Gm",
+     "Em7b5"
+    ],
+    [
+     "Dm",
+     "Bb7"
+    ],
+    [
+     "Eb",
+     "A7"
+    ],
+    [
+     "Dm"
+    ]
+   ]
+  },
+  {
+   "name": "B",
+   "tonic": "Dm",
+   "bars": "17–35",
+   "repeat": true,
+   "sequence": [
+    [
+     "C7"
+    ],
+    [
+     "F"
+    ],
+    [
+     "A7"
+    ],
+    [
+     "Dm"
+    ],
+    [
+     "Bdim"
+    ],
+    [
+     "F/C"
+    ],
+    [
+     "E7"
+    ],
+    [
+     "Am7"
+    ],
+    [
+     "C7"
+    ],
+    [
+     "F"
+    ],
+    [
+     "F7"
+    ],
+    [
+     "Bb"
+    ],
+    [
+     "Db7"
+    ],
+    [
+     "F",
+     "D7"
+    ],
+    [
+     "G7",
+     "C7"
+    ],
+    [],
+    [
+     "Dm"
+    ]
+   ],
+   "endings": {
+    "1": [
+     [
+      "F"
+     ]
+    ],
+    "2": [
+     [
+      "F",
+      "A7"
+     ]
+    ]
+   }
+  },
+  {
+   "name": "C",
+   "tonic": "D",
+   "bars": "36–52",
+   "repeat": true,
+   "sequence": [
+    [
+     "D",
+     "A7"
+    ],
+    [
+     "D",
+     "D7"
+    ],
+    [
+     "G",
+     "G7"
+    ],
+    [
+     "F#7"
+    ],
+    [
+     "B7"
+    ],
+    [
+     "Em"
+    ],
+    [
+     "C#7"
+    ],
+    [
+     "F#m7",
+     "A7"
+    ],
+    [
+     "D",
+     "A7"
+    ],
+    [
+     "D",
+     "D/C"
+    ],
+    [
+     "C#7"
+    ],
+    [
+     "F#m"
+    ],
+    [
+     "G",
+     "G#dim"
+    ],
+    [
+     "D",
+     "B7"
+    ],
+    [
+     "E7(9)",
+     "A7"
+    ],
+    [
+     "D"
+    ],
+    []
+   ]
+  },
+  {
+   "name": "Coda",
+   "tonic": "Dm",
+   "bars": "53–53",
+   "repeat": false,
+   "sequence": [
+    [
+     "Dm"
+    ]
+   ]
+  }
+ ],
+ "notes": [
+  "Grille générée automatiquement depuis la partition MusicXML : à vérifier.",
+  "Corroborée par une autre partition : enchaînement 94%, mesures 83%."
+ ],
+ "confidence": "high",
+ "source": [
+  "mxl/C/Radamés Gnattali - Serenata no Joá - Theme - C.mxl"
+ ],
+ "generated": "mxl"
+}

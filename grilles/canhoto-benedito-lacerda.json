@@ -1,0 +1,267 @@
+{
+ "song_id": "canhoto-benedito-lacerda",
+ "title": "Canhoto",
+ "composer": "Benedito Lacerda",
+ "transposition": "c",
+ "meter": "2/4",
+ "form": "A (reprise) — B (reprise) — C (reprise) — Coda",
+ "parts": [
+  {
+   "name": "A",
+   "tonic": "Gm",
+   "bars": "1–17",
+   "repeat": true,
+   "sequence": [
+    [
+     "Gm/D",
+     "D/C"
+    ],
+    [
+     "Gm/Bb",
+     "D7/A"
+    ],
+    [
+     "G7",
+     "G/F"
+    ],
+    [
+     "Cm/Eb",
+     "G7/D"
+    ],
+    [
+     "Cm",
+     "F#dim"
+    ],
+    [
+     "Gm",
+     "Gm6"
+    ],
+    [
+     "Dm/F",
+     "A7"
+    ],
+    [
+     "D7",
+     "F7/A"
+    ],
+    [
+     "Bb",
+     "D/C"
+    ],
+    [
+     "Gm/Bb",
+     "D7/A"
+    ],
+    [
+     "G7",
+     "G/F"
+    ],
+    [
+     "Cm/Eb",
+     "G7/D"
+    ],
+    [
+     "Cm",
+     "F#dim"
+    ],
+    [
+     "Gm",
+     "Gm/F"
+    ],
+    [
+     "A7/E",
+     "D7"
+    ]
+   ],
+   "endings": {
+    "1": [
+     [
+      "Gm",
+      "Cm6/Eb"
+     ]
+    ],
+    "2": [
+     [
+      "Gm",
+      "Gb7"
+     ]
+    ]
+   }
+  },
+  {
+   "name": "B",
+   "tonic": "Bb",
+   "bars": "18–35",
+   "repeat": true,
+   "sequence": [
+    [
+     "F7",
+     "F/Eb"
+    ],
+    [
+     "Bb/D",
+     "Bb"
+    ],
+    [
+     "D7/A",
+     "F#dim"
+    ],
+    [
+     "Gm"
+    ],
+    [
+     "Cm",
+     "Am7b5"
+    ],
+    [
+     "Gm",
+     "C7/E"
+    ],
+    [
+     "F",
+     "C7/G"
+    ],
+    [
+     "F7/A"
+    ],
+    [
+     "F7",
+     "F/Eb"
+    ],
+    [
+     "Bb/D",
+     "Bb"
+    ],
+    [
+     "D7/A",
+     "F#dim"
+    ],
+    [
+     "Gm"
+    ],
+    [
+     "Cm",
+     "Am7b5"
+    ],
+    [
+     "Gm",
+     "G7/B"
+    ],
+    [
+     "Cm",
+     "F7"
+    ],
+    [
+     "Gm",
+     "D7"
+    ]
+   ],
+   "endings": {
+    "1": [
+     [
+      "Bb"
+     ]
+    ],
+    "2": [
+     [
+      "Bb",
+      "Cm6/Eb"
+     ]
+    ]
+   }
+  },
+  {
+   "name": "C",
+   "tonic": "G",
+   "bars": "36–X2",
+   "repeat": true,
+   "sequence": [
+    [
+     "G",
+     "D7/A"
+    ],
+    [
+     "G/B"
+    ],
+    [
+     "G",
+     "G/B"
+    ],
+    [
+     "D7/A"
+    ],
+    [
+     "D7"
+    ],
+    [
+     "D7/F#"
+    ],
+    [
+     "Am7",
+     "D7/F#"
+    ],
+    [
+     "G6",
+     "D7"
+    ],
+    [
+     "G",
+     "D7/A"
+    ],
+    [
+     "G/B"
+    ],
+    [
+     "G7"
+    ],
+    [
+     "C"
+    ],
+    [
+     "Bbdim"
+    ],
+    [
+     "C#dim"
+    ],
+    [
+     "G/D",
+     "D7"
+    ]
+   ],
+   "endings": {
+    "1": [
+     [
+      "G",
+      "D7"
+     ]
+    ],
+    "2": [
+     [
+      "G",
+      "Cm6/Eb"
+     ]
+    ]
+   }
+  },
+  {
+   "name": "Coda",
+   "tonic": "Gm",
+   "bars": "53–53",
+   "repeat": false,
+   "sequence": [
+    [
+     "Gm"
+    ]
+   ]
+  }
+ ],
+ "notes": [
+  "Grille générée automatiquement depuis la partition MusicXML : à vérifier.",
+  "Corroborée par une autre partition : enchaînement 86%, mesures 81%."
+ ],
+ "confidence": "high",
+ "source": [
+  "mxl/C/Benedito Lacerda - Canhoto - Theme - C.mxl"
+ ],
+ "generated": "mxl"
+}

@@ -1,0 +1,205 @@
+{
+ "song_id": "sonoroso-k-ximbinho",
+ "title": "Sonoroso",
+ "composer": "K Ximbinho",
+ "transposition": "c",
+ "meter": "2/4",
+ "form": "A — B — C",
+ "parts": [
+  {
+   "name": "A",
+   "tonic": "C",
+   "bars": "1–14",
+   "sequence": [
+    [
+     "Eb"
+    ],
+    [
+     "A7"
+    ],
+    [
+     "Dm",
+     "A7"
+    ],
+    [
+     "Dm",
+     "Bm"
+    ],
+    [
+     "A"
+    ],
+    [
+     "E7"
+    ],
+    [
+     "A7"
+    ],
+    [
+     "Dm"
+    ],
+    [
+     "Eb"
+    ],
+    [
+     "A7"
+    ],
+    [
+     "Cm",
+     "D7"
+    ],
+    [
+     "Gm"
+    ],
+    [
+     "Dm"
+    ],
+    [
+     "E7",
+     "A7"
+    ]
+   ]
+  },
+  {
+   "name": "B",
+   "tonic": "C",
+   "bars": "15–32",
+   "sequence": [
+    [
+     "Dm"
+    ],
+    [
+     "Dm"
+    ],
+    [],
+    [
+     "C7"
+    ],
+    [
+     "F"
+    ],
+    [
+     "Em",
+     "A7"
+    ],
+    [
+     "Cm",
+     "D7/F#"
+    ],
+    [
+     "Gm",
+     "G#"
+    ],
+    [
+     "F/A"
+    ],
+    [
+     "G7"
+    ],
+    [
+     "C7"
+    ],
+    [],
+    [
+     "F",
+     "Em"
+    ],
+    [
+     "A7",
+     "Cm"
+    ],
+    [
+     "D7/F#"
+    ],
+    [
+     "Gm",
+     "G#"
+    ],
+    [
+     "F/A",
+     "D7"
+    ],
+    [
+     "Gm",
+     "C7"
+    ]
+   ]
+  },
+  {
+   "name": "C",
+   "tonic": "Am",
+   "bars": "33–51",
+   "sequence": [
+    [
+     "F"
+    ],
+    [
+     "F",
+     "A7"
+    ],
+    [
+     "Dm",
+     "A7"
+    ],
+    [],
+    [
+     "D"
+    ],
+    [],
+    [
+     "D/F#",
+     "F"
+    ],
+    [
+     "Em",
+     "C#m"
+    ],
+    [
+     "F#7"
+    ],
+    [
+     "Bm",
+     "Bm/A"
+    ],
+    [
+     "E7/G#"
+    ],
+    [
+     "A7"
+    ],
+    [
+     "D"
+    ],
+    [],
+    [
+     "Am",
+     "D7"
+    ],
+    [
+     "G"
+    ],
+    [
+     "G",
+     "Gm"
+    ],
+    [
+     "D/A",
+     "Bm"
+    ],
+    [
+     "E7",
+     "A7"
+    ]
+   ]
+  }
+ ],
+ "notes": [
+  "Grille générée automatiquement depuis le texte du PDF : à vérifier.",
+  "Reprises et fins non détectées : les mesures sont dans l'ordre d'écriture.",
+  "Corroborée par une grille relevée à la main : enchaînement 90%, mesures 79%."
+ ],
+ "confidence": "high",
+ "source": [
+  "pdf/K Ximbinho - Sonoroso - Theme - C - variant 1.pdf"
+ ],
+ "generated": "pdf"
+}

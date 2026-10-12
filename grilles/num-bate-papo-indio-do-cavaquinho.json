@@ -1,0 +1,206 @@
+{
+ "song_id": "num-bate-papo-indio-do-cavaquinho",
+ "title": "Num bate papo",
+ "composer": "Índio do Cavaquinho",
+ "transposition": "c",
+ "meter": "2/4",
+ "form": "A — B (reprise) — C (reprise) — Coda",
+ "parts": [
+  {
+   "name": "A",
+   "tonic": "G",
+   "bars": "0–4",
+   "repeat": false,
+   "sequence": [
+    [
+     "Am7",
+     "Cm6"
+    ],
+    [
+     "Bm7",
+     "F7",
+     "E7"
+    ],
+    [
+     "Am7",
+     "D7"
+    ],
+    [
+     "G"
+    ]
+   ]
+  },
+  {
+   "name": "B",
+   "tonic": "G",
+   "bars": "5–21",
+   "repeat": true,
+   "sequence": [
+    [
+     "C#m7b5",
+     "Cm6"
+    ],
+    [
+     "Bm7",
+     "Bbdim"
+    ],
+    [
+     "Am7",
+     "D7"
+    ],
+    [
+     "G"
+    ],
+    [
+     "C#m7b5",
+     "Cm6"
+    ],
+    [
+     "Bm7",
+     "Bbdim"
+    ],
+    [
+     "B",
+     "C#m7",
+     "F#7"
+    ],
+    [
+     "B"
+    ],
+    [
+     "C#m7b5",
+     "Cm6"
+    ],
+    [
+     "Bm7",
+     "Bbdim"
+    ],
+    [
+     "Am7",
+     "D7"
+    ],
+    [
+     "Dm6/F",
+     "E7"
+    ],
+    [
+     "Am7",
+     "Cm6"
+    ],
+    [
+     "Bm7",
+     "F7",
+     "E7"
+    ],
+    [
+     "Am7",
+     "D7"
+    ]
+   ],
+   "endings": {
+    "1": [
+     [
+      "G"
+     ]
+    ],
+    "2": [
+     [
+      "G"
+     ]
+    ]
+   }
+  },
+  {
+   "name": "C",
+   "tonic": "D",
+   "bars": "22–X1",
+   "repeat": true,
+   "sequence": [
+    [
+     "A7"
+    ],
+    [
+     "D"
+    ],
+    [
+     "A7"
+    ],
+    [
+     "D"
+    ],
+    [
+     "A7"
+    ],
+    [
+     "D"
+    ],
+    [
+     "A",
+     "E7"
+    ],
+    [
+     "A"
+    ],
+    [
+     "A7"
+    ],
+    [
+     "D"
+    ],
+    [
+     "D7"
+    ],
+    [
+     "G"
+    ],
+    [
+     "G#m7b5",
+     "C#7"
+    ],
+    [
+     "F#m7",
+     "B7"
+    ],
+    [
+     "Em7",
+     "A7"
+    ]
+   ],
+   "endings": {
+    "1": [
+     [
+      "D"
+     ]
+    ],
+    "2": [
+     [
+      "D"
+     ]
+    ]
+   }
+  },
+  {
+   "name": "Coda",
+   "tonic": "G",
+   "bars": "39–40",
+   "repeat": false,
+   "sequence": [
+    [
+     "G"
+    ],
+    [
+     "F#/G"
+    ]
+   ]
+  }
+ ],
+ "notes": [
+  "Grille générée automatiquement depuis la partition MusicXML : à vérifier.",
+  "Corroborée par une autre partition : enchaînement 92%, mesures 76%."
+ ],
+ "confidence": "high",
+ "source": [
+  "mxl/C/Índio do Cavaquinho - Num bate papo - Theme - C.mxl"
+ ],
+ "generated": "mxl"
+}

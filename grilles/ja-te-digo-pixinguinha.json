@@ -1,0 +1,133 @@
+{
+ "song_id": "ja-te-digo-pixinguinha",
+ "title": "Já te digo",
+ "composer": "Pixinguinha",
+ "transposition": "c",
+ "meter": "2/4",
+ "form": "A — B (reprise) — C (reprise) — D (reprise) — D",
+ "parts": [
+  {
+   "name": "A",
+   "tonic": "C",
+   "bars": "0–18",
+   "repeat": false,
+   "sequence": [
+    [
+     "G7"
+    ],
+    [
+     "C"
+    ],
+    [
+     "E7"
+    ],
+    [
+     "Am"
+    ],
+    [
+     "F",
+     "F#dim"
+    ],
+    [
+     "C/G"
+    ],
+    [],
+    [],
+    [],
+    [],
+    [
+     "G7"
+    ],
+    [
+     "C"
+    ],
+    [
+     "E7"
+    ],
+    [
+     "Am"
+    ],
+    [
+     "F",
+     "F#dim"
+    ],
+    [
+     "C/G"
+    ],
+    [
+     "G7"
+    ],
+    [
+     "C"
+    ]
+   ]
+  },
+  {
+   "name": "B",
+   "tonic": "C",
+   "bars": "19–22",
+   "repeat": true,
+   "sequence": [
+    [
+     "C"
+    ],
+    [
+     "D7"
+    ],
+    [
+     "G7"
+    ],
+    [
+     "C"
+    ]
+   ]
+  },
+  {
+   "name": "C",
+   "tonic": "C",
+   "bars": "23–26",
+   "repeat": true,
+   "sequence": [
+    [
+     "A7/C#"
+    ],
+    [
+     "Dm"
+    ],
+    [
+     "G7"
+    ],
+    [
+     "C"
+    ]
+   ]
+  },
+  {
+   "name": "D",
+   "tonic": "C",
+   "bars": "27–30",
+   "repeat": true,
+   "sequence": [
+    [
+     "C"
+    ],
+    [
+     "G7"
+    ],
+    [],
+    [
+     "C"
+    ]
+   ]
+  }
+ ],
+ "notes": [
+  "Grille générée automatiquement depuis la partition MusicXML : à vérifier.",
+  "Corroborée par une autre partition : enchaînement 94%, mesures 77%."
+ ],
+ "confidence": "high",
+ "source": [
+  "mxl/C/Pixinguinha - Já te digo - Theme - C.mxl"
+ ],
+ "generated": "mxl"
+}

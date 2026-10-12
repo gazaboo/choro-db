@@ -1,0 +1,351 @@
+{
+ "song_id": "meu-sonho-cristovao-bastos",
+ "title": "Meu sonho",
+ "composer": "Cristovão Bastos",
+ "transposition": "c",
+ "meter": "2/4",
+ "form": "A — B — C (reprise) — D — E — Coda",
+ "parts": [
+  {
+   "name": "A",
+   "tonic": "Bm",
+   "bars": "1–10",
+   "repeat": false,
+   "sequence": [
+    [
+     "Bm"
+    ],
+    [
+     "G7(9)"
+    ],
+    [
+     "C#m7b5",
+     "F#7"
+    ],
+    [
+     "Am7",
+     "B7"
+    ],
+    [
+     "Em",
+     "Fdim"
+    ],
+    [
+     "Bm/F#",
+     "G7"
+    ],
+    [
+     "C",
+     "C/Bb"
+    ],
+    [
+     "A7",
+     "Eb7(#9)"
+    ],
+    [],
+    []
+   ]
+  },
+  {
+   "name": "B",
+   "tonic": "D",
+   "bars": "11–26",
+   "repeat": false,
+   "sequence": [
+    [
+     "D"
+    ],
+    [
+     "C#7"
+    ],
+    [
+     "C7/G"
+    ],
+    [
+     "F#dim"
+    ],
+    [
+     "Gm6",
+     "Gm6/Bb"
+    ],
+    [
+     "D/A",
+     "Bm7"
+    ],
+    [
+     "E7",
+     "E/D"
+    ],
+    [
+     "A7/C#",
+     "A7"
+    ],
+    [
+     "D"
+    ],
+    [
+     "C#7"
+    ],
+    [
+     "C7/G"
+    ],
+    [
+     "F#dim"
+    ],
+    [
+     "Gm6",
+     "Gm6/Bb"
+    ],
+    [
+     "D/A",
+     "Bm7"
+    ],
+    [
+     "E7",
+     "A7"
+    ],
+    [
+     "D",
+     "C7(9)"
+    ]
+   ]
+  },
+  {
+   "name": "C",
+   "tonic": "D",
+   "bars": "27–44",
+   "repeat": true,
+   "sequence": [
+    [
+     "Bm",
+     "Bm/A"
+    ],
+    [
+     "G7",
+     "G/F"
+    ],
+    [
+     "F#7",
+     "F#/E"
+    ],
+    [
+     "Bm/D",
+     "C7(9,#11)"
+    ],
+    [
+     "Bm",
+     "C#/B"
+    ],
+    [
+     "F#",
+     "D#7"
+    ],
+    [
+     "G#7"
+    ],
+    [
+     "C#m7",
+     "F#7"
+    ],
+    [
+     "Bm"
+    ],
+    [
+     "G7"
+    ],
+    [
+     "F#7/C#",
+     "F#7"
+    ],
+    [
+     "B7/D#",
+     "B7"
+    ],
+    [
+     "Em",
+     "Fdim"
+    ],
+    [
+     "Bm/F#",
+     "Bm"
+    ],
+    [
+     "G7",
+     "F#7"
+    ],
+    [
+     "D",
+     "D7"
+    ]
+   ],
+   "endings": {
+    "1": [
+     [
+      "Bm",
+      "F#7"
+     ]
+    ],
+    "2": [
+     [
+      "Bm",
+      "A7"
+     ]
+    ]
+   }
+  },
+  {
+   "name": "D",
+   "tonic": "G",
+   "bars": "45–60",
+   "repeat": false,
+   "sequence": [
+    [
+     "G6"
+    ],
+    [
+     "A7"
+    ],
+    [
+     "D7",
+     "D/C"
+    ],
+    [
+     "G/B",
+     "G"
+    ],
+    [
+     "Em7",
+     "A7"
+    ],
+    [
+     "D",
+     "D#dim"
+    ],
+    [
+     "E7",
+     "A7"
+    ],
+    [
+     "D7"
+    ],
+    [
+     "G6",
+     "G/F"
+    ],
+    [
+     "C7/E"
+    ],
+    [
+     "B7/D#",
+     "B7"
+    ],
+    [
+     "E7/G#",
+     "E7"
+    ],
+    [
+     "Am/C",
+     "Cm6"
+    ],
+    [
+     "G/D",
+     "E7"
+    ],
+    [
+     "Am7",
+     "D7"
+    ],
+    [
+     "G",
+     "D7"
+    ]
+   ]
+  },
+  {
+   "name": "E",
+   "tonic": "G",
+   "bars": "61–77",
+   "repeat": false,
+   "sequence": [
+    [
+     "G"
+    ],
+    [
+     "A/G"
+    ],
+    [
+     "D7/G",
+     "G"
+    ],
+    [],
+    [
+     "Em7",
+     "A7"
+    ],
+    [
+     "D",
+     "D#dim"
+    ],
+    [
+     "E7",
+     "A7"
+    ],
+    [
+     "D7"
+    ],
+    [
+     "G",
+     "G/F"
+    ],
+    [
+     "C7/E"
+    ],
+    [
+     "B7/D#",
+     "B7"
+    ],
+    [
+     "E7/G#",
+     "E7"
+    ],
+    [
+     "Am/C",
+     "Cm6"
+    ],
+    [
+     "G/D",
+     "E7"
+    ],
+    [
+     "Am7",
+     "D7"
+    ],
+    [
+     "G",
+     "A7"
+    ],
+    []
+   ]
+  },
+  {
+   "name": "Coda",
+   "tonic": "D",
+   "bars": "78–78",
+   "repeat": false,
+   "sequence": [
+    [
+     "D6(9)"
+    ]
+   ]
+  }
+ ],
+ "notes": [
+  "Grille générée automatiquement depuis la partition MusicXML : à vérifier.",
+  "Corroborée par une autre partition : enchaînement 89%, mesures 82%."
+ ],
+ "confidence": "high",
+ "source": [
+  "mxl/C/Cristovão Bastos - Meu sonho - Theme - C.mxl"
+ ],
+ "generated": "mxl"
+}

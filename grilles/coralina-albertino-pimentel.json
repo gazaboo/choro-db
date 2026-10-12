@@ -1,0 +1,236 @@
+{
+ "song_id": "coralina-albertino-pimentel",
+ "title": "Coralina",
+ "composer": "Albertino Pimentel",
+ "transposition": "c",
+ "meter": "2/4",
+ "form": "A (reprise) — B (reprise) — C (reprise)",
+ "parts": [
+  {
+   "name": "A",
+   "tonic": "F",
+   "bars": "0–17",
+   "repeat": true,
+   "sequence": [
+    [
+     "Dm",
+     "A7/E"
+    ],
+    [
+     "Dm/F"
+    ],
+    [
+     "Dm",
+     "Dm/C"
+    ],
+    [
+     "Gm/Bb"
+    ],
+    [
+     "Gm",
+     "Gm/F"
+    ],
+    [
+     "A7/E"
+    ],
+    [
+     "A7/C#"
+    ],
+    [
+     "Dm"
+    ],
+    [
+     "Dm",
+     "A7/E"
+    ],
+    [
+     "Dm/F"
+    ],
+    [
+     "Dm",
+     "Dm/C"
+    ],
+    [
+     "Gm/Bb"
+    ],
+    [
+     "Gm",
+     "Em7b5"
+    ],
+    [
+     "Dm",
+     "Dm/F"
+    ],
+    [
+     "Eb/G",
+     "A7/C#"
+    ]
+   ],
+   "endings": {
+    "1": [
+     [
+      "Dm"
+     ]
+    ],
+    "2": [
+     [
+      "Dm",
+      "C7"
+     ]
+    ]
+   }
+  },
+  {
+   "name": "B",
+   "tonic": "Dm",
+   "bars": "18–35",
+   "repeat": true,
+   "sequence": [
+    [
+     "F"
+    ],
+    [
+     "G7"
+    ],
+    [
+     "C7"
+    ],
+    [
+     "F"
+    ],
+    [
+     "F",
+     "Bm7b5"
+    ],
+    [
+     "Am/C",
+     "Am"
+    ],
+    [
+     "E7/G#",
+     "E7"
+    ],
+    [
+     "Am",
+     "C7"
+    ],
+    [
+     "F"
+    ],
+    [
+     "G7"
+    ],
+    [
+     "A7"
+    ],
+    [
+     "Dm"
+    ],
+    [
+     "Bbm"
+    ],
+    [
+     "F/C"
+    ],
+    [
+     "G7",
+     "C7"
+    ],
+    []
+   ],
+   "endings": {
+    "1": [
+     [
+      "F"
+     ]
+    ],
+    "2": [
+     [
+      "F",
+      "A7"
+     ]
+    ]
+   }
+  },
+  {
+   "name": "C",
+   "tonic": "D",
+   "bars": "37–53",
+   "repeat": true,
+   "sequence": [
+    [
+     "D",
+     "A7/E"
+    ],
+    [
+     "D/F#",
+     "A7"
+    ],
+    [
+     "D/F#",
+     "B7/D#"
+    ],
+    [
+     "Em"
+    ],
+    [
+     "Em/G",
+     "E7/G#"
+    ],
+    [
+     "A7"
+    ],
+    [
+     "A7/C#"
+    ],
+    [
+     "D"
+    ],
+    [
+     "D",
+     "A7/E"
+    ],
+    [
+     "D/F#",
+     "A7"
+    ],
+    [
+     "D/F#",
+     "B7/D#"
+    ],
+    [
+     "Em"
+    ],
+    [
+     "Gm6"
+    ],
+    [
+     "D/F#",
+     "B7"
+    ],
+    [
+     "Em",
+     "A7"
+    ],
+    [
+     "D"
+    ],
+    []
+   ],
+   "transition_in": [
+    [
+     "Dm"
+    ]
+   ]
+  }
+ ],
+ "notes": [
+  "Grille générée automatiquement depuis la partition MusicXML : à vérifier.",
+  "Corroborée par une autre partition : enchaînement 94%, mesures 91%."
+ ],
+ "confidence": "high",
+ "source": [
+  "mxl/C/Albertino Pimentel - Coralina - Theme - C.mxl"
+ ],
+ "generated": "mxl"
+}

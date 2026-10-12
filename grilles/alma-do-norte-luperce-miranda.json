@@ -1,0 +1,316 @@
+{
+ "song_id": "alma-do-norte-luperce-miranda",
+ "title": "Alma do norte",
+ "composer": "Luperce Miranda",
+ "transposition": "c",
+ "meter": "2/4",
+ "form": "A (reprise) — B (reprise) — C (reprise)",
+ "parts": [
+  {
+   "name": "A",
+   "tonic": "Cm",
+   "bars": "1–32",
+   "repeat": true,
+   "sequence": [
+    [
+     "Cm"
+    ],
+    [
+     "Cm",
+     "C/Bb"
+    ],
+    [
+     "Fm/Ab"
+    ],
+    [
+     "Fm"
+    ],
+    [
+     "Dm7b5"
+    ],
+    [
+     "G7",
+     "G/F"
+    ],
+    [
+     "Cm/Eb",
+     "G7/D"
+    ],
+    [
+     "Cm",
+     "G7/B"
+    ],
+    [
+     "Cm"
+    ],
+    [
+     "Cm6/Eb"
+    ],
+    [
+     "Gm/D"
+    ],
+    [
+     "Gm"
+    ],
+    [
+     "D7/A"
+    ],
+    [
+     "D7/F#"
+    ],
+    [
+     "G7"
+    ],
+    [],
+    [
+     "Cm"
+    ],
+    [
+     "Cm",
+     "C/Bb"
+    ],
+    [
+     "Fm/Ab"
+    ],
+    [
+     "Fm"
+    ],
+    [
+     "Dm7b5"
+    ],
+    [
+     "G7"
+    ],
+    [
+     "Bbm6"
+    ],
+    [
+     "C7/E"
+    ],
+    [
+     "Fm"
+    ],
+    [
+     "Fm6/Ab"
+    ],
+    [
+     "Cm/G"
+    ],
+    [
+     "Cm"
+    ],
+    [
+     "F#dim"
+    ],
+    [
+     "G7"
+    ],
+    [
+     "Cm"
+    ],
+    []
+   ]
+  },
+  {
+   "name": "B",
+   "tonic": "Cm",
+   "bars": "33–X1",
+   "repeat": true,
+   "sequence": [
+    [
+     "G7"
+    ],
+    [
+     "G7/B"
+    ],
+    [
+     "Cm",
+     "G7/D"
+    ],
+    [
+     "Cm/Eb"
+    ],
+    [
+     "C7/E"
+    ],
+    [
+     "C7"
+    ],
+    [
+     "Fm",
+     "C7/G"
+    ],
+    [
+     "Fm/Ab"
+    ],
+    [],
+    [
+     "Fm6"
+    ],
+    [
+     "Cm/G"
+    ],
+    [
+     "Cm"
+    ],
+    [
+     "D7/F#"
+    ],
+    [],
+    [
+     "G7"
+    ],
+    [],
+    [
+     "G7"
+    ],
+    [
+     "G7/B"
+    ],
+    [
+     "Cm",
+     "G7/D"
+    ],
+    [
+     "Cm/Eb"
+    ],
+    [
+     "C7/E"
+    ],
+    [
+     "C7"
+    ],
+    [
+     "Fm",
+     "C7/G"
+    ],
+    [
+     "Fm/Ab"
+    ],
+    [
+     "Fm"
+    ],
+    [
+     "Fm6/Ab"
+    ],
+    [
+     "Cm/G"
+    ],
+    [
+     "Cm"
+    ],
+    [
+     "Fm6"
+    ],
+    [
+     "G7"
+    ],
+    [
+     "Cm"
+    ],
+    []
+   ]
+  },
+  {
+   "name": "C",
+   "tonic": "C",
+   "bars": "65–97",
+   "repeat": true,
+   "sequence": [
+    [
+     "C"
+    ],
+    [
+     "A7"
+    ],
+    [
+     "D7/F#"
+    ],
+    [],
+    [
+     "G7"
+    ],
+    [
+     "G7/B"
+    ],
+    [
+     "C"
+    ],
+    [
+     "G7"
+    ],
+    [
+     "C"
+    ],
+    [
+     "C/E",
+     "C#dim"
+    ],
+    [
+     "G/D"
+    ],
+    [],
+    [
+     "D7"
+    ],
+    [],
+    [
+     "G7"
+    ],
+    [],
+    [
+     "C"
+    ],
+    [
+     "A7"
+    ],
+    [
+     "D7/F#"
+    ],
+    [],
+    [
+     "E7/G#"
+    ],
+    [
+     "E7"
+    ],
+    [
+     "Am"
+    ],
+    [],
+    [
+     "Dm/F"
+    ],
+    [
+     "F#dim"
+    ],
+    [
+     "C/G"
+    ],
+    [
+     "A7"
+    ],
+    [
+     "D7"
+    ],
+    [
+     "G7"
+    ],
+    [
+     "C"
+    ],
+    [],
+    []
+   ]
+  }
+ ],
+ "notes": [
+  "Grille générée automatiquement depuis la partition MusicXML : à vérifier.",
+  "Corroborée par une autre partition : enchaînement 97%, mesures 96%."
+ ],
+ "confidence": "high",
+ "source": [
+  "mxl/C/Luperce Miranda - Alma do norte - Theme - C.mxl"
+ ],
+ "generated": "mxl"
+}

@@ -1,0 +1,237 @@
+{
+ "song_id": "as-diabruras-do-souto-arthur-camillo",
+ "title": "As diabruras do Souto",
+ "composer": "Arthur Camillo",
+ "transposition": "c",
+ "meter": "2/4",
+ "form": "A (reprise) — B (reprise) — C (reprise) — Coda",
+ "parts": [
+  {
+   "name": "A",
+   "tonic": "G",
+   "bars": "0–17",
+   "repeat": true,
+   "sequence": [
+    [
+     "D7sus4",
+     "D7"
+    ],
+    [
+     "G6"
+    ],
+    [
+     "D7sus4",
+     "D7"
+    ],
+    [
+     "G6",
+     "G/F"
+    ],
+    [
+     "C#m7b5",
+     "Cm6"
+    ],
+    [
+     "G/B",
+     "Bbdim"
+    ],
+    [
+     "Am6",
+     "D7(9)"
+    ],
+    [
+     "G6"
+    ],
+    [
+     "D7sus4",
+     "D7"
+    ],
+    [
+     "G6"
+    ],
+    [
+     "D7sus4",
+     "D7"
+    ],
+    [
+     "G6",
+     "G/F"
+    ],
+    [
+     "C/E"
+    ],
+    [
+     "G/D"
+    ],
+    [
+     "A7(9)",
+     "D7"
+    ]
+   ],
+   "endings": {
+    "1": [
+     [
+      "G6"
+     ]
+    ],
+    "2": [
+     [
+      "G6"
+     ]
+    ]
+   }
+  },
+  {
+   "name": "B",
+   "tonic": "Em",
+   "bars": "18–27",
+   "repeat": true,
+   "sequence": [
+    [
+     "B7/F#",
+     "B/A"
+    ],
+    [
+     "Em/G",
+     "Em"
+    ],
+    [
+     "B7",
+     "B7/D#"
+    ],
+    [
+     "Em",
+     "Em/B"
+    ],
+    [
+     "B7/F#",
+     "B/A"
+    ],
+    [
+     "C/G",
+     "Am6"
+    ],
+    [
+     "Em/G",
+     "F#7",
+     "B7"
+    ],
+    [
+     "G6",
+     "G7"
+    ]
+   ],
+   "endings": {
+    "1": [
+     [
+      "Em"
+     ],
+     [
+      "Em"
+     ]
+    ]
+   }
+  },
+  {
+   "name": "C",
+   "tonic": "C",
+   "bars": "28–45",
+   "repeat": true,
+   "sequence": [
+    [
+     "C",
+     "G7/D"
+    ],
+    [
+     "C/E",
+     "C/G"
+    ],
+    [
+     "G7(9)",
+     "G7/B"
+    ],
+    [
+     "C",
+     "C/G"
+    ],
+    [
+     "C",
+     "G7/B"
+    ],
+    [
+     "C",
+     "F#m7b5"
+    ],
+    [
+     "Em/G",
+     "B7/F#"
+    ],
+    [
+     "Em",
+     "G7(9)"
+    ],
+    [
+     "C",
+     "G7/D"
+    ],
+    [
+     "C/E",
+     "C/G"
+    ],
+    [
+     "G7(9)",
+     "G7/B"
+    ],
+    [
+     "C",
+     "C/G"
+    ],
+    [
+     "F#dim",
+     "Adim"
+    ],
+    [
+     "C/G",
+     "C/E"
+    ],
+    [
+     "G7/D",
+     "G7"
+    ],
+    []
+   ],
+   "endings": {
+    "1": [
+     [
+      "C"
+     ]
+    ],
+    "2": [
+     [
+      "C"
+     ]
+    ]
+   }
+  },
+  {
+   "name": "Coda",
+   "tonic": "G",
+   "bars": "46–46",
+   "repeat": false,
+   "sequence": [
+    [
+     "G6"
+    ]
+   ]
+  }
+ ],
+ "notes": [
+  "Grille générée automatiquement depuis la partition MusicXML : à vérifier.",
+  "Corroborée par une autre partition : enchaînement 90%, mesures 79%."
+ ],
+ "confidence": "high",
+ "source": [
+  "mxl/C/Arthur Camillo - As diabruras do Souto - Theme - C.mxl"
+ ],
+ "generated": "mxl"
+}

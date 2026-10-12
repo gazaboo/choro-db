@@ -1,0 +1,201 @@
+{
+ "song_id": "cleonix-moacir-santos",
+ "title": "Cleonix",
+ "composer": "Moacir Santos",
+ "transposition": "c",
+ "meter": "2/4",
+ "form": "A (reprise) — B (reprise) — Coda",
+ "parts": [
+  {
+   "name": "A",
+   "tonic": "Dm",
+   "bars": "1–17",
+   "repeat": true,
+   "sequence": [
+    [
+     "Dm"
+    ],
+    [
+     "E7"
+    ],
+    [
+     "A7"
+    ],
+    [
+     "D7"
+    ],
+    [
+     "Gm"
+    ],
+    [
+     "Dm"
+    ],
+    [
+     "E7"
+    ],
+    [
+     "A7"
+    ],
+    [
+     "Dm"
+    ],
+    [
+     "E7"
+    ],
+    [
+     "A7"
+    ],
+    [
+     "D7"
+    ],
+    [
+     "Gm",
+     "A7"
+    ],
+    [
+     "Dm"
+    ],
+    [
+     "E7",
+     "A7"
+    ]
+   ],
+   "endings": {
+    "1": [
+     [
+      "Dm"
+     ]
+    ],
+    "2": [
+     [
+      "Dm"
+     ]
+    ]
+   }
+  },
+  {
+   "name": "B",
+   "tonic": "F",
+   "bars": "18–X1",
+   "repeat": true,
+   "sequence": [
+    [
+     "G7(13)",
+     "Db6(9,#11)"
+    ],
+    [
+     "C6(9)"
+    ],
+    [
+     "A7"
+    ],
+    [
+     "D7"
+    ],
+    [
+     "Gm7",
+     "C7"
+    ],
+    [
+     "F6",
+     "Dm7"
+    ],
+    [
+     "G7(13)"
+    ],
+    [
+     "C7"
+    ],
+    [
+     "G7(13)",
+     "Db6(9,#11)"
+    ],
+    [
+     "C6(9)"
+    ],
+    [
+     "A7"
+    ],
+    [
+     "D7"
+    ],
+    [
+     "Gm7",
+     "C7"
+    ],
+    [
+     "F6",
+     "Dm7"
+    ],
+    [
+     "G7(13)",
+     "C7(13)"
+    ]
+   ],
+   "endings": {
+    "1": [
+     [
+      "F6"
+     ]
+    ],
+    "2": [
+     [
+      "F6"
+     ]
+    ]
+   }
+  },
+  {
+   "name": "Coda",
+   "tonic": "F",
+   "bars": "35–43",
+   "repeat": false,
+   "sequence": [
+    [
+     "F6",
+     "Bb6"
+    ],
+    [
+     "F6/A",
+     "C7(9)"
+    ],
+    [
+     "F6",
+     "Bb6"
+    ],
+    [
+     "F6/A",
+     "C7(9)"
+    ],
+    [
+     "F",
+     "Gm7"
+    ],
+    [
+     "F6/A",
+     "C7(9)"
+    ],
+    [
+     "F6",
+     "Bb6"
+    ],
+    [
+     "F6/A",
+     "C7"
+    ],
+    [
+     "F"
+    ]
+   ]
+  }
+ ],
+ "notes": [
+  "Grille générée automatiquement depuis la partition MusicXML : à vérifier.",
+  "Corroborée par une autre partition : enchaînement 91%, mesures 88%."
+ ],
+ "confidence": "high",
+ "source": [
+  "mxl/C/Moacir Santos - Cleonix - Theme - C.mxl"
+ ],
+ "generated": "mxl"
+}

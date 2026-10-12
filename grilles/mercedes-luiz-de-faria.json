@@ -1,0 +1,244 @@
+{
+ "song_id": "mercedes-luiz-de-faria",
+ "title": "Mercedes",
+ "composer": "Luiz de Faria",
+ "transposition": "c",
+ "meter": "2/2",
+ "form": "A (reprise) — B (reprise) — C (reprise)",
+ "parts": [
+  {
+   "name": "A",
+   "tonic": "C",
+   "bars": "0–17",
+   "repeat": true,
+   "sequence": [
+    [
+     "C",
+     "G7"
+    ],
+    [
+     "C"
+    ],
+    [
+     "Am",
+     "E7"
+    ],
+    [
+     "Am"
+    ],
+    [
+     "F",
+     "Fm"
+    ],
+    [
+     "C/E"
+    ],
+    [
+     "D7"
+    ],
+    [
+     "G7"
+    ],
+    [
+     "C",
+     "G7"
+    ],
+    [
+     "C"
+    ],
+    [
+     "Am",
+     "E7"
+    ],
+    [
+     "Am"
+    ],
+    [
+     "F#dim"
+    ],
+    [
+     "C/G",
+     "A7/C#"
+    ],
+    [
+     "D7",
+     "G7"
+    ]
+   ],
+   "endings": {
+    "1": [
+     [
+      "C",
+      "G7"
+     ]
+    ],
+    "2": [
+     [
+      "C"
+     ]
+    ]
+   }
+  },
+  {
+   "name": "B",
+   "tonic": "G",
+   "bars": "18–X1",
+   "repeat": true,
+   "sequence": [
+    [
+     "G"
+    ],
+    [
+     "G/B"
+    ],
+    [
+     "E7"
+    ],
+    [
+     "Am"
+    ],
+    [
+     "F#m7b5",
+     "B7"
+    ],
+    [
+     "Em",
+     "Em/D"
+    ],
+    [
+     "A7/C#"
+    ],
+    [
+     "D7"
+    ],
+    [
+     "G"
+    ],
+    [
+     "G/B"
+    ],
+    [
+     "E7"
+    ],
+    [
+     "Am"
+    ],
+    [
+     "Bbdim"
+    ],
+    [
+     "G/B",
+     "E7/G#"
+    ],
+    [
+     "A7",
+     "D7"
+    ]
+   ],
+   "endings": {
+    "1": [
+     [
+      "G"
+     ]
+    ],
+    "2": [
+     [
+      "G",
+      "G7"
+     ]
+    ]
+   }
+  },
+  {
+   "name": "C",
+   "tonic": "F",
+   "bars": "36–53",
+   "repeat": true,
+   "sequence": [
+    [
+     "G7/B",
+     "C/Bb"
+    ],
+    [
+     "F/A"
+    ],
+    [
+     "C7/E"
+    ],
+    [
+     "F"
+    ],
+    [
+     "G7/B",
+     "C/Bb"
+    ],
+    [
+     "F/A",
+     "Bm7b5"
+    ],
+    [
+     "Am",
+     "E7"
+    ],
+    [
+     "Am",
+     "D7",
+     "Gm"
+    ],
+    [
+     "C7"
+    ],
+    [
+     "F"
+    ],
+    [
+     "A7/C#"
+    ],
+    [
+     "Dm",
+     "D7/F#"
+    ],
+    [
+     "Gm",
+     "Bbm6/Db"
+    ],
+    [
+     "F/C",
+     "D7"
+    ],
+    [
+     "Gm",
+     "C7"
+    ],
+    []
+   ],
+   "endings": {
+    "1": [
+     [
+      "F"
+     ]
+    ],
+    "2": [
+     [
+      "F",
+      "G7"
+     ]
+    ]
+   },
+   "transition_in": [
+    [
+     "C"
+    ]
+   ]
+  }
+ ],
+ "notes": [
+  "Grille générée automatiquement depuis la partition MusicXML : à vérifier.",
+  "Corroborée par une autre partition : enchaînement 96%, mesures 88%."
+ ],
+ "confidence": "high",
+ "source": [
+  "mxl/C/Luiz de Faria - Mercedes - Theme - C.mxl"
+ ],
+ "generated": "mxl"
+}

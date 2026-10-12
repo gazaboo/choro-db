@@ -1,0 +1,267 @@
+{
+ "song_id": "labirinto-ernesto-nazareth",
+ "title": "Labirinto",
+ "composer": "Ernesto Nazareth",
+ "transposition": "c",
+ "meter": "2/4",
+ "form": "A (reprise) — B (reprise) — C (reprise) — Coda",
+ "parts": [
+  {
+   "name": "A",
+   "tonic": "Em",
+   "bars": "0–17",
+   "repeat": true,
+   "sequence": [
+    [
+     "D7",
+     "D/C"
+    ],
+    [
+     "G/B",
+     "Bbdim"
+    ],
+    [
+     "D7/A",
+     "D7/F#"
+    ],
+    [
+     "G",
+     "Cm6/Eb"
+    ],
+    [
+     "D7",
+     "D/C"
+    ],
+    [
+     "G/B",
+     "Bb7(b5)"
+    ],
+    [
+     "D/A",
+     "A/G"
+    ],
+    [
+     "D7/F#",
+     "Cm6/Eb"
+    ],
+    [
+     "D7",
+     "D/C"
+    ],
+    [
+     "G/B",
+     "Bbdim"
+    ],
+    [
+     "D7/A",
+     "D7/F#"
+    ],
+    [
+     "G",
+     "G/F"
+    ],
+    [
+     "C/E",
+     "Eb7"
+    ],
+    [
+     "G/D",
+     "Eb/Db"
+    ],
+    [
+     "Ab/C",
+     "D7"
+    ]
+   ],
+   "endings": {
+    "1": [
+     [
+      "G",
+      "Cm6/Eb"
+     ]
+    ],
+    "2": [
+     [
+      "G",
+      "B7/F#"
+     ]
+    ]
+   }
+  },
+  {
+   "name": "B",
+   "tonic": "G",
+   "bars": "18–36",
+   "repeat": true,
+   "sequence": [
+    [
+     "Em"
+    ],
+    [
+     "E/D"
+    ],
+    [
+     "Am/C"
+    ],
+    [
+     "C#dim"
+    ],
+    [
+     "D7"
+    ],
+    [
+     "D/C"
+    ],
+    [
+     "G/B"
+    ],
+    [
+     "G",
+     "B7/F#"
+    ],
+    [
+     "Em"
+    ],
+    [
+     "E/D"
+    ],
+    [
+     "Am/C"
+    ],
+    [
+     "C#dim"
+    ],
+    [
+     "G/D"
+    ],
+    [
+     "Gdim/D"
+    ],
+    [
+     "D7",
+     "Cm6/Eb"
+    ],
+    [
+     "G"
+    ]
+   ],
+   "endings": {
+    "1": [
+     [
+      "D7"
+     ],
+     [
+      "D7",
+      "B7/F#"
+     ]
+    ],
+    "2": [
+     [
+      "D7"
+     ]
+    ]
+   }
+  },
+  {
+   "name": "C",
+   "tonic": "C",
+   "bars": "37–54",
+   "repeat": true,
+   "sequence": [
+    [
+     "G7/D",
+     "G7"
+    ],
+    [
+     "C",
+     "C/E"
+    ],
+    [
+     "G7/D",
+     "G/F"
+    ],
+    [
+     "C/E",
+     "C/G"
+    ],
+    [
+     "G7/D",
+     "G7"
+    ],
+    [
+     "Am",
+     "Am/C"
+    ],
+    [
+     "Em/B",
+     "B7"
+    ],
+    [
+     "Em"
+    ],
+    [
+     "G7/D",
+     "G7"
+    ],
+    [
+     "C",
+     "C/E"
+    ],
+    [
+     "G7/D",
+     "G/F"
+    ],
+    [
+     "C/E",
+     "C/G"
+    ],
+    [
+     "G7/D",
+     "Edim"
+    ],
+    [
+     "Dm/F",
+     "F#dim"
+    ],
+    [
+     "C/G",
+     "G7"
+    ],
+    []
+   ],
+   "endings": {
+    "1": [
+     [
+      "C"
+     ]
+    ],
+    "2": [
+     [
+      "C",
+      "Am7b5"
+     ]
+    ]
+   }
+  },
+  {
+   "name": "Coda",
+   "tonic": "G",
+   "bars": "55–55",
+   "repeat": false,
+   "sequence": [
+    [
+     "G"
+    ]
+   ]
+  }
+ ],
+ "notes": [
+  "Grille générée automatiquement depuis la partition MusicXML : à vérifier.",
+  "Corroborée par une autre partition : enchaînement 92%, mesures 87%."
+ ],
+ "confidence": "high",
+ "source": [
+  "mxl/C/Ernesto Nazareth - Labirinto - Theme - C.mxl"
+ ],
+ "generated": "mxl"
+}

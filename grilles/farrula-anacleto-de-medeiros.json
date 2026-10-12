@@ -1,0 +1,294 @@
+{
+ "song_id": "farrula-anacleto-de-medeiros",
+ "title": "Farrula",
+ "composer": "Anacleto de Medeiros",
+ "transposition": "c",
+ "meter": "3/4",
+ "form": "A — B (reprise) — Coda",
+ "parts": [
+  {
+   "name": "A",
+   "tonic": "Am",
+   "bars": "1–32",
+   "repeat": false,
+   "sequence": [
+    [
+     "Am"
+    ],
+    [],
+    [
+     "Am/C"
+    ],
+    [],
+    [
+     "Dm"
+    ],
+    [
+     "Bm7b5"
+    ],
+    [
+     "Am"
+    ],
+    [],
+    [
+     "E7"
+    ],
+    [
+     "E/D"
+    ],
+    [
+     "Am/C"
+    ],
+    [
+     "Am",
+     "Am/G"
+    ],
+    [
+     "D7/F#"
+    ],
+    [
+     "D7"
+    ],
+    [
+     "G7"
+    ],
+    [
+     "E7/G#"
+    ],
+    [
+     "Am"
+    ],
+    [],
+    [
+     "Am"
+    ],
+    [],
+    [
+     "Dm"
+    ],
+    [],
+    [
+     "Am"
+    ],
+    [],
+    [
+     "Bb/D"
+    ],
+    [],
+    [
+     "Ab/C"
+    ],
+    [],
+    [
+     "E7"
+    ],
+    [],
+    [
+     "Am"
+    ],
+    []
+   ]
+  },
+  {
+   "name": "B",
+   "tonic": "C",
+   "bars": "33–X1",
+   "repeat": true,
+   "sequence": [
+    [
+     "C"
+    ],
+    [
+     "Dm/C"
+    ],
+    [
+     "Cdim"
+    ],
+    [
+     "C"
+    ],
+    [
+     "C/E"
+    ],
+    [
+     "A7/C#"
+    ],
+    [
+     "Dm/F"
+    ],
+    [],
+    [
+     "Dm"
+    ],
+    [
+     "A7/C#"
+    ],
+    [
+     "Dm"
+    ],
+    [
+     "D/C"
+    ],
+    [
+     "G7/B"
+    ],
+    [],
+    [
+     "Fdim/C"
+    ],
+    [
+     "C"
+    ],
+    [
+     "E7/G#"
+    ],
+    [
+     "E7"
+    ],
+    [
+     "Am"
+    ],
+    [],
+    [
+     "G7/B"
+    ],
+    [
+     "G7"
+    ],
+    [
+     "C"
+    ],
+    [],
+    [
+     "Ab"
+    ],
+    [
+     "Eb"
+    ],
+    [
+     "C7/E"
+    ],
+    [
+     "Fm",
+     "Fm6/Ab"
+    ],
+    [
+     "C/G"
+    ],
+    [
+     "G7"
+    ],
+    [
+     "C"
+    ],
+    []
+   ]
+  },
+  {
+   "name": "Coda",
+   "tonic": "F",
+   "bars": "65–97",
+   "repeat": false,
+   "sequence": [
+    [
+     "F"
+    ],
+    [
+     "F#dim"
+    ],
+    [
+     "C7/G"
+    ],
+    [
+     "C7"
+    ],
+    [
+     "F"
+    ],
+    [
+     "F#dim"
+    ],
+    [
+     "C7/G"
+    ],
+    [
+     "C7"
+    ],
+    [
+     "F"
+    ],
+    [
+     "Dm7"
+    ],
+    [
+     "Gm"
+    ],
+    [],
+    [
+     "G7/D"
+    ],
+    [
+     "G7"
+    ],
+    [
+     "C7"
+    ],
+    [],
+    [
+     "F"
+    ],
+    [
+     "F#dim"
+    ],
+    [
+     "C7/G"
+    ],
+    [
+     "C7"
+    ],
+    [
+     "F"
+    ],
+    [
+     "F#dim"
+    ],
+    [
+     "C7/G"
+    ],
+    [
+     "C7"
+    ],
+    [
+     "F"
+    ],
+    [
+     "F/A"
+    ],
+    [
+     "Gb/Bb"
+    ],
+    [],
+    [
+     "F/C"
+    ],
+    [
+     "C7"
+    ],
+    [
+     "F"
+    ],
+    [],
+    []
+   ]
+  }
+ ],
+ "notes": [
+  "Grille générée automatiquement depuis la partition MusicXML : à vérifier.",
+  "Corroborée par une autre partition : enchaînement 94%, mesures 91%."
+ ],
+ "confidence": "high",
+ "source": [
+  "mxl/C/Anacleto de Medeiros - Farrula - Theme - C.mxl"
+ ],
+ "generated": "mxl"
+}

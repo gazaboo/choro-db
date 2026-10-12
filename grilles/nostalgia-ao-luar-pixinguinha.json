@@ -1,0 +1,318 @@
+{
+ "song_id": "nostalgia-ao-luar-pixinguinha",
+ "title": "Nostalgia ao luar",
+ "composer": "Pixinguinha",
+ "transposition": "c",
+ "meter": "3/4",
+ "form": "A (reprise) — B (reprise) — C (reprise)",
+ "parts": [
+  {
+   "name": "A",
+   "tonic": "Dm",
+   "bars": "1–32",
+   "repeat": true,
+   "sequence": [
+    [
+     "Dm"
+    ],
+    [
+     "Dm/F"
+    ],
+    [
+     "Gm"
+    ],
+    [
+     "Gm6/Bb"
+    ],
+    [
+     "A7"
+    ],
+    [
+     "A/G"
+    ],
+    [
+     "Dm/F"
+    ],
+    [
+     "Dm/A"
+    ],
+    [
+     "Dm"
+    ],
+    [
+     "Dm6/F"
+    ],
+    [
+     "Am/E"
+    ],
+    [
+     "Am/C"
+    ],
+    [
+     "Bm7b5"
+    ],
+    [
+     "E7"
+    ],
+    [
+     "Gm6"
+    ],
+    [
+     "A7"
+    ],
+    [
+     "Dm"
+    ],
+    [
+     "Dm/F"
+    ],
+    [
+     "Gm"
+    ],
+    [
+     "E7/G#"
+    ],
+    [
+     "A7"
+    ],
+    [
+     "A/G"
+    ],
+    [
+     "Dm/F"
+    ],
+    [
+     "Dm"
+    ],
+    [
+     "Gm"
+    ],
+    [
+     "Gm6/Bb"
+    ],
+    [
+     "Dm/A"
+    ],
+    [
+     "Dm/C"
+    ],
+    [
+     "E7/B"
+    ],
+    [
+     "A7"
+    ],
+    [
+     "Dm"
+    ],
+    []
+   ]
+  },
+  {
+   "name": "B",
+   "tonic": "F",
+   "bars": "33–X1",
+   "repeat": true,
+   "sequence": [
+    [
+     "D7"
+    ],
+    [],
+    [
+     "G7"
+    ],
+    [],
+    [
+     "C7"
+    ],
+    [],
+    [
+     "F"
+    ],
+    [],
+    [
+     "A7/C#"
+    ],
+    [
+     "A7"
+    ],
+    [
+     "Dm"
+    ],
+    [
+     "D/C"
+    ],
+    [
+     "G7/B"
+    ],
+    [
+     "G7"
+    ],
+    [
+     "C7"
+    ],
+    [
+     "C/Bb"
+    ],
+    [
+     "D7/A"
+    ],
+    [
+     "D7"
+    ],
+    [
+     "G7"
+    ],
+    [
+     "G7/B"
+    ],
+    [
+     "C7"
+    ],
+    [
+     "C7/E"
+    ],
+    [
+     "F"
+    ],
+    [
+     "F/Eb"
+    ],
+    [
+     "Ddim"
+    ],
+    [
+     "Bbm6/Db"
+    ],
+    [
+     "F/C"
+    ],
+    [
+     "D7/F#"
+    ],
+    [
+     "G7"
+    ],
+    [
+     "C7"
+    ],
+    [
+     "F"
+    ],
+    []
+   ]
+  },
+  {
+   "name": "C",
+   "tonic": "D",
+   "bars": "65–97",
+   "repeat": true,
+   "sequence": [
+    [
+     "D"
+    ],
+    [
+     "A7/E"
+    ],
+    [
+     "D/F#"
+    ],
+    [
+     "A/G"
+    ],
+    [
+     "D7/A"
+    ],
+    [
+     "D/C"
+    ],
+    [
+     "G/B"
+    ],
+    [
+     "D7/A"
+    ],
+    [
+     "Gm6"
+    ],
+    [
+     "Bb/Ab"
+    ],
+    [
+     "D/A"
+    ],
+    [
+     "Bm7"
+    ],
+    [
+     "Bm6"
+    ],
+    [
+     "E7"
+    ],
+    [
+     "Gm6/Bb"
+    ],
+    [
+     "A7"
+    ],
+    [
+     "D"
+    ],
+    [
+     "A7/E"
+    ],
+    [
+     "D/F#"
+    ],
+    [
+     "A/G"
+    ],
+    [
+     "Bb/F"
+    ],
+    [
+     "F/Eb"
+    ],
+    [
+     "Bb/D"
+    ],
+    [
+     "Bb"
+    ],
+    [
+     "Bdim"
+    ],
+    [
+     "G#dim"
+    ],
+    [
+     "D/A"
+    ],
+    [
+     "Bm7"
+    ],
+    [
+     "E7"
+    ],
+    [
+     "A7"
+    ],
+    [
+     "D"
+    ],
+    [],
+    []
+   ]
+  }
+ ],
+ "notes": [
+  "Grille générée automatiquement depuis la partition MusicXML : à vérifier.",
+  "Corroborée par une autre partition : enchaînement 99%, mesures 97%."
+ ],
+ "confidence": "high",
+ "source": [
+  "mxl/C/Pixinguinha - Nostalgia ao luar - Theme - C.mxl"
+ ],
+ "generated": "mxl"
+}

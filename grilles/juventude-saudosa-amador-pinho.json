@@ -1,0 +1,194 @@
+{
+ "song_id": "juventude-saudosa-amador-pinho",
+ "title": "Juventude saudosa",
+ "composer": "Amador Pinho",
+ "transposition": "c",
+ "meter": "3/4",
+ "form": "A (reprise) — B (reprise)",
+ "parts": [
+  {
+   "name": "A",
+   "tonic": "G",
+   "bars": "1–32",
+   "repeat": true,
+   "sequence": [
+    [
+     "G"
+    ],
+    [
+     "G#dim"
+    ],
+    [
+     "D7/A"
+    ],
+    [],
+    [
+     "Am"
+    ],
+    [
+     "D7"
+    ],
+    [
+     "G"
+    ],
+    [
+     "D7"
+    ],
+    [
+     "G"
+    ],
+    [],
+    [
+     "D"
+    ],
+    [],
+    [
+     "A7"
+    ],
+    [],
+    [
+     "D"
+    ],
+    [
+     "D7"
+    ],
+    [
+     "G"
+    ],
+    [
+     "G#dim"
+    ],
+    [
+     "D7/A"
+    ],
+    [],
+    [
+     "B7"
+    ],
+    [],
+    [
+     "E7"
+    ],
+    [],
+    [
+     "Am"
+    ],
+    [
+     "D7"
+    ],
+    [
+     "G"
+    ],
+    [
+     "E7"
+    ],
+    [
+     "A7"
+    ],
+    [
+     "D7"
+    ],
+    [
+     "G"
+    ],
+    []
+   ]
+  },
+  {
+   "name": "B",
+   "tonic": "C",
+   "bars": "33–65",
+   "repeat": true,
+   "sequence": [
+    [
+     "C"
+    ],
+    [
+     "A7"
+    ],
+    [
+     "D7"
+    ],
+    [],
+    [
+     "G7"
+    ],
+    [],
+    [
+     "C"
+    ],
+    [],
+    [],
+    [
+     "Am7"
+    ],
+    [
+     "Em7"
+    ],
+    [],
+    [
+     "B7"
+    ],
+    [],
+    [
+     "Em"
+    ],
+    [
+     "G7"
+    ],
+    [
+     "C"
+    ],
+    [
+     "A7"
+    ],
+    [
+     "D7"
+    ],
+    [
+     "G7"
+    ],
+    [
+     "E7"
+    ],
+    [],
+    [
+     "A7"
+    ],
+    [],
+    [
+     "Dm"
+    ],
+    [
+     "G7"
+    ],
+    [
+     "C"
+    ],
+    [
+     "A7"
+    ],
+    [
+     "D7"
+    ],
+    [
+     "G7"
+    ],
+    [
+     "C"
+    ],
+    [],
+    []
+   ]
+  }
+ ],
+ "notes": [
+  "Grille générée automatiquement depuis la partition MusicXML : à vérifier.",
+  "Corroborée par une autre partition : enchaînement 100%, mesures 98%."
+ ],
+ "confidence": "high",
+ "source": [
+  "mxl/C/Amador Pinho - Juventude saudosa - Theme - C.mxl"
+ ],
+ "generated": "mxl"
+}

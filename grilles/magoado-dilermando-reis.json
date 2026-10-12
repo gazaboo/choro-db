@@ -1,0 +1,149 @@
+{
+ "song_id": "magoado-dilermando-reis",
+ "title": "Magoado",
+ "composer": "Dilermando Reis",
+ "transposition": "c",
+ "meter": "2/4",
+ "form": "A (reprise) — B (reprise) — Coda",
+ "parts": [
+  {
+   "name": "A",
+   "tonic": "Am",
+   "bars": "1–17",
+   "repeat": true,
+   "sequence": [
+    [
+     "E7(b9)"
+    ],
+    [
+     "Am"
+    ],
+    [
+     "Dm7",
+     "E7"
+    ],
+    [
+     "Am"
+    ],
+    [
+     "E7(b9)"
+    ],
+    [
+     "Am",
+     "Am6/C"
+    ],
+    [
+     "Em/B",
+     "B7"
+    ],
+    [
+     "E7"
+    ],
+    [
+     "E7(b9)"
+    ],
+    [
+     "Am"
+    ],
+    [
+     "Dm7",
+     "E7"
+    ],
+    [
+     "Am",
+     "A7"
+    ],
+    [
+     "Dm",
+     "G7"
+    ],
+    [
+     "C7",
+     "F7"
+    ],
+    [
+     "Bb",
+     "E7"
+    ]
+   ],
+   "endings": {
+    "1": [
+     [
+      "Am"
+     ]
+    ],
+    "2": [
+     [
+      "Am"
+     ]
+    ]
+   }
+  },
+  {
+   "name": "B",
+   "tonic": "A",
+   "bars": "18–X1",
+   "repeat": true,
+   "sequence": [
+    [
+     "A"
+    ],
+    [],
+    [],
+    [],
+    [
+     "C#7"
+    ],
+    [
+     "F#m"
+    ],
+    [
+     "B7"
+    ],
+    [
+     "E7"
+    ],
+    [
+     "A"
+    ],
+    [],
+    [],
+    [],
+    [
+     "C#7"
+    ],
+    [
+     "F#m",
+     "Bm"
+    ],
+    [
+     "A",
+     "E7"
+    ],
+    [
+     "A"
+    ]
+   ]
+  },
+  {
+   "name": "Coda",
+   "tonic": "Am",
+   "bars": "34–34",
+   "repeat": false,
+   "sequence": [
+    [
+     "Am"
+    ]
+   ]
+  }
+ ],
+ "notes": [
+  "Grille générée automatiquement depuis la partition MusicXML : à vérifier.",
+  "Corroborée par une autre partition : enchaînement 89%, mesures 82%."
+ ],
+ "confidence": "high",
+ "source": [
+  "mxl/C/Dilermando Reis - Magoado - Theme - C.mxl"
+ ],
+ "generated": "mxl"
+}

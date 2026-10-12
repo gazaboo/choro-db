@@ -1,0 +1,172 @@
+{
+ "song_id": "cuidado-dino-tico-tico",
+ "title": "Cuidado, Dino",
+ "composer": "Tico Tico",
+ "transposition": "c",
+ "meter": "2/4",
+ "form": "A (reprise) — B (reprise)",
+ "parts": [
+  {
+   "name": "A",
+   "tonic": "Em",
+   "bars": "0–17",
+   "repeat": true,
+   "sequence": [
+    [
+     "G",
+     "F#7"
+    ],
+    [
+     "F7"
+    ],
+    [
+     "Eb7"
+    ],
+    [
+     "G",
+     "E7/G#"
+    ],
+    [
+     "Am",
+     "D7"
+    ],
+    [
+     "G",
+     "G/B"
+    ],
+    [
+     "D/A",
+     "Eb"
+    ],
+    [
+     "D",
+     "D7/F#"
+    ],
+    [
+     "G",
+     "F#7"
+    ],
+    [
+     "F7"
+    ],
+    [
+     "Eb7"
+    ],
+    [
+     "G",
+     "E7/G#"
+    ],
+    [
+     "Am",
+     "D7"
+    ],
+    [
+     "G",
+     "Ab7"
+    ],
+    [
+     "Db",
+     "D7"
+    ]
+   ],
+   "endings": {
+    "1": [
+     [
+      "G",
+      "D7"
+     ]
+    ],
+    "2": [
+     [
+      "G",
+      "B7"
+     ]
+    ]
+   }
+  },
+  {
+   "name": "B",
+   "tonic": "G",
+   "bars": "18–35",
+   "repeat": true,
+   "sequence": [
+    [
+     "Em",
+     "E7/G#"
+    ],
+    [
+     "Am"
+    ],
+    [
+     "B7"
+    ],
+    [
+     "Em"
+    ],
+    [
+     "Em",
+     "C#m7b5"
+    ],
+    [
+     "Bm",
+     "D"
+    ],
+    [
+     "Eb"
+    ],
+    [
+     "D",
+     "B7"
+    ],
+    [
+     "Em",
+     "E7/G#"
+    ],
+    [
+     "Am"
+    ],
+    [
+     "B7"
+    ],
+    [
+     "E7"
+    ],
+    [
+     "Am",
+     "F#m7b5"
+    ],
+    [
+     "Em",
+     "F"
+    ],
+    [
+     "F#7",
+     "B7"
+    ],
+    []
+   ],
+   "endings": {
+    "1": [
+     [
+      "Em"
+     ]
+    ],
+    "2": [
+     [
+      "Em",
+      "D7"
+     ]
+    ]
+   }
+  }
+ ],
+ "notes": [
+  "Grille générée automatiquement depuis la partition MusicXML : à vérifier.",
+  "Corroborée par une autre partition : enchaînement 92%, mesures 84%."
+ ],
+ "confidence": "high",
+ "source": [
+  "mxl/C/Tico Tico - Cuidado, Dino - Theme - C.mxl"
+ ],
+ "generated": "mxl"
+}

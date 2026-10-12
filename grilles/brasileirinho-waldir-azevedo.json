@@ -1,0 +1,248 @@
+{
+ "song_id": "brasileirinho-waldir-azevedo",
+ "title": "Brasileirinho",
+ "composer": "Waldir Azevedo",
+ "transposition": "c",
+ "meter": "2/4",
+ "form": "A (reprise) — B — C (reprise) — Coda",
+ "parts": [
+  {
+   "name": "A",
+   "tonic": "G",
+   "bars": "0–9",
+   "repeat": true,
+   "sequence": [
+    [
+     "G"
+    ],
+    [],
+    [
+     "Gm"
+    ],
+    [],
+    [
+     "G"
+    ],
+    [
+     "D7"
+    ]
+   ],
+   "endings": {
+    "1": [
+     [
+      "G"
+     ],
+     [
+      "D7"
+     ]
+    ],
+    "2": [
+     [
+      "G"
+     ]
+    ]
+   }
+  },
+  {
+   "name": "B",
+   "tonic": "G",
+   "bars": "10–26",
+   "repeat": false,
+   "sequence": [
+    [],
+    [
+     "D7"
+    ],
+    [],
+    [
+     "G"
+    ],
+    [],
+    [
+     "D7"
+    ],
+    [],
+    [
+     "G"
+    ],
+    [],
+    [
+     "D7"
+    ],
+    [],
+    [
+     "G"
+    ],
+    [],
+    [
+     "D7"
+    ],
+    [],
+    [
+     "G"
+    ],
+    [
+     "D7"
+    ]
+   ]
+  },
+  {
+   "name": "C",
+   "tonic": "Gm",
+   "bars": "27–X1",
+   "repeat": true,
+   "sequence": [
+    [
+     "Gm",
+     "Gm(maj7)"
+    ],
+    [
+     "Gm7",
+     "Gm6"
+    ],
+    [
+     "Cm",
+     "Cm(maj7)"
+    ],
+    [
+     "Cm7",
+     "Cm6"
+    ],
+    [
+     "D7"
+    ],
+    [],
+    [
+     "Gm"
+    ],
+    [
+     "Gm",
+     "D7"
+    ],
+    [
+     "Gm",
+     "Gm(maj7)",
+     "Gm7"
+    ],
+    [
+     "Gm6",
+     "Gm"
+    ],
+    [
+     "A7"
+    ],
+    [],
+    [
+     "Am7b5"
+    ],
+    [
+     "D7"
+    ],
+    [
+     "Gm"
+    ],
+    [
+     "Gm",
+     "D7"
+    ],
+    [
+     "Gm",
+     "Gm(maj7)"
+    ],
+    [
+     "Gm7",
+     "Gm6"
+    ],
+    [
+     "Cm",
+     "Cm(maj7)"
+    ],
+    [
+     "Cm7",
+     "Cm6"
+    ],
+    [
+     "D7"
+    ],
+    [],
+    [
+     "Ab7"
+    ],
+    [
+     "G7"
+    ],
+    [
+     "Cm"
+    ],
+    [
+     "Am7b5"
+    ],
+    [
+     "Gm"
+    ],
+    [
+     "Gm/F"
+    ],
+    [
+     "A7/E",
+     "Cm6/Eb"
+    ],
+    [
+     "D7"
+    ],
+    [
+     "Gm"
+    ]
+   ],
+   "endings": {
+    "1": [
+     [
+      "D7"
+     ]
+    ],
+    "2": [
+     [
+      "D7"
+     ]
+    ]
+   }
+  },
+  {
+   "name": "Coda",
+   "tonic": "G",
+   "bars": "60–70",
+   "repeat": false,
+   "sequence": [
+    [
+     "G"
+    ],
+    [],
+    [
+     "D7"
+    ],
+    [
+     "G"
+    ],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [
+     "G"
+    ]
+   ]
+  }
+ ],
+ "notes": [
+  "Grille générée automatiquement depuis la partition MusicXML : à vérifier.",
+  "B : première mesure sans accord",
+  "Corroborée par une autre partition : enchaînement 93%, mesures 94%."
+ ],
+ "confidence": "high",
+ "source": [
+  "mxl/C/Waldir Azevedo - Brasileirinho - Theme - C.mxl"
+ ],
+ "generated": "mxl"
+}

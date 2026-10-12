@@ -1,0 +1,239 @@
+{
+ "song_id": "ivo-domecq-nezinho-da-flauta",
+ "title": "Ivo Domecq",
+ "composer": "Nezinho da Flauta",
+ "transposition": "c",
+ "meter": "2/4",
+ "form": "A (reprise) — B (reprise) — C (reprise)",
+ "parts": [
+  {
+   "name": "A",
+   "tonic": "F",
+   "bars": "1–20",
+   "repeat": true,
+   "sequence": [
+    [
+     "F",
+     "D7/F#"
+    ],
+    [
+     "Gm"
+    ],
+    [
+     "C7"
+    ],
+    [
+     "F"
+    ],
+    [
+     "F",
+     "Abdim"
+    ],
+    [
+     "C7/G"
+    ],
+    [
+     "C7/E"
+    ],
+    [
+     "F",
+     "C7"
+    ],
+    [
+     "F",
+     "D7/F#"
+    ],
+    [
+     "Gm",
+     "Gm6/Bb"
+    ],
+    [
+     "A7"
+    ],
+    [
+     "Dm",
+     "D7/F#"
+    ],
+    [
+     "Gm",
+     "Bbm6"
+    ],
+    [
+     "F/A",
+     "Abdim"
+    ],
+    [
+     "C7/G"
+    ],
+    [
+     "F",
+     "D7/F#"
+    ],
+    [
+     "Gm",
+     "Bbm6"
+    ],
+    [
+     "F/A",
+     "Abdim"
+    ],
+    [
+     "C7/G",
+     "C7"
+    ],
+    [
+     "F"
+    ]
+   ]
+  },
+  {
+   "name": "B",
+   "tonic": "Dm",
+   "bars": "21–X1",
+   "repeat": true,
+   "sequence": [
+    [
+     "Dm",
+     "D7/F#"
+    ],
+    [
+     "Gm"
+    ],
+    [
+     "A7",
+     "A/G"
+    ],
+    [
+     "Dm/F"
+    ],
+    [
+     "Dm",
+     "Bm7b5"
+    ],
+    [
+     "Am"
+    ],
+    [
+     "E7"
+    ],
+    [
+     "A7"
+    ],
+    [
+     "Dm",
+     "D7/F#"
+    ],
+    [
+     "Gm"
+    ],
+    [
+     "A7",
+     "A/G"
+    ],
+    [
+     "Dm/F",
+     "D7/F#"
+    ],
+    [
+     "Gm",
+     "Gm6"
+    ],
+    [
+     "Dm"
+    ],
+    [
+     "Em7b5",
+     "A7"
+    ],
+    [
+     "Dm"
+    ]
+   ]
+  },
+  {
+   "name": "C",
+   "tonic": "Bb",
+   "bars": "37–57",
+   "repeat": true,
+   "sequence": [
+    [
+     "Bb"
+    ],
+    [
+     "Cm"
+    ],
+    [
+     "C#dim"
+    ],
+    [
+     "Bb/D"
+    ],
+    [
+     "Bb"
+    ],
+    [
+     "F7"
+    ],
+    [
+     "F7/A"
+    ],
+    [
+     "Bb"
+    ],
+    [
+     "Bb"
+    ],
+    [
+     "Cm"
+    ],
+    [
+     "C#dim"
+    ],
+    [
+     "Bb/D"
+    ],
+    [
+     "Eb",
+     "Edim"
+    ],
+    [
+     "Bb",
+     "G7"
+    ],
+    [
+     "Cm",
+     "F7"
+    ],
+    [
+     "Bb",
+     "Bb7"
+    ],
+    [
+     "Eb",
+     "Edim"
+    ],
+    [
+     "Bb/F",
+     "G7"
+    ],
+    [
+     "C7",
+     "F7"
+    ],
+    [
+     "Bb"
+    ],
+    []
+   ]
+  }
+ ],
+ "notes": [
+  "Grille générée automatiquement depuis la partition MusicXML : à vérifier.",
+  "Corroborée par une autre partition : enchaînement 97%, mesures 96%."
+ ],
+ "confidence": "high",
+ "source": [
+  "mxl/C/Nezinho da Flauta - Ivo Domecq - Theme - C.mxl"
+ ],
+ "generated": "mxl"
+}

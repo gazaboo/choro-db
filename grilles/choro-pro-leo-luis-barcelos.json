@@ -1,0 +1,240 @@
+{
+ "song_id": "choro-pro-leo-luis-barcelos",
+ "title": "Choro pro Léo",
+ "composer": "Luis Barcelos",
+ "transposition": "c",
+ "meter": "2/4",
+ "form": "A (reprise) — B (reprise) — Coda",
+ "parts": [
+  {
+   "name": "A",
+   "tonic": "Em",
+   "bars": "0–33",
+   "repeat": true,
+   "sequence": [
+    [
+     "G6"
+    ],
+    [],
+    [
+     "Eb7/Bb"
+    ],
+    [],
+    [
+     "Am"
+    ],
+    [],
+    [
+     "Cm6"
+    ],
+    [
+     "D7"
+    ],
+    [
+     "G/B"
+    ],
+    [
+     "Bbdim"
+    ],
+    [
+     "Am"
+    ],
+    [],
+    [
+     "A7"
+    ],
+    [],
+    [
+     "D7"
+    ],
+    [
+     "D7(#5)"
+    ],
+    [
+     "G6"
+    ],
+    [],
+    [
+     "F7"
+    ],
+    [
+     "E7"
+    ],
+    [
+     "Am"
+    ],
+    [
+     "B7"
+    ],
+    [
+     "Em"
+    ],
+    [
+     "G7"
+    ],
+    [
+     "Cm7"
+    ],
+    [
+     "F7"
+    ],
+    [
+     "Bm"
+    ],
+    [
+     "E7"
+    ],
+    [
+     "Am"
+    ],
+    [
+     "Cm6",
+     "D7"
+    ],
+    [
+     "G6"
+    ]
+   ],
+   "endings": {
+    "1": [
+     [
+      "D7"
+     ]
+    ],
+    "2": [
+     [
+      "B7"
+     ]
+    ]
+   }
+  },
+  {
+   "name": "B",
+   "tonic": "Em",
+   "bars": "34–68",
+   "repeat": true,
+   "sequence": [
+    [
+     "Em"
+    ],
+    [],
+    [
+     "F#7"
+    ],
+    [
+     "B7"
+    ],
+    [
+     "Em"
+    ],
+    [],
+    [
+     "Bm7b5"
+    ],
+    [
+     "E7"
+    ],
+    [
+     "Am"
+    ],
+    [
+     "D7(9)"
+    ],
+    [
+     "G6"
+    ],
+    [
+     "C7"
+    ],
+    [
+     "F"
+    ],
+    [
+     "F#7"
+    ],
+    [
+     "C7"
+    ],
+    [
+     "B7"
+    ],
+    [
+     "Em"
+    ],
+    [],
+    [
+     "F#7"
+    ],
+    [
+     "B7"
+    ],
+    [
+     "E7"
+    ],
+    [
+     "Bm7b5",
+     "E7"
+    ],
+    [
+     "G#dim"
+    ],
+    [
+     "Am"
+    ],
+    [],
+    [
+     "F#m7b5"
+    ],
+    [
+     "Em"
+    ],
+    [],
+    [
+     "F#7"
+    ],
+    [
+     "B7"
+    ],
+    [
+     "D7"
+    ],
+    []
+   ],
+   "endings": {
+    "1": [
+     [
+      "Em"
+     ],
+     [
+      "B7"
+     ]
+    ],
+    "2": [
+     [
+      "Em"
+     ]
+    ]
+   }
+  },
+  {
+   "name": "Coda",
+   "tonic": "G",
+   "bars": "69–69",
+   "repeat": false,
+   "sequence": [
+    [
+     "G6"
+    ]
+   ]
+  }
+ ],
+ "notes": [
+  "Grille générée automatiquement depuis la partition MusicXML : à vérifier.",
+  "Corroborée par une autre partition : enchaînement 86%, mesures 81%."
+ ],
+ "confidence": "high",
+ "source": [
+  "mxl/C/Luis Barcelos - Choro pro Léo - Theme - C.mxl"
+ ],
+ "generated": "mxl"
+}

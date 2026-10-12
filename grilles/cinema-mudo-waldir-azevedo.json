@@ -1,0 +1,237 @@
+{
+ "song_id": "cinema-mudo-waldir-azevedo",
+ "title": "Cinema mudo",
+ "composer": "Waldir Azevedo",
+ "transposition": "c",
+ "meter": "2/4",
+ "form": "A — B — C — Coda",
+ "parts": [
+  {
+   "name": "A",
+   "tonic": "Gm",
+   "bars": "1–4",
+   "repeat": false,
+   "sequence": [
+    [
+     "Gm"
+    ],
+    [
+     "Gm6"
+    ],
+    [
+     "Gm"
+    ],
+    [
+     "Gm6"
+    ]
+   ]
+  },
+  {
+   "name": "B",
+   "tonic": "Gm",
+   "bars": "5–36",
+   "repeat": false,
+   "sequence": [
+    [
+     "Gm"
+    ],
+    [],
+    [
+     "Cm"
+    ],
+    [],
+    [
+     "D7"
+    ],
+    [],
+    [
+     "Gm"
+    ],
+    [
+     "Gm",
+     "D7"
+    ],
+    [
+     "Gm"
+    ],
+    [
+     "Em7b5"
+    ],
+    [
+     "Dm"
+    ],
+    [],
+    [
+     "A7"
+    ],
+    [],
+    [
+     "Cm"
+    ],
+    [
+     "D7"
+    ],
+    [
+     "Dm7b5"
+    ],
+    [
+     "G7/B"
+    ],
+    [
+     "Cm"
+    ],
+    [],
+    [
+     "F7"
+    ],
+    [],
+    [
+     "Bb",
+     "Ab7"
+    ],
+    [
+     "G7"
+    ],
+    [
+     "Cm"
+    ],
+    [
+     "Am7b5",
+     "D7"
+    ],
+    [
+     "Gm"
+    ],
+    [
+     "Bb7"
+    ],
+    [
+     "A7"
+    ],
+    [
+     "D7"
+    ],
+    [
+     "G"
+    ],
+    [
+     "Am7",
+     "D7"
+    ]
+   ]
+  },
+  {
+   "name": "C",
+   "tonic": "G",
+   "bars": "37–X1",
+   "repeat": false,
+   "sequence": [
+    [
+     "G"
+    ],
+    [],
+    [
+     "B7"
+    ],
+    [],
+    [
+     "Em"
+    ],
+    [],
+    [
+     "G7"
+    ],
+    [],
+    [
+     "C"
+    ],
+    [],
+    [
+     "Cm6"
+    ],
+    [
+     "D/C"
+    ],
+    [
+     "G/B"
+    ],
+    [
+     "G#dim"
+    ],
+    [
+     "D7/A"
+    ],
+    [],
+    [
+     "G"
+    ],
+    [],
+    [
+     "B7"
+    ],
+    [],
+    [
+     "Em"
+    ],
+    [],
+    [
+     "G7"
+    ],
+    [],
+    [
+     "C"
+    ],
+    [
+     "Cm6"
+    ],
+    [
+     "G"
+    ],
+    [
+     "E7"
+    ],
+    [
+     "Am"
+    ],
+    [
+     "D7"
+    ],
+    [
+     "G"
+    ],
+    [
+     "D7"
+    ]
+   ]
+  },
+  {
+   "name": "Coda",
+   "tonic": "Gm",
+   "bars": "69–72",
+   "repeat": false,
+   "sequence": [
+    [
+     "D7"
+    ],
+    [
+     "Gm"
+    ],
+    [
+     "Cm6/G"
+    ],
+    [
+     "Gm"
+    ]
+   ]
+  }
+ ],
+ "notes": [
+  "Grille générée automatiquement depuis la partition MusicXML : à vérifier.",
+  "Corroborée par une grille relevée à la main : enchaînement 97%, mesures 97%."
+ ],
+ "confidence": "high",
+ "source": [
+  "mxl/C/Waldir Azevedo - Cinema mudo - Theme - C.mxl"
+ ],
+ "generated": "mxl"
+}

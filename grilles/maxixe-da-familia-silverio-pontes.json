@@ -1,0 +1,321 @@
+{
+ "song_id": "maxixe-da-familia-silverio-pontes",
+ "title": "Maxixe da família",
+ "composer": "Silvério Pontes",
+ "transposition": "c",
+ "meter": "2/4",
+ "form": "A (reprise) — B (reprise) — C — D — E (reprise) — F",
+ "parts": [
+  {
+   "name": "A",
+   "tonic": "C",
+   "bars": "3–19",
+   "repeat": true,
+   "sequence": [
+    [
+     "C"
+    ],
+    [
+     "G7/B"
+    ],
+    [
+     "C/Bb"
+    ],
+    [
+     "F/A"
+    ],
+    [
+     "Fm/Ab"
+    ],
+    [
+     "C/G"
+    ],
+    [
+     "D7/F#"
+    ],
+    [
+     "G7"
+    ],
+    [
+     "C"
+    ],
+    [
+     "G7/B"
+    ],
+    [
+     "C/Bb"
+    ],
+    [
+     "F/A"
+    ],
+    [
+     "Fm/Ab"
+    ],
+    [
+     "C/G"
+    ],
+    [
+     "D7",
+     "G7"
+    ]
+   ],
+   "endings": {
+    "1": [
+     [
+      "C"
+     ]
+    ],
+    "2": [
+     [
+      "C"
+     ]
+    ]
+   }
+  },
+  {
+   "name": "B",
+   "tonic": "F",
+   "bars": "20–38",
+   "repeat": true,
+   "sequence": [
+    [
+     "C/Bb"
+    ],
+    [
+     "C7/G"
+    ],
+    [
+     "F"
+    ],
+    [
+     "F/A"
+    ],
+    [
+     "Gm"
+    ],
+    [
+     "C7"
+    ],
+    [
+     "Fdim"
+    ],
+    [
+     "F"
+    ],
+    [
+     "C/Bb"
+    ],
+    [
+     "C7/G"
+    ],
+    [
+     "F"
+    ],
+    [
+     "F/A"
+    ],
+    [
+     "Gm"
+    ],
+    [
+     "C7"
+    ],
+    [
+     "F"
+    ],
+    [],
+    [
+     "C"
+    ]
+   ],
+   "endings": {
+    "1": [
+     []
+    ],
+    "2": [
+     []
+    ]
+   }
+  },
+  {
+   "name": "C",
+   "tonic": "Am",
+   "bars": "39–46",
+   "repeat": false,
+   "sequence": [
+    [
+     "Am",
+     "F7",
+     "E7"
+    ],
+    [],
+    [
+     "Am",
+     "F7",
+     "E7"
+    ],
+    [],
+    [
+     "Am",
+     "F7",
+     "E7"
+    ],
+    [],
+    [
+     "Am",
+     "F7",
+     "E7"
+    ],
+    []
+   ]
+  },
+  {
+   "name": "D",
+   "tonic": "Am",
+   "bars": "47–62",
+   "repeat": false,
+   "sequence": [
+    [
+     "Am"
+    ],
+    [],
+    [
+     "Am6"
+    ],
+    [],
+    [
+     "A7"
+    ],
+    [],
+    [
+     "Edim"
+    ],
+    [
+     "Dm7"
+    ],
+    [
+     "G7"
+    ],
+    [],
+    [
+     "C",
+     "E7/B"
+    ],
+    [
+     "Am",
+     "Am/G"
+    ],
+    [
+     "B7/F#"
+    ],
+    [],
+    [
+     "E7"
+    ],
+    []
+   ]
+  },
+  {
+   "name": "E",
+   "tonic": "Am",
+   "bars": "63–X2",
+   "repeat": true,
+   "sequence": [
+    [
+     "E7"
+    ],
+    [],
+    [
+     "Am"
+    ],
+    [],
+    [
+     "A7"
+    ],
+    [],
+    [
+     "Edim"
+    ],
+    [
+     "Dm"
+    ],
+    [
+     "G7"
+    ],
+    [],
+    [
+     "C",
+     "E7/B"
+    ],
+    [
+     "Am",
+     "Am/G"
+    ],
+    [
+     "B7/F#"
+    ],
+    [
+     "E7"
+    ],
+    []
+   ],
+   "endings": {
+    "1": [
+     [
+      "Am"
+     ]
+    ],
+    "2": [
+     [
+      "Am"
+     ]
+    ]
+   }
+  },
+  {
+   "name": "F",
+   "tonic": "C",
+   "bars": "81–87",
+   "repeat": false,
+   "sequence": [
+    [
+     "D7",
+     "G7"
+    ],
+    [
+     "C"
+    ],
+    [
+     "D7",
+     "G7"
+    ],
+    [
+     "C"
+    ],
+    [
+     "D7"
+    ],
+    [
+     "G7"
+    ],
+    [
+     "C"
+    ]
+   ],
+   "transition_in": [
+    [
+     "C"
+    ]
+   ]
+  }
+ ],
+ "notes": [
+  "Grille générée automatiquement depuis la partition MusicXML : à vérifier.",
+  "Corroborée par une autre partition : enchaînement 99%, mesures 79%."
+ ],
+ "confidence": "high",
+ "source": [
+  "mxl/C/Silvério Pontes - Maxixe da família - Theme - C.mxl"
+ ],
+ "generated": "mxl"
+}

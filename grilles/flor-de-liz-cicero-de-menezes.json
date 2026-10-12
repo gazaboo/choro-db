@@ -1,0 +1,232 @@
+{
+ "song_id": "flor-de-liz-cicero-de-menezes",
+ "title": "Flor de Liz",
+ "composer": "Cícero de Menezes",
+ "transposition": "c",
+ "meter": "2/4",
+ "form": "A (reprise) — B (reprise) — C (reprise)",
+ "parts": [
+  {
+   "name": "A",
+   "tonic": "Dm",
+   "bars": "0–17",
+   "repeat": true,
+   "sequence": [
+    [
+     "Dm"
+    ],
+    [
+     "A7/C#"
+    ],
+    [
+     "Dm"
+    ],
+    [
+     "A7"
+    ],
+    [
+     "D7/F#"
+    ],
+    [
+     "Gm"
+    ],
+    [
+     "C7"
+    ],
+    [
+     "F",
+     "A7/E"
+    ],
+    [
+     "Dm"
+    ],
+    [
+     "A7/C#"
+    ],
+    [
+     "Dm",
+     "Bb7"
+    ],
+    [
+     "A7"
+    ],
+    [
+     "Em7b5",
+     "A7"
+    ],
+    [
+     "Dm",
+     "Gm6"
+    ],
+    [
+     "Dm/F",
+     "A7"
+    ]
+   ],
+   "endings": {
+    "1": [
+     [
+      "Dm"
+     ]
+    ],
+    "2": [
+     [
+      "Dm"
+     ]
+    ]
+   }
+  },
+  {
+   "name": "B",
+   "tonic": "F",
+   "bars": "18–X1",
+   "repeat": true,
+   "sequence": [
+    [
+     "C7/E"
+    ],
+    [
+     "F"
+    ],
+    [
+     "A7/C#"
+    ],
+    [
+     "Dm"
+    ],
+    [
+     "Bb",
+     "G#dim"
+    ],
+    [
+     "F/A"
+    ],
+    [
+     "G7"
+    ],
+    [
+     "C7"
+    ],
+    [
+     "C7/E"
+    ],
+    [
+     "F"
+    ],
+    [
+     "A7/C#"
+    ],
+    [
+     "Dm",
+     "F7"
+    ],
+    [
+     "Bb",
+     "Bdim"
+    ],
+    [
+     "F/C",
+     "Gm/Bb"
+    ],
+    [
+     "F/A",
+     "C7"
+    ]
+   ],
+   "endings": {
+    "1": [
+     [
+      "F"
+     ]
+    ],
+    "2": [
+     [
+      "F"
+     ]
+    ]
+   }
+  },
+  {
+   "name": "C",
+   "tonic": "D",
+   "bars": "36–53",
+   "repeat": true,
+   "sequence": [
+    [
+     "D"
+    ],
+    [
+     "Em"
+    ],
+    [
+     "A7"
+    ],
+    [
+     "D"
+    ],
+    [
+     "F#7"
+    ],
+    [
+     "Bm"
+    ],
+    [
+     "E7"
+    ],
+    [
+     "A7"
+    ],
+    [
+     "D"
+    ],
+    [
+     "Em"
+    ],
+    [
+     "A7"
+    ],
+    [
+     "D"
+    ],
+    [
+     "D7/A"
+    ],
+    [
+     "G",
+     "Gm6"
+    ],
+    [
+     "D/A",
+     "A7"
+    ],
+    []
+   ],
+   "endings": {
+    "1": [
+     [
+      "D"
+     ]
+    ],
+    "2": [
+     [
+      "D"
+     ]
+    ]
+   },
+   "transition_in": [
+    [
+     "Dm"
+    ]
+   ]
+  }
+ ],
+ "notes": [
+  "Grille générée automatiquement depuis la partition MusicXML : à vérifier.",
+  "Corroborée par une autre partition : enchaînement 93%, mesures 87%."
+ ],
+ "confidence": "high",
+ "source": [
+  "mxl/C/Cícero de Menezes - Flor de Liz - Theme - C.mxl"
+ ],
+ "generated": "mxl"
+}

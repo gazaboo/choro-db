@@ -1,0 +1,260 @@
+{
+ "song_id": "formigueiro-mauricio-carrilho",
+ "title": "Formigueiro",
+ "composer": "Maurício Carrilho",
+ "transposition": "c",
+ "meter": "2/4",
+ "form": "A (reprise) — B (reprise) — C (reprise) — Coda",
+ "parts": [
+  {
+   "name": "A",
+   "tonic": "Am",
+   "bars": "0–17",
+   "repeat": true,
+   "sequence": [
+    [
+     "Dm7",
+     "G7(9)"
+    ],
+    [
+     "C6",
+     "Am7"
+    ],
+    [
+     "Dm7",
+     "G7(9)"
+    ],
+    [
+     "C6",
+     "A7"
+    ],
+    [
+     "Dm7",
+     "E7"
+    ],
+    [
+     "Am7",
+     "B7"
+    ],
+    [
+     "Em",
+     "B7"
+    ],
+    [
+     "Em7",
+     "A7(9)"
+    ],
+    [
+     "Dm7",
+     "G7(9)"
+    ],
+    [
+     "C6",
+     "Am7"
+    ],
+    [
+     "Dm7",
+     "G7(9)"
+    ],
+    [
+     "A7(9)"
+    ],
+    [
+     "F6",
+     "Fm6"
+    ],
+    [
+     "C",
+     "Am7"
+    ],
+    [
+     "D7",
+     "G7(9)"
+    ]
+   ],
+   "endings": {
+    "1": [
+     [
+      "C",
+      "A7"
+     ]
+    ],
+    "2": [
+     [
+      "C",
+      "E7"
+     ]
+    ]
+   }
+  },
+  {
+   "name": "B",
+   "tonic": "Am",
+   "bars": "18–35",
+   "repeat": true,
+   "sequence": [
+    [
+     "Am"
+    ],
+    [
+     "E7"
+    ],
+    [
+     "Am",
+     "F7"
+    ],
+    [
+     "Bm7b5",
+     "E7"
+    ],
+    [
+     "Am",
+     "F#m7b5"
+    ],
+    [
+     "Em"
+    ],
+    [
+     "B7(b9)"
+    ],
+    [
+     "E7(9)"
+    ],
+    [
+     "Am"
+    ],
+    [
+     "Gm7"
+    ],
+    [
+     "C7"
+    ],
+    [
+     "F6"
+    ],
+    [
+     "Fm6"
+    ],
+    [
+     "C6",
+     "Am7"
+    ],
+    [
+     "Bm7b5",
+     "E7"
+    ],
+    [
+     "C",
+     "C7"
+    ]
+   ],
+   "endings": {
+    "1": [
+     [
+      "Am",
+      "E7"
+     ]
+    ],
+    "2": [
+     [
+      "Am",
+      "A7"
+     ]
+    ]
+   }
+  },
+  {
+   "name": "C",
+   "tonic": "Dm",
+   "bars": "36–53",
+   "repeat": true,
+   "sequence": [
+    [
+     "F6",
+     "D7"
+    ],
+    [
+     "Gm7"
+    ],
+    [
+     "C7"
+    ],
+    [
+     "F6"
+    ],
+    [
+     "E7(b13)"
+    ],
+    [
+     "Am7"
+    ],
+    [
+     "Em7",
+     "B7"
+    ],
+    [
+     "Em"
+    ],
+    [
+     "Gdim"
+    ],
+    [
+     "Dm/F"
+    ],
+    [
+     "Fdim"
+    ],
+    [
+     "C7/E"
+    ],
+    [
+     "F6",
+     "Fm6"
+    ],
+    [
+     "C/E",
+     "Am7"
+    ],
+    [
+     "Db",
+     "G7"
+    ],
+    []
+   ],
+   "endings": {
+    "1": [
+     [
+      "C",
+      "C7"
+     ]
+    ],
+    "2": [
+     [
+      "C",
+      "A7"
+     ]
+    ]
+   }
+  },
+  {
+   "name": "Coda",
+   "tonic": "C",
+   "bars": "54–54",
+   "repeat": false,
+   "sequence": [
+    [
+     "C"
+    ]
+   ]
+  }
+ ],
+ "notes": [
+  "Grille générée automatiquement depuis la partition MusicXML : à vérifier.",
+  "Corroborée par une autre partition : enchaînement 90%, mesures 77%."
+ ],
+ "confidence": "high",
+ "source": [
+  "mxl/C/Maurício Carrilho - Formigueiro - Theme - C.mxl"
+ ],
+ "generated": "mxl"
+}

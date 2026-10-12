@@ -1,0 +1,293 @@
+{
+ "song_id": "bambino-ernesto-nazareth",
+ "title": "Bambino",
+ "composer": "Ernesto Nazareth",
+ "transposition": "c",
+ "meter": "2/4",
+ "form": "A (reprise) — B (reprise) — C (reprise) — Coda",
+ "parts": [
+  {
+   "name": "A",
+   "tonic": "Am",
+   "bars": "1–17",
+   "repeat": true,
+   "sequence": [
+    [
+     "G/F"
+    ],
+    [
+     "C/E"
+    ],
+    [
+     "E7/G#",
+     "E/D"
+    ],
+    [
+     "Am/C"
+    ],
+    [
+     "F#dim"
+    ],
+    [
+     "C/G",
+     "C/E"
+    ],
+    [
+     "G7"
+    ],
+    [
+     "C"
+    ],
+    [
+     "G7",
+     "G/F"
+    ],
+    [
+     "C/E"
+    ],
+    [
+     "E7/G#",
+     "E/D"
+    ],
+    [
+     "Am/C"
+    ],
+    [
+     "F#dim"
+    ],
+    [
+     "C/G",
+     "A7"
+    ],
+    [
+     "D7",
+     "G7"
+    ]
+   ],
+   "endings": {
+    "1": [
+     [
+      "C"
+     ]
+    ],
+    "2": [
+     [
+      "C",
+      "E7/B"
+     ]
+    ]
+   }
+  },
+  {
+   "name": "B",
+   "tonic": "C",
+   "bars": "18–34",
+   "repeat": true,
+   "sequence": [
+    [
+     "Am"
+    ],
+    [
+     "Am",
+     "A7/C#"
+    ],
+    [
+     "Dm"
+    ],
+    [
+     "Dm",
+     "F#dim"
+    ],
+    [
+     "G7"
+    ],
+    [],
+    [
+     "C",
+     "Ab7/C"
+    ],
+    [
+     "C",
+     "E7/B"
+    ],
+    [
+     "Am"
+    ],
+    [
+     "Am",
+     "A7/C#"
+    ],
+    [
+     "Dm"
+    ],
+    [
+     "Dm",
+     "F#dim"
+    ],
+    [
+     "C/G",
+     "A7"
+    ],
+    [
+     "D7",
+     "G7"
+    ],
+    [
+     "C"
+    ]
+   ],
+   "endings": {
+    "1": [
+     [
+      "C",
+      "E7/B"
+     ]
+    ],
+    "2": [
+     [
+      "C"
+     ]
+    ]
+   }
+  },
+  {
+   "name": "C",
+   "tonic": "F",
+   "bars": "35–68",
+   "repeat": true,
+   "sequence": [
+    [
+     "C7/G"
+    ],
+    [
+     "C7"
+    ],
+    [
+     "F"
+    ],
+    [
+     "F/A"
+    ],
+    [
+     "C7/G"
+    ],
+    [
+     "C7",
+     "C7(#5)"
+    ],
+    [
+     "F"
+    ],
+    [],
+    [
+     "C7/G",
+     "C7"
+    ],
+    [
+     "A7/E"
+    ],
+    [
+     "Dm"
+    ],
+    [
+     "Dm6"
+    ],
+    [
+     "Am/E"
+    ],
+    [
+     "B7/E",
+     "E7"
+    ],
+    [
+     "Am"
+    ],
+    [
+     "Am"
+    ],
+    [
+     "C7/G"
+    ],
+    [
+     "C7"
+    ],
+    [
+     "F"
+    ],
+    [
+     "F/A"
+    ],
+    [
+     "C7/G"
+    ],
+    [
+     "C7",
+     "C7(#5)"
+    ],
+    [
+     "F"
+    ],
+    [
+     "F/A"
+    ],
+    [
+     "C7/G",
+     "C7"
+    ],
+    [
+     "A7/C#"
+    ],
+    [
+     "Dm"
+    ],
+    [
+     "Bdim"
+    ],
+    [
+     "F/C"
+    ],
+    [
+     "G7",
+     "C7"
+    ],
+    [
+     "F",
+     "C7"
+    ],
+    []
+   ],
+   "endings": {
+    "1": [
+     [
+      "F"
+     ]
+    ],
+    "2": [
+     [
+      "F"
+     ]
+    ]
+   }
+  },
+  {
+   "name": "Coda",
+   "tonic": "C",
+   "bars": "69–69",
+   "repeat": false,
+   "sequence": [
+    [
+     "C"
+    ]
+   ]
+  }
+ ],
+ "notes": [
+  "Grille générée automatiquement depuis la partition MusicXML : à vérifier.",
+  "Corroborée par une autre partition : enchaînement 90%, mesures 81%."
+ ],
+ "confidence": "high",
+ "source": [
+  "mxl/C/Ernesto Nazareth - Bambino - Theme - C.mxl"
+ ],
+ "generated": "mxl"
+}

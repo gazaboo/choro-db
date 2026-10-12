@@ -1,0 +1,353 @@
+{
+ "song_id": "ainda-me-recordo-pixinguinha",
+ "title": "Ainda me Recordo",
+ "composer": "Pixinguinha",
+ "transposition": "c",
+ "meter": "2/4",
+ "form": "A — B — C — D — E — Coda",
+ "parts": [
+  {
+   "name": "A",
+   "tonic": "F",
+   "bars": "1–9",
+   "repeat": false,
+   "sequence": [
+    [
+     "F"
+    ],
+    [
+     "E7"
+    ],
+    [
+     "Eb7"
+    ],
+    [
+     "D7"
+    ],
+    [
+     "G#dim"
+    ],
+    [
+     "F/A"
+    ],
+    [
+     "F"
+    ],
+    [],
+    []
+   ]
+  },
+  {
+   "name": "B",
+   "tonic": "F",
+   "bars": "10–36",
+   "repeat": false,
+   "sequence": [
+    [
+     "F",
+     "F#dim"
+    ],
+    [
+     "C7/G",
+     "C7"
+    ],
+    [
+     "F",
+     "F#dim"
+    ],
+    [
+     "C7/G",
+     "C7"
+    ],
+    [
+     "F"
+    ],
+    [
+     "C7"
+    ],
+    [
+     "F"
+    ],
+    [
+     "C7"
+    ],
+    [
+     "F"
+    ],
+    [
+     "C7"
+    ],
+    [
+     "F"
+    ],
+    [
+     "C7"
+    ],
+    [
+     "D7/F#"
+    ],
+    [
+     "Gm"
+    ],
+    [
+     "E7"
+    ],
+    [
+     "Am",
+     "C7"
+    ],
+    [
+     "F",
+     "A7"
+    ],
+    [
+     "Dm",
+     "D7"
+    ],
+    [
+     "Gm",
+     "D7"
+    ],
+    [
+     "Gm"
+    ],
+    [
+     "Bb",
+     "Bdim"
+    ],
+    [
+     "F/C",
+     "Abdim"
+    ],
+    [
+     "C7/G"
+    ],
+    [
+     "D7/F#"
+    ],
+    [
+     "Gm",
+     "Bdim"
+    ],
+    [
+     "F/C",
+     "D7"
+    ],
+    [
+     "Gm",
+     "C7"
+    ]
+   ]
+  },
+  {
+   "name": "C",
+   "tonic": "F",
+   "bars": "37–40",
+   "repeat": false,
+   "sequence": [
+    [
+     "F",
+     "F#dim"
+    ],
+    [
+     "C7/G",
+     "C7"
+    ],
+    [
+     "Fm",
+     "Fm/Eb"
+    ],
+    [
+     "Db7",
+     "C7"
+    ]
+   ]
+  },
+  {
+   "name": "D",
+   "tonic": "Ab",
+   "bars": "41–60",
+   "repeat": false,
+   "sequence": [
+    [
+     "Fm"
+    ],
+    [
+     "G7",
+     "Bbm6"
+    ],
+    [
+     "C7",
+     "C7/Bb"
+    ],
+    [
+     "Fm/Ab"
+    ],
+    [
+     "Eb7"
+    ],
+    [
+     "Ab"
+    ],
+    [
+     "Db7"
+    ],
+    [
+     "C7"
+    ],
+    [
+     "F7/A"
+    ],
+    [
+     "Bb7"
+    ],
+    [
+     "Eb7/G"
+    ],
+    [
+     "Ab"
+    ],
+    [
+     "Ab/Gb"
+    ],
+    [
+     "Db/F"
+    ],
+    [
+     "C7"
+    ],
+    [
+     "Fm"
+    ],
+    [
+     "Db7",
+     "C7"
+    ],
+    [
+     "Fm"
+    ],
+    [
+     "Db7",
+     "C7"
+    ],
+    [
+     "Fm",
+     "Eb7"
+    ]
+   ]
+  },
+  {
+   "name": "E",
+   "tonic": "Fm",
+   "bars": "61–X1",
+   "repeat": false,
+   "sequence": [
+    [
+     "Ab"
+    ],
+    [
+     "Eb7/G"
+    ],
+    [
+     "Gb"
+    ],
+    [
+     "Db/F"
+    ],
+    [
+     "Dbm6/Fb"
+    ],
+    [
+     "Ab/Eb"
+    ],
+    [
+     "Bb7/D"
+    ],
+    [
+     "Bbm",
+     "Db7",
+     "C7"
+    ],
+    [
+     "Fm",
+     "Fm/Eb"
+    ],
+    [
+     "G7/D",
+     "Bbm6/Db"
+    ],
+    [
+     "C7",
+     "C/Bb"
+    ],
+    [
+     "F7/A"
+    ],
+    [
+     "Bbm"
+    ],
+    [
+     "Fm"
+    ],
+    [
+     "G7",
+     "C7"
+    ]
+   ]
+  },
+  {
+   "name": "Coda",
+   "tonic": "F",
+   "bars": "76–88",
+   "repeat": false,
+   "sequence": [
+    [
+     "F",
+     "Gb"
+    ],
+    [
+     "G",
+     "Ab"
+    ],
+    [
+     "A",
+     "Bb"
+    ],
+    [
+     "C7"
+    ],
+    [
+     "F",
+     "Gb"
+    ],
+    [
+     "G",
+     "Ab"
+    ],
+    [
+     "A",
+     "Bb"
+    ],
+    [
+     "C7"
+    ],
+    [
+     "F"
+    ],
+    [],
+    [],
+    [],
+    []
+   ]
+  }
+ ],
+ "notes": [
+  "Grille générée automatiquement depuis la partition MusicXML : à vérifier.",
+  "Corroborée par une autre partition : enchaînement 97%, mesures 86%."
+ ],
+ "confidence": "high",
+ "source": [
+  "mxl/C/Pixinguinha - Ainda me Recordo - Theme - C.mxl"
+ ],
+ "generated": "mxl"
+}

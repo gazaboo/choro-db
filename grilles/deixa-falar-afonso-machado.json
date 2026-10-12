@@ -1,0 +1,273 @@
+{
+ "song_id": "deixa-falar-afonso-machado",
+ "title": "Deixa falar",
+ "composer": "Afonso Machado",
+ "transposition": "c",
+ "meter": "2/4",
+ "form": "A (reprise) — B (reprise) — C (reprise)",
+ "parts": [
+  {
+   "name": "A",
+   "tonic": "E",
+   "bars": "1–17",
+   "repeat": true,
+   "sequence": [
+    [
+     "Emaj7",
+     "C#m7"
+    ],
+    [
+     "Dm7",
+     "G7"
+    ],
+    [
+     "Cm7",
+     "F7"
+    ],
+    [
+     "F#m7",
+     "B7"
+    ],
+    [
+     "Bm7",
+     "E/D"
+    ],
+    [
+     "A/C#"
+    ],
+    [
+     "F#7"
+    ],
+    [
+     "C7",
+     "B7"
+    ],
+    [
+     "Emaj7",
+     "C#m7"
+    ],
+    [
+     "Dm7",
+     "G7"
+    ],
+    [
+     "Cm7",
+     "F7"
+    ],
+    [
+     "F#m7",
+     "B7"
+    ],
+    [
+     "Bm7",
+     "E7"
+    ],
+    [
+     "A",
+     "D7(9)"
+    ],
+    [
+     "G7",
+     "C7(9)",
+     "F#7",
+     "B7"
+    ]
+   ],
+   "endings": {
+    "1": [
+     [
+      "E",
+      "B7"
+     ]
+    ],
+    "2": [
+     [
+      "E",
+      "D7(9)"
+     ]
+    ]
+   }
+  },
+  {
+   "name": "B",
+   "tonic": "E",
+   "bars": "18–X1",
+   "repeat": true,
+   "sequence": [
+    [
+     "C#m",
+     "Bm6"
+    ],
+    [
+     "Am6",
+     "D/C"
+    ],
+    [
+     "D#m7",
+     "G#7"
+    ],
+    [
+     "C#7(9)",
+     "C#/B"
+    ],
+    [
+     "F#m/A",
+     "E7/G#"
+    ],
+    [
+     "Amaj7",
+     "D#7"
+    ],
+    [
+     "G#",
+     "E7",
+     "Am",
+     "D#7"
+    ],
+    [
+     "G#maj7",
+     "D7(9)"
+    ],
+    [
+     "C#m",
+     "Bm6"
+    ],
+    [
+     "Am6",
+     "D/C"
+    ],
+    [
+     "D#m7",
+     "G#7"
+    ],
+    [
+     "C#m",
+     "E7(9)"
+    ],
+    [
+     "Am",
+     "D7/F#"
+    ],
+    [
+     "Gmaj7"
+    ],
+    [
+     "F#m6",
+     "G#7"
+    ]
+   ],
+   "endings": {
+    "1": [
+     [
+      "C#m",
+      "G#7"
+     ]
+    ],
+    "2": [
+     [
+      "C#m",
+      "C7",
+      "B7"
+     ]
+    ]
+   }
+  },
+  {
+   "name": "C",
+   "tonic": "A",
+   "bars": "36–53",
+   "repeat": true,
+   "sequence": [
+    [
+     "A/C#",
+     "Cdim"
+    ],
+    [
+     "Bm",
+     "C#7/G#"
+    ],
+    [
+     "F#m",
+     "B7(9)"
+    ],
+    [
+     "Bm7",
+     "G#7"
+    ],
+    [
+     "C#7",
+     "C#7(#5)"
+    ],
+    [
+     "D",
+     "G7"
+    ],
+    [
+     "C#m",
+     "F#7"
+    ],
+    [
+     "F7",
+     "E7"
+    ],
+    [
+     "A/C#",
+     "Cdim"
+    ],
+    [
+     "Bm",
+     "C#7/G#"
+    ],
+    [
+     "F#m",
+     "B7(9)"
+    ],
+    [
+     "Bm7",
+     "G#7"
+    ],
+    [
+     "Em/B",
+     "F#7"
+    ],
+    [
+     "Bm7(9)"
+    ],
+    [
+     "Bm7b5",
+     "E7(b9)"
+    ],
+    []
+   ],
+   "endings": {
+    "1": [
+     [
+      "Amaj7",
+      "E7"
+     ]
+    ],
+    "2": [
+     [
+      "Amaj7",
+      "B7"
+     ]
+    ]
+   },
+   "transition_in": [
+    [
+     "E",
+     "E7"
+    ]
+   ]
+  }
+ ],
+ "notes": [
+  "Grille générée automatiquement depuis la partition MusicXML : à vérifier.",
+  "Corroborée par une autre partition : enchaînement 96%, mesures 85%."
+ ],
+ "confidence": "high",
+ "source": [
+  "mxl/C/Afonso Machado - Deixa falar - Theme - C.mxl"
+ ],
+ "generated": "mxl"
+}

@@ -1,0 +1,307 @@
+{
+ "song_id": "menino-de-ouro-ernesto-nazareth",
+ "title": "Menino de ouro",
+ "composer": "Ernesto Nazareth",
+ "transposition": "c",
+ "meter": "2/4",
+ "form": "A (reprise) — B (reprise) — C — D (reprise) — E — Coda",
+ "parts": [
+  {
+   "name": "A",
+   "tonic": "A",
+   "bars": "0–17",
+   "repeat": true,
+   "sequence": [
+    [
+     "E7/B",
+     "E7"
+    ],
+    [
+     "A",
+     "A/C#"
+    ],
+    [
+     "E7/B",
+     "E7"
+    ],
+    [
+     "A",
+     "A/C#"
+    ],
+    [
+     "E7/B",
+     "E7"
+    ],
+    [
+     "A",
+     "A#dim"
+    ],
+    [
+     "B7"
+    ],
+    [
+     "E"
+    ],
+    [
+     "E7/B",
+     "E7"
+    ],
+    [
+     "A",
+     "A/C#"
+    ],
+    [
+     "E7/B",
+     "E7"
+    ],
+    [
+     "A",
+     "A/C#"
+    ],
+    [
+     "A#dim"
+    ],
+    [
+     "Bm",
+     "Cdim"
+    ],
+    [
+     "A/C#",
+     "E7"
+    ]
+   ],
+   "endings": {
+    "1": [
+     [
+      "A",
+      "A/C#"
+     ]
+    ],
+    "2": [
+     [
+      "A"
+     ]
+    ]
+   }
+  },
+  {
+   "name": "B",
+   "tonic": "A",
+   "bars": "18–34",
+   "repeat": true,
+   "sequence": [
+    [
+     "G#m7b5",
+     "C#7"
+    ],
+    [
+     "F#m"
+    ],
+    [
+     "E7",
+     "E/D"
+    ],
+    [
+     "A/C#"
+    ],
+    [
+     "D#dim"
+    ],
+    [
+     "A/E"
+    ],
+    [
+     "B7/F#",
+     "E7/G#"
+    ],
+    [
+     "A"
+    ],
+    [
+     "G#m7b5",
+     "C#7"
+    ],
+    [
+     "F#m"
+    ],
+    [
+     "E7/B",
+     "E/D"
+    ],
+    [
+     "A/C#"
+    ],
+    [
+     "D#dim"
+    ],
+    [
+     "A/E",
+     "A/C#"
+    ],
+    [
+     "Bb/D",
+     "E7"
+    ]
+   ],
+   "endings": {
+    "1": [
+     [
+      "A"
+     ]
+    ],
+    "2": [
+     [
+      "A"
+     ]
+    ]
+   }
+  },
+  {
+   "name": "C",
+   "tonic": "A",
+   "bars": "35–42",
+   "repeat": false,
+   "sequence": [
+    [
+     "A7"
+    ],
+    [
+     "F#dim"
+    ],
+    [
+     "Dm6"
+    ],
+    [
+     "A"
+    ],
+    [
+     "A7"
+    ],
+    [
+     "F#dim"
+    ],
+    [
+     "Dm"
+    ],
+    [
+     "A"
+    ]
+   ]
+  },
+  {
+   "name": "D",
+   "tonic": "D",
+   "bars": "43–59",
+   "repeat": true,
+   "sequence": [
+    [
+     "A7"
+    ],
+    [
+     "A7(#5)"
+    ],
+    [
+     "D"
+    ],
+    [
+     "D",
+     "Bm7"
+    ],
+    [
+     "E7/G#"
+    ],
+    [
+     "A7"
+    ],
+    [
+     "D",
+     "Fdim"
+    ],
+    [
+     "D/F#"
+    ],
+    [
+     "A7"
+    ],
+    [
+     "A7(#5)"
+    ],
+    [
+     "D"
+    ]
+   ],
+   "endings": {
+    "1": [
+     [
+      "D",
+      "D#dim"
+     ],
+     [
+      "A/E",
+      "B7/E"
+     ],
+     [
+      "E7"
+     ],
+     [
+      "A",
+      "Bm7"
+     ],
+     [
+      "Cdim",
+      "A/C#"
+     ]
+    ],
+    "2": [
+     [
+      "D/C"
+     ]
+    ]
+   }
+  },
+  {
+   "name": "E",
+   "tonic": "D",
+   "bars": "60–64",
+   "repeat": false,
+   "sequence": [
+    [
+     "G/B",
+     "Bb7"
+    ],
+    [
+     "D/A",
+     "Eb/G"
+    ],
+    [
+     "D/F#",
+     "A7/E"
+    ],
+    [
+     "D"
+    ],
+    []
+   ]
+  },
+  {
+   "name": "Coda",
+   "tonic": "A",
+   "bars": "65–65",
+   "repeat": false,
+   "sequence": [
+    [
+     "A"
+    ]
+   ]
+  }
+ ],
+ "notes": [
+  "Grille générée automatiquement depuis la partition MusicXML : à vérifier.",
+  "Corroborée par une autre partition : enchaînement 89%, mesures 79%."
+ ],
+ "confidence": "high",
+ "source": [
+  "mxl/C/Ernesto Nazareth - Menino de ouro - Theme - C.mxl"
+ ],
+ "generated": "mxl"
+}

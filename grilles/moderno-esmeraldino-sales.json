@@ -1,0 +1,137 @@
+{
+ "song_id": "moderno-esmeraldino-sales",
+ "title": "Moderno",
+ "composer": "Esmeraldino Sales",
+ "transposition": "c",
+ "meter": "2/4",
+ "form": "A (reprise)",
+ "parts": [
+  {
+   "name": "A",
+   "tonic": "C",
+   "bars": "0–33",
+   "repeat": true,
+   "sequence": [
+    [
+     "D7(9)"
+    ],
+    [
+     "Db7(9)"
+    ],
+    [
+     "Cmaj7"
+    ],
+    [
+     "A7"
+    ],
+    [
+     "Dm"
+    ],
+    [
+     "G7"
+    ],
+    [
+     "Cmaj7"
+    ],
+    [
+     "Cmaj7"
+    ],
+    [
+     "D7(9)"
+    ],
+    [
+     "Db7(9)"
+    ],
+    [
+     "Cmaj7"
+    ],
+    [
+     "F#m7",
+     "B7"
+    ],
+    [
+     "E",
+     "C#m7"
+    ],
+    [
+     "F#m7",
+     "B7"
+    ],
+    [
+     "E"
+    ],
+    [
+     "G7"
+    ],
+    [
+     "D7(9)"
+    ],
+    [
+     "Db7(9)"
+    ],
+    [
+     "Cmaj7"
+    ],
+    [
+     "A7"
+    ],
+    [
+     "Dm"
+    ],
+    [
+     "G7"
+    ],
+    [
+     "C"
+    ],
+    [
+     "C7"
+    ],
+    [
+     "F6"
+    ],
+    [
+     "F#dim"
+    ],
+    [
+     "Em7"
+    ],
+    [
+     "A7"
+    ],
+    [
+     "Dm"
+    ],
+    [
+     "G7"
+    ],
+    [
+     "C",
+     "Dm7"
+    ]
+   ],
+   "endings": {
+    "1": [
+     [
+      "Em7",
+      "A7"
+     ]
+    ],
+    "2": [
+     [
+      "C6"
+     ]
+    ]
+   }
+  }
+ ],
+ "notes": [
+  "Grille générée automatiquement depuis la partition MusicXML : à vérifier.",
+  "Corroborée par une autre partition : enchaînement 94%, mesures 82%."
+ ],
+ "confidence": "high",
+ "source": [
+  "mxl/C/Esmeraldino Sales - Moderno - Theme - C.mxl"
+ ],
+ "generated": "mxl"
+}

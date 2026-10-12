@@ -1,0 +1,241 @@
+{
+ "song_id": "ameno-reseda-ernesto-nazareth",
+ "title": "Ameno Resedá",
+ "composer": "Ernesto Nazareth",
+ "transposition": "c",
+ "meter": "2/4",
+ "form": "A (reprise) — B (reprise) — C (reprise) — Coda",
+ "parts": [
+  {
+   "name": "A",
+   "tonic": "C",
+   "bars": "0–17",
+   "repeat": true,
+   "sequence": [
+    [
+     "C"
+    ],
+    [
+     "D/C"
+    ],
+    [
+     "G7/B"
+    ],
+    [
+     "C"
+    ],
+    [
+     "C"
+    ],
+    [
+     "Em/B"
+    ],
+    [
+     "B7"
+    ],
+    [
+     "Em",
+     "G7/D"
+    ],
+    [
+     "C"
+    ],
+    [
+     "D/C"
+    ],
+    [
+     "G7/B"
+    ],
+    [
+     "C"
+    ],
+    [
+     "C",
+     "C#dim"
+    ],
+    [
+     "Dm",
+     "Fm6"
+    ],
+    [
+     "C/G",
+     "G7"
+    ]
+   ],
+   "endings": {
+    "1": [
+     [
+      "C"
+     ]
+    ],
+    "2": [
+     [
+      "C"
+     ]
+    ]
+   }
+  },
+  {
+   "name": "B",
+   "tonic": "Am",
+   "bars": "18–35",
+   "repeat": true,
+   "sequence": [
+    [
+     "Am",
+     "E7/G#"
+    ],
+    [
+     "Gdim"
+    ],
+    [
+     "Dm/F",
+     "A7/E"
+    ],
+    [
+     "Dm"
+    ],
+    [
+     "D#dim"
+    ],
+    [
+     "Am/E"
+    ],
+    [
+     "E/D"
+    ],
+    [
+     "Am/C"
+    ],
+    [
+     "Am",
+     "E7/G#"
+    ],
+    [
+     "Gdim"
+    ],
+    [
+     "Dm/F",
+     "A7/E"
+    ],
+    [
+     "Dm"
+    ],
+    [
+     "D#dim"
+    ],
+    [
+     "Am/E"
+    ],
+    [
+     "E7"
+    ],
+    [
+     "C"
+    ]
+   ],
+   "endings": {
+    "1": [
+     [
+      "Am"
+     ]
+    ],
+    "2": [
+     [
+      "Am"
+     ]
+    ]
+   }
+  },
+  {
+   "name": "C",
+   "tonic": "F",
+   "bars": "36–53",
+   "repeat": true,
+   "sequence": [
+    [
+     "C/Bb"
+    ],
+    [
+     "F/A"
+    ],
+    [
+     "Gm/Bb",
+     "C/Bb"
+    ],
+    [
+     "F/A"
+    ],
+    [
+     "Gdim"
+    ],
+    [
+     "Dm/F"
+    ],
+    [
+     "Am/E",
+     "E7/G#"
+    ],
+    [
+     "Am"
+    ],
+    [
+     "C/Bb"
+    ],
+    [
+     "F/A"
+    ],
+    [
+     "Gm/Bb"
+    ],
+    [
+     "F/A"
+    ],
+    [
+     "F/Eb"
+    ],
+    [
+     "Bb/D",
+     "Db7"
+    ],
+    [
+     "F/C",
+     "C7"
+    ],
+    []
+   ],
+   "endings": {
+    "1": [
+     [
+      "F"
+     ]
+    ],
+    "2": [
+     [
+      "F"
+     ]
+    ]
+   }
+  },
+  {
+   "name": "Coda",
+   "tonic": "C",
+   "bars": "54–54",
+   "repeat": false,
+   "sequence": [
+    [
+     "C"
+    ]
+   ]
+  }
+ ],
+ "notes": [
+  "Grille générée automatiquement depuis la partition MusicXML : à vérifier.",
+  "Corroborée par une autre partition : enchaînement 97%, mesures 93%."
+ ],
+ "confidence": "high",
+ "source": [
+  "mxl/C/Ernesto Nazareth - Ameno Resedá - Theme - C.mxl"
+ ],
+ "generated": "mxl"
+}

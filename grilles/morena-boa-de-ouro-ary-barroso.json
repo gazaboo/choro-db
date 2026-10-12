@@ -1,0 +1,288 @@
+{
+ "song_id": "morena-boa-de-ouro-ary-barroso",
+ "title": "Morena Boa de Ouro",
+ "composer": "Ary Barroso",
+ "transposition": "c",
+ "meter": "2/4",
+ "form": "A (reprise) — B (reprise) — C — D — E — F (reprise)",
+ "parts": [
+  {
+   "name": "A",
+   "tonic": "C",
+   "bars": "0–11",
+   "repeat": true,
+   "sequence": [
+    [
+     "F6"
+    ],
+    [
+     "F#dim"
+    ],
+    [
+     "Em/G"
+    ],
+    [
+     "A7"
+    ],
+    [
+     "Dm7"
+    ],
+    [],
+    []
+   ],
+   "endings": {
+    "1": [
+     [
+      "G7",
+      "C6(9)"
+     ],
+     [],
+     [
+      "C7(9)"
+     ]
+    ],
+    "2": [
+     [
+      "G7",
+      "C6(9)"
+     ]
+    ]
+   }
+  },
+  {
+   "name": "B",
+   "tonic": "C",
+   "bars": "12–28",
+   "repeat": true,
+   "sequence": [
+    [
+     "C6(9)"
+    ],
+    [],
+    [],
+    [
+     "G7",
+     "G#dim"
+    ],
+    [
+     "Am"
+    ],
+    [
+     "A7(9)"
+    ],
+    [
+     "D7sus4"
+    ],
+    [
+     "Dm7"
+    ],
+    [],
+    [
+     "G7(9)"
+    ],
+    [
+     "C6"
+    ],
+    [
+     "Am7"
+    ],
+    [
+     "F#m7"
+    ],
+    [
+     "F7(b5)"
+    ],
+    [
+     "Em7(9)"
+    ]
+   ],
+   "endings": {
+    "1": [
+     [
+      "G7(9)"
+     ]
+    ],
+    "2": [
+     [
+      "C7/G",
+      "Gb7(b5)"
+     ]
+    ]
+   }
+  },
+  {
+   "name": "C",
+   "tonic": "C",
+   "bars": "29–44",
+   "repeat": false,
+   "sequence": [
+    [
+     "F6"
+    ],
+    [
+     "F#dim"
+    ],
+    [
+     "Em/G"
+    ],
+    [
+     "A7"
+    ],
+    [
+     "Dm7"
+    ],
+    [
+     "G7"
+    ],
+    [
+     "C",
+     "Gm6/Bb"
+    ],
+    [
+     "A7"
+    ],
+    [
+     "Dm7"
+    ],
+    [
+     "G7"
+    ],
+    [
+     "C6"
+    ],
+    [
+     "Am7"
+    ],
+    [
+     "F#m7"
+    ],
+    [
+     "B7"
+    ],
+    [
+     "Em"
+    ],
+    [
+     "C7(13)"
+    ]
+   ]
+  },
+  {
+   "name": "D",
+   "tonic": "C",
+   "bars": "45–51",
+   "repeat": false,
+   "sequence": [
+    [
+     "F6"
+    ],
+    [
+     "F#dim"
+    ],
+    [
+     "Em/G"
+    ],
+    [
+     "A7"
+    ],
+    [
+     "Dm7"
+    ],
+    [
+     "G7"
+    ],
+    [
+     "C"
+    ]
+   ]
+  },
+  {
+   "name": "E",
+   "tonic": "C",
+   "bars": "52–X1",
+   "repeat": false,
+   "sequence": [
+    [
+     "C7(9)"
+    ],
+    [
+     "F6"
+    ],
+    [
+     "Fm6/Ab"
+    ],
+    [
+     "Em7/G"
+    ],
+    [
+     "A7(9)"
+    ],
+    [
+     "D7(9)"
+    ],
+    [
+     "G7(9)"
+    ],
+    [
+     "C6(9)"
+    ],
+    []
+   ]
+  },
+  {
+   "name": "F",
+   "tonic": "C",
+   "bars": "62–70",
+   "repeat": true,
+   "sequence": [
+    [
+     "F6"
+    ],
+    [
+     "F#dim"
+    ],
+    [
+     "Em/G"
+    ],
+    [
+     "A7"
+    ],
+    [
+     "Dm7"
+    ]
+   ],
+   "endings": {
+    "1": [
+     [
+      "G7",
+      "C6(9)"
+     ],
+     [],
+     [
+      "C7(9)"
+     ]
+    ],
+    "2": [
+     [
+      "G7",
+      "C6(9)"
+     ]
+    ]
+   },
+   "transition_in": [
+    [
+     "C7(9)"
+    ]
+   ]
+  }
+ ],
+ "notes": [
+  "Grille générée automatiquement depuis la partition MusicXML : à vérifier.",
+  "Corroborée par une autre partition : enchaînement 91%, mesures 77%."
+ ],
+ "confidence": "high",
+ "source": [
+  "mxl/C/Ary Barroso - Morena Boa de Ouro - Theme - C.mxl"
+ ],
+ "generated": "mxl"
+}

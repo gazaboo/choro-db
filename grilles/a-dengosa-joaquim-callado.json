@@ -1,0 +1,239 @@
+{
+ "song_id": "a-dengosa-joaquim-callado",
+ "title": "A dengosa",
+ "composer": "Joaquim Callado",
+ "transposition": "c",
+ "meter": "2/4",
+ "form": "A (reprise) — B (reprise) — C — D (reprise)",
+ "parts": [
+  {
+   "name": "A",
+   "tonic": "C",
+   "bars": "0–9",
+   "repeat": true,
+   "sequence": [
+    [
+     "G7"
+    ],
+    [
+     "C",
+     "C#dim"
+    ],
+    [
+     "G7/D"
+    ],
+    [
+     "C"
+    ],
+    [
+     "G7"
+    ],
+    [
+     "C",
+     "C/Bb"
+    ],
+    [
+     "Em/B",
+     "B7"
+    ]
+   ],
+   "endings": {
+    "1": [
+     [
+      "Em"
+     ]
+    ],
+    "2": [
+     [
+      "Em",
+      "Gm6/Bb"
+     ]
+    ]
+   }
+  },
+  {
+   "name": "B",
+   "tonic": "C",
+   "bars": "10–18",
+   "repeat": true,
+   "sequence": [
+    [
+     "A7"
+    ],
+    [
+     "Dm",
+     "Fm6/Ab"
+    ],
+    [
+     "G7",
+     "G#dim"
+    ],
+    [
+     "Am"
+    ],
+    [
+     "F",
+     "F#dim"
+    ],
+    [
+     "C/G"
+    ],
+    [
+     "G7"
+    ]
+   ],
+   "endings": {
+    "1": [
+     [
+      "C",
+      "Gm6/Bb"
+     ]
+    ],
+    "2": [
+     [
+      "C"
+     ]
+    ]
+   }
+  },
+  {
+   "name": "C",
+   "tonic": "C",
+   "bars": "19–34",
+   "repeat": false,
+   "sequence": [
+    [
+     "G7"
+    ],
+    [
+     "C",
+     "C#dim"
+    ],
+    [
+     "G7/D"
+    ],
+    [
+     "C"
+    ],
+    [
+     "G7"
+    ],
+    [
+     "C",
+     "C/Bb"
+    ],
+    [
+     "Em/B",
+     "B7"
+    ],
+    [
+     "Em"
+    ],
+    [
+     "G7"
+    ],
+    [
+     "C",
+     "C#dim"
+    ],
+    [
+     "G7/D"
+    ],
+    [
+     "C"
+    ],
+    [
+     "C",
+     "C(#5)"
+    ],
+    [
+     "F",
+     "F#dim"
+    ],
+    [
+     "C/G",
+     "G7"
+    ],
+    [
+     "C"
+    ]
+   ]
+  },
+  {
+   "name": "D",
+   "tonic": "F",
+   "bars": "35–52",
+   "repeat": true,
+   "sequence": [
+    [
+     "F"
+    ],
+    [
+     "C7/G"
+    ],
+    [
+     "C7"
+    ],
+    [
+     "F"
+    ],
+    [
+     "Dm6"
+    ],
+    [
+     "Am/E"
+    ],
+    [
+     "E7"
+    ],
+    [
+     "Am",
+     "C7"
+    ],
+    [
+     "F"
+    ],
+    [
+     "C7/G"
+    ],
+    [
+     "C7"
+    ],
+    [
+     "F"
+    ],
+    [
+     "Db7"
+    ],
+    [
+     "F/C"
+    ],
+    [
+     "C7"
+    ],
+    []
+   ],
+   "endings": {
+    "1": [
+     [
+      "F"
+     ]
+    ],
+    "2": [
+     [
+      "F"
+     ]
+    ]
+   }
+  }
+ ],
+ "notes": [
+  "Grille générée automatiquement depuis la partition MusicXML : à vérifier.",
+  "Corroborée par une autre partition : enchaînement 99%, mesures 96%."
+ ],
+ "confidence": "high",
+ "source": [
+  "mxl/C/Joaquim Callado - A dengosa - Theme - C.mxl"
+ ],
+ "generated": "mxl"
+}

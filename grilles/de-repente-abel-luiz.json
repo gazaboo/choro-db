@@ -1,0 +1,181 @@
+{
+ "song_id": "de-repente-abel-luiz",
+ "title": "De repente",
+ "composer": "Abel Luiz",
+ "transposition": "c",
+ "meter": "2/4",
+ "form": "A (reprise) — B (reprise) — Coda",
+ "parts": [
+  {
+   "name": "A",
+   "tonic": "Bm",
+   "bars": "0–17",
+   "repeat": true,
+   "sequence": [
+    [
+     "Dmaj7",
+     "Bb"
+    ],
+    [],
+    [
+     "A7"
+    ],
+    [
+     "Dmaj7",
+     "A7"
+    ],
+    [
+     "Dmaj7",
+     "F#m7"
+    ],
+    [],
+    [
+     "C#7"
+    ],
+    [
+     "F#m7",
+     "Fm7",
+     "Em7",
+     "A7"
+    ],
+    [
+     "Dmaj7",
+     "Bb"
+    ],
+    [],
+    [
+     "A7"
+    ],
+    [
+     "D",
+     "D7"
+    ],
+    [
+     "G",
+     "C7"
+    ],
+    [
+     "F",
+     "Bb7"
+    ],
+    [
+     "Eb",
+     "A7"
+    ]
+   ],
+   "endings": {
+    "1": [
+     [
+      "Dmaj7",
+      "A7"
+     ]
+    ],
+    "2": [
+     [
+      "Dmaj7",
+      "F#7"
+     ]
+    ]
+   }
+  },
+  {
+   "name": "B",
+   "tonic": "D",
+   "bars": "18–34",
+   "repeat": true,
+   "sequence": [
+    [
+     "Bm"
+    ],
+    [
+     "Em7"
+    ],
+    [
+     "F#7"
+    ],
+    [
+     "Bm"
+    ],
+    [
+     "Bm",
+     "C#7"
+    ],
+    [
+     "F#",
+     "D#7"
+    ],
+    [
+     "G#m",
+     "C#7"
+    ],
+    [
+     "G7",
+     "F#7"
+    ],
+    [
+     "Bm"
+    ],
+    [
+     "Em7"
+    ],
+    [
+     "F#7"
+    ],
+    [
+     "F#m7b5",
+     "B7"
+    ],
+    [
+     "Em",
+     "F#7"
+    ],
+    [
+     "Bm",
+     "G7"
+    ],
+    [
+     "C",
+     "F#7"
+    ]
+   ],
+   "endings": {
+    "1": [
+     [
+      "Bm",
+      "F#7"
+     ]
+    ],
+    "2": [
+     [
+      "Bm",
+      "Bb7",
+      "A7"
+     ]
+    ]
+   }
+  },
+  {
+   "name": "Coda",
+   "tonic": "D",
+   "bars": "35–36",
+   "repeat": false,
+   "sequence": [
+    [],
+    [
+     "D6",
+     "Dmaj7(9)"
+    ]
+   ]
+  }
+ ],
+ "notes": [
+  "Grille générée automatiquement depuis la partition MusicXML : à vérifier.",
+  "Coda : première mesure sans accord",
+  "Corroborée par une autre partition : enchaînement 86%, mesures 84%."
+ ],
+ "confidence": "high",
+ "source": [
+  "mxl/C/Abel Luiz - De repente - Theme - C.mxl"
+ ],
+ "generated": "mxl"
+}

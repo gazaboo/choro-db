@@ -1,0 +1,226 @@
+{
+ "song_id": "bionne-chiquinha-gonzaga",
+ "title": "Bionne",
+ "composer": "Chiquinha Gonzaga",
+ "transposition": "c",
+ "meter": "2/4",
+ "form": "A (reprise) — B (reprise) — C (reprise)",
+ "parts": [
+  {
+   "name": "A",
+   "tonic": "C",
+   "bars": "0–17",
+   "repeat": true,
+   "sequence": [
+    [
+     "G7",
+     "G7/D"
+    ],
+    [
+     "C/E",
+     "C/G"
+    ],
+    [
+     "G7/D",
+     "G7"
+    ],
+    [
+     "C",
+     "C/G"
+    ],
+    [
+     "G7",
+     "G7/D"
+    ],
+    [
+     "C"
+    ],
+    [
+     "G/D",
+     "D7/F#"
+    ],
+    [
+     "G7"
+    ],
+    [
+     "G7",
+     "G7/D"
+    ],
+    [
+     "C/E",
+     "C/G"
+    ],
+    [
+     "G7/D",
+     "G7"
+    ],
+    [
+     "C",
+     "C7"
+    ],
+    [
+     "F",
+     "D7/F#"
+    ],
+    [
+     "C/G",
+     "C/E"
+    ],
+    [
+     "F",
+     "G7"
+    ]
+   ],
+   "endings": {
+    "1": [
+     [
+      "C"
+     ],
+     [
+      "C"
+     ]
+    ]
+   }
+  },
+  {
+   "name": "B",
+   "tonic": "F",
+   "bars": "18–X1",
+   "repeat": true,
+   "sequence": [
+    [
+     "C7/G",
+     "C7"
+    ],
+    [
+     "F",
+     "F/C"
+    ],
+    [
+     "A7",
+     "A/G"
+    ],
+    [
+     "Dm/F",
+     "Dm"
+    ],
+    [
+     "Bb",
+     "Bdim"
+    ],
+    [
+     "F/C"
+    ],
+    [
+     "F"
+    ]
+   ],
+   "endings": {
+    "1": [
+     [
+      "C7/E",
+      "C7"
+     ],
+     [
+      "F"
+     ]
+    ],
+    "2": [
+     [
+      "C7/E",
+      "C7"
+     ]
+    ]
+   }
+  },
+  {
+   "name": "C",
+   "tonic": "F",
+   "bars": "29–47",
+   "repeat": true,
+   "sequence": [
+    [
+     "F"
+    ],
+    [
+     "C7/F"
+    ],
+    [
+     "F",
+     "F/C"
+    ],
+    [
+     "C7/G",
+     "C7"
+    ],
+    [
+     "F"
+    ],
+    [
+     "C7/F"
+    ],
+    [
+     "Dm/A",
+     "A7"
+    ],
+    [
+     "Dm",
+     "Dm/A"
+    ],
+    [
+     "C7"
+    ],
+    [
+     "F/C",
+     "F/A"
+    ],
+    [
+     "C7/E",
+     "C7"
+    ],
+    [
+     "F"
+    ],
+    [
+     "G7/B"
+    ],
+    [
+     "F/C"
+    ],
+    [
+     "F"
+    ],
+    []
+   ],
+   "endings": {
+    "1": [
+     [
+      "C7"
+     ],
+     [
+      "F"
+     ]
+    ],
+    "2": [
+     [
+      "C7"
+     ]
+    ]
+   },
+   "transition_in": [
+    [
+     "C"
+    ]
+   ]
+  }
+ ],
+ "notes": [
+  "Grille générée automatiquement depuis la partition MusicXML : à vérifier.",
+  "Corroborée par une grille relevée à la main : enchaînement 96%, mesures 92%."
+ ],
+ "confidence": "high",
+ "source": [
+  "mxl/C/Chiquinha Gonzaga - Bionne - Theme - C.mxl"
+ ],
+ "generated": "mxl"
+}

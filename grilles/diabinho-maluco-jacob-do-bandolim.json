@@ -1,0 +1,276 @@
+{
+ "song_id": "diabinho-maluco-jacob-do-bandolim",
+ "title": "Diabinho Maluco",
+ "composer": "Jacob do Bandolim",
+ "transposition": "c",
+ "meter": "2/4",
+ "form": "A (reprise) — B (reprise) — C (reprise) — D (reprise)",
+ "parts": [
+  {
+   "name": "A",
+   "tonic": "G",
+   "bars": "0–17",
+   "repeat": true,
+   "sequence": [
+    [
+     "G6",
+     "D7/A"
+    ],
+    [
+     "G6/B"
+    ],
+    [
+     "G6",
+     "E7"
+    ],
+    [
+     "Am7"
+    ],
+    [
+     "B7/D#",
+     "B7"
+    ],
+    [
+     "Em"
+    ],
+    [
+     "A7/C#",
+     "A7"
+    ],
+    [
+     "D7"
+    ],
+    [
+     "G6",
+     "D7/A"
+    ],
+    [
+     "G6/B"
+    ],
+    [
+     "G/F"
+    ],
+    [
+     "C/E"
+    ],
+    [
+     "C",
+     "A7/C#"
+    ],
+    [
+     "G6/D",
+     "E7"
+    ],
+    [
+     "Am7",
+     "D7"
+    ]
+   ],
+   "endings": {
+    "1": [
+     [
+      "G6"
+     ]
+    ],
+    "2": [
+     [
+      "G6"
+     ]
+    ]
+   }
+  },
+  {
+   "name": "B",
+   "tonic": "G",
+   "bars": "18–35",
+   "repeat": true,
+   "sequence": [
+    [
+     "B7/D#",
+     "B7"
+    ],
+    [
+     "Em"
+    ],
+    [
+     "E7/G#",
+     "E7"
+    ],
+    [
+     "Am"
+    ],
+    [
+     "Am/C",
+     "Am6"
+    ],
+    [
+     "Em/B"
+    ],
+    [
+     "F#7"
+    ],
+    [
+     "B7"
+    ],
+    [
+     "B7/D#",
+     "B7"
+    ],
+    [
+     "Em"
+    ],
+    [
+     "E7/G#",
+     "E7"
+    ],
+    [
+     "Am"
+    ],
+    [
+     "Am/C",
+     "Am6"
+    ],
+    [
+     "Em/B"
+    ],
+    [
+     "F#7",
+     "B7"
+    ],
+    [
+     "G6"
+    ]
+   ],
+   "endings": {
+    "1": [
+     [
+      "Em"
+     ]
+    ],
+    "2": [
+     [
+      "Em",
+      "D7"
+     ]
+    ]
+   }
+  },
+  {
+   "name": "C",
+   "tonic": "C",
+   "bars": "36–X2",
+   "repeat": true,
+   "sequence": [
+    [
+     "C",
+     "E7/B"
+    ],
+    [
+     "Am",
+     "C7/G"
+    ],
+    [
+     "F6",
+     "A7/E"
+    ],
+    [
+     "Dm"
+    ],
+    [
+     "Dm",
+     "G7"
+    ],
+    [
+     "C"
+    ],
+    [
+     "D7/F#",
+     "D7"
+    ],
+    [
+     "G7"
+    ],
+    [
+     "C",
+     "E7/B"
+    ],
+    [
+     "Am",
+     "C7/G"
+    ],
+    [
+     "F6",
+     "A7/E"
+    ],
+    [
+     "Dm"
+    ],
+    [
+     "F6",
+     "D7/F#"
+    ],
+    [
+     "C/E",
+     "Am7"
+    ],
+    [
+     "D7",
+     "G7"
+    ]
+   ],
+   "endings": {
+    "1": [
+     [
+      "C",
+      "G7"
+     ]
+    ],
+    "2": [
+     [
+      "C",
+      "D7"
+     ]
+    ]
+   }
+  },
+  {
+   "name": "D",
+   "tonic": "G",
+   "bars": "54–57",
+   "repeat": true,
+   "sequence": [
+    [
+     "C/E",
+     "A7/C#"
+    ],
+    [
+     "G6/D",
+     "E7"
+    ],
+    [
+     "Am7",
+     "D7"
+    ],
+    [
+     "G",
+     "G/F"
+    ]
+   ],
+   "transition_in": [
+    [
+     "G",
+     "G/F"
+    ]
+   ]
+  }
+ ],
+ "notes": [
+  "Grille générée automatiquement depuis la partition MusicXML : à vérifier.",
+  "Corroborée par une autre partition : enchaînement 93%, mesures 88%."
+ ],
+ "confidence": "high",
+ "source": [
+  "mxl/C/Jacob do Bandolim - Diabinho Maluco - Theme - C.mxl"
+ ],
+ "generated": "mxl"
+}

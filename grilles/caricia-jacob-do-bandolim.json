@@ -1,0 +1,202 @@
+{
+ "song_id": "caricia-jacob-do-bandolim",
+ "title": "Carícia",
+ "composer": "Jacob do Bandolim",
+ "transposition": "c",
+ "meter": "2/4",
+ "form": "A (reprise) — B — Coda",
+ "parts": [
+  {
+   "name": "A",
+   "tonic": "Dm",
+   "bars": "1–18",
+   "repeat": true,
+   "sequence": [
+    [
+     "G#dim"
+    ],
+    [
+     "A/G"
+    ],
+    [
+     "Dm/F"
+    ],
+    [
+     "Dm"
+    ],
+    [
+     "G#dim"
+    ],
+    [
+     "A/G"
+    ],
+    [
+     "D7/F#"
+    ],
+    [
+     "D7"
+    ],
+    [
+     "Gm",
+     "G7"
+    ],
+    [
+     "C7/E"
+    ],
+    [
+     "F/A"
+    ],
+    [
+     "Bb/Ab"
+    ],
+    [
+     "Eb/G"
+    ],
+    [
+     "A7/C#",
+     "A7"
+    ],
+    []
+   ],
+   "endings": {
+    "1": [
+     [
+      "Dm"
+     ],
+     [
+      "Dm"
+     ]
+    ],
+    "2": [
+     [
+      "Dm"
+     ]
+    ]
+   }
+  },
+  {
+   "name": "B",
+   "tonic": "F",
+   "bars": "19–X1",
+   "repeat": false,
+   "sequence": [
+    [
+     "C7"
+    ],
+    [
+     "C/Bb"
+    ],
+    [
+     "F/A"
+    ],
+    [
+     "F6"
+    ],
+    [
+     "D7/F#"
+    ],
+    [
+     "D/C"
+    ],
+    [
+     "Gm/Bb"
+    ],
+    [
+     "Gm"
+    ],
+    [
+     "Gm7"
+    ],
+    [
+     "Bbm6/Db"
+    ],
+    [
+     "F6/C"
+    ],
+    [
+     "F/A"
+    ],
+    [
+     "G7/B"
+    ],
+    [
+     "G7"
+    ],
+    [
+     "C7"
+    ],
+    [],
+    [
+     "C7"
+    ],
+    [
+     "C/Bb"
+    ],
+    [
+     "F/A"
+    ],
+    [
+     "F6"
+    ],
+    [
+     "D7/F#"
+    ],
+    [
+     "D/C"
+    ],
+    [
+     "Gm/Bb"
+    ],
+    [
+     "Gm"
+    ],
+    [
+     "Bbmaj7"
+    ],
+    [
+     "Bbm6/Db"
+    ],
+    [
+     "F/C"
+    ],
+    [
+     "F/A"
+    ],
+    [
+     "Gm7"
+    ],
+    [
+     "C7"
+    ],
+    [
+     "F6"
+    ],
+    []
+   ]
+  },
+  {
+   "name": "Coda",
+   "tonic": "Dm",
+   "bars": "51–52",
+   "repeat": false,
+   "sequence": [
+    [
+     "Dm"
+    ],
+    [
+     "Dm6"
+    ]
+   ]
+  }
+ ],
+ "notes": [
+  "Grille générée automatiquement depuis la partition MusicXML : à vérifier.",
+  "Tonalité de la partition source non vérifiée.",
+  "Corroborée par une autre partition : enchaînement 93%, mesures 77%."
+ ],
+ "confidence": "high",
+ "source": [
+  "mxl/C/Jacob do Bandolim - Carícia - Theme - C.mxl"
+ ],
+ "generated": "mxl"
+}

@@ -1,0 +1,260 @@
+{
+ "song_id": "treme-treme-jacob-do-bandolim",
+ "title": "Treme Treme",
+ "composer": "Jacob do Bandolim",
+ "transposition": "c",
+ "meter": "2/4",
+ "form": "A (reprise) — B (reprise) — C (reprise) — Coda",
+ "parts": [
+  {
+   "name": "A",
+   "tonic": "C",
+   "bars": "1–18",
+   "repeat": true,
+   "sequence": [
+    [],
+    [
+     "G7/D",
+     "G7"
+    ],
+    [
+     "C",
+     "C/E"
+    ],
+    [
+     "G7/D",
+     "G7"
+    ],
+    [
+     "C",
+     "Gm6/Bb"
+    ],
+    [
+     "A7"
+    ],
+    [
+     "Dm",
+     "Dm/C"
+    ],
+    [
+     "G7/B",
+     "G7"
+    ],
+    [
+     "C",
+     "C/E"
+    ],
+    [
+     "G7/D",
+     "G7"
+    ],
+    [
+     "C",
+     "C/E"
+    ],
+    [
+     "G7/D",
+     "G7"
+    ],
+    [
+     "C",
+     "Gm6/Bb"
+    ],
+    [
+     "A7",
+     "A7/C#"
+    ],
+    [
+     "Dm",
+     "Dm/C"
+    ],
+    [
+     "G7/B",
+     "G7"
+    ]
+   ],
+   "endings": {
+    "1": [
+     [
+      "C"
+     ]
+    ],
+    "2": [
+     [
+      "C"
+     ]
+    ]
+   }
+  },
+  {
+   "name": "B",
+   "tonic": "G",
+   "bars": "19–36",
+   "repeat": true,
+   "sequence": [
+    [
+     "D7",
+     "D7/F#"
+    ],
+    [
+     "G6"
+    ],
+    [
+     "E7",
+     "E7/G#"
+    ],
+    [
+     "Am"
+    ],
+    [
+     "Cm6"
+    ],
+    [
+     "G/D",
+     "Em7"
+    ],
+    [
+     "A7"
+    ],
+    [
+     "D7"
+    ],
+    [
+     "D7",
+     "D7/F#"
+    ],
+    [
+     "G6"
+    ],
+    [
+     "E7",
+     "E7/G#"
+    ],
+    [
+     "Am"
+    ],
+    [
+     "Cm6"
+    ],
+    [
+     "G/D",
+     "E7"
+    ],
+    [
+     "Am",
+     "D7"
+    ],
+    [
+     "C"
+    ]
+   ],
+   "endings": {
+    "1": [
+     [
+      "G"
+     ]
+    ],
+    "2": [
+     [
+      "G"
+     ]
+    ]
+   }
+  },
+  {
+   "name": "C",
+   "tonic": "F",
+   "bars": "37–X2",
+   "repeat": true,
+   "sequence": [
+    [
+     "C7/G",
+     "C7"
+    ],
+    [
+     "F"
+    ],
+    [
+     "A7/C#",
+     "A7"
+    ],
+    [
+     "D7",
+     "D/C"
+    ],
+    [
+     "Gm/Bb",
+     "Bbm6"
+    ],
+    [
+     "F/A"
+    ],
+    [
+     "G7"
+    ],
+    [
+     "C7"
+    ],
+    [
+     "C7/E"
+    ],
+    [
+     "F"
+    ],
+    [
+     "A7/C#",
+     "A7"
+    ],
+    [
+     "D7",
+     "D/C"
+    ],
+    [
+     "Gm/Bb",
+     "Bbm6"
+    ],
+    [
+     "F/A",
+     "D7"
+    ],
+    [
+     "G7",
+     "C7"
+    ]
+   ],
+   "endings": {
+    "1": [
+     [
+      "F"
+     ]
+    ],
+    "2": [
+     [
+      "F"
+     ]
+    ]
+   }
+  },
+  {
+   "name": "Coda",
+   "tonic": "C",
+   "bars": "54–54",
+   "repeat": false,
+   "sequence": [
+    [
+     "C"
+    ]
+   ]
+  }
+ ],
+ "notes": [
+  "Grille générée automatiquement depuis la partition MusicXML : à vérifier.",
+  "A : première mesure sans accord",
+  "Corroborée par une autre partition : enchaînement 87%, mesures 75%."
+ ],
+ "confidence": "high",
+ "source": [
+  "mxl/C/Jacob do Bandolim - Treme Treme - Theme - C.mxl"
+ ],
+ "generated": "mxl"
+}

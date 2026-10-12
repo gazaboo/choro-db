@@ -1,0 +1,235 @@
+{
+ "song_id": "fantasia-ao-luar-albertino-pimentel",
+ "title": "Fantasia ao luar",
+ "composer": "Albertino Pimentel",
+ "transposition": "c",
+ "meter": "2/4",
+ "form": "A (reprise) — B (reprise) — C (reprise) — Coda",
+ "parts": [
+  {
+   "name": "A",
+   "tonic": "C",
+   "bars": "0–17",
+   "repeat": true,
+   "sequence": [
+    [
+     "G7"
+    ],
+    [
+     "C"
+    ],
+    [
+     "Bm7b5",
+     "E7"
+    ],
+    [
+     "Am"
+    ],
+    [
+     "F",
+     "D7/F#"
+    ],
+    [
+     "C/G",
+     "C/E"
+    ],
+    [
+     "D7",
+     "G7"
+    ],
+    [
+     "C",
+     "Cdim",
+     "C"
+    ],
+    [
+     "G7"
+    ],
+    [
+     "C"
+    ],
+    [
+     "Bm7b5",
+     "E7"
+    ],
+    [
+     "Gm6/Bb",
+     "A7"
+    ],
+    [
+     "F",
+     "Fm6/Ab"
+    ],
+    [
+     "C/G",
+     "C/E"
+    ],
+    [
+     "Dm",
+     "G7"
+    ]
+   ],
+   "endings": {
+    "1": [
+     [
+      "C"
+     ]
+    ],
+    "2": [
+     [
+      "C"
+     ]
+    ]
+   }
+  },
+  {
+   "name": "B",
+   "tonic": "Am",
+   "bars": "18–27",
+   "repeat": true,
+   "sequence": [
+    [
+     "E7",
+     "B7/F#",
+     "E7/G#",
+     "E7"
+    ],
+    [
+     "Am",
+     "Am/C"
+    ],
+    [
+     "E7/B",
+     "E7"
+    ],
+    [
+     "Am"
+    ],
+    [
+     "E7",
+     "B7/F#",
+     "E7/G#",
+     "E7"
+    ],
+    [
+     "Am",
+     "Am/C"
+    ],
+    [
+     "B7",
+     "E7"
+    ],
+    [
+     "C",
+     "C7"
+    ]
+   ],
+   "endings": {
+    "1": [
+     [
+      "Am"
+     ]
+    ],
+    "2": [
+     [
+      "Am"
+     ]
+    ]
+   }
+  },
+  {
+   "name": "C",
+   "tonic": "F",
+   "bars": "28–X2",
+   "repeat": true,
+   "sequence": [
+    [
+     "F"
+    ],
+    [
+     "C7",
+     "A7/C#"
+    ],
+    [
+     "Dm",
+     "Bb7"
+    ],
+    [
+     "A7"
+    ],
+    [
+     "Bb",
+     "Bdim"
+    ],
+    [
+     "F/C",
+     "F/A"
+    ],
+    [
+     "G7"
+    ],
+    [
+     "C7"
+    ],
+    [
+     "F"
+    ],
+    [
+     "C7",
+     "A7/C#"
+    ],
+    [
+     "Dm",
+     "Bb7"
+    ],
+    [
+     "A7"
+    ],
+    [
+     "Bb6",
+     "G7/B"
+    ],
+    [
+     "F/C",
+     "F/A"
+    ],
+    [
+     "Gm",
+     "C7"
+    ]
+   ],
+   "endings": {
+    "1": [
+     [
+      "F"
+     ]
+    ],
+    "2": [
+     [
+      "F"
+     ]
+    ]
+   }
+  },
+  {
+   "name": "Coda",
+   "tonic": "C",
+   "bars": "45–45",
+   "repeat": false,
+   "sequence": [
+    [
+     "C"
+    ]
+   ]
+  }
+ ],
+ "notes": [
+  "Grille générée automatiquement depuis la partition MusicXML : à vérifier.",
+  "Corroborée par une autre partition : enchaînement 90%, mesures 79%."
+ ],
+ "confidence": "high",
+ "source": [
+  "mxl/C/Albertino Pimentel - Fantasia ao luar - Theme - C.mxl"
+ ],
+ "generated": "mxl"
+}

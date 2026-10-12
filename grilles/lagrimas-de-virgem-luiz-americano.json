@@ -1,0 +1,287 @@
+{
+ "song_id": "lagrimas-de-virgem-luiz-americano",
+ "title": "Lágrimas de virgem",
+ "composer": "Luiz Americano",
+ "transposition": "c",
+ "meter": "3/4",
+ "form": "A — B (reprise) — C — Coda",
+ "parts": [
+  {
+   "name": "A",
+   "tonic": "Am",
+   "bars": "1–32",
+   "repeat": false,
+   "sequence": [
+    [
+     "Am"
+    ],
+    [
+     "E7/B"
+    ],
+    [
+     "Am/C"
+    ],
+    [
+     "A/G"
+    ],
+    [
+     "Dm/F"
+    ],
+    [
+     "A7/E"
+    ],
+    [
+     "Dm"
+    ],
+    [
+     "Dm/F"
+    ],
+    [
+     "Bm7b5"
+    ],
+    [
+     "E7/G#"
+    ],
+    [
+     "Am"
+    ],
+    [
+     "Am/G"
+    ],
+    [
+     "B7/F#"
+    ],
+    [
+     "F7"
+    ],
+    [
+     "E7"
+    ],
+    [
+     "E7/G#"
+    ],
+    [
+     "Am"
+    ],
+    [
+     "E7/B"
+    ],
+    [
+     "Am/C"
+    ],
+    [
+     "A/G"
+    ],
+    [
+     "Dm/F"
+    ],
+    [
+     "A7/E"
+    ],
+    [
+     "Dm"
+    ],
+    [
+     "Dm/F"
+    ],
+    [
+     "Bm7b5"
+    ],
+    [
+     "E7/G#"
+    ],
+    [
+     "Am"
+    ],
+    [
+     "Am/C"
+    ],
+    [
+     "B7"
+    ],
+    [
+     "E7"
+    ],
+    [
+     "Am"
+    ],
+    []
+   ]
+  },
+  {
+   "name": "B",
+   "tonic": "Am",
+   "bars": "33–51",
+   "repeat": true,
+   "sequence": [
+    [
+     "Bm7b5"
+    ],
+    [
+     "E7"
+    ],
+    [
+     "Am"
+    ],
+    [
+     "Am/G"
+    ],
+    [
+     "Dm6/F"
+    ],
+    [
+     "E7"
+    ],
+    [
+     "Am"
+    ],
+    [
+     "Am/C"
+    ],
+    [
+     "Bm7b5"
+    ],
+    [
+     "E7"
+    ],
+    [
+     "Am"
+    ],
+    [
+     "Am/G"
+    ],
+    [
+     "Dm6/F"
+    ],
+    [
+     "E7"
+    ],
+    [
+     "Am"
+    ],
+    [
+     "Am"
+    ],
+    [
+     "E7"
+    ]
+   ],
+   "endings": {
+    "1": [
+     []
+    ],
+    "2": [
+     []
+    ]
+   }
+  },
+  {
+   "name": "C",
+   "tonic": "A",
+   "bars": "52–84",
+   "repeat": false,
+   "sequence": [
+    [
+     "A"
+    ],
+    [],
+    [
+     "A"
+    ],
+    [],
+    [
+     "A"
+    ],
+    [
+     "Cdim"
+    ],
+    [
+     "E7/B"
+    ],
+    [],
+    [
+     "Bm"
+    ],
+    [
+     "Bm/A"
+    ],
+    [
+     "E7/G#"
+    ],
+    [
+     "E7"
+    ],
+    [
+     "Bm"
+    ],
+    [
+     "E7"
+    ],
+    [
+     "A"
+    ],
+    [
+     "E7"
+    ],
+    [
+     "A"
+    ],
+    [],
+    [
+     "A"
+    ],
+    [],
+    [
+     "A7"
+    ],
+    [
+     "A/G"
+    ],
+    [
+     "D/F#"
+    ],
+    [],
+    [
+     "F7"
+    ],
+    [
+     "F/Eb"
+    ],
+    [
+     "A/E"
+    ],
+    [],
+    [
+     "E7"
+    ],
+    [],
+    [
+     "A"
+    ],
+    [],
+    []
+   ]
+  },
+  {
+   "name": "Coda",
+   "tonic": "C",
+   "bars": "85–86",
+   "repeat": false,
+   "sequence": [
+    [
+     "A"
+    ],
+    []
+   ]
+  }
+ ],
+ "notes": [
+  "Grille générée automatiquement depuis la partition MusicXML : à vérifier.",
+  "Corroborée par une autre partition : enchaînement 93%, mesures 93%."
+ ],
+ "confidence": "high",
+ "source": [
+  "mxl/C/Luiz Americano - Lágrimas de virgem - Theme - C.mxl"
+ ],
+ "generated": "mxl"
+}

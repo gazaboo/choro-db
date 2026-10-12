@@ -1,0 +1,205 @@
+{
+ "song_id": "diva-albertino-pimentel",
+ "title": "Diva",
+ "composer": "Albertino Pimentel",
+ "transposition": "c",
+ "meter": "2/4",
+ "form": "A (reprise) — B (reprise) — C (reprise) — Coda",
+ "parts": [
+  {
+   "name": "A",
+   "tonic": "F",
+   "bars": "1–17",
+   "repeat": true,
+   "sequence": [
+    [
+     "F",
+     "Abdim"
+    ],
+    [
+     "C7/G"
+    ],
+    [
+     "C7",
+     "C/Bb"
+    ],
+    [
+     "F/A"
+    ],
+    [
+     "D7"
+    ],
+    [
+     "Gm"
+    ],
+    [
+     "C7"
+    ],
+    [
+     "F",
+     "C7"
+    ],
+    [
+     "F",
+     "G#dim"
+    ],
+    [
+     "A7"
+    ],
+    [
+     "A7/C#"
+    ],
+    [
+     "Dm"
+    ],
+    [
+     "Bb",
+     "Bbm6/Db"
+    ],
+    [
+     "F/C"
+    ],
+    [
+     "Gm",
+     "C7"
+    ]
+   ],
+   "endings": {
+    "1": [
+     [
+      "F"
+     ]
+    ],
+    "2": [
+     [
+      "F"
+     ]
+    ]
+   }
+  },
+  {
+   "name": "B",
+   "tonic": "F",
+   "bars": "18–26",
+   "repeat": true,
+   "sequence": [
+    [
+     "A7"
+    ],
+    [
+     "Dm"
+    ],
+    [
+     "Gm",
+     "D7/F#"
+    ],
+    [
+     "Gm"
+    ],
+    [
+     "Gm",
+     "C/Bb"
+    ],
+    [
+     "F/A"
+    ],
+    [
+     "Gm",
+     "C7"
+    ],
+    [
+     "F"
+    ],
+    [
+     "F",
+     "F7"
+    ]
+   ]
+  },
+  {
+   "name": "C",
+   "tonic": "Bb",
+   "bars": "27–X2",
+   "repeat": true,
+   "sequence": [
+    [
+     "Bb",
+     "G7/B"
+    ],
+    [
+     "Cm"
+    ],
+    [
+     "F7",
+     "F/Eb"
+    ],
+    [
+     "Bb/D"
+    ],
+    [
+     "Bb",
+     "Bb/Ab"
+    ],
+    [
+     "Dm/A"
+    ],
+    [
+     "A7",
+     "A7/C#"
+    ],
+    [
+     "Dm",
+     "F7"
+    ],
+    [
+     "Bb",
+     "G7/B"
+    ],
+    [
+     "Cm"
+    ],
+    [
+     "F7/A"
+    ],
+    [
+     "Bb",
+     "Bb/Ab"
+    ],
+    [
+     "Eb/G",
+     "Ebm6/Gb"
+    ],
+    [
+     "Bb/F"
+    ],
+    [
+     "C7",
+     "F7"
+    ],
+    [
+     "Bb"
+    ]
+   ]
+  },
+  {
+   "name": "Coda",
+   "tonic": "F",
+   "bars": "43–43",
+   "repeat": false,
+   "sequence": [
+    [
+     "F"
+    ]
+   ]
+  }
+ ],
+ "notes": [
+  "Grille générée automatiquement depuis la partition MusicXML : à vérifier.",
+  "Corroborée par une autre partition : enchaînement 91%, mesures 80%."
+ ],
+ "confidence": "high",
+ "source": [
+  "mxl/C/Albertino Pimentel - Diva - Theme - C.mxl"
+ ],
+ "generated": "mxl"
+}

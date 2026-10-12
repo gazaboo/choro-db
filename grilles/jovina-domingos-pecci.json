@@ -1,0 +1,358 @@
+{
+ "song_id": "jovina-domingos-pecci",
+ "title": "Jovina",
+ "composer": "Domingos Pecci",
+ "transposition": "c",
+ "meter": "3/4",
+ "form": "A (reprise) — B (reprise) — C (reprise)",
+ "parts": [
+  {
+   "name": "A",
+   "tonic": "Dm",
+   "bars": "0–33",
+   "repeat": true,
+   "sequence": [
+    [
+     "Dm"
+    ],
+    [
+     "A7"
+    ],
+    [
+     "Dm"
+    ],
+    [
+     "Dm/F"
+    ],
+    [
+     "Dm/A"
+    ],
+    [
+     "Dm"
+    ],
+    [
+     "A7/C#"
+    ],
+    [
+     "A7"
+    ],
+    [
+     "Gm6"
+    ],
+    [],
+    [
+     "Gm6/Bb"
+    ],
+    [],
+    [
+     "A7"
+    ],
+    [
+     "A7/C#"
+    ],
+    [
+     "Dm"
+    ],
+    [
+     "A7"
+    ],
+    [
+     "Dm"
+    ],
+    [
+     "A7"
+    ],
+    [
+     "Dm"
+    ],
+    [],
+    [
+     "Am7b5"
+    ],
+    [
+     "D7"
+    ],
+    [
+     "F#dim"
+    ],
+    [
+     "Gm"
+    ],
+    [
+     "Gm6/Bb"
+    ],
+    [
+     "A7"
+    ],
+    [
+     "Dm"
+    ],
+    [
+     "Dm/C"
+    ],
+    [
+     "E7/B"
+    ],
+    [
+     "A7"
+    ],
+    [
+     "Dm"
+    ]
+   ],
+   "endings": {
+    "1": [
+     [
+      "Dm"
+     ]
+    ],
+    "2": [
+     [
+      "Dm"
+     ]
+    ]
+   }
+  },
+  {
+   "name": "B",
+   "tonic": "Dm",
+   "bars": "34–X1",
+   "repeat": true,
+   "sequence": [
+    [
+     "C7"
+    ],
+    [
+     "C7/G"
+    ],
+    [
+     "F"
+    ],
+    [
+     "F/C"
+    ],
+    [
+     "A7"
+    ],
+    [
+     "A7/C#"
+    ],
+    [
+     "Dm"
+    ],
+    [
+     "Dm/F"
+    ],
+    [
+     "Em7b5"
+    ],
+    [
+     "A7"
+    ],
+    [
+     "Dm"
+    ],
+    [
+     "Bm7b5"
+    ],
+    [
+     "Am"
+    ],
+    [
+     "E7/B"
+    ],
+    [
+     "A7/C#"
+    ],
+    [
+     "A7"
+    ],
+    [
+     "C7"
+    ],
+    [
+     "C7/G"
+    ],
+    [
+     "F"
+    ],
+    [
+     "F/C"
+    ],
+    [
+     "A7"
+    ],
+    [
+     "A7/C#"
+    ],
+    [
+     "Dm"
+    ],
+    [
+     "D7/F#"
+    ],
+    [
+     "Gm6"
+    ],
+    [
+     "Em7b5"
+    ],
+    [
+     "Dm/F"
+    ],
+    [
+     "Dm"
+    ],
+    [
+     "E7"
+    ],
+    [
+     "A7"
+    ],
+    [
+     "Dm"
+    ]
+   ],
+   "endings": {
+    "1": [
+     [
+      "Dm"
+     ]
+    ],
+    "2": [
+     [
+      "Dm"
+     ]
+    ]
+   }
+  },
+  {
+   "name": "C",
+   "tonic": "D",
+   "bars": "68–101",
+   "repeat": true,
+   "sequence": [
+    [
+     "D6"
+    ],
+    [
+     "A7sus4"
+    ],
+    [
+     "D6"
+    ],
+    [
+     "D/F#"
+    ],
+    [
+     "B7"
+    ],
+    [
+     "B7/D#"
+    ],
+    [
+     "Em"
+    ],
+    [
+     "B7/F#"
+    ],
+    [
+     "Em/G"
+    ],
+    [
+     "E7/G#"
+    ],
+    [
+     "A7"
+    ],
+    [
+     "A7/C#"
+    ],
+    [
+     "A/G"
+    ],
+    [
+     "A7/E"
+    ],
+    [
+     "Fdim"
+    ],
+    [
+     "D/F#"
+    ],
+    [
+     "D6"
+    ],
+    [
+     "A7sus4"
+    ],
+    [
+     "D6"
+    ],
+    [
+     "D/F#"
+    ],
+    [
+     "B7"
+    ],
+    [
+     "B/A"
+    ],
+    [
+     "D#dim"
+    ],
+    [
+     "Em"
+    ],
+    [
+     "G6"
+    ],
+    [
+     "Gm6/Bb"
+    ],
+    [
+     "D/A"
+    ],
+    [
+     "D6"
+    ],
+    [
+     "A7"
+    ],
+    [
+     "A7/C#"
+    ],
+    [
+     "D"
+    ],
+    []
+   ],
+   "endings": {
+    "1": [
+     [
+      "D"
+     ]
+    ],
+    "2": [
+     [
+      "D"
+     ]
+    ]
+   },
+   "transition_in": [
+    [
+     "Dm"
+    ]
+   ]
+  }
+ ],
+ "notes": [
+  "Grille générée automatiquement depuis la partition MusicXML : à vérifier.",
+  "Corroborée par une autre partition : enchaînement 91%, mesures 92%."
+ ],
+ "confidence": "high",
+ "source": [
+  "mxl/C/Domingos Pecci - Jovina - Theme - C.mxl"
+ ],
+ "generated": "mxl"
+}

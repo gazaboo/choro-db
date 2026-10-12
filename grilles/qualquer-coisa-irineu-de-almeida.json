@@ -1,0 +1,231 @@
+{
+ "song_id": "qualquer-coisa-irineu-de-almeida",
+ "title": "Qualquer coisa",
+ "composer": "Irineu de Almeida",
+ "transposition": "c",
+ "meter": "2/4",
+ "form": "A (reprise) — B (reprise) — C (reprise)",
+ "parts": [
+  {
+   "name": "A",
+   "tonic": "F",
+   "bars": "1–17",
+   "repeat": true,
+   "sequence": [
+    [
+     "F",
+     "D7/F#"
+    ],
+    [
+     "G7"
+    ],
+    [
+     "C7"
+    ],
+    [
+     "F"
+    ],
+    [
+     "F",
+     "Bm7b5"
+    ],
+    [
+     "Am"
+    ],
+    [
+     "E7"
+    ],
+    [
+     "Am",
+     "C7"
+    ],
+    [
+     "F",
+     "D7/F#"
+    ],
+    [
+     "G7"
+    ],
+    [
+     "C7"
+    ],
+    [
+     "F",
+     "F/Eb"
+    ],
+    [
+     "Bb/D"
+    ],
+    [
+     "F/C",
+     "D7"
+    ],
+    [
+     "G7",
+     "C7"
+    ]
+   ],
+   "endings": {
+    "1": [
+     [
+      "F"
+     ]
+    ],
+    "2": [
+     [
+      "F"
+     ]
+    ]
+   }
+  },
+  {
+   "name": "B",
+   "tonic": "C",
+   "bars": "18–X1",
+   "repeat": true,
+   "sequence": [
+    [
+     "C"
+    ],
+    [
+     "D7"
+    ],
+    [
+     "G7"
+    ],
+    [
+     "C"
+    ],
+    [
+     "C/E",
+     "Cm6/Eb"
+    ],
+    [
+     "G/D"
+    ],
+    [
+     "D7/F#"
+    ],
+    [
+     "G7"
+    ],
+    [
+     "C"
+    ],
+    [
+     "D7"
+    ],
+    [
+     "G7"
+    ],
+    [
+     "C",
+     "C7"
+    ],
+    [
+     "F",
+     "F#dim"
+    ],
+    [
+     "C/G",
+     "Am7"
+    ],
+    [
+     "D7",
+     "G7"
+    ]
+   ],
+   "endings": {
+    "1": [
+     [
+      "C"
+     ]
+    ],
+    "2": [
+     [
+      "C",
+      "C7"
+     ]
+    ]
+   }
+  },
+  {
+   "name": "C",
+   "tonic": "Bb",
+   "bars": "36–52",
+   "repeat": true,
+   "sequence": [
+    [
+     "Bb"
+    ],
+    [
+     "Cm"
+    ],
+    [
+     "F7"
+    ],
+    [
+     "Bbdim",
+     "F7/A"
+    ],
+    [
+     "Bb",
+     "Gm6"
+    ],
+    [
+     "Dm"
+    ],
+    [
+     "A7"
+    ],
+    [
+     "Dm",
+     "G7",
+     "C7",
+     "F7"
+    ],
+    [
+     "Bb"
+    ],
+    [
+     "Cm"
+    ],
+    [
+     "Am7b5",
+     "D7"
+    ],
+    [
+     "Gm"
+    ],
+    [
+     "Edim"
+    ],
+    [
+     "Bb/F"
+    ],
+    [
+     "C7",
+     "F7"
+    ],
+    [
+     "Bb"
+    ],
+    []
+   ],
+   "transition_in": [
+    [
+     "F"
+    ]
+   ]
+  }
+ ],
+ "notes": [
+  "Grille générée automatiquement depuis la partition MusicXML : à vérifier.",
+  "Corroborée par une autre partition : enchaînement 94%, mesures 80%."
+ ],
+ "confidence": "high",
+ "source": [
+  "mxl/C/Irineu de Almeida - Qualquer coisa - Theme - C.mxl"
+ ],
+ "generated": "mxl"
+}

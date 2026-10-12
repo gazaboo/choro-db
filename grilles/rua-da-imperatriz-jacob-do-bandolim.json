@@ -1,0 +1,228 @@
+{
+ "song_id": "rua-da-imperatriz-jacob-do-bandolim",
+ "title": "Rua da Imperatriz",
+ "composer": "Jacob do Bandolim",
+ "transposition": "c",
+ "meter": "2/4",
+ "form": "A — B (reprise) — C (reprise) — Coda",
+ "parts": [
+  {
+   "name": "A",
+   "tonic": "Am",
+   "bars": "0–16",
+   "repeat": false,
+   "sequence": [
+    [
+     "E7/G#"
+    ],
+    [
+     "Am"
+    ],
+    [
+     "E7/B"
+    ],
+    [
+     "A7/C#"
+    ],
+    [
+     "Dm",
+     "Bm7b5"
+    ],
+    [
+     "Am"
+    ],
+    [
+     "E7"
+    ],
+    [
+     "Am"
+    ],
+    [
+     "E7/G#"
+    ],
+    [
+     "Am"
+    ],
+    [
+     "E7/B"
+    ],
+    [
+     "A7/C#"
+    ],
+    [
+     "Dm",
+     "Bm7b5"
+    ],
+    [
+     "Am/E"
+    ],
+    [
+     "E7"
+    ],
+    [
+     "Am"
+    ]
+   ]
+  },
+  {
+   "name": "B",
+   "tonic": "Am",
+   "bars": "17–34",
+   "repeat": true,
+   "sequence": [
+    [
+     "E7/B"
+    ],
+    [
+     "Am/C"
+    ],
+    [
+     "A7/C#"
+    ],
+    [
+     "Dm"
+    ],
+    [
+     "Bm7b5"
+    ],
+    [
+     "Am"
+    ],
+    [
+     "B7"
+    ],
+    [
+     "E7"
+    ],
+    [
+     "E7/B"
+    ],
+    [
+     "Am/C"
+    ],
+    [
+     "A7/C#"
+    ],
+    [
+     "Dm"
+    ],
+    [
+     "Bm7b5"
+    ],
+    [
+     "Am"
+    ],
+    [
+     "E7"
+    ],
+    [
+     "E7"
+    ]
+   ],
+   "endings": {
+    "1": [
+     [
+      "Am"
+     ]
+    ],
+    "2": [
+     [
+      "Am"
+     ]
+    ]
+   }
+  },
+  {
+   "name": "C",
+   "tonic": "Am",
+   "bars": "35–60",
+   "repeat": true,
+   "sequence": [
+    [],
+    [],
+    [
+     "Am"
+    ],
+    [],
+    [
+     "E7/B"
+    ],
+    [],
+    [
+     "Am"
+    ],
+    [],
+    [
+     "G7"
+    ],
+    [],
+    [
+     "C"
+    ],
+    [],
+    [
+     "G7"
+    ],
+    [],
+    [
+     "C"
+    ],
+    [
+     "E7"
+    ],
+    [
+     "Am"
+    ],
+    [],
+    [],
+    [
+     "E7"
+    ],
+    [
+     "Am"
+    ],
+    [
+     "E7"
+    ],
+    []
+   ],
+   "endings": {
+    "1": [
+     [
+      "Am"
+     ],
+     [
+      "Am",
+      "E7"
+     ]
+    ],
+    "2": [
+     [
+      "Am"
+     ]
+    ]
+   }
+  },
+  {
+   "name": "Coda",
+   "tonic": "Am",
+   "bars": "61–61",
+   "repeat": false,
+   "sequence": [
+    [
+     "Am"
+    ]
+   ]
+  }
+ ],
+ "notes": [
+  "Grille générée automatiquement depuis la partition MusicXML : à vérifier.",
+  "C : première mesure sans accord",
+  "Corroborée par une autre partition : enchaînement 86%, mesures 81%."
+ ],
+ "confidence": "high",
+ "source": [
+  "mxl/C/Jacob do Bandolim - Rua da Imperatriz - Theme - C.mxl"
+ ],
+ "generated": "mxl"
+}

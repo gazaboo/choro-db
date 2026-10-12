@@ -1,0 +1,243 @@
+{
+ "song_id": "princesinha-luperce-miranda",
+ "title": "Princesinha",
+ "composer": "Luperce Miranda",
+ "transposition": "c",
+ "meter": "3/4",
+ "form": "A — B — C (reprise) — A",
+ "parts": [
+  {
+   "name": "A",
+   "tonic": "G",
+   "bars": "0–8",
+   "repeat": false,
+   "sequence": [
+    [
+     "C#dim"
+    ],
+    [
+     "Bbdim"
+    ],
+    [
+     "G/B"
+    ],
+    [
+     "E7/G#"
+    ],
+    [
+     "A7"
+    ],
+    [
+     "D7"
+    ],
+    [
+     "G"
+    ],
+    []
+   ]
+  },
+  {
+   "name": "B",
+   "tonic": "Em",
+   "bars": "9–40",
+   "repeat": false,
+   "sequence": [
+    [
+     "G",
+     "F#7",
+     "Dm/F"
+    ],
+    [
+     "E7"
+    ],
+    [
+     "A7"
+    ],
+    [],
+    [
+     "D7"
+    ],
+    [],
+    [
+     "C#dim"
+    ],
+    [
+     "G/D"
+    ],
+    [
+     "G/B"
+    ],
+    [
+     "G/B",
+     "Gm6/Bb"
+    ],
+    [
+     "D/A"
+    ],
+    [],
+    [
+     "A7"
+    ],
+    [],
+    [
+     "D7"
+    ],
+    [],
+    [
+     "G",
+     "F#7",
+     "Dm/F"
+    ],
+    [
+     "E7"
+    ],
+    [
+     "A7"
+    ],
+    [],
+    [
+     "B7"
+    ],
+    [],
+    [
+     "Em"
+    ],
+    [],
+    [
+     "A7"
+    ],
+    [
+     "D7"
+    ],
+    [
+     "G"
+    ],
+    [
+     "Em7"
+    ],
+    [
+     "A7"
+    ],
+    [
+     "D7"
+    ],
+    [
+     "G"
+    ],
+    [
+     "G",
+     "B7"
+    ]
+   ]
+  },
+  {
+   "name": "C",
+   "tonic": "Em",
+   "bars": "41–X1",
+   "repeat": true,
+   "sequence": [
+    [
+     "Em"
+    ],
+    [],
+    [
+     "Am"
+    ],
+    [],
+    [
+     "B7"
+    ],
+    [],
+    [
+     "Em"
+    ],
+    [
+     "Em",
+     "B7"
+    ],
+    [
+     "Em"
+    ],
+    [
+     "Em6"
+    ],
+    [
+     "B/F#"
+    ],
+    [],
+    [
+     "C#7"
+    ],
+    [
+     "F#7"
+    ],
+    [
+     "Am6"
+    ],
+    [
+     "B7"
+    ],
+    [
+     "Em"
+    ],
+    [],
+    [
+     "Am"
+    ],
+    [],
+    [
+     "B7"
+    ],
+    [],
+    [
+     "E7"
+    ],
+    [],
+    [
+     "A7"
+    ],
+    [
+     "D7"
+    ],
+    [
+     "G7"
+    ],
+    [
+     "C7"
+    ],
+    [
+     "F"
+    ],
+    [
+     "B7"
+    ],
+    []
+   ],
+   "endings": {
+    "1": [
+     [
+      "Em"
+     ],
+     [
+      "Em",
+      "B7"
+     ]
+    ],
+    "2": [
+     [
+      "Em"
+     ]
+    ]
+   }
+  }
+ ],
+ "notes": [
+  "Grille générée automatiquement depuis la partition MusicXML : à vérifier.",
+  "Corroborée par une autre partition : enchaînement 89%, mesures 86%."
+ ],
+ "confidence": "high",
+ "source": [
+  "mxl/C/Luperce Miranda - Princesinha - Theme - C.mxl"
+ ],
+ "generated": "mxl"
+}

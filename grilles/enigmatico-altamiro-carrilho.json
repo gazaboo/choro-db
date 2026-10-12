@@ -1,0 +1,259 @@
+{
+ "song_id": "enigmatico-altamiro-carrilho",
+ "title": "Enigmático",
+ "composer": "Altamiro Carrilho",
+ "transposition": "c",
+ "meter": "2/4",
+ "form": "A — B (reprise) — C (reprise) — D (reprise) — Coda",
+ "parts": [
+  {
+   "name": "A",
+   "tonic": "Gm",
+   "bars": "0–4",
+   "repeat": false,
+   "sequence": [
+    [
+     "Gm6"
+    ],
+    [
+     "Cm"
+    ],
+    [
+     "D7"
+    ],
+    []
+   ]
+  },
+  {
+   "name": "B",
+   "tonic": "Gm",
+   "bars": "5–21",
+   "repeat": true,
+   "sequence": [
+    [
+     "Gm"
+    ],
+    [
+     "Cm"
+    ],
+    [
+     "D7"
+    ],
+    [
+     "Gm",
+     "D7"
+    ],
+    [
+     "Gm"
+    ],
+    [
+     "F(#5)"
+    ],
+    [
+     "Am/E",
+     "E7"
+    ],
+    [
+     "Am"
+    ],
+    [
+     "Am"
+    ],
+    [
+     "Dm"
+    ],
+    [
+     "E7"
+    ],
+    [
+     "Am"
+    ],
+    [
+     "Ab"
+    ],
+    [
+     "Gm"
+    ],
+    [
+     "D7"
+    ]
+   ],
+   "endings": {
+    "1": [
+     [
+      "Gm"
+     ]
+    ],
+    "2": [
+     [
+      "Gm"
+     ]
+    ]
+   }
+  },
+  {
+   "name": "C",
+   "tonic": "Bb",
+   "bars": "22–39",
+   "repeat": true,
+   "sequence": [
+    [
+     "Bb"
+    ],
+    [
+     "A7"
+    ],
+    [
+     "F7"
+    ],
+    [
+     "Bb"
+    ],
+    [
+     "A7"
+    ],
+    [
+     "Dm",
+     "A7"
+    ],
+    [
+     "Dm",
+     "C7"
+    ],
+    [
+     "F7"
+    ],
+    [
+     "Bb"
+    ],
+    [
+     "A"
+    ],
+    [
+     "F7"
+    ],
+    [
+     "Bb"
+    ],
+    [
+     "Cm6",
+     "D7"
+    ],
+    [
+     "Gm",
+     "Cm6"
+    ],
+    [
+     "Bb",
+     "C7",
+     "F7"
+    ],
+    [
+     "Gm"
+    ]
+   ],
+   "endings": {
+    "1": [
+     [
+      "Bb"
+     ]
+    ],
+    "2": [
+     [
+      "Bb"
+     ]
+    ]
+   }
+  },
+  {
+   "name": "D",
+   "tonic": "G",
+   "bars": "40–X2",
+   "repeat": true,
+   "sequence": [
+    [
+     "G"
+    ],
+    [
+     "F#m7b5",
+     "B7"
+    ],
+    [
+     "Em"
+    ],
+    [
+     "B7"
+    ],
+    [
+     "C",
+     "Bbdim"
+    ],
+    [
+     "G/B"
+    ],
+    [
+     "B"
+    ],
+    [
+     "Bb",
+     "D7"
+    ],
+    [
+     "G"
+    ],
+    [
+     "F#m7b5",
+     "B7"
+    ],
+    [
+     "Em"
+    ],
+    [
+     "B7"
+    ],
+    [
+     "C",
+     "Bbdim"
+    ],
+    [
+     "G/B",
+     "E7"
+    ],
+    [
+     "A7",
+     "D7"
+    ],
+    [
+     "G"
+    ]
+   ]
+  },
+  {
+   "name": "Coda",
+   "tonic": "Gm",
+   "bars": "56–59",
+   "repeat": false,
+   "sequence": [
+    [
+     "Gm"
+    ],
+    [
+     "Cm6"
+    ],
+    [],
+    [
+     "Gm6(9)"
+    ]
+   ]
+  }
+ ],
+ "notes": [
+  "Grille générée automatiquement depuis la partition MusicXML : à vérifier.",
+  "Corroborée par une autre partition : enchaînement 95%, mesures 88%."
+ ],
+ "confidence": "high",
+ "source": [
+  "mxl/C/Altamiro Carrilho - Enigmático - Theme - C.mxl"
+ ],
+ "generated": "mxl"
+}

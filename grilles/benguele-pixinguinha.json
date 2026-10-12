@@ -1,0 +1,200 @@
+{
+ "song_id": "benguele-pixinguinha",
+ "title": "Benguelê",
+ "composer": "Pixinguinha",
+ "transposition": "c",
+ "meter": "2/4",
+ "form": "A — B (reprise) — C — D — E — A",
+ "parts": [
+  {
+   "name": "A",
+   "tonic": "F",
+   "bars": "0–8",
+   "repeat": false,
+   "sequence": [
+    [
+     "Bb"
+    ],
+    [
+     "Bb",
+     "Bbm6/Db"
+    ],
+    [
+     "F/C",
+     "F/A"
+    ],
+    [
+     "D7/F#"
+    ],
+    [
+     "Gm",
+     "Eb/G"
+    ],
+    [
+     "C7"
+    ],
+    [
+     "F",
+     "F/E"
+    ],
+    [
+     "F/Eb",
+     "C7/E"
+    ]
+   ]
+  },
+  {
+   "name": "B",
+   "tonic": "F",
+   "bars": "9–17",
+   "repeat": true,
+   "sequence": [
+    [
+     "F",
+     "F/E"
+    ],
+    [
+     "F/Eb",
+     "F"
+    ],
+    [
+     "C7/G"
+    ],
+    [
+     "C7"
+    ],
+    [
+     "C7/G"
+    ],
+    [
+     "C7"
+    ],
+    [
+     "F"
+    ]
+   ],
+   "endings": {
+    "1": [
+     [
+      "F6",
+      "C7"
+     ]
+    ],
+    "2": [
+     [
+      "F6"
+     ]
+    ]
+   }
+  },
+  {
+   "name": "C",
+   "tonic": "F",
+   "bars": "18–25",
+   "repeat": false,
+   "sequence": [
+    [
+     "Bb"
+    ],
+    [],
+    [
+     "Bb",
+     "Bb7"
+    ],
+    [
+     "Bb"
+    ],
+    [
+     "F"
+    ],
+    [],
+    [
+     "F",
+     "F7"
+    ],
+    [
+     "F"
+    ]
+   ]
+  },
+  {
+   "name": "D",
+   "tonic": "F",
+   "bars": "26–37",
+   "repeat": false,
+   "sequence": [
+    [
+     "C7/G"
+    ],
+    [
+     "C7"
+    ],
+    [
+     "C7/G"
+    ],
+    [
+     "C7"
+    ],
+    [
+     "C7/G"
+    ],
+    [
+     "F"
+    ],
+    [
+     "G7",
+     "C7"
+    ],
+    [
+     "F"
+    ],
+    [],
+    [],
+    [
+     "G7",
+     "C7"
+    ],
+    [
+     "F"
+    ]
+   ]
+  },
+  {
+   "name": "E",
+   "tonic": "F",
+   "bars": "38–X1",
+   "repeat": false,
+   "sequence": [
+    [
+     "F7"
+    ],
+    [],
+    [
+     "F7"
+    ],
+    [],
+    [
+     "F7"
+    ],
+    [],
+    [
+     "C7"
+    ],
+    [],
+    [
+     "C7"
+    ],
+    []
+   ]
+  }
+ ],
+ "notes": [
+  "Grille générée automatiquement depuis la partition MusicXML : à vérifier.",
+  "Corroborée par une autre partition : enchaînement 100%, mesures 99%."
+ ],
+ "confidence": "high",
+ "source": [
+  "mxl/C/Pixinguinha - Benguelê - Theme - C.mxl"
+ ],
+ "generated": "mxl"
+}

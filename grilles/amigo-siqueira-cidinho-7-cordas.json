@@ -1,0 +1,188 @@
+{
+ "song_id": "amigo-siqueira-cidinho-7-cordas",
+ "title": "Amigo Siqueira",
+ "composer": "Cidinho 7 Cordas",
+ "transposition": "c",
+ "meter": "2/4",
+ "form": "A (reprise) — B (reprise) — Coda",
+ "parts": [
+  {
+   "name": "A",
+   "tonic": "Em",
+   "bars": "1–18",
+   "repeat": true,
+   "sequence": [
+    [],
+    [
+     "Em"
+    ],
+    [
+     "Am",
+     "B7"
+    ],
+    [
+     "Em",
+     "C7(9)"
+    ],
+    [
+     "F#m",
+     "F7(#11)"
+    ],
+    [
+     "Em",
+     "C#m7b5"
+    ],
+    [
+     "D",
+     "D#dim"
+    ],
+    [
+     "E7(9)",
+     "Eb7(9)"
+    ],
+    [
+     "D7(9)",
+     "C7(9)"
+    ],
+    [
+     "Em",
+     "Em/G"
+    ],
+    [
+     "Am",
+     "B7"
+    ],
+    [
+     "Em",
+     "C7(9)"
+    ],
+    [
+     "B7"
+    ],
+    [
+     "E7",
+     "Bdim"
+    ],
+    [
+     "Am",
+     "F"
+    ],
+    [
+     "Em",
+     "B7"
+    ]
+   ],
+   "endings": {
+    "1": [
+     [
+      "Em"
+     ]
+    ],
+    "2": [
+     [
+      "Em"
+     ]
+    ]
+   }
+  },
+  {
+   "name": "B",
+   "tonic": "Em",
+   "bars": "19–36",
+   "repeat": true,
+   "sequence": [
+    [
+     "Am",
+     "D7"
+    ],
+    [
+     "G",
+     "Bm/F#"
+    ],
+    [
+     "Fdim",
+     "E7"
+    ],
+    [
+     "Am"
+    ],
+    [
+     "Cm",
+     "Bbm6"
+    ],
+    [
+     "Gmaj7",
+     "Em"
+    ],
+    [
+     "A7",
+     "A/G"
+    ],
+    [
+     "D7/F#"
+    ],
+    [
+     "D7"
+    ],
+    [
+     "G",
+     "Bm/F#"
+    ],
+    [
+     "Fdim",
+     "E7"
+    ],
+    [
+     "Am"
+    ],
+    [
+     "Cm",
+     "Bbm6"
+    ],
+    [
+     "G",
+     "G(#5)"
+    ],
+    [
+     "Am",
+     "D7"
+    ],
+    []
+   ],
+   "endings": {
+    "1": [
+     [
+      "G"
+     ]
+    ],
+    "2": [
+     [
+      "G",
+      "B7"
+     ]
+    ]
+   }
+  },
+  {
+   "name": "Coda",
+   "tonic": "Em",
+   "bars": "37–37",
+   "repeat": false,
+   "sequence": [
+    [
+     "Em"
+    ]
+   ]
+  }
+ ],
+ "notes": [
+  "Grille générée automatiquement depuis la partition MusicXML : à vérifier.",
+  "A : première mesure sans accord",
+  "Corroborée par une autre partition : enchaînement 95%, mesures 82%."
+ ],
+ "confidence": "high",
+ "source": [
+  "mxl/C/Cidinho 7 Cordas - Amigo Siqueira - Theme - C.mxl"
+ ],
+ "generated": "mxl"
+}

@@ -1,0 +1,351 @@
+{
+ "song_id": "oscarina-pixinguinha",
+ "title": "Oscarina",
+ "composer": "Pixinguinha",
+ "transposition": "c",
+ "meter": "3/4",
+ "form": "A (reprise) — B (reprise) — C (reprise)",
+ "parts": [
+  {
+   "name": "A",
+   "tonic": "Dm",
+   "bars": "0–33",
+   "repeat": true,
+   "sequence": [
+    [
+     "Dm"
+    ],
+    [
+     "Dm/C"
+    ],
+    [
+     "E7/B"
+    ],
+    [
+     "Gm6/Bb"
+    ],
+    [
+     "Em7b5"
+    ],
+    [
+     "A7"
+    ],
+    [
+     "Dm"
+    ],
+    [
+     "A7(b9)"
+    ],
+    [
+     "Dm"
+    ],
+    [
+     "Bm7b5"
+    ],
+    [
+     "Am/C"
+    ],
+    [
+     "Am"
+    ],
+    [
+     "E7/G#"
+    ],
+    [
+     "E7"
+    ],
+    [
+     "A7"
+    ],
+    [
+     "A7/C#"
+    ],
+    [
+     "Dm"
+    ],
+    [
+     "Dm/C"
+    ],
+    [
+     "E7/B"
+    ],
+    [
+     "Gm6/Bb"
+    ],
+    [
+     "Em7b5"
+    ],
+    [
+     "A7/C#"
+    ],
+    [
+     "Cm6"
+    ],
+    [
+     "D7"
+    ],
+    [
+     "Gm"
+    ],
+    [
+     "Em7b5"
+    ],
+    [
+     "Dm"
+    ],
+    [
+     "Dm/C"
+    ],
+    [
+     "E7/B"
+    ],
+    [
+     "A7"
+    ],
+    [
+     "Dm"
+    ]
+   ],
+   "endings": {
+    "1": [
+     []
+    ],
+    "2": [
+     []
+    ]
+   }
+  },
+  {
+   "name": "B",
+   "tonic": "F",
+   "bars": "34–X1",
+   "repeat": true,
+   "sequence": [
+    [
+     "F"
+    ],
+    [
+     "Dm7"
+    ],
+    [
+     "Gm"
+    ],
+    [
+     "Gm7"
+    ],
+    [
+     "C7"
+    ],
+    [
+     "C7/E"
+    ],
+    [
+     "G#dim"
+    ],
+    [
+     "F/C"
+    ],
+    [
+     "F/A"
+    ],
+    [
+     "Abdim"
+    ],
+    [
+     "Gm"
+    ],
+    [
+     "Gm/F"
+    ],
+    [
+     "C7/E"
+    ],
+    [
+     "C7"
+    ],
+    [
+     "F"
+    ],
+    [
+     "C7"
+    ],
+    [
+     "F"
+    ],
+    [
+     "F#dim"
+    ],
+    [
+     "Gm"
+    ],
+    [
+     "Gm/Bb"
+    ],
+    [
+     "C7"
+    ],
+    [
+     "C/Bb"
+    ],
+    [
+     "G#dim"
+    ],
+    [
+     "F/A"
+    ],
+    [
+     "Cm7"
+    ],
+    [
+     "F7"
+    ],
+    [
+     "Bb"
+    ],
+    [
+     "Bbm6"
+    ],
+    [
+     "F/A"
+    ],
+    [
+     "G7",
+     "C7"
+    ],
+    [
+     "F"
+    ]
+   ],
+   "endings": {
+    "1": [
+     []
+    ],
+    "2": [
+     []
+    ]
+   }
+  },
+  {
+   "name": "C",
+   "tonic": "D",
+   "bars": "68–101",
+   "repeat": true,
+   "sequence": [
+    [
+     "D"
+    ],
+    [
+     "Fdim"
+    ],
+    [
+     "D/F#"
+    ],
+    [
+     "A7"
+    ],
+    [
+     "D/F#"
+    ],
+    [
+     "B7"
+    ],
+    [
+     "D#dim"
+    ],
+    [
+     "Em"
+    ],
+    [
+     "Em7"
+    ],
+    [
+     "A7"
+    ],
+    [
+     "Em7"
+    ],
+    [
+     "A7(b9)"
+    ],
+    [
+     "Em7"
+    ],
+    [
+     "A7"
+    ],
+    [
+     "Em7"
+    ],
+    [
+     "Gm6"
+    ],
+    [
+     "D"
+    ],
+    [
+     "Fdim"
+    ],
+    [
+     "D/F#"
+    ],
+    [
+     "D"
+    ],
+    [
+     "Am7"
+    ],
+    [
+     "D7"
+    ],
+    [
+     "Gm"
+    ],
+    [],
+    [
+     "Bb7"
+    ],
+    [
+     "Bb/Ab"
+    ],
+    [
+     "D/A"
+    ],
+    [
+     "Bm7"
+    ],
+    [
+     "E7"
+    ],
+    [
+     "A7"
+    ],
+    [
+     "D"
+    ],
+    []
+   ],
+   "endings": {
+    "1": [
+     []
+    ],
+    "2": [
+     []
+    ]
+   },
+   "transition_in": [
+    [
+     "Dm"
+    ]
+   ]
+  }
+ ],
+ "notes": [
+  "Grille générée automatiquement depuis la partition MusicXML : à vérifier.",
+  "Corroborée par une autre partition : enchaînement 89%, mesures 79%."
+ ],
+ "confidence": "high",
+ "source": [
+  "mxl/C/Pixinguinha - Oscarina - Theme - C.mxl"
+ ],
+ "generated": "mxl"
+}

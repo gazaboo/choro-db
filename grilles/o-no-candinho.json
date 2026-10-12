@@ -1,0 +1,242 @@
+{
+ "song_id": "o-no-candinho",
+ "title": "O nó",
+ "composer": "Candinho",
+ "transposition": "c",
+ "meter": "2/4",
+ "form": "A (reprise) — B (reprise) — C (reprise)",
+ "parts": [
+  {
+   "name": "A",
+   "tonic": "C",
+   "bars": "0–17",
+   "repeat": true,
+   "sequence": [
+    [
+     "C",
+     "Am"
+    ],
+    [
+     "Dm"
+    ],
+    [
+     "G7",
+     "G/F"
+    ],
+    [
+     "C/E"
+    ],
+    [
+     "E7/B",
+     "E7/G#"
+    ],
+    [
+     "Am"
+    ],
+    [
+     "F#7",
+     "F#7/A#"
+    ],
+    [
+     "Bm"
+    ],
+    [
+     "D7"
+    ],
+    [
+     "G"
+    ],
+    [
+     "C7"
+    ],
+    [
+     "F"
+    ],
+    [
+     "A7/C#",
+     "A7"
+    ],
+    [
+     "Dm",
+     "Dm/F",
+     "D7/F#"
+    ],
+    [
+     "C/G",
+     "G7"
+    ]
+   ],
+   "endings": {
+    "1": [
+     [
+      "C"
+     ]
+    ],
+    "2": [
+     [
+      "C"
+     ]
+    ]
+   }
+  },
+  {
+   "name": "B",
+   "tonic": "G",
+   "bars": "18–X1",
+   "repeat": true,
+   "sequence": [
+    [
+     "G",
+     "Em7"
+    ],
+    [
+     "Am"
+    ],
+    [
+     "D7",
+     "D/C"
+    ],
+    [
+     "G/B"
+    ],
+    [
+     "B7/D#",
+     "B7"
+    ],
+    [
+     "Em"
+    ],
+    [
+     "A7"
+    ],
+    [
+     "D7"
+    ],
+    [
+     "Bb"
+    ],
+    [
+     "F/A"
+    ],
+    [
+     "Ab"
+    ],
+    [
+     "Eb/G"
+    ],
+    [
+     "D7/F#",
+     "G/F"
+    ],
+    [
+     "C/E",
+     "Cm/Eb"
+    ],
+    [
+     "G/D",
+     "E7",
+     "A7",
+     "D7/F#"
+    ]
+   ],
+   "endings": {
+    "1": [
+     [
+      "G"
+     ]
+    ],
+    "2": [
+     [
+      "G"
+     ]
+    ]
+   }
+  },
+  {
+   "name": "C",
+   "tonic": "F",
+   "bars": "36–53",
+   "repeat": true,
+   "sequence": [
+    [
+     "F",
+     "D7/F#"
+    ],
+    [
+     "Gm"
+    ],
+    [
+     "C7",
+     "A7/C#"
+    ],
+    [
+     "Dm"
+    ],
+    [
+     "C7/E",
+     "C7"
+    ],
+    [
+     "F"
+    ],
+    [
+     "D7",
+     "D7/F#"
+    ],
+    [
+     "Gm"
+    ],
+    [
+     "Bb/D"
+    ],
+    [
+     "F/C"
+    ],
+    [
+     "Gm",
+     "C7"
+    ],
+    [
+     "F"
+    ],
+    [
+     "Eb7"
+    ],
+    [
+     "D7"
+    ],
+    [
+     "Gm",
+     "C7"
+    ],
+    []
+   ],
+   "endings": {
+    "1": [
+     [
+      "F"
+     ]
+    ],
+    "2": [
+     [
+      "F"
+     ]
+    ]
+   },
+   "transition_in": [
+    [
+     "C"
+    ]
+   ]
+  }
+ ],
+ "notes": [
+  "Grille générée automatiquement depuis la partition MusicXML : à vérifier.",
+  "Corroborée par une autre partition : enchaînement 98%, mesures 93%."
+ ],
+ "confidence": "high",
+ "source": [
+  "mxl/C/Candinho - O nó - Theme - C.mxl"
+ ],
+ "generated": "mxl"
+}

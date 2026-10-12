@@ -1,0 +1,206 @@
+{
+ "song_id": "balsamo-de-amor-dino",
+ "title": "Bálsamo de amor",
+ "composer": "Dino",
+ "transposition": "c",
+ "meter": "2/2",
+ "form": "A — B — C — D — Coda",
+ "parts": [
+  {
+   "name": "A",
+   "tonic": "Bb",
+   "bars": "0–4",
+   "repeat": false,
+   "sequence": [
+    [
+     "Dm7b5",
+     "G7"
+    ],
+    [
+     "Cm"
+    ],
+    [
+     "Ebm6/Gb",
+     "F7"
+    ],
+    [
+     "Bb"
+    ]
+   ]
+  },
+  {
+   "name": "B",
+   "tonic": "Bb",
+   "bars": "5–20",
+   "repeat": false,
+   "sequence": [
+    [
+     "Bb"
+    ],
+    [
+     "Bb7(#5)",
+     "Eb"
+    ],
+    [
+     "Eb7"
+    ],
+    [
+     "D7"
+    ],
+    [
+     "Fm6",
+     "G7"
+    ],
+    [
+     "Cm"
+    ],
+    [
+     "F7",
+     "F7(#5)"
+    ],
+    [
+     "Bb"
+    ],
+    [
+     "Bb"
+    ],
+    [
+     "Bb7(#5)",
+     "Eb"
+    ],
+    [
+     "Eb7"
+    ],
+    [
+     "D7"
+    ],
+    [
+     "Fm6",
+     "G7"
+    ],
+    [
+     "Cm"
+    ],
+    [
+     "Ebm6/Gb",
+     "F7"
+    ],
+    [
+     "Bb",
+     "A7"
+    ]
+   ]
+  },
+  {
+   "name": "C",
+   "tonic": "Dm",
+   "bars": "21–28",
+   "repeat": false,
+   "sequence": [
+    [
+     "Dm"
+    ],
+    [
+     "Bb7",
+     "A7"
+    ],
+    [
+     "Dm"
+    ],
+    [
+     "Gm7",
+     "C7"
+    ],
+    [
+     "F",
+     "Dm7"
+    ],
+    [
+     "Gm7"
+    ],
+    [
+     "C7"
+    ],
+    [
+     "F7",
+     "F7(#5)"
+    ]
+   ]
+  },
+  {
+   "name": "D",
+   "tonic": "Bb",
+   "bars": "29–X1",
+   "repeat": false,
+   "sequence": [
+    [
+     "Bb"
+    ],
+    [
+     "Bb7(#5)",
+     "Eb"
+    ],
+    [
+     "Eb7"
+    ],
+    [
+     "D7"
+    ],
+    [
+     "Fm6",
+     "G7"
+    ],
+    [
+     "Cm"
+    ],
+    [
+     "Ebm6/Gb",
+     "F7"
+    ],
+    [
+     "Bb",
+     "F7"
+    ]
+   ]
+  },
+  {
+   "name": "Coda",
+   "tonic": "Bb",
+   "bars": "37–43",
+   "repeat": false,
+   "sequence": [
+    [
+     "Bb"
+    ],
+    [
+     "Ebm6/Gb"
+    ],
+    [
+     "Bb"
+    ],
+    [
+     "Ebm6/Gb"
+    ],
+    [
+     "Bb"
+    ],
+    [
+     "Bb",
+     "F7"
+    ],
+    [
+     "Bb"
+    ]
+   ]
+  }
+ ],
+ "notes": [
+  "Grille générée automatiquement depuis la partition MusicXML : à vérifier.",
+  "Corroborée par une autre partition : enchaînement 92%, mesures 79%."
+ ],
+ "confidence": "high",
+ "source": [
+  "mxl/C/Dino - Bálsamo de amor - Theme - C.mxl"
+ ],
+ "generated": "mxl"
+}

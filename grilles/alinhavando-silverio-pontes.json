@@ -1,0 +1,280 @@
+{
+ "song_id": "alinhavando-silverio-pontes",
+ "title": "Alinhavando",
+ "composer": "Silvério Pontes",
+ "transposition": "c",
+ "meter": "2/4",
+ "form": "A (reprise) — B (reprise) — C (reprise) — Coda",
+ "parts": [
+  {
+   "name": "A",
+   "tonic": "Eb",
+   "bars": "0–17",
+   "repeat": true,
+   "sequence": [
+    [
+     "Cm"
+    ],
+    [
+     "Fm"
+    ],
+    [
+     "G7"
+    ],
+    [
+     "Cm"
+    ],
+    [
+     "C7"
+    ],
+    [
+     "Fm7"
+    ],
+    [
+     "Bb7"
+    ],
+    [
+     "Eb6",
+     "G7/D"
+    ],
+    [
+     "Cm"
+    ],
+    [
+     "Fm"
+    ],
+    [
+     "G7"
+    ],
+    [
+     "C7"
+    ],
+    [
+     "Fm7",
+     "Bb7"
+    ],
+    [
+     "Eb6",
+     "Ab7"
+    ],
+    [
+     "Db7",
+     "G7"
+    ]
+   ],
+   "endings": {
+    "1": [
+     [
+      "Cm",
+      "G7"
+     ]
+    ],
+    "2": [
+     [
+      "Cm",
+      "Bb7"
+     ]
+    ]
+   }
+  },
+  {
+   "name": "B",
+   "tonic": "Cm",
+   "bars": "18–35",
+   "repeat": true,
+   "sequence": [
+    [
+     "Eb6",
+     "Edim"
+    ],
+    [
+     "F7"
+    ],
+    [
+     "Bb"
+    ],
+    [
+     "Eb6",
+     "Bb7"
+    ],
+    [
+     "Eb6",
+     "Cm7"
+    ],
+    [
+     "F7"
+    ],
+    [
+     "Bb7"
+    ],
+    [
+     "Eb6",
+     "Bb7"
+    ],
+    [
+     "Eb6",
+     "Edim"
+    ],
+    [
+     "F7"
+    ],
+    [
+     "G7"
+    ],
+    [
+     "C7sus4",
+     "C7"
+    ],
+    [
+     "Fm7",
+     "Bb7"
+    ],
+    [
+     "Eb6",
+     "Ab7"
+    ],
+    [
+     "Db7",
+     "G7"
+    ],
+    [
+     "Cm",
+     "Eb7"
+    ]
+   ],
+   "endings": {
+    "1": [
+     [
+      "Cm",
+      "Bb7"
+     ]
+    ],
+    "2": [
+     [
+      "Cm",
+      "G7"
+     ]
+    ]
+   }
+  },
+  {
+   "name": "C",
+   "tonic": "Ab",
+   "bars": "36–61",
+   "repeat": true,
+   "sequence": [
+    [
+     "Ab/C"
+    ],
+    [
+     "C7/G"
+    ],
+    [
+     "Ebm6/Gb",
+     "F7"
+    ],
+    [
+     "Bbm7/F"
+    ],
+    [
+     "Bbm7",
+     "C7"
+    ],
+    [
+     "Fm7"
+    ],
+    [
+     "G7"
+    ],
+    [
+     "C7"
+    ],
+    [
+     "Bb7"
+    ],
+    [
+     "Eb6"
+    ],
+    [
+     "G7"
+    ],
+    [
+     "Cm"
+    ],
+    [
+     "Ab6",
+     "Adim"
+    ],
+    [
+     "Eb6/Bb",
+     "C7"
+    ],
+    [
+     "Fm7"
+    ],
+    [
+     "Bb7"
+    ],
+    [
+     "Bb/Ab"
+    ],
+    [
+     "Eb6/Bb"
+    ],
+    [
+     "G7/B"
+    ],
+    [
+     "Cm"
+    ],
+    [
+     "Ab6",
+     "Adim"
+    ],
+    [
+     "Eb6/Bb",
+     "C7"
+    ],
+    [
+     "Fm7",
+     "Bb7"
+    ],
+    []
+   ],
+   "endings": {
+    "1": [
+     [
+      "Eb",
+      "Eb/Db"
+     ]
+    ],
+    "2": [
+     [
+      "Eb6",
+      "G7/D"
+     ]
+    ]
+   }
+  },
+  {
+   "name": "Coda",
+   "tonic": "Cm",
+   "bars": "62–62",
+   "repeat": false,
+   "sequence": [
+    [
+     "Cm7"
+    ]
+   ]
+  }
+ ],
+ "notes": [
+  "Grille générée automatiquement depuis la partition MusicXML : à vérifier.",
+  "Corroborée par une autre partition : enchaînement 95%, mesures 86%."
+ ],
+ "confidence": "high",
+ "source": [
+  "mxl/C/Silvério Pontes - Alinhavando - Theme - C.mxl"
+ ],
+ "generated": "mxl"
+}

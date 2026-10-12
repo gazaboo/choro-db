@@ -1,0 +1,182 @@
+{
+ "song_id": "leao-de-chacara-dino",
+ "title": "Leão de chácara",
+ "composer": "Dino",
+ "transposition": "c",
+ "meter": "2/4",
+ "form": "A (reprise) — B (reprise) — Coda",
+ "parts": [
+  {
+   "name": "A",
+   "tonic": "D",
+   "bars": "0–17",
+   "repeat": true,
+   "sequence": [
+    [
+     "D"
+    ],
+    [
+     "A7"
+    ],
+    [
+     "D"
+    ],
+    [
+     "A7"
+    ],
+    [
+     "F#7"
+    ],
+    [
+     "Bm"
+    ],
+    [
+     "A",
+     "E7"
+    ],
+    [
+     "A7"
+    ],
+    [
+     "D"
+    ],
+    [
+     "A7"
+    ],
+    [
+     "D"
+    ],
+    [
+     "A7"
+    ],
+    [
+     "D",
+     "D/C"
+    ],
+    [
+     "G/B",
+     "Gm/Bb"
+    ],
+    [
+     "D",
+     "B7",
+     "Em7",
+     "A7"
+    ]
+   ],
+   "endings": {
+    "1": [
+     [
+      "D"
+     ]
+    ],
+    "2": [
+     [
+      "D",
+      "D#dim"
+     ]
+    ]
+   }
+  },
+  {
+   "name": "B",
+   "tonic": "A",
+   "bars": "18–X1",
+   "repeat": true,
+   "sequence": [
+    [
+     "E7"
+    ],
+    [
+     "A"
+    ],
+    [
+     "F#7"
+    ],
+    [
+     "Bm"
+    ],
+    [
+     "D#m7b5",
+     "G#7"
+    ],
+    [
+     "C#m",
+     "F#7"
+    ],
+    [
+     "Bm",
+     "G#7"
+    ],
+    [
+     "C#"
+    ],
+    [
+     "E7/B"
+    ],
+    [
+     "A"
+    ],
+    [
+     "F#7"
+    ],
+    [
+     "Bm"
+    ],
+    [
+     "D#m7b5",
+     "G#7"
+    ],
+    [
+     "C#m",
+     "F#7"
+    ],
+    [
+     "Bm",
+     "E7"
+    ]
+   ],
+   "endings": {
+    "1": [
+     [
+      "A"
+     ]
+    ],
+    "2": [
+     [
+      "A",
+      "A7"
+     ]
+    ]
+   }
+  },
+  {
+   "name": "Coda",
+   "tonic": "D",
+   "bars": "35–39",
+   "repeat": false,
+   "sequence": [
+    [
+     "D6(9)"
+    ],
+    [],
+    [
+     "Eb6(9)"
+    ],
+    [],
+    [
+     "D6"
+    ]
+   ]
+  }
+ ],
+ "notes": [
+  "Grille générée automatiquement depuis la partition MusicXML : à vérifier.",
+  "Corroborée par une autre partition : enchaînement 91%, mesures 81%."
+ ],
+ "confidence": "high",
+ "source": [
+  "mxl/C/Dino - Leão de chácara - Theme - C.mxl"
+ ],
+ "generated": "mxl"
+}

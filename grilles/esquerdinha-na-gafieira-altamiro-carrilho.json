@@ -1,0 +1,250 @@
+{
+ "song_id": "esquerdinha-na-gafieira-altamiro-carrilho",
+ "title": "Esquerdinha na gafieira",
+ "composer": "Altamiro Carrilho",
+ "transposition": "c",
+ "meter": "2/4",
+ "form": "A (reprise) — B (reprise) — C (reprise) — D (reprise)",
+ "parts": [
+  {
+   "name": "A",
+   "tonic": "Dm",
+   "bars": "0–17",
+   "repeat": true,
+   "sequence": [
+    [
+     "F"
+    ],
+    [
+     "Gm"
+    ],
+    [
+     "C7"
+    ],
+    [
+     "F"
+    ],
+    [
+     "F",
+     "E7"
+    ],
+    [
+     "Am"
+    ],
+    [
+     "Bm7b5",
+     "E7"
+    ],
+    [
+     "Am",
+     "C7"
+    ],
+    [
+     "F"
+    ],
+    [
+     "Gm"
+    ],
+    [
+     "C7"
+    ],
+    [
+     "F"
+    ],
+    [
+     "Db7"
+    ],
+    [
+     "Db7"
+    ],
+    [
+     "C7"
+    ]
+   ],
+   "endings": {
+    "1": [
+     [
+      "F"
+     ]
+    ],
+    "2": [
+     [
+      "F",
+      "A7"
+     ]
+    ]
+   }
+  },
+  {
+   "name": "B",
+   "tonic": "F",
+   "bars": "18–35",
+   "repeat": true,
+   "sequence": [
+    [
+     "Dm"
+    ],
+    [
+     "Gm/Bb"
+    ],
+    [
+     "A7"
+    ],
+    [
+     "Dm"
+    ],
+    [
+     "Dm",
+     "Bm7b5"
+    ],
+    [
+     "Am"
+    ],
+    [
+     "E7"
+    ],
+    [
+     "A7"
+    ],
+    [
+     "Dm"
+    ],
+    [
+     "Gm/Bb"
+    ],
+    [
+     "A7"
+    ],
+    [
+     "D7"
+    ],
+    [
+     "G7",
+     "C7"
+    ],
+    [
+     "F7",
+     "Bb7"
+    ],
+    [
+     "Eb",
+     "A7"
+    ],
+    [
+     "F",
+     "F7"
+    ]
+   ],
+   "endings": {
+    "1": [
+     [
+      "Dm"
+     ]
+    ],
+    "2": [
+     [
+      "Dm",
+      "Db7",
+      "C7"
+     ]
+    ]
+   }
+  },
+  {
+   "name": "C",
+   "tonic": "Bb",
+   "bars": "36–X2",
+   "repeat": true,
+   "sequence": [
+    [
+     "Bb6"
+    ],
+    [],
+    [
+     "Bb6"
+    ],
+    [
+     "Cm"
+    ],
+    [
+     "Cm"
+    ],
+    [],
+    [
+     "Ebm6",
+     "F7"
+    ],
+    [
+     "Bb"
+    ],
+    [
+     "Bb6"
+    ],
+    [],
+    [
+     "Bb7"
+    ],
+    [
+     "Eb"
+    ],
+    [
+     "Ebm6"
+    ],
+    [
+     "Bb",
+     "Gm"
+    ],
+    [
+     "C7",
+     "F7"
+    ]
+   ],
+   "endings": {
+    "1": [
+     [
+      "Bb"
+     ]
+    ],
+    "2": [
+     [
+      "Bb",
+      "B7",
+      "C7"
+     ]
+    ]
+   }
+  },
+  {
+   "name": "D",
+   "tonic": "F",
+   "bars": "53–57",
+   "repeat": true,
+   "sequence": [
+    [
+     "F"
+    ],
+    [
+     "Db7"
+    ],
+    [
+     "Db7"
+    ],
+    [
+     "C7"
+    ],
+    [
+     "F"
+    ]
+   ]
+  }
+ ],
+ "notes": [
+  "Grille générée automatiquement depuis la partition MusicXML : à vérifier.",
+  "Corroborée par une autre partition : enchaînement 93%, mesures 91%."
+ ],
+ "confidence": "high",
+ "source": [
+  "mxl/C/Altamiro Carrilho - Esquerdinha na gafieira - Theme - C.mxl"
+ ],
+ "generated": "mxl"
+}

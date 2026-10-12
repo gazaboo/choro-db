@@ -1,0 +1,334 @@
+{
+ "song_id": "levanta-meu-nego-pixinguinha",
+ "title": "Levanta meu nego",
+ "composer": "Pixinguinha",
+ "transposition": "c",
+ "meter": "2/4",
+ "form": "A — B (reprise) — C — D — E — F — Coda",
+ "parts": [
+  {
+   "name": "A",
+   "tonic": "C",
+   "bars": "0–16",
+   "repeat": false,
+   "sequence": [
+    [
+     "C",
+     "C#dim"
+    ],
+    [
+     "G7/D",
+     "G7"
+    ],
+    [
+     "G7/D",
+     "D#dim"
+    ],
+    [
+     "C/E"
+    ],
+    [
+     "C/E",
+     "Ebdim"
+    ],
+    [
+     "Dm7"
+    ],
+    [
+     "G7"
+    ],
+    [
+     "Cdim",
+     "C"
+    ],
+    [
+     "Gm7"
+    ],
+    [
+     "C7"
+    ],
+    [
+     "F"
+    ],
+    [
+     "F",
+     "F#dim"
+    ],
+    [
+     "Gm",
+     "G#dim"
+    ],
+    [
+     "F/A",
+     "D7/F#"
+    ],
+    [
+     "C/G",
+     "G7"
+    ],
+    [
+     "C7",
+     "C#/B",
+     "Gm/Bb",
+     "C7/G"
+    ]
+   ]
+  },
+  {
+   "name": "B",
+   "tonic": "F",
+   "bars": "17–33",
+   "repeat": true,
+   "sequence": [
+    [
+     "F"
+    ],
+    [
+     "F/A",
+     "Abdim"
+    ],
+    [
+     "Gm7"
+    ],
+    [],
+    [
+     "C7"
+    ],
+    [],
+    [
+     "Fmaj7"
+    ],
+    [
+     "F6"
+    ]
+   ],
+   "endings": {
+    "1": [
+     [
+      "D7"
+     ],
+     [],
+     [
+      "G7"
+     ],
+     [],
+     [],
+     [],
+     [
+      "C7"
+     ],
+     []
+    ],
+    "2": [
+     [
+      "D7"
+     ]
+    ]
+   }
+  },
+  {
+   "name": "C",
+   "tonic": "F",
+   "bars": "34–38",
+   "repeat": false,
+   "sequence": [
+    [],
+    [
+     "Gm"
+    ],
+    [
+     "G#dim"
+    ],
+    [
+     "F/A",
+     "D7/F#"
+    ],
+    [
+     "Gm",
+     "C7"
+    ]
+   ]
+  },
+  {
+   "name": "D",
+   "tonic": "F",
+   "bars": "39–46",
+   "repeat": false,
+   "sequence": [
+    [
+     "F",
+     "A7/C#"
+    ],
+    [
+     "D7",
+     "G7"
+    ],
+    [
+     "C7",
+     "F7"
+    ],
+    [
+     "Bb6",
+     "Bb/Ab"
+    ],
+    [
+     "A7"
+    ],
+    [
+     "Bb6",
+     "Bdim"
+    ],
+    [
+     "F/C",
+     "F/A"
+    ],
+    [
+     "Gm",
+     "C7"
+    ]
+   ]
+  },
+  {
+   "name": "E",
+   "tonic": "F",
+   "bars": "47–55",
+   "repeat": false,
+   "sequence": [
+    [
+     "F",
+     "A7"
+    ],
+    [
+     "D7",
+     "G7"
+    ],
+    [
+     "C",
+     "C/Bb"
+    ],
+    [
+     "F/A",
+     "C7/G"
+    ],
+    [
+     "F#dim",
+     "D7"
+    ],
+    [
+     "Gm",
+     "Bbm6/Db"
+    ],
+    [
+     "F/C",
+     "D7"
+    ],
+    [
+     "Db7",
+     "C7"
+    ],
+    [
+     "F",
+     "D/C"
+    ]
+   ]
+  },
+  {
+   "name": "F",
+   "tonic": "F",
+   "bars": "56–X1",
+   "repeat": false,
+   "sequence": [
+    [
+     "Bb6",
+     "Bdim"
+    ],
+    [
+     "F/C",
+     "D7"
+    ],
+    [
+     "Gm7",
+     "C7"
+    ],
+    [
+     "F",
+     "F/Eb"
+    ],
+    [
+     "Ddim",
+     "Bbm6/Db"
+    ],
+    [
+     "F/C",
+     "Bdim"
+    ],
+    [
+     "C/Bb",
+     "C7/E"
+    ],
+    [
+     "F",
+     "F/Eb"
+    ],
+    [
+     "Bb/D",
+     "Bbm6/Db"
+    ],
+    [
+     "F/C",
+     "Bdim"
+    ],
+    [
+     "C/Bb",
+     "C7/E"
+    ],
+    [
+     "F"
+    ]
+   ]
+  },
+  {
+   "name": "Coda",
+   "tonic": "C",
+   "bars": "68–74",
+   "repeat": false,
+   "sequence": [
+    [
+     "C",
+     "C/Bb"
+    ],
+    [
+     "F/A",
+     "Fm6/Ab"
+    ],
+    [
+     "C/G",
+     "F#dim"
+    ],
+    [
+     "Dm/F",
+     "G7"
+    ],
+    [
+     "Fm6/Ab"
+    ],
+    [
+     "Fm6"
+    ],
+    [
+     "C"
+    ]
+   ]
+  }
+ ],
+ "notes": [
+  "Grille générée automatiquement depuis la partition MusicXML : à vérifier.",
+  "C : première mesure sans accord",
+  "Corroborée par une autre partition : enchaînement 94%, mesures 85%."
+ ],
+ "confidence": "high",
+ "source": [
+  "mxl/C/Pixinguinha - Levanta meu nego - Theme - C.mxl"
+ ],
+ "generated": "mxl"
+}

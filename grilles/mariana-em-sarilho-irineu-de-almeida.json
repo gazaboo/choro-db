@@ -1,0 +1,230 @@
+{
+ "song_id": "mariana-em-sarilho-irineu-de-almeida",
+ "title": "Mariana em sarilho",
+ "composer": "Irineu de Almeida",
+ "transposition": "c",
+ "meter": "2/4",
+ "form": "A (reprise) — B (reprise) — C (reprise)",
+ "parts": [
+  {
+   "name": "A",
+   "tonic": "Am",
+   "bars": "0–17",
+   "repeat": true,
+   "sequence": [
+    [
+     "Am",
+     "E7"
+    ],
+    [
+     "Am"
+    ],
+    [
+     "A7",
+     "A/G"
+    ],
+    [
+     "Dm/F"
+    ],
+    [
+     "Dm"
+    ],
+    [
+     "Am"
+    ],
+    [
+     "B7/F#"
+    ],
+    [
+     "E7"
+    ],
+    [
+     "Am",
+     "E7"
+    ],
+    [
+     "Am"
+    ],
+    [
+     "A7",
+     "A/G"
+    ],
+    [
+     "Dm/F"
+    ],
+    [
+     "Dm",
+     "Bm7b5"
+    ],
+    [
+     "Am",
+     "Am/G"
+    ],
+    [
+     "B7/F#",
+     "E7"
+    ]
+   ],
+   "endings": {
+    "1": [
+     [
+      "Am"
+     ]
+    ],
+    "2": [
+     [
+      "Am"
+     ]
+    ]
+   }
+  },
+  {
+   "name": "B",
+   "tonic": "C",
+   "bars": "18–35",
+   "repeat": true,
+   "sequence": [
+    [
+     "C"
+    ],
+    [],
+    [],
+    [
+     "Dm"
+    ],
+    [
+     "E7"
+    ],
+    [
+     "Am"
+    ],
+    [
+     "D7"
+    ],
+    [
+     "G7"
+    ],
+    [
+     "C"
+    ],
+    [],
+    [
+     "Gm6/Bb",
+     "A7"
+    ],
+    [
+     "Dm"
+    ],
+    [
+     "F",
+     "Fm6"
+    ],
+    [
+     "C",
+     "A7"
+    ],
+    [
+     "Dm",
+     "G7"
+    ],
+    []
+   ],
+   "endings": {
+    "1": [
+     [
+      "C"
+     ]
+    ],
+    "2": [
+     [
+      "C"
+     ]
+    ]
+   }
+  },
+  {
+   "name": "C",
+   "tonic": "A",
+   "bars": "37–54",
+   "repeat": true,
+   "sequence": [
+    [
+     "A"
+    ],
+    [
+     "Bm7"
+    ],
+    [
+     "E7"
+    ],
+    [
+     "A"
+    ],
+    [],
+    [
+     "B7(9)"
+    ],
+    [
+     "E7"
+    ],
+    [
+     "A"
+    ],
+    [
+     "Am",
+     "Am/G"
+    ],
+    [
+     "Dm6/F"
+    ],
+    [
+     "Bm7b5",
+     "E7"
+    ],
+    [
+     "A",
+     "A7"
+    ],
+    [
+     "D",
+     "D#dim"
+    ],
+    [
+     "A",
+     "F#7"
+    ],
+    [
+     "Bm",
+     "E7"
+    ],
+    []
+   ],
+   "endings": {
+    "1": [
+     [
+      "A"
+     ]
+    ],
+    "2": [
+     [
+      "A"
+     ]
+    ]
+   },
+   "transition_in": [
+    [
+     "Am"
+    ]
+   ]
+  }
+ ],
+ "notes": [
+  "Grille générée automatiquement depuis la partition MusicXML : à vérifier.",
+  "Corroborée par une autre partition : enchaînement 97%, mesures 90%."
+ ],
+ "confidence": "high",
+ "source": [
+  "mxl/C/Irineu de Almeida - Mariana em sarilho - Theme - C.mxl"
+ ],
+ "generated": "mxl"
+}

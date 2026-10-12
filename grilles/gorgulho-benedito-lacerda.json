@@ -1,0 +1,249 @@
+{
+ "song_id": "gorgulho-benedito-lacerda",
+ "title": "Gorgulho",
+ "composer": "Benedito Lacerda",
+ "transposition": "c",
+ "meter": "2/4",
+ "form": "A (reprise) — B (reprise) — C (reprise) — Coda",
+ "parts": [
+  {
+   "name": "A",
+   "tonic": "Dm",
+   "bars": "0–17",
+   "repeat": true,
+   "sequence": [
+    [
+     "Dm",
+     "Dm/C"
+    ],
+    [
+     "E7/B"
+    ],
+    [
+     "A7",
+     "A/G"
+    ],
+    [
+     "Dm/F"
+    ],
+    [
+     "Dm",
+     "Bm7b5"
+    ],
+    [
+     "Am/C"
+    ],
+    [
+     "F/Eb",
+     "E/D"
+    ],
+    [
+     "Gm6/D",
+     "A7/C#"
+    ],
+    [
+     "Dm",
+     "Dm/C"
+    ],
+    [
+     "E7/B"
+    ],
+    [
+     "A7",
+     "A/G"
+    ],
+    [
+     "Dm/F"
+    ],
+    [
+     "D7",
+     "D7/F#"
+    ],
+    [
+     "Gm",
+     "Em7b5"
+    ],
+    [
+     "Dm/F",
+     "A7"
+    ]
+   ],
+   "endings": {
+    "1": [
+     [
+      "Dm"
+     ]
+    ],
+    "2": [
+     [
+      "Dm"
+     ]
+    ]
+   }
+  },
+  {
+   "name": "B",
+   "tonic": "Dm",
+   "bars": "18–35",
+   "repeat": true,
+   "sequence": [
+    [
+     "C7"
+    ],
+    [
+     "F/A"
+    ],
+    [
+     "A7/C#"
+    ],
+    [
+     "Dm"
+    ],
+    [
+     "Bdim"
+    ],
+    [
+     "F/C"
+    ],
+    [
+     "G7/B"
+    ],
+    [
+     "C7"
+    ],
+    [
+     "C/Bb"
+    ],
+    [
+     "F/A"
+    ],
+    [
+     "A7/C#"
+    ],
+    [
+     "Dm"
+    ],
+    [
+     "Bdim",
+     "G#dim"
+    ],
+    [
+     "F/A",
+     "D7"
+    ],
+    [
+     "G7",
+     "C7"
+    ],
+    [
+     "Dm"
+    ]
+   ],
+   "endings": {
+    "1": [
+     [
+      "F"
+     ]
+    ],
+    "2": [
+     [
+      "Dm"
+     ]
+    ]
+   }
+  },
+  {
+   "name": "C",
+   "tonic": "D",
+   "bars": "36–53",
+   "repeat": true,
+   "sequence": [
+    [
+     "D"
+    ],
+    [
+     "G#dim"
+    ],
+    [
+     "A/G"
+    ],
+    [
+     "D/F#"
+    ],
+    [
+     "D"
+    ],
+    [
+     "F#m/C#"
+    ],
+    [
+     "C#7/E#",
+     "C#7"
+    ],
+    [
+     "F#m",
+     "A7"
+    ],
+    [
+     "D"
+    ],
+    [
+     "G#dim"
+    ],
+    [
+     "A/G"
+    ],
+    [
+     "D/F#"
+    ],
+    [
+     "D/C",
+     "D7"
+    ],
+    [
+     "G",
+     "Gm6/Bb"
+    ],
+    [
+     "D/A",
+     "A7/C#"
+    ],
+    []
+   ],
+   "endings": {
+    "1": [
+     [
+      "D",
+      "A7(#5)"
+     ]
+    ],
+    "2": [
+     [
+      "D",
+      "A7"
+     ]
+    ]
+   }
+  },
+  {
+   "name": "Coda",
+   "tonic": "Dm",
+   "bars": "54–54",
+   "repeat": false,
+   "sequence": [
+    [
+     "Dm"
+    ]
+   ]
+  }
+ ],
+ "notes": [
+  "Grille générée automatiquement depuis la partition MusicXML : à vérifier.",
+  "Corroborée par une autre partition : enchaînement 92%, mesures 85%."
+ ],
+ "confidence": "high",
+ "source": [
+  "mxl/C/Benedito Lacerda - Gorgulho - Theme - C.mxl"
+ ],
+ "generated": "mxl"
+}

@@ -1,0 +1,184 @@
+{
+ "song_id": "perigoso-orlando-silveira",
+ "title": "Perigoso",
+ "composer": "Orlando Silveira",
+ "transposition": "c",
+ "meter": "2/4",
+ "form": "A (reprise) — B (reprise) — Coda",
+ "parts": [
+  {
+   "name": "A",
+   "tonic": "G",
+   "bars": "0–17",
+   "repeat": true,
+   "sequence": [
+    [
+     "G6",
+     "E7"
+    ],
+    [
+     "Am7",
+     "D7(9)"
+    ],
+    [
+     "G6",
+     "Eb7(9)"
+    ],
+    [
+     "Am7",
+     "D7(9)"
+    ],
+    [
+     "Dm7",
+     "G7"
+    ],
+    [
+     "C6"
+    ],
+    [
+     "Bm7b5",
+     "E7"
+    ],
+    [
+     "Am7",
+     "D7(#5)"
+    ],
+    [
+     "G6",
+     "E7"
+    ],
+    [
+     "Am7",
+     "D7(9)"
+    ],
+    [
+     "G6",
+     "G7"
+    ],
+    [
+     "C6"
+    ],
+    [
+     "Cm6",
+     "F7(9)"
+    ],
+    [
+     "Bm7",
+     "E7"
+    ],
+    [
+     "Am7",
+     "D7(9)"
+    ]
+   ],
+   "endings": {
+    "1": [
+     [
+      "G6"
+     ]
+    ],
+    "2": [
+     [
+      "G6"
+     ]
+    ]
+   }
+  },
+  {
+   "name": "B",
+   "tonic": "G",
+   "bars": "18–35",
+   "repeat": true,
+   "sequence": [
+    [
+     "F#m7b5",
+     "B7(b9)"
+    ],
+    [
+     "Em"
+    ],
+    [
+     "Dm7",
+     "G7(9)"
+    ],
+    [
+     "C6",
+     "E7/G#"
+    ],
+    [
+     "Am",
+     "Cm6"
+    ],
+    [
+     "G6"
+    ],
+    [
+     "A7(9)"
+    ],
+    [
+     "D7(9)"
+    ],
+    [
+     "F#m7b5",
+     "B7(b9)"
+    ],
+    [
+     "Em"
+    ],
+    [
+     "Dm7",
+     "G7(9)"
+    ],
+    [
+     "C6",
+     "E7/G#"
+    ],
+    [
+     "Am7",
+     "Cm6"
+    ],
+    [
+     "G6",
+     "Em7"
+    ],
+    [
+     "Am7",
+     "D7(9)"
+    ],
+    []
+   ],
+   "endings": {
+    "1": [
+     [
+      "G6"
+     ]
+    ],
+    "2": [
+     [
+      "G6"
+     ]
+    ]
+   }
+  },
+  {
+   "name": "Coda",
+   "tonic": "G",
+   "bars": "36–36",
+   "repeat": false,
+   "sequence": [
+    [
+     "G6"
+    ]
+   ]
+  }
+ ],
+ "notes": [
+  "Grille générée automatiquement depuis la partition MusicXML : à vérifier.",
+  "Corroborée par une autre partition : enchaînement 90%, mesures 78%."
+ ],
+ "confidence": "high",
+ "source": [
+  "mxl/C/Orlando Silveira - Perigoso - Theme - C.mxl"
+ ],
+ "generated": "mxl"
+}

@@ -1,0 +1,379 @@
+{
+ "song_id": "a-baiana-henrique-alves-de-mesquita",
+ "title": "A baiana",
+ "composer": "Henrique Alves de Mesquita",
+ "transposition": "c",
+ "meter": "2/4",
+ "form": "A — B — C (reprise) — D — E — F (reprise) — A — Coda",
+ "parts": [
+  {
+   "name": "A",
+   "tonic": "C",
+   "bars": "0–9",
+   "repeat": false,
+   "sequence": [
+    [
+     "C/Bb"
+    ],
+    [
+     "F/A",
+     "E/D"
+    ],
+    [
+     "Am/C",
+     "A/G"
+    ],
+    [
+     "Dm/F",
+     "A7/E"
+    ],
+    [
+     "Dm",
+     "D/C"
+    ],
+    [
+     "G/B",
+     "Bb7"
+    ],
+    [
+     "A7"
+    ],
+    [
+     "Dm/A",
+     "D#dim/A"
+    ],
+    [
+     "A7"
+    ],
+    []
+   ]
+  },
+  {
+   "name": "B",
+   "tonic": "G",
+   "bars": "10–25",
+   "repeat": false,
+   "sequence": [
+    [
+     "D",
+     "D/C#"
+    ],
+    [
+     "D/C",
+     "G/B"
+    ],
+    [
+     "D7/A",
+     "G#dim"
+    ],
+    [
+     "Am"
+    ],
+    [
+     "Am/C"
+    ],
+    [
+     "G/D"
+    ],
+    [
+     "D7"
+    ],
+    [
+     "G"
+    ],
+    [
+     "D",
+     "D/C#"
+    ],
+    [
+     "D/C",
+     "G/B"
+    ],
+    [
+     "D7/A",
+     "G#dim"
+    ],
+    [
+     "Am"
+    ],
+    [
+     "Am/C"
+    ],
+    [
+     "G/D"
+    ],
+    [
+     "D7"
+    ],
+    [
+     "G"
+    ]
+   ]
+  },
+  {
+   "name": "C",
+   "tonic": "D",
+   "bars": "26–34",
+   "repeat": true,
+   "sequence": [
+    [
+     "D/F#"
+    ],
+    [
+     "A/G"
+    ],
+    [
+     "D/F#"
+    ],
+    [
+     "A/G"
+    ],
+    [
+     "Dm/F"
+    ],
+    [
+     "Gm6"
+    ],
+    [
+     "G#dim"
+    ]
+   ],
+   "endings": {
+    "1": [
+     [
+      "A7"
+     ]
+    ],
+    "2": [
+     [
+      "A7"
+     ]
+    ]
+   }
+  },
+  {
+   "name": "D",
+   "tonic": "D",
+   "bars": "35–38",
+   "repeat": false,
+   "sequence": [
+    [
+     "Dm/A",
+     "D#dim/A"
+    ],
+    [
+     "A7"
+    ],
+    [],
+    [
+     "G"
+    ]
+   ]
+  },
+  {
+   "name": "E",
+   "tonic": "C",
+   "bars": "39–54",
+   "repeat": false,
+   "sequence": [
+    [
+     "C",
+     "Ebdim"
+    ],
+    [
+     "G7/D"
+    ],
+    [
+     "C",
+     "Ebdim"
+    ],
+    [
+     "G7/D"
+    ],
+    [
+     "C"
+    ],
+    [
+     "Dm/F"
+    ],
+    [
+     "D7/F#"
+    ],
+    [
+     "G7"
+    ],
+    [
+     "C",
+     "Ebdim"
+    ],
+    [
+     "G7/D"
+    ],
+    [
+     "C",
+     "Ebdim"
+    ],
+    [
+     "G7/D"
+    ],
+    [
+     "C",
+     "C/Bb"
+    ],
+    [
+     "F/A",
+     "Fm6/Ab"
+    ],
+    [
+     "C/G"
+    ],
+    [
+     "G7",
+     "C"
+    ]
+   ]
+  },
+  {
+   "name": "F",
+   "tonic": "C",
+   "bars": "55–76",
+   "repeat": true,
+   "sequence": [
+    [
+     "E7"
+    ],
+    [],
+    [
+     "E7"
+    ],
+    [],
+    [
+     "E7"
+    ],
+    [
+     "C#7"
+    ],
+    [
+     "F#7"
+    ],
+    [
+     "B7"
+    ],
+    [
+     "E7"
+    ],
+    [
+     "A",
+     "A7"
+    ],
+    [
+     "D7"
+    ],
+    [
+     "Em"
+    ],
+    [
+     "Am/C",
+     "D7(b9)"
+    ],
+    [
+     "G",
+     "G7"
+    ],
+    [
+     "C",
+     "Ebdim"
+    ],
+    [
+     "G7/D"
+    ],
+    [
+     "C",
+     "Ebdim"
+    ],
+    [
+     "G7/D"
+    ],
+    [
+     "C",
+     "C/Bb"
+    ],
+    [
+     "F/A",
+     "Fm6/Ab"
+    ],
+    [
+     "C/G"
+    ],
+    [
+     "G7",
+     "C"
+    ]
+   ]
+  },
+  {
+   "name": "Coda",
+   "tonic": "G",
+   "bars": "87–102",
+   "repeat": false,
+   "sequence": [
+    [
+     "D",
+     "D/C#"
+    ],
+    [
+     "D/C",
+     "G/B"
+    ],
+    [
+     "D7/A",
+     "G#dim"
+    ],
+    [
+     "Am"
+    ],
+    [
+     "Am/C"
+    ],
+    [
+     "G/D"
+    ],
+    [
+     "D7"
+    ],
+    [
+     "G"
+    ],
+    [
+     "G7"
+    ],
+    [
+     "C7/G"
+    ],
+    [
+     "Cm6/G"
+    ],
+    [
+     "G"
+    ],
+    [],
+    [],
+    [
+     "G"
+    ],
+    [
+     "G"
+    ]
+   ]
+  }
+ ],
+ "notes": [
+  "Grille générée automatiquement depuis la partition MusicXML : à vérifier.",
+  "Corroborée par une autre partition : enchaînement 91%, mesures 88%."
+ ],
+ "confidence": "high",
+ "source": [
+  "mxl/C/Henrique Alves de Mesquita - A baiana - Theme - C.mxl"
+ ],
+ "generated": "mxl"
+}

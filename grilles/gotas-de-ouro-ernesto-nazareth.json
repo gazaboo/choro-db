@@ -1,0 +1,375 @@
+{
+ "song_id": "gotas-de-ouro-ernesto-nazareth",
+ "title": "Gotas de ouro",
+ "composer": "Ernesto Nazareth",
+ "transposition": "c",
+ "meter": "6/8",
+ "form": "A — B — C (reprise) — D — E (reprise) — Coda",
+ "parts": [
+  {
+   "name": "A",
+   "tonic": "A",
+   "bars": "1–8",
+   "repeat": false,
+   "sequence": [
+    [
+     "E7",
+     "D/E"
+    ],
+    [
+     "D/E",
+     "E7"
+    ],
+    [
+     "A/E"
+    ],
+    [],
+    [
+     "F#/E"
+    ],
+    [
+     "Bm/E"
+    ],
+    [
+     "E7"
+    ],
+    []
+   ]
+  },
+  {
+   "name": "B",
+   "tonic": "A",
+   "bars": "9–36",
+   "repeat": false,
+   "sequence": [
+    [
+     "A"
+    ],
+    [
+     "E/G#"
+    ],
+    [
+     "D/F#"
+    ],
+    [
+     "Dm/F"
+    ],
+    [
+     "E7"
+    ],
+    [
+     "E/D"
+    ],
+    [
+     "A/C#"
+    ],
+    [
+     "E7/B"
+    ],
+    [
+     "A"
+    ],
+    [
+     "C#7/G#"
+    ],
+    [
+     "F#m"
+    ],
+    [
+     "F#m/A"
+    ],
+    [
+     "C#m/G#"
+    ],
+    [
+     "G#7"
+    ],
+    [
+     "C#m"
+    ],
+    [
+     "E7"
+    ],
+    [
+     "A"
+    ],
+    [
+     "E/G#"
+    ],
+    [
+     "D/F#"
+    ],
+    [
+     "Dm/F"
+    ],
+    [
+     "E7"
+    ],
+    [
+     "E/D"
+    ],
+    [
+     "A/C#"
+    ],
+    [
+     "E7/B"
+    ],
+    [
+     "A"
+    ],
+    [
+     "C#7/G#"
+    ],
+    [
+     "F#m"
+    ],
+    [
+     "D#dim"
+    ]
+   ]
+  },
+  {
+   "name": "C",
+   "tonic": "A",
+   "bars": "37–40",
+   "repeat": true,
+   "sequence": [
+    [
+     "A/E"
+    ],
+    [
+     "E7"
+    ],
+    [
+     "A",
+     "E7"
+    ],
+    [
+     "A"
+    ]
+   ]
+  },
+  {
+   "name": "D",
+   "tonic": "E",
+   "bars": "41–X1",
+   "repeat": false,
+   "sequence": [
+    [
+     "B7/F#"
+    ],
+    [
+     "B7"
+    ],
+    [
+     "E"
+    ],
+    [
+     "C#7"
+    ],
+    [
+     "F#7"
+    ],
+    [
+     "B7"
+    ],
+    [
+     "E"
+    ],
+    [
+     "E/G#"
+    ],
+    [
+     "B7/F#"
+    ],
+    [
+     "B7"
+    ],
+    [
+     "E"
+    ],
+    [
+     "C#7/E#"
+    ],
+    [
+     "F#m"
+    ],
+    [
+     "F#/E"
+    ],
+    [
+     "B7"
+    ],
+    [],
+    [
+     "B7/F#"
+    ],
+    [
+     "B7"
+    ],
+    [
+     "E"
+    ],
+    [
+     "C#7"
+    ],
+    [
+     "F#7"
+    ],
+    [
+     "B7"
+    ],
+    [
+     "E"
+    ],
+    [
+     "E/G#"
+    ],
+    [
+     "B7/F#"
+    ],
+    [
+     "B7"
+    ],
+    [
+     "E"
+    ],
+    [
+     "Am/C"
+    ],
+    [
+     "E/B"
+    ],
+    [
+     "B7"
+    ],
+    [
+     "E"
+    ],
+    []
+   ]
+  },
+  {
+   "name": "E",
+   "tonic": "D",
+   "bars": "73–X2",
+   "repeat": true,
+   "sequence": [
+    [
+     "D"
+    ],
+    [
+     "D/A"
+    ],
+    [
+     "A/E"
+    ],
+    [
+     "A/G"
+    ],
+    [
+     "D/F#"
+    ],
+    [
+     "D/C"
+    ],
+    [
+     "G/B"
+    ],
+    [],
+    [
+     "Bb7"
+    ],
+    [],
+    [
+     "D/A"
+    ],
+    [],
+    [
+     "E7"
+    ],
+    [
+     "E/D"
+    ],
+    [
+     "A7/C#"
+    ],
+    [
+     "A7"
+    ],
+    [
+     "D"
+    ],
+    [
+     "D/A"
+    ],
+    [
+     "A7/E"
+    ],
+    [
+     "A/G"
+    ],
+    [
+     "D/F#"
+    ],
+    [
+     "D/C"
+    ],
+    [
+     "G/B"
+    ],
+    [],
+    [
+     "Bb7"
+    ],
+    [],
+    [
+     "D/A"
+    ],
+    [
+     "D/F#"
+    ],
+    [
+     "G"
+    ],
+    [
+     "A7"
+    ],
+    [
+     "D",
+     "A7"
+    ],
+    [
+     "D"
+    ]
+   ]
+  },
+  {
+   "name": "Coda",
+   "tonic": "A",
+   "bars": "105–108",
+   "repeat": false,
+   "sequence": [
+    [
+     "A/E"
+    ],
+    [
+     "E7"
+    ],
+    [],
+    [
+     "A"
+    ]
+   ]
+  }
+ ],
+ "notes": [
+  "Grille générée automatiquement depuis la partition MusicXML : à vérifier.",
+  "Corroborée par une autre partition : enchaînement 88%, mesures 85%."
+ ],
+ "confidence": "high",
+ "source": [
+  "mxl/C/Ernesto Nazareth - Gotas de ouro - Theme - C.mxl"
+ ],
+ "generated": "mxl"
+}

@@ -1,0 +1,256 @@
+{
+ "song_id": "de-bahia-a-ceara-moacir-santos",
+ "title": "De Bahia a Ceará",
+ "composer": "Moacir Santos",
+ "transposition": "c",
+ "meter": "2/4",
+ "form": "A (reprise) — B (reprise) — C (reprise) — Coda",
+ "parts": [
+  {
+   "name": "A",
+   "tonic": "Eb",
+   "bars": "0–17",
+   "repeat": true,
+   "sequence": [
+    [
+     "Eb6"
+    ],
+    [
+     "D7(b5)",
+     "Db7(9)"
+    ],
+    [
+     "C7(b9,b13)",
+     "Bb"
+    ],
+    [
+     "Ab6"
+    ],
+    [
+     "Abm7",
+     "Db7"
+    ],
+    [
+     "Gbmaj7",
+     "Ebm7"
+    ],
+    [
+     "Cdim",
+     "B7(9)"
+    ],
+    [
+     "Bb7(9)"
+    ],
+    [
+     "Eb6"
+    ],
+    [
+     "D7(b5)",
+     "Db7(9)"
+    ],
+    [
+     "C7(b9,b13)"
+    ],
+    [
+     "Ab6"
+    ],
+    [
+     "Abm7",
+     "Db7"
+    ],
+    [
+     "Gbmaj7",
+     "Ebm7"
+    ],
+    [
+     "B7(9)",
+     "Bb7(9)"
+    ]
+   ],
+   "endings": {
+    "1": [
+     [
+      "Eb6"
+     ]
+    ],
+    "2": [
+     [
+      "Eb6"
+     ]
+    ]
+   }
+  },
+  {
+   "name": "B",
+   "tonic": "Eb",
+   "bars": "18–34",
+   "repeat": true,
+   "sequence": [
+    [
+     "Fm7",
+     "Bb7"
+    ],
+    [
+     "Ebmaj7",
+     "Eb6"
+    ],
+    [
+     "G7/B",
+     "G7"
+    ],
+    [
+     "C7"
+    ],
+    [
+     "F7"
+    ],
+    [
+     "Cm7/G",
+     "C7"
+    ],
+    [
+     "F7"
+    ],
+    [
+     "Bb7"
+    ],
+    [
+     "Fm7",
+     "Bb7"
+    ],
+    [
+     "Eb6"
+    ],
+    [
+     "G7/B",
+     "G7"
+    ],
+    [
+     "C7"
+    ],
+    [
+     "F7"
+    ],
+    [
+     "Cm/Bb",
+     "C7"
+    ],
+    [
+     "F7",
+     "Bb7"
+    ]
+   ],
+   "endings": {
+    "1": [
+     [
+      "Eb6",
+      "Cm7"
+     ]
+    ],
+    "2": [
+     [
+      "Eb6",
+      "D7",
+      "Db7"
+     ]
+    ]
+   }
+  },
+  {
+   "name": "C",
+   "tonic": "Ebm",
+   "bars": "35–52",
+   "repeat": true,
+   "sequence": [
+    [
+     "Gb(9)"
+    ],
+    [
+     "Gbmaj7",
+     "Gb6"
+    ],
+    [
+     "Gb(9)",
+     "Ebm7"
+    ],
+    [
+     "Abm7",
+     "Abm6/Cb"
+    ],
+    [
+     "Bb7"
+    ],
+    [
+     "Ebm7"
+    ],
+    [
+     "Ab7"
+    ],
+    [
+     "Db7"
+    ],
+    [
+     "Gb(9)"
+    ],
+    [
+     "Gbmaj7",
+     "Gb6"
+    ],
+    [
+     "Gb7"
+    ],
+    [
+     "Cb6"
+    ],
+    [
+     "Cbm6"
+    ],
+    [
+     "Gbmaj7",
+     "Eb7"
+    ],
+    [
+     "Ab7",
+     "Db7"
+    ],
+    []
+   ],
+   "endings": {
+    "1": [
+     [
+      "Gb6(9)"
+     ]
+    ],
+    "2": [
+     [
+      "Gb6(9)",
+      "G7(#5)",
+      "Ab7(#5)",
+      "A7(#5)",
+      "Bb7(#5)"
+     ]
+    ]
+   }
+  },
+  {
+   "name": "Coda",
+   "tonic": "Eb",
+   "bars": "53–53",
+   "repeat": false,
+   "sequence": [
+    [
+     "Eb6"
+    ]
+   ]
+  }
+ ],
+ "notes": [
+  "Grille générée automatiquement depuis la partition MusicXML : à vérifier.",
+  "Corroborée par une autre partition : enchaînement 89%, mesures 82%."
+ ],
+ "confidence": "high",
+ "source": [
+  "mxl/C/Moacir Santos - De Bahia a Ceará - Theme - C.mxl"
+ ],
+ "generated": "mxl"
+}

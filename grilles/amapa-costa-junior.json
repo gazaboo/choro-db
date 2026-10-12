@@ -1,0 +1,217 @@
+{
+ "song_id": "amapa-costa-junior",
+ "title": "Amapá",
+ "composer": "Costa Júnior",
+ "transposition": "c",
+ "meter": "2/4",
+ "form": "A (reprise) — B (reprise) — C — D (reprise) — A",
+ "parts": [
+  {
+   "name": "A",
+   "tonic": "Am",
+   "bars": "1–4",
+   "repeat": true,
+   "sequence": [
+    [
+     "Am",
+     "Am/C"
+    ],
+    [
+     "E7/B",
+     "E/D"
+    ],
+    [
+     "Am/C"
+    ],
+    [
+     "E7/B",
+     "E7"
+    ]
+   ]
+  },
+  {
+   "name": "B",
+   "tonic": "Am",
+   "bars": "5–12",
+   "repeat": true,
+   "sequence": [
+    [
+     "Am",
+     "Am/C"
+    ],
+    [
+     "E7/B",
+     "E7"
+    ],
+    [
+     "Am",
+     "Am/C"
+    ],
+    [
+     "E7/B",
+     "E7"
+    ],
+    [
+     "Am",
+     "Am/G"
+    ],
+    [
+     "Dm/F",
+     "E7"
+    ],
+    [
+     "Am",
+     "F7"
+    ],
+    [
+     "Bm7b5",
+     "E7"
+    ]
+   ]
+  },
+  {
+   "name": "C",
+   "tonic": "C",
+   "bars": "13–29",
+   "repeat": false,
+   "sequence": [
+    [
+     "A7"
+    ],
+    [
+     "D7"
+    ],
+    [
+     "G7"
+    ],
+    [
+     "C"
+    ],
+    [
+     "C/E"
+    ],
+    [
+     "Dm7"
+    ],
+    [
+     "G7"
+    ],
+    [
+     "C"
+    ],
+    [
+     "A7"
+    ],
+    [
+     "D7/F#"
+    ],
+    [
+     "G7"
+    ],
+    [
+     "C"
+    ],
+    [
+     "C/E"
+    ],
+    [
+     "Dm7"
+    ],
+    [
+     "G7"
+    ],
+    [
+     "C",
+     "E7"
+    ],
+    [
+     "C",
+     "C7"
+    ]
+   ]
+  },
+  {
+   "name": "D",
+   "tonic": "F",
+   "bars": "30–X2",
+   "repeat": true,
+   "sequence": [
+    [
+     "F",
+     "Abdim"
+    ],
+    [
+     "C7/G",
+     "C7/E"
+    ],
+    [
+     "F",
+     "Abdim"
+    ],
+    [
+     "C7/G",
+     "C7/E"
+    ],
+    [
+     "F7"
+    ],
+    [
+     "Bb"
+    ],
+    [
+     "G7"
+    ],
+    [
+     "C7"
+    ],
+    [
+     "F",
+     "Abdim"
+    ],
+    [
+     "C7/G",
+     "C7/E"
+    ],
+    [
+     "F",
+     "Abdim"
+    ],
+    [
+     "C7/G",
+     "C7/E"
+    ],
+    [
+     "F7"
+    ],
+    [
+     "Bb",
+     "Bbm6"
+    ],
+    [
+     "F/C",
+     "C7"
+    ]
+   ],
+   "endings": {
+    "1": [
+     [
+      "F"
+     ],
+     [
+      "F",
+      "E7"
+     ]
+    ]
+   }
+  }
+ ],
+ "notes": [
+  "Grille générée automatiquement depuis la partition MusicXML : à vérifier.",
+  "Corroborée par une autre partition : enchaînement 92%, mesures 92%."
+ ],
+ "confidence": "high",
+ "source": [
+  "mxl/C/Costa Júnior - Amapá - Theme - C.mxl"
+ ],
+ "generated": "mxl"
+}

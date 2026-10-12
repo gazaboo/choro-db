@@ -1,0 +1,262 @@
+{
+ "song_id": "bouquet-mario-alvares-da-conceicao",
+ "title": "Bouquet",
+ "composer": "Mário Álvares da Conceição",
+ "transposition": "c",
+ "meter": "4/4",
+ "form": "A (reprise) — B (reprise) — C (reprise)",
+ "parts": [
+  {
+   "name": "A",
+   "tonic": "F",
+   "bars": "0–17",
+   "repeat": true,
+   "sequence": [
+    [
+     "F",
+     "C7/G"
+    ],
+    [
+     "F/A"
+    ],
+    [
+     "D7/A",
+     "D7"
+    ],
+    [
+     "Gm"
+    ],
+    [
+     "Gm",
+     "Gm/Bb"
+    ],
+    [
+     "G7/B"
+    ],
+    [
+     "C7",
+     "C/Bb"
+    ],
+    [
+     "Fdim",
+     "F"
+    ],
+    [
+     "F",
+     "C7/G"
+    ],
+    [
+     "F/A"
+    ],
+    [
+     "D7/A",
+     "D7"
+    ],
+    [
+     "Gm"
+    ],
+    [
+     "Fdim"
+    ],
+    [
+     "F6"
+    ],
+    [
+     "Gm",
+     "C7"
+    ]
+   ],
+   "endings": {
+    "1": [
+     [
+      "F",
+      "C7",
+      "F"
+     ]
+    ],
+    "2": [
+     [
+      "F",
+      "C7",
+      "F"
+     ]
+    ]
+   }
+  },
+  {
+   "name": "B",
+   "tonic": "C",
+   "bars": "18–X1",
+   "repeat": true,
+   "sequence": [
+    [
+     "G7",
+     "G7/B"
+    ],
+    [
+     "C",
+     "C/E"
+    ],
+    [
+     "Dm7",
+     "G7"
+    ],
+    [
+     "C"
+    ],
+    [
+     "G7",
+     "G7/B"
+    ],
+    [
+     "C",
+     "C/E"
+    ],
+    [
+     "G/D",
+     "D7"
+    ],
+    [
+     "G7sus4"
+    ],
+    [
+     "G7",
+     "G7/B"
+    ],
+    [
+     "C",
+     "C/E"
+    ],
+    [
+     "Dm7",
+     "G7"
+    ],
+    [
+     "C"
+    ],
+    [
+     "G7",
+     "G7/B"
+    ],
+    [
+     "C",
+     "Fm6"
+    ],
+    [
+     "C/G",
+     "G7"
+    ]
+   ],
+   "endings": {
+    "1": [
+     [
+      "C",
+      "G7",
+      "C"
+     ]
+    ],
+    "2": [
+     [
+      "C",
+      "G7",
+      "C"
+     ]
+    ]
+   }
+  },
+  {
+   "name": "C",
+   "tonic": "Bb",
+   "bars": "36–53",
+   "repeat": true,
+   "sequence": [
+    [
+     "Bb",
+     "D7(#5)"
+    ],
+    [
+     "Cm/Eb"
+    ],
+    [
+     "F7"
+    ],
+    [
+     "Bb"
+    ],
+    [
+     "Bb/D"
+    ],
+    [
+     "Dm7"
+    ],
+    [
+     "C7/E",
+     "C7"
+    ],
+    [
+     "F",
+     "F7"
+    ],
+    [
+     "Bb/D",
+     "D7(#5)"
+    ],
+    [
+     "Cm/Eb"
+    ],
+    [
+     "F7"
+    ],
+    [
+     "Bb/D",
+     "Fm/Ab"
+    ],
+    [
+     "G7",
+     "G/F"
+    ],
+    [
+     "Cm/Eb",
+     "Ebm6"
+    ],
+    [
+     "Bb/D",
+     "F7"
+    ],
+    []
+   ],
+   "endings": {
+    "1": [
+     [
+      "Bb",
+      "F7",
+      "Bb"
+     ]
+    ],
+    "2": [
+     [
+      "Bb",
+      "F7",
+      "Bb"
+     ]
+    ]
+   },
+   "transition_in": [
+    [
+     "F",
+     "C7",
+     "F"
+    ]
+   ]
+  }
+ ],
+ "notes": [
+  "Grille générée automatiquement depuis la partition MusicXML : à vérifier.",
+  "Corroborée par une autre partition : enchaînement 91%, mesures 82%."
+ ],
+ "confidence": "high",
+ "source": [
+  "mxl/C/Mário Álvares da Conceição - Bouquet - Theme - C.mxl"
+ ],
+ "generated": "mxl"
+}

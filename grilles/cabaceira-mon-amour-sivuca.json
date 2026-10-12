@@ -1,0 +1,220 @@
+{
+ "song_id": "cabaceira-mon-amour-sivuca",
+ "title": "Cabaceira mon amour",
+ "composer": "Sivuca",
+ "transposition": "c",
+ "meter": "2/4",
+ "form": "A (reprise) — B — C (reprise) — D (reprise) — E",
+ "parts": [
+  {
+   "name": "A",
+   "tonic": "Em",
+   "bars": "0–11",
+   "repeat": true,
+   "sequence": [
+    [
+     "Am"
+    ],
+    [],
+    [
+     "Em"
+    ],
+    [],
+    [
+     "F#7"
+    ],
+    [
+     "Em"
+    ],
+    [
+     "B7"
+    ]
+   ],
+   "endings": {
+    "1": [
+     [
+      "B7"
+     ],
+     [
+      "Bm7b5"
+     ],
+     [
+      "E7"
+     ]
+    ],
+    "2": [
+     [
+      "B7"
+     ]
+    ]
+   }
+  },
+  {
+   "name": "B",
+   "tonic": "G",
+   "bars": "12–27",
+   "repeat": false,
+   "sequence": [
+    [
+     "Em"
+    ],
+    [],
+    [
+     "B7"
+    ],
+    [],
+    [
+     "Bm7b5"
+    ],
+    [],
+    [
+     "A"
+    ],
+    [],
+    [
+     "Am"
+    ],
+    [],
+    [
+     "Em"
+    ],
+    [],
+    [
+     "F#7"
+    ],
+    [],
+    [
+     "B7"
+    ],
+    [
+     "D7"
+    ]
+   ]
+  },
+  {
+   "name": "C",
+   "tonic": "G",
+   "bars": "28–37",
+   "repeat": true,
+   "sequence": [
+    [
+     "G"
+    ],
+    [
+     "G7"
+    ],
+    [
+     "C"
+    ],
+    [
+     "Cm"
+    ],
+    [
+     "G",
+     "Em7"
+    ],
+    [
+     "Am",
+     "D7"
+    ],
+    [
+     "F",
+     "C"
+    ]
+   ],
+   "endings": {
+    "1": [
+     [
+      "G",
+      "C",
+      "G"
+     ],
+     []
+    ],
+    "2": [
+     [
+      "G"
+     ]
+    ]
+   }
+  },
+  {
+   "name": "D",
+   "tonic": "Em",
+   "bars": "38–X1",
+   "repeat": true,
+   "sequence": [
+    [
+     "G"
+    ],
+    [
+     "C",
+     "D7"
+    ],
+    [
+     "G"
+    ],
+    [
+     "F",
+     "C"
+    ],
+    [
+     "G"
+    ],
+    [
+     "C",
+     "D7"
+    ]
+   ],
+   "endings": {
+    "1": [
+     [
+      "G"
+     ]
+    ],
+    "2": [
+     [
+      "G",
+      "B7"
+     ]
+    ]
+   }
+  },
+  {
+   "name": "E",
+   "tonic": "G",
+   "bars": "47–50",
+   "repeat": false,
+   "sequence": [
+    [
+     "C",
+     "D7"
+    ],
+    [
+     "G"
+    ],
+    [
+     "C",
+     "D7"
+    ],
+    [
+     "G"
+    ]
+   ],
+   "transition_in": [
+    [
+     "G"
+    ]
+   ]
+  }
+ ],
+ "notes": [
+  "Grille générée automatiquement depuis la partition MusicXML : à vérifier.",
+  "Corroborée par une autre partition : enchaînement 87%, mesures 84%."
+ ],
+ "confidence": "high",
+ "source": [
+  "mxl/C/Sivuca - Cabaceira mon amour - Theme - C.mxl"
+ ],
+ "generated": "mxl"
+}

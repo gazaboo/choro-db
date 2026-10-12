@@ -1,0 +1,337 @@
+{
+ "song_id": "murmurando-fon-fon",
+ "title": "Murmurando",
+ "composer": "Fon Fon",
+ "transposition": "c",
+ "meter": "2/4",
+ "form": "A (reprise) — B (reprise) — C (reprise) — Coda",
+ "parts": [
+  {
+   "name": "A",
+   "tonic": "Dm",
+   "bars": "0–34",
+   "repeat": true,
+   "sequence": [
+    [
+     "Dm",
+     "A7/C#"
+    ],
+    [
+     "Dm/F",
+     "D7/F#"
+    ],
+    [
+     "Gm",
+     "D7/A"
+    ],
+    [
+     "Gm/Bb"
+    ],
+    [
+     "A7"
+    ],
+    [
+     "A7/C#"
+    ],
+    [
+     "Dm"
+    ],
+    [
+     "E7/G#",
+     "A7/G"
+    ],
+    [
+     "Dm/F"
+    ],
+    [
+     "Bm7b5"
+    ],
+    [
+     "A"
+    ],
+    [
+     "A/C#",
+     "Cdim"
+    ],
+    [
+     "Bm7"
+    ],
+    [
+     "E7"
+    ],
+    [
+     "Gm6/Bb"
+    ],
+    [
+     "A7"
+    ],
+    [
+     "Dm",
+     "A7/E"
+    ],
+    [
+     "Dm/F",
+     "D7/F#"
+    ],
+    [
+     "Gm",
+     "D7/A"
+    ],
+    [
+     "Gm/Bb"
+    ],
+    [
+     "A7"
+    ],
+    [
+     "A7/C#"
+    ],
+    [
+     "Am7b5"
+    ],
+    [
+     "D7"
+    ],
+    [
+     "Gm"
+    ],
+    [
+     "Em7b5"
+    ],
+    [
+     "Dm"
+    ],
+    [
+     "Dm/C"
+    ],
+    [
+     "E7/B"
+    ],
+    [
+     "Gm6/Bb",
+     "A7"
+    ],
+    [
+     "Bb7"
+    ]
+   ],
+   "endings": {
+    "1": [
+     [
+      "Dm"
+     ],
+     [
+      "A7"
+     ]
+    ],
+    "2": [
+     [
+      "Dm"
+     ]
+    ]
+   }
+  },
+  {
+   "name": "B",
+   "tonic": "Dm",
+   "bars": "35–53",
+   "repeat": true,
+   "sequence": [
+    [
+     "A7"
+    ],
+    [],
+    [
+     "Dm"
+    ],
+    [],
+    [
+     "A7"
+    ],
+    [],
+    [
+     "Cm6/Eb"
+    ],
+    [
+     "D7",
+     "D/C"
+    ],
+    [
+     "G7/B"
+    ],
+    [
+     "C/Bb"
+    ],
+    [
+     "F/A"
+    ],
+    [
+     "Dm7"
+    ],
+    [
+     "G7"
+    ],
+    [
+     "C7"
+    ],
+    [
+     "F"
+    ],
+    [
+     "Dm"
+    ],
+    [
+     "A7"
+    ]
+   ],
+   "endings": {
+    "1": [
+     [
+      "Bb7"
+     ]
+    ],
+    "2": [
+     [
+      "A7"
+     ]
+    ]
+   }
+  },
+  {
+   "name": "C",
+   "tonic": "D",
+   "bars": "54–X2",
+   "repeat": true,
+   "sequence": [
+    [
+     "D",
+     "D/C"
+    ],
+    [
+     "G/B",
+     "Gm6/Bb"
+    ],
+    [
+     "D/A"
+    ],
+    [
+     "A7"
+    ],
+    [
+     "D"
+    ],
+    [
+     "D",
+     "Fdim"
+    ],
+    [
+     "Em"
+    ],
+    [
+     "G7"
+    ],
+    [
+     "F#7"
+    ],
+    [],
+    [
+     "Bm"
+    ],
+    [
+     "G#m7b5"
+    ],
+    [
+     "F#m/A"
+    ],
+    [
+     "C#7/G#"
+    ],
+    [
+     "F#m",
+     "C#7/E#"
+    ],
+    [
+     "A7/E",
+     "A7"
+    ],
+    [
+     "D",
+     "D/C"
+    ],
+    [
+     "G/B",
+     "Gm6/Bb"
+    ],
+    [
+     "D/A"
+    ],
+    [
+     "D"
+    ],
+    [
+     "Am6/C"
+    ],
+    [
+     "B7"
+    ],
+    [
+     "Em"
+    ],
+    [],
+    [
+     "C7(9)"
+    ],
+    [],
+    [
+     "D"
+    ],
+    [
+     "B7"
+    ],
+    [
+     "E7(9)"
+    ],
+    [
+     "Gm6/Bb",
+     "A7"
+    ],
+    [
+     "D"
+    ]
+   ],
+   "endings": {
+    "1": [
+     [
+      "A7"
+     ]
+    ],
+    "2": [
+     [
+      "A7"
+     ]
+    ]
+   }
+  },
+  {
+   "name": "Coda",
+   "tonic": "Dm",
+   "bars": "87–88",
+   "repeat": false,
+   "sequence": [
+    [
+     "Dm"
+    ],
+    []
+   ]
+  }
+ ],
+ "notes": [
+  "Grille générée automatiquement depuis la partition MusicXML : à vérifier.",
+  "Corroborée par une grille relevée à la main : enchaînement 96%, mesures 95%."
+ ],
+ "confidence": "high",
+ "source": [
+  "mxl/C/Fon Fon - Murmurando - Theme - C.mxl"
+ ],
+ "generated": "mxl"
+}

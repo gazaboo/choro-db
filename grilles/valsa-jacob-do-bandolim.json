@@ -1,0 +1,216 @@
+{
+ "song_id": "valsa-jacob-do-bandolim",
+ "title": "Valsa",
+ "composer": "Jacob do Bandolim",
+ "transposition": "c",
+ "meter": "3/4",
+ "form": "A — B — C",
+ "parts": [
+  {
+   "name": "A",
+   "tonic": "C",
+   "bars": "1–8",
+   "repeat": false,
+   "sequence": [
+    [
+     "F"
+    ],
+    [
+     "B7/F#"
+    ],
+    [
+     "E7",
+     "E/D"
+    ],
+    [
+     "A7/C#"
+    ],
+    [
+     "Dm7"
+    ],
+    [
+     "G7(b9)"
+    ],
+    [
+     "C"
+    ],
+    [
+     "G7(#5)"
+    ]
+   ]
+  },
+  {
+   "name": "B",
+   "tonic": "C",
+   "bars": "9–40",
+   "repeat": false,
+   "sequence": [
+    [
+     "C"
+    ],
+    [
+     "Ebdim"
+    ],
+    [
+     "Dm7b5"
+    ],
+    [
+     "Fm6"
+    ],
+    [
+     "C/E"
+    ],
+    [
+     "G7(#5)"
+    ],
+    [
+     "C"
+    ],
+    [
+     "G7"
+    ],
+    [
+     "C"
+    ],
+    [
+     "F#dim"
+    ],
+    [
+     "Em/G"
+    ],
+    [
+     "Em"
+    ],
+    [
+     "F#7/A#"
+    ],
+    [
+     "B7"
+    ],
+    [
+     "Em",
+     "Ebdim"
+    ],
+    [
+     "G7/D"
+    ],
+    [
+     "C"
+    ],
+    [
+     "Ebdim"
+    ],
+    [
+     "Dm7b5"
+    ],
+    [
+     "Fm6"
+    ],
+    [
+     "D7"
+    ],
+    [
+     "G7"
+    ],
+    [
+     "C/E"
+    ],
+    [
+     "C7"
+    ],
+    [
+     "F"
+    ],
+    [
+     "B7/F#"
+    ],
+    [
+     "E7",
+     "E/D"
+    ],
+    [
+     "A7/C#"
+    ],
+    [
+     "Dm7"
+    ],
+    [
+     "G7(b9)"
+    ],
+    [
+     "C"
+    ],
+    [
+     "C"
+    ]
+   ]
+  },
+  {
+   "name": "C",
+   "tonic": "C",
+   "bars": "41–57",
+   "repeat": false,
+   "sequence": [
+    [
+     "F"
+    ],
+    [
+     "B7"
+    ],
+    [
+     "E7"
+    ],
+    [
+     "A7"
+    ],
+    [
+     "Dm"
+    ],
+    [
+     "G7"
+    ],
+    [
+     "C"
+    ],
+    [
+     "C7"
+    ],
+    [
+     "F"
+    ],
+    [
+     "B7"
+    ],
+    [
+     "E7"
+    ],
+    [
+     "A7"
+    ],
+    [
+     "Dm"
+    ],
+    [
+     "G7"
+    ],
+    [
+     "C",
+     "Fm6"
+    ],
+    [
+     "C"
+    ],
+    []
+   ]
+  }
+ ],
+ "notes": [
+  "Grille générée automatiquement depuis la partition MusicXML : à vérifier.",
+  "Corroborée par une autre partition : enchaînement 93%, mesures 88%."
+ ],
+ "confidence": "high",
+ "source": [
+  "mxl/C/Jacob do Bandolim - Valsa - Theme - C.mxl"
+ ],
+ "generated": "mxl"
+}

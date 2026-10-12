@@ -1,0 +1,250 @@
+{
+ "song_id": "passinho-de-moca-henrique-dourado",
+ "title": "Passinho de moça",
+ "composer": "Henrique Dourado",
+ "transposition": "c",
+ "meter": "4/4",
+ "form": "A (reprise) — B (reprise) — C (reprise) — Coda",
+ "parts": [
+  {
+   "name": "A",
+   "tonic": "G",
+   "bars": "1–16",
+   "repeat": true,
+   "sequence": [
+    [
+     "G"
+    ],
+    [],
+    [
+     "G",
+     "G/B"
+    ],
+    [
+     "D7/A"
+    ],
+    [
+     "D7"
+    ],
+    [],
+    [
+     "D7",
+     "D/C"
+    ],
+    [
+     "G/B",
+     "D7"
+    ],
+    [
+     "G"
+    ],
+    [
+     "G",
+     "G/F"
+    ],
+    [
+     "C/E",
+     "F7",
+     "E7"
+    ],
+    [
+     "Am"
+    ],
+    [
+     "Am/C"
+    ],
+    [
+     "G/D"
+    ],
+    [
+     "Am",
+     "Cm6/Eb",
+     "D7"
+    ],
+    [
+     "G"
+    ]
+   ]
+  },
+  {
+   "name": "B",
+   "tonic": "D",
+   "bars": "17–34",
+   "repeat": true,
+   "sequence": [
+    [
+     "A7",
+     "A/G"
+    ],
+    [
+     "D/F#",
+     "D"
+    ],
+    [
+     "F#7",
+     "F#/E"
+    ],
+    [
+     "B7/D#",
+     "B7"
+    ],
+    [
+     "Em",
+     "Em/G"
+    ],
+    [
+     "D/A",
+     "D/F#"
+    ],
+    [
+     "E7"
+    ],
+    [
+     "Gm6/Bb",
+     "A7"
+    ],
+    [
+     "A7"
+    ],
+    [
+     "D"
+    ],
+    [
+     "F#7",
+     "F#/E"
+    ],
+    [
+     "B7/D#",
+     "B7"
+    ],
+    [
+     "Em",
+     "Em/G"
+    ],
+    [
+     "D/A",
+     "B7"
+    ],
+    [
+     "Em",
+     "A7"
+    ],
+    [
+     "G",
+     "G7/B"
+    ]
+   ],
+   "endings": {
+    "1": [
+     [
+      "D"
+     ]
+    ],
+    "2": [
+     [
+      "D",
+      "A/E",
+      "D7/F#"
+     ]
+    ]
+   }
+  },
+  {
+   "name": "C",
+   "tonic": "C",
+   "bars": "35–52",
+   "repeat": true,
+   "sequence": [
+    [
+     "C",
+     "G7"
+    ],
+    [
+     "C"
+    ],
+    [
+     "C",
+     "C/E"
+    ],
+    [
+     "G7/D",
+     "Ebdim",
+     "G7"
+    ],
+    [
+     "G7"
+    ],
+    [],
+    [],
+    [
+     "C/E",
+     "Ab7/Eb",
+     "G7/D"
+    ],
+    [
+     "C",
+     "G7/B"
+    ],
+    [
+     "Eb7/Bb",
+     "A7"
+    ],
+    [
+     "Dm",
+     "A7/E"
+    ],
+    [
+     "Dm/F",
+     "Dm"
+    ],
+    [
+     "Dm/F",
+     "Ebdim"
+    ],
+    [
+     "C/G",
+     "A7"
+    ],
+    [
+     "D7",
+     "G7"
+    ],
+    []
+   ],
+   "endings": {
+    "1": [
+     [
+      "C"
+     ]
+    ],
+    "2": [
+     [
+      "C",
+      "C#dim",
+      "D7"
+     ]
+    ]
+   }
+  },
+  {
+   "name": "Coda",
+   "tonic": "G",
+   "bars": "53–53",
+   "repeat": false,
+   "sequence": [
+    [
+     "G"
+    ]
+   ]
+  }
+ ],
+ "notes": [
+  "Grille générée automatiquement depuis la partition MusicXML : à vérifier.",
+  "Corroborée par une autre partition : enchaînement 94%, mesures 84%."
+ ],
+ "confidence": "high",
+ "source": [
+  "mxl/C/Henrique Dourado - Passinho de moça - Theme - C.mxl"
+ ],
+ "generated": "mxl"
+}

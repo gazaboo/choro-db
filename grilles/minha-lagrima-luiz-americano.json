@@ -1,0 +1,232 @@
+{
+ "song_id": "minha-lagrima-luiz-americano",
+ "title": "Minha lágrima",
+ "composer": "Luiz Americano",
+ "transposition": "c",
+ "meter": "3/4",
+ "form": "A — B — Coda",
+ "parts": [
+  {
+   "name": "A",
+   "tonic": "A",
+   "bars": "0–32",
+   "repeat": false,
+   "sequence": [
+    [
+     "Bm7b5"
+    ],
+    [
+     "E7"
+    ],
+    [
+     "A"
+    ],
+    [
+     "F#m7"
+    ],
+    [
+     "Dm6/F"
+    ],
+    [
+     "E7"
+    ],
+    [
+     "A"
+    ],
+    [],
+    [
+     "Bm7b5"
+    ],
+    [
+     "E7/G#"
+    ],
+    [
+     "A"
+    ],
+    [
+     "F#m7"
+    ],
+    [
+     "C#m"
+    ],
+    [
+     "F/A"
+    ],
+    [
+     "E7"
+    ],
+    [],
+    [
+     "Bm7b5"
+    ],
+    [
+     "E7"
+    ],
+    [
+     "A"
+    ],
+    [
+     "F#m7"
+    ],
+    [
+     "Dm6/F"
+    ],
+    [
+     "E7"
+    ],
+    [
+     "Am"
+    ],
+    [
+     "Am/G"
+    ],
+    [
+     "Dm/F"
+    ],
+    [
+     "F/Eb"
+    ],
+    [
+     "Bb/D"
+    ],
+    [],
+    [
+     "B7/F#"
+    ],
+    [
+     "E7"
+    ],
+    [
+     "Am"
+    ],
+    []
+   ]
+  },
+  {
+   "name": "B",
+   "tonic": "A",
+   "bars": "33–X1",
+   "repeat": false,
+   "sequence": [
+    [
+     "Bm"
+    ],
+    [
+     "E7"
+    ],
+    [
+     "C#m"
+    ],
+    [
+     "Cdim"
+    ],
+    [
+     "Bm"
+    ],
+    [
+     "Dm6"
+    ],
+    [
+     "A/C#"
+    ],
+    [],
+    [
+     "Bm"
+    ],
+    [
+     "C#7/G#"
+    ],
+    [
+     "F#m"
+    ],
+    [
+     "F#m6"
+    ],
+    [
+     "C#m"
+    ],
+    [
+     "G#7"
+    ],
+    [
+     "C#m"
+    ],
+    [
+     "E7"
+    ],
+    [
+     "Bm"
+    ],
+    [
+     "E7"
+    ],
+    [
+     "C#m"
+    ],
+    [
+     "Cdim"
+    ],
+    [
+     "Bm"
+    ],
+    [
+     "Dm6"
+    ],
+    [
+     "A"
+    ],
+    [],
+    [
+     "B7/F#"
+    ],
+    [
+     "Dm6/F"
+    ],
+    [
+     "A",
+     "G#7",
+     "G7"
+    ],
+    [
+     "F#7"
+    ],
+    [
+     "Bm"
+    ],
+    [
+     "E7"
+    ],
+    [
+     "A"
+    ],
+    []
+   ]
+  },
+  {
+   "name": "Coda",
+   "tonic": "A",
+   "bars": "65–67",
+   "repeat": false,
+   "sequence": [
+    [
+     "A"
+    ],
+    [
+     "G7"
+    ],
+    [
+     "A"
+    ]
+   ]
+  }
+ ],
+ "notes": [
+  "Grille générée automatiquement depuis la partition MusicXML : à vérifier.",
+  "Corroborée par une autre partition : enchaînement 92%, mesures 90%."
+ ],
+ "confidence": "high",
+ "source": [
+  "mxl/C/Luiz Americano - Minha lágrima - Theme - C.mxl"
+ ],
+ "generated": "mxl"
+}

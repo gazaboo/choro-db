@@ -1,0 +1,236 @@
+{
+ "song_id": "comparando-candinho",
+ "title": "Comparando",
+ "composer": "Candinho",
+ "transposition": "c",
+ "meter": "2/4",
+ "form": "A (reprise) — B (reprise) — C (reprise)",
+ "parts": [
+  {
+   "name": "A",
+   "tonic": "F",
+   "bars": "1–17",
+   "repeat": true,
+   "sequence": [
+    [
+     "F",
+     "D7/F#"
+    ],
+    [
+     "Gm",
+     "G7/B"
+    ],
+    [
+     "C7",
+     "C/Bb"
+    ],
+    [
+     "F/A",
+     "C7/G"
+    ],
+    [
+     "F",
+     "Bm7b5"
+    ],
+    [
+     "Am/C"
+    ],
+    [
+     "E7/B",
+     "E7/G#"
+    ],
+    [
+     "Am",
+     "D7",
+     "G7",
+     "C7"
+    ],
+    [
+     "F",
+     "D7/F#"
+    ],
+    [
+     "Gm",
+     "Gm6/Bb"
+    ],
+    [
+     "A7",
+     "A/G"
+    ],
+    [
+     "D7/F#"
+    ],
+    [
+     "Bb",
+     "C/Bb"
+    ],
+    [
+     "F/C"
+    ],
+    [
+     "Gm",
+     "C7"
+    ]
+   ],
+   "endings": {
+    "1": [
+     [
+      "F"
+     ]
+    ],
+    "2": [
+     [
+      "F"
+     ]
+    ]
+   }
+  },
+  {
+   "name": "B",
+   "tonic": "C",
+   "bars": "18–X1",
+   "repeat": true,
+   "sequence": [
+    [
+     "G7"
+    ],
+    [
+     "C"
+    ],
+    [
+     "E7"
+    ],
+    [
+     "Am"
+    ],
+    [
+     "Dm/F",
+     "G/F"
+    ],
+    [
+     "C/E"
+    ],
+    [
+     "G7"
+    ],
+    [
+     "C"
+    ],
+    [
+     "G7"
+    ],
+    [
+     "C"
+    ],
+    [
+     "E7/G#"
+    ],
+    [
+     "A/G"
+    ],
+    [
+     "Dm/F",
+     "Fm6/Ab"
+    ],
+    [
+     "C/G",
+     "A7/C#"
+    ],
+    [
+     "Dm7",
+     "G7"
+    ]
+   ],
+   "endings": {
+    "1": [
+     [
+      "C"
+     ]
+    ],
+    "2": [
+     [
+      "C"
+     ]
+    ]
+   }
+  },
+  {
+   "name": "C",
+   "tonic": "Bb",
+   "bars": "36–52",
+   "repeat": true,
+   "sequence": [
+    [
+     "Bb",
+     "G7/B"
+    ],
+    [
+     "Cm"
+    ],
+    [
+     "F7"
+    ],
+    [
+     "Bb"
+    ],
+    [
+     "Bb",
+     "G7"
+    ],
+    [
+     "C7"
+    ],
+    [
+     "F7"
+    ],
+    [
+     "Bb",
+     "F7"
+    ],
+    [
+     "Bb"
+    ],
+    [
+     "D7/A"
+    ],
+    [
+     "D7/F#"
+    ],
+    [
+     "Gm"
+    ],
+    [
+     "Cm",
+     "F7"
+    ],
+    [
+     "Bb",
+     "G7"
+    ],
+    [
+     "C7",
+     "F7"
+    ],
+    [
+     "Bb"
+    ],
+    []
+   ],
+   "transition_in": [
+    [
+     "F",
+     "F7"
+    ]
+   ]
+  }
+ ],
+ "notes": [
+  "Grille générée automatiquement depuis la partition MusicXML : à vérifier.",
+  "Corroborée par une autre partition : enchaînement 99%, mesures 93%."
+ ],
+ "confidence": "high",
+ "source": [
+  "mxl/C/Candinho - Comparando - Theme - C.mxl"
+ ],
+ "generated": "mxl"
+}

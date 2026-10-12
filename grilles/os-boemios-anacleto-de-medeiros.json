@@ -1,0 +1,222 @@
+{
+ "song_id": "os-boemios-anacleto-de-medeiros",
+ "title": "Os boêmios",
+ "composer": "Anacleto de Medeiros",
+ "transposition": "c",
+ "meter": "2/4",
+ "form": "A — B (reprise) — C — C — D (reprise)",
+ "parts": [
+  {
+   "name": "A",
+   "tonic": "D",
+   "bars": "1–4",
+   "repeat": false,
+   "sequence": [
+    [
+     "A7"
+    ],
+    [
+     "Adim"
+    ],
+    [
+     "A7",
+     "Adim"
+    ],
+    [
+     "A7"
+    ]
+   ]
+  },
+  {
+   "name": "B",
+   "tonic": "D",
+   "bars": "5–21",
+   "repeat": true,
+   "sequence": [
+    [
+     "D",
+     "B7/D#"
+    ],
+    [
+     "Em"
+    ],
+    [
+     "A7"
+    ],
+    [
+     "D"
+    ],
+    [
+     "D",
+     "D#dim"
+    ],
+    [
+     "A/E",
+     "F#7/A#"
+    ],
+    [
+     "Bm",
+     "E7"
+    ],
+    [
+     "A",
+     "A7"
+    ],
+    [
+     "D",
+     "B7/D#"
+    ],
+    [
+     "Em"
+    ],
+    [
+     "C#m7b5",
+     "F#7"
+    ],
+    [
+     "Bm"
+    ],
+    [
+     "G",
+     "G#dim"
+    ],
+    [
+     "D",
+     "B7"
+    ],
+    [
+     "Em",
+     "A7"
+    ]
+   ],
+   "endings": {
+    "1": [
+     [
+      "D",
+      "A7"
+     ]
+    ],
+    "2": [
+     [
+      "D"
+     ]
+    ]
+   }
+  },
+  {
+   "name": "C",
+   "tonic": "D",
+   "bars": "22–29",
+   "repeat": false,
+   "sequence": [
+    [
+     "F#7"
+    ],
+    [
+     "Bm"
+    ],
+    [
+     "C#7"
+    ],
+    [
+     "F#"
+    ],
+    [
+     "A7"
+    ],
+    [
+     "D"
+    ],
+    [
+     "E7(9)"
+    ],
+    [
+     "A7"
+    ]
+   ]
+  },
+  {
+   "name": "D",
+   "tonic": "G",
+   "bars": "39–56",
+   "repeat": true,
+   "sequence": [
+    [
+     "G"
+    ],
+    [
+     "D7"
+    ],
+    [
+     "Em"
+    ],
+    [
+     "B7"
+    ],
+    [
+     "C",
+     "Cm6"
+    ],
+    [
+     "G"
+    ],
+    [
+     "A7/C#"
+    ],
+    [
+     "D7/C"
+    ],
+    [
+     "G"
+    ],
+    [
+     "D7"
+    ],
+    [
+     "Em"
+    ],
+    [
+     "B7"
+    ],
+    [
+     "C",
+     "Cm6"
+    ],
+    [
+     "G"
+    ],
+    [
+     "A7(9)",
+     "D7"
+    ],
+    []
+   ],
+   "endings": {
+    "1": [
+     [
+      "G"
+     ]
+    ],
+    "2": [
+     [
+      "G"
+     ]
+    ]
+   },
+   "transition_in": [
+    [
+     "D"
+    ]
+   ]
+  }
+ ],
+ "notes": [
+  "Grille générée automatiquement depuis la partition MusicXML : à vérifier.",
+  "Corroborée par une autre partition : enchaînement 89%, mesures 83%."
+ ],
+ "confidence": "high",
+ "source": [
+  "mxl/C/Anacleto de Medeiros - Os boêmios - Theme - C.mxl"
+ ],
+ "generated": "mxl"
+}

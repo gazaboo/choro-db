@@ -1,0 +1,219 @@
+{
+ "song_id": "nao-me-toques-zequinha-de-abreu",
+ "title": "Não me toques",
+ "composer": "Zequinha de Abreu",
+ "transposition": "c",
+ "meter": "2/4",
+ "form": "A (reprise) — B (reprise) — C (reprise)",
+ "parts": [
+  {
+   "name": "A",
+   "tonic": "Dm",
+   "bars": "0–17",
+   "repeat": true,
+   "sequence": [
+    [
+     "Dm",
+     "A7/E"
+    ],
+    [
+     "Dm/F"
+    ],
+    [
+     "Dm",
+     "Dm/F"
+    ],
+    [
+     "A7/E"
+    ],
+    [
+     "A7",
+     "Gm6/Bb"
+    ],
+    [
+     "A7"
+    ],
+    [
+     "A7/C#"
+    ],
+    [
+     "Dm",
+     "A7"
+    ],
+    [
+     "Dm",
+     "A7/E"
+    ],
+    [
+     "Dm/F"
+    ],
+    [
+     "D7",
+     "D/C"
+    ],
+    [
+     "Gm/Bb"
+    ],
+    [
+     "Gm",
+     "Gm/Bb"
+    ],
+    [
+     "Dm/A"
+    ],
+    [
+     "A7"
+    ]
+   ],
+   "endings": {
+    "1": [
+     [
+      "Dm",
+      "A7"
+     ]
+    ],
+    "2": [
+     [
+      "Dm",
+      "Bb7"
+     ]
+    ]
+   }
+  },
+  {
+   "name": "B",
+   "tonic": "Dm",
+   "bars": "18–X1",
+   "repeat": true,
+   "sequence": [
+    [
+     "A7"
+    ],
+    [
+     "Dm"
+    ],
+    [
+     "Gm6",
+     "A/G"
+    ],
+    [
+     "Dm/F"
+    ],
+    [
+     "Gm"
+    ],
+    [
+     "Dm/A"
+    ],
+    [
+     "A7"
+    ]
+   ],
+   "endings": {
+    "1": [
+     [
+      "Dm",
+      "Bb7"
+     ]
+    ],
+    "2": [
+     [
+      "Dm",
+      "A7"
+     ]
+    ]
+   }
+  },
+  {
+   "name": "C",
+   "tonic": "D",
+   "bars": "28–45",
+   "repeat": true,
+   "sequence": [
+    [
+     "D",
+     "A7/E"
+    ],
+    [
+     "D/F#"
+    ],
+    [
+     "D/F#",
+     "Fdim"
+    ],
+    [
+     "A7/E"
+    ],
+    [
+     "Em",
+     "Em/D"
+    ],
+    [
+     "A7/C#",
+     "Em/B"
+    ],
+    [
+     "A7",
+     "A/G"
+    ],
+    [
+     "D/F#"
+    ],
+    [
+     "D",
+     "A7/E"
+    ],
+    [
+     "D/F#"
+    ],
+    [
+     "D7"
+    ],
+    [
+     "G"
+    ],
+    [
+     "G",
+     "G#dim"
+    ],
+    [
+     "D/A",
+     "B7"
+    ],
+    [
+     "Em",
+     "A7"
+    ],
+    []
+   ],
+   "endings": {
+    "1": [
+     [
+      "D"
+     ]
+    ],
+    "2": [
+     [
+      "D",
+      "A7"
+     ]
+    ]
+   },
+   "transition_in": [
+    [
+     "Dm",
+     "A7"
+    ]
+   ]
+  }
+ ],
+ "notes": [
+  "Grille générée automatiquement depuis la partition MusicXML : à vérifier.",
+  "Corroborée par une autre partition : enchaînement 89%, mesures 82%."
+ ],
+ "confidence": "high",
+ "source": [
+  "mxl/C/Zequinha de Abreu - Não me toques - Theme - C.mxl"
+ ],
+ "generated": "mxl"
+}

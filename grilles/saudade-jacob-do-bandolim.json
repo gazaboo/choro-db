@@ -1,0 +1,218 @@
+{
+ "song_id": "saudade-jacob-do-bandolim",
+ "title": "Saudade",
+ "composer": "Jacob do Bandolim",
+ "transposition": "c",
+ "meter": "2/4",
+ "form": "A — B — C — Coda",
+ "parts": [
+  {
+   "name": "A",
+   "tonic": "Dm",
+   "bars": "5–8",
+   "repeat": false,
+   "sequence": [
+    [
+     "Dm",
+     "C7"
+    ],
+    [
+     "Bb7",
+     "A7"
+    ],
+    [
+     "Dm",
+     "C7"
+    ],
+    [
+     "Bb7",
+     "A7"
+    ]
+   ]
+  },
+  {
+   "name": "B",
+   "tonic": "Dm",
+   "bars": "9–40",
+   "repeat": false,
+   "sequence": [
+    [
+     "Bb7/F"
+    ],
+    [
+     "A7"
+    ],
+    [
+     "Bb7/F"
+    ],
+    [
+     "A7"
+    ],
+    [
+     "Dm"
+    ],
+    [],
+    [
+     "D7/A"
+    ],
+    [
+     "D7"
+    ],
+    [
+     "Gm"
+    ],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [
+     "Bdim",
+     "Bb7"
+    ],
+    [
+     "A7"
+    ],
+    [
+     "Am7b5"
+    ],
+    [
+     "D7"
+    ],
+    [
+     "Am7b5"
+    ],
+    [
+     "D7"
+    ],
+    [
+     "D7/A"
+    ],
+    [],
+    [
+     "Gm"
+    ],
+    [
+     "Gm/F"
+    ],
+    [
+     "Em7b5"
+    ],
+    [
+     "Gm6"
+    ],
+    [
+     "Dm"
+    ],
+    [
+     "Gm"
+    ],
+    [
+     "Bdim",
+     "Bb7"
+    ],
+    [
+     "A7"
+    ],
+    [
+     "Dm"
+    ],
+    []
+   ]
+  },
+  {
+   "name": "C",
+   "tonic": "Dm",
+   "bars": "41–X1",
+   "repeat": false,
+   "sequence": [
+    [
+     "C7/G"
+    ],
+    [
+     "C7"
+    ],
+    [
+     "C7/G"
+    ],
+    [],
+    [
+     "F",
+     "A7/E"
+    ],
+    [
+     "Dm",
+     "Dm/C"
+    ],
+    [
+     "C7/G"
+    ],
+    [
+     "C7"
+    ],
+    [
+     "C7/G"
+    ],
+    [],
+    [
+     "D7/A"
+    ],
+    [],
+    [
+     "Gm"
+    ],
+    [
+     "Em7b5"
+    ],
+    [
+     "Dm"
+    ],
+    [
+     "Dm",
+     "Dm/C"
+    ],
+    [
+     "E7/B",
+     "Gm/Bb"
+    ],
+    [
+     "A7"
+    ],
+    [
+     "Dm"
+    ],
+    []
+   ]
+  },
+  {
+   "name": "Coda",
+   "tonic": "Dm",
+   "bars": "61–69",
+   "repeat": false,
+   "sequence": [
+    [
+     "Dm"
+    ],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [
+     "Dm"
+    ],
+    [],
+    []
+   ]
+  }
+ ],
+ "notes": [
+  "Grille générée automatiquement depuis la partition MusicXML : à vérifier.",
+  "Corroborée par une autre partition : enchaînement 88%, mesures 79%."
+ ],
+ "confidence": "high",
+ "source": [
+  "mxl/C/Jacob do Bandolim - Saudade - Theme - C.mxl"
+ ],
+ "generated": "mxl"
+}

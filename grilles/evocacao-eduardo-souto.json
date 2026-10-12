@@ -1,0 +1,302 @@
+{
+ "song_id": "evocacao-eduardo-souto",
+ "title": "Evocação",
+ "composer": "Eduardo Souto",
+ "transposition": "c",
+ "meter": "3/4",
+ "form": "A — B (reprise) — C (reprise) — D (reprise)",
+ "parts": [
+  {
+   "name": "A",
+   "tonic": "Bb",
+   "bars": "1–5",
+   "repeat": false,
+   "sequence": [
+    [
+     "F7"
+    ],
+    [],
+    [],
+    [],
+    []
+   ]
+  },
+  {
+   "name": "B",
+   "tonic": "Bb",
+   "bars": "6–38",
+   "repeat": true,
+   "sequence": [
+    [
+     "Bb"
+    ],
+    [
+     "Eb/G"
+    ],
+    [
+     "Bb/F"
+    ],
+    [],
+    [
+     "Bb"
+    ],
+    [
+     "Bb",
+     "G#dim"
+    ],
+    [
+     "F7/A"
+    ],
+    [],
+    [
+     "D7"
+    ],
+    [],
+    [
+     "Gm"
+    ],
+    [],
+    [
+     "C7"
+    ],
+    [],
+    [
+     "F7"
+    ],
+    [],
+    [
+     "Bb"
+    ],
+    [
+     "Eb/G"
+    ],
+    [
+     "Bb/F"
+    ],
+    [],
+    [
+     "Bb7"
+    ],
+    [],
+    [
+     "Eb"
+    ],
+    [],
+    [
+     "Ebm6"
+    ],
+    [
+     "Ebm6",
+     "C#dim"
+    ],
+    [
+     "Bb/D"
+    ],
+    [],
+    [
+     "Cm"
+    ],
+    [
+     "F7"
+    ],
+    [
+     "Bb"
+    ]
+   ],
+   "endings": {
+    "1": [
+     []
+    ],
+    "2": [
+     []
+    ]
+   }
+  },
+  {
+   "name": "C",
+   "tonic": "Eb",
+   "bars": "39–X1",
+   "repeat": true,
+   "sequence": [
+    [
+     "Eb"
+    ],
+    [],
+    [
+     "Bb7"
+    ],
+    [],
+    [
+     "Bb7"
+    ],
+    [],
+    [
+     "Ebdim"
+    ],
+    [
+     "Eb"
+    ],
+    [],
+    [
+     "Eb",
+     "Gbdim"
+    ],
+    [
+     "Bb7/F"
+    ],
+    [],
+    [
+     "Bb7"
+    ],
+    [],
+    [
+     "Ebdim"
+    ],
+    [
+     "Eb"
+    ],
+    [
+     "Eb"
+    ],
+    [],
+    [
+     "F7"
+    ],
+    [],
+    [
+     "Bb7"
+    ],
+    [],
+    [
+     "Ebdim"
+    ],
+    [
+     "Eb"
+    ],
+    [
+     "C7"
+    ],
+    [],
+    [
+     "Fm"
+    ],
+    [
+     "Abm6"
+    ],
+    [
+     "Eb/G"
+    ],
+    [
+     "Bb7"
+    ],
+    [
+     "Eb"
+    ]
+   ],
+   "endings": {
+    "1": [
+     []
+    ],
+    "2": [
+     []
+    ]
+   }
+  },
+  {
+   "name": "D",
+   "tonic": "Gm",
+   "bars": "74–106",
+   "repeat": true,
+   "sequence": [
+    [
+     "Gm"
+    ],
+    [],
+    [
+     "Am7b5"
+    ],
+    [],
+    [
+     "D7"
+    ],
+    [],
+    [
+     "Gm"
+    ],
+    [
+     "Gm/Bb"
+    ],
+    [
+     "Ab/C"
+    ],
+    [],
+    [
+     "Gm/Bb"
+    ],
+    [],
+    [
+     "D7"
+    ],
+    [],
+    [
+     "Gm/Bb"
+    ],
+    [
+     "D7"
+    ],
+    [
+     "Gm"
+    ],
+    [],
+    [
+     "Am7b5"
+    ],
+    [],
+    [
+     "F7"
+    ],
+    [],
+    [
+     "Bb"
+    ],
+    [],
+    [
+     "Cm6/Eb"
+    ],
+    [],
+    [
+     "Gm"
+    ],
+    [
+     "Ab/C"
+    ],
+    [
+     "Gm/D"
+    ],
+    [
+     "D7"
+    ],
+    [
+     "Gm"
+    ],
+    [],
+    []
+   ],
+   "transition_in": [
+    [
+     "Bb"
+    ],
+    []
+   ]
+  }
+ ],
+ "notes": [
+  "Grille générée automatiquement depuis la partition MusicXML : à vérifier.",
+  "Corroborée par une autre partition : enchaînement 94%, mesures 93%."
+ ],
+ "confidence": "high",
+ "source": [
+  "mxl/C/Eduardo Souto - Evocação - Theme - C.mxl"
+ ],
+ "generated": "mxl"
+}

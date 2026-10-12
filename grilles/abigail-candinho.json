@@ -1,0 +1,285 @@
+{
+ "song_id": "abigail-candinho",
+ "title": "Abigail",
+ "composer": "Candinho",
+ "transposition": "c",
+ "meter": "2/4",
+ "form": "A (reprise) — B (reprise) — C (reprise) — Coda",
+ "parts": [
+  {
+   "name": "A",
+   "tonic": "G",
+   "bars": "1–33",
+   "repeat": true,
+   "sequence": [
+    [
+     "G"
+    ],
+    [
+     "G/B",
+     "G7"
+    ],
+    [
+     "C",
+     "E7/B"
+    ],
+    [
+     "Am"
+    ],
+    [
+     "D7"
+    ],
+    [
+     "D/C"
+    ],
+    [
+     "G/B"
+    ],
+    [
+     "G",
+     "F#m7b5"
+    ],
+    [
+     "B7"
+    ],
+    [
+     "B7/F#",
+     "B7"
+    ],
+    [
+     "Em"
+    ],
+    [
+     "Em/G"
+    ],
+    [
+     "C"
+    ],
+    [
+     "C/Bb"
+    ],
+    [
+     "B7"
+    ],
+    [
+     "Em7",
+     "D7"
+    ],
+    [
+     "D7/F#"
+    ],
+    [
+     "D7"
+    ],
+    [
+     "G"
+    ],
+    [
+     "G/B"
+    ],
+    [
+     "Eb/Bb"
+    ],
+    [
+     "Eb/Db"
+    ],
+    [
+     "G/D"
+    ],
+    [
+     "Em"
+    ],
+    [
+     "E7/G#"
+    ],
+    [
+     "E7"
+    ],
+    [
+     "Am"
+    ],
+    [
+     "Cm6"
+    ],
+    [
+     "G/B"
+    ],
+    [
+     "D7/A",
+     "D7"
+    ],
+    [
+     "G"
+    ]
+   ],
+   "endings": {
+    "1": [
+     [
+      "G"
+     ]
+    ],
+    "2": [
+     [
+      "G"
+     ]
+    ]
+   }
+  },
+  {
+   "name": "B",
+   "tonic": "Em",
+   "bars": "34–51",
+   "repeat": true,
+   "sequence": [
+    [
+     "Em"
+    ],
+    [
+     "Em/D"
+    ],
+    [
+     "Am/C"
+    ],
+    [
+     "Am7"
+    ],
+    [
+     "B7/F#"
+    ],
+    [
+     "B7"
+    ],
+    [
+     "C/E"
+    ],
+    [
+     "Em"
+    ],
+    [
+     "E7/G#"
+    ],
+    [
+     "E7"
+    ],
+    [
+     "Am"
+    ],
+    [
+     "F#m7b5"
+    ],
+    [
+     "Em/G"
+    ],
+    [
+     "Am6",
+     "B7"
+    ],
+    [
+     "Em"
+    ],
+    [
+     "G"
+    ]
+   ],
+   "endings": {
+    "1": [
+     [
+      "Em"
+     ]
+    ],
+    "2": [
+     [
+      "Em"
+     ]
+    ]
+   }
+  },
+  {
+   "name": "C",
+   "tonic": "C",
+   "bars": "52–X2",
+   "repeat": true,
+   "sequence": [
+    [
+     "G7/D"
+    ],
+    [
+     "G7"
+    ],
+    [
+     "C"
+    ],
+    [
+     "C/E"
+    ],
+    [
+     "G7/D"
+    ],
+    [
+     "G7"
+    ],
+    [
+     "C/E"
+    ],
+    [
+     "C"
+    ],
+    [
+     "E7/B"
+    ],
+    [
+     "E7/G#"
+    ],
+    [
+     "Am7"
+    ],
+    [
+     "F6",
+     "D7/F#"
+    ],
+    [
+     "C/G"
+    ],
+    [
+     "Dm7",
+     "G7(b9)"
+    ],
+    [
+     "C"
+    ]
+   ],
+   "endings": {
+    "1": [
+     [
+      "C"
+     ]
+    ],
+    "2": [
+     [
+      "C"
+     ]
+    ]
+   }
+  },
+  {
+   "name": "Coda",
+   "tonic": "G",
+   "bars": "69–69",
+   "repeat": false,
+   "sequence": [
+    [
+     "G"
+    ]
+   ]
+  }
+ ],
+ "notes": [
+  "Grille générée automatiquement depuis la partition MusicXML : à vérifier.",
+  "Corroborée par une autre partition : enchaînement 94%, mesures 89%."
+ ],
+ "confidence": "high",
+ "source": [
+  "mxl/C/Candinho - Abigail - Theme - C.mxl"
+ ],
+ "generated": "mxl"
+}

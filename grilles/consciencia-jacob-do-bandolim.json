@@ -1,0 +1,161 @@
+{
+ "song_id": "consciencia-jacob-do-bandolim",
+ "title": "Consciência",
+ "composer": "Jacob do Bandolim",
+ "transposition": "c",
+ "meter": "2/4",
+ "form": "A — B",
+ "parts": [
+  {
+   "name": "A",
+   "tonic": "Am",
+   "bars": "1–24",
+   "repeat": false,
+   "sequence": [
+    [
+     "Am"
+    ],
+    [
+     "Dm6/A"
+    ],
+    [
+     "Am"
+    ],
+    [
+     "G#dim"
+    ],
+    [
+     "F7"
+    ],
+    [
+     "B7/D#"
+    ],
+    [
+     "E7"
+    ],
+    [
+     "E7/G#"
+    ],
+    [
+     "Em7b5"
+    ],
+    [
+     "A7/C#"
+    ],
+    [
+     "Dm",
+     "A7/E"
+    ],
+    [
+     "Dm/F",
+     "D7/F#"
+    ],
+    [
+     "G7"
+    ],
+    [
+     "G7/B"
+    ],
+    [
+     "C"
+    ],
+    [
+     "E7/G#"
+    ],
+    [
+     "Am"
+    ],
+    [
+     "Dm6/A"
+    ],
+    [
+     "Am"
+    ],
+    [
+     "Bb",
+     "Bb/Ab"
+    ],
+    [
+     "Am",
+     "Am/G"
+    ],
+    [
+     "B7/F#",
+     "E7"
+    ],
+    [
+     "Am"
+    ],
+    []
+   ]
+  },
+  {
+   "name": "B",
+   "tonic": "Am",
+   "bars": "25–40",
+   "repeat": false,
+   "sequence": [
+    [
+     "E7"
+    ],
+    [
+     "E7/G#"
+    ],
+    [
+     "Am",
+     "E7/B"
+    ],
+    [
+     "Am/C"
+    ],
+    [
+     "A7"
+    ],
+    [
+     "Gm6/Bb",
+     "A7/C#"
+    ],
+    [
+     "Dm",
+     "A7/E"
+    ],
+    [
+     "Dm/F"
+    ],
+    [
+     "G7"
+    ],
+    [
+     "G/F"
+    ],
+    [
+     "C/E"
+    ],
+    [
+     "C7"
+    ],
+    [
+     "F6"
+    ],
+    [
+     "F/Eb"
+    ],
+    [
+     "E7"
+    ],
+    [
+     "E7/G#"
+    ]
+   ]
+  }
+ ],
+ "notes": [
+  "Grille générée automatiquement depuis la partition MusicXML : à vérifier.",
+  "Corroborée par une autre partition : enchaînement 93%, mesures 82%."
+ ],
+ "confidence": "high",
+ "source": [
+  "mxl/C/Jacob do Bandolim - Consciência - Theme - C.mxl"
+ ],
+ "generated": "mxl"
+}

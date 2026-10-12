@@ -1,0 +1,243 @@
+{
+ "song_id": "carnaval-duvidoso-adalberto-azevedo",
+ "title": "Carnaval duvidoso",
+ "composer": "Adalberto Azevedo",
+ "transposition": "c",
+ "meter": "2/4",
+ "form": "A (reprise) — B (reprise) — C (reprise)",
+ "parts": [
+  {
+   "name": "A",
+   "tonic": "Am",
+   "bars": "0–17",
+   "repeat": true,
+   "sequence": [
+    [
+     "Dm6/F",
+     "E7"
+    ],
+    [
+     "Am"
+    ],
+    [
+     "Dm6/F",
+     "E7"
+    ],
+    [
+     "Am"
+    ],
+    [
+     "G7/B"
+    ],
+    [
+     "C"
+    ],
+    [
+     "E7/G#"
+    ],
+    [
+     "Am"
+    ],
+    [
+     "A7/C#"
+    ],
+    [
+     "D7"
+    ],
+    [
+     "G7"
+    ],
+    [
+     "C"
+    ],
+    [
+     "E7/G#",
+     "E7"
+    ],
+    [
+     "Am",
+     "E7/G#"
+    ],
+    [
+     "Am",
+     "E7"
+    ]
+   ],
+   "endings": {
+    "1": [
+     [
+      "Am"
+     ]
+    ],
+    "2": [
+     [
+      "Am"
+     ]
+    ]
+   }
+  },
+  {
+   "name": "B",
+   "tonic": "C",
+   "bars": "18–X1",
+   "repeat": true,
+   "sequence": [
+    [
+     "G7"
+    ],
+    [
+     "C"
+    ],
+    [
+     "G7/B",
+     "G7"
+    ],
+    [
+     "C"
+    ],
+    [
+     "E7/G#",
+     "E7"
+    ],
+    [
+     "Am",
+     "Am6/C"
+    ],
+    [
+     "E/B",
+     "B7/F#"
+    ],
+    [
+     "E"
+    ],
+    [
+     "G7"
+    ],
+    [
+     "C"
+    ],
+    [
+     "G7/B",
+     "G7"
+    ],
+    [
+     "C"
+    ],
+    [
+     "E7/G#",
+     "E7"
+    ],
+    [
+     "Am",
+     "Dm/F"
+    ],
+    [
+     "C/G",
+     "G7"
+    ]
+   ],
+   "endings": {
+    "1": [
+     [
+      "C"
+     ]
+    ],
+    "2": [
+     [
+      "C"
+     ]
+    ]
+   }
+  },
+  {
+   "name": "C",
+   "tonic": "A",
+   "bars": "36–53",
+   "repeat": true,
+   "sequence": [
+    [
+     "A"
+    ],
+    [],
+    [
+     "B7/D#",
+     "E/D"
+    ],
+    [
+     "A/C#",
+     "C#7/E#"
+    ],
+    [
+     "F#m",
+     "D#m7b5"
+    ],
+    [
+     "C#m"
+    ],
+    [
+     "F#m6",
+     "G#7"
+    ],
+    [
+     "C#m",
+     "E7"
+    ],
+    [
+     "A",
+     "A/G"
+    ],
+    [
+     "D/F#",
+     "Dm6/F"
+    ],
+    [
+     "E7",
+     "E/D"
+    ],
+    [
+     "A/C#",
+     "C7"
+    ],
+    [
+     "F",
+     "C7/G"
+    ],
+    [
+     "F",
+     "F7"
+    ],
+    [
+     "A/C#",
+     "E7/B"
+    ],
+    []
+   ],
+   "endings": {
+    "1": [
+     [
+      "A"
+     ]
+    ],
+    "2": [
+     [
+      "A"
+     ]
+    ]
+   },
+   "transition_in": [
+    [
+     "Am"
+    ]
+   ]
+  }
+ ],
+ "notes": [
+  "Grille générée automatiquement depuis la partition MusicXML : à vérifier.",
+  "Corroborée par une autre partition : enchaînement 92%, mesures 83%."
+ ],
+ "confidence": "high",
+ "source": [
+  "mxl/C/Adalberto Azevedo - Carnaval duvidoso - Theme - C.mxl"
+ ],
+ "generated": "mxl"
+}

@@ -1,0 +1,248 @@
+{
+ "song_id": "esta-se-coando-anacleto-de-medeiros",
+ "title": "Está se coando",
+ "composer": "Anacleto de Medeiros",
+ "transposition": "c",
+ "meter": "2/4",
+ "form": "A (reprise) — B (reprise) — C (reprise) — Coda",
+ "parts": [
+  {
+   "name": "A",
+   "tonic": "Dm",
+   "bars": "1–17",
+   "repeat": true,
+   "sequence": [
+    [
+     "F"
+    ],
+    [
+     "C7/G"
+    ],
+    [
+     "C7"
+    ],
+    [
+     "F"
+    ],
+    [
+     "F",
+     "E7"
+    ],
+    [
+     "Am"
+    ],
+    [
+     "E7"
+    ],
+    [
+     "Am",
+     "C7"
+    ],
+    [
+     "F"
+    ],
+    [
+     "C7/G"
+    ],
+    [
+     "C7"
+    ],
+    [
+     "F"
+    ],
+    [
+     "F/A",
+     "A7"
+    ],
+    [
+     "Bb",
+     "G7/B"
+    ],
+    [
+     "F/C",
+     "C7"
+    ]
+   ],
+   "endings": {
+    "1": [
+     [
+      "F"
+     ]
+    ],
+    "2": [
+     [
+      "F",
+      "A7"
+     ]
+    ]
+   }
+  },
+  {
+   "name": "B",
+   "tonic": "F",
+   "bars": "18–35",
+   "repeat": true,
+   "sequence": [
+    [
+     "Dm"
+    ],
+    [
+     "Ddim"
+    ],
+    [
+     "A7"
+    ],
+    [
+     "Dm"
+    ],
+    [
+     "Gm"
+    ],
+    [
+     "Dm/F"
+    ],
+    [
+     "A7/E",
+     "A7"
+    ],
+    [
+     "Dm",
+     "A7"
+    ],
+    [
+     "Dm"
+    ],
+    [
+     "Ddim"
+    ],
+    [
+     "A7"
+    ],
+    [
+     "Dm"
+    ],
+    [
+     "Gm"
+    ],
+    [
+     "Dm/F"
+    ],
+    [
+     "A7",
+     "A7/C#"
+    ],
+    [
+     "F",
+     "F7"
+    ]
+   ],
+   "endings": {
+    "1": [
+     [
+      "Dm",
+      "A7"
+     ]
+    ],
+    "2": [
+     [
+      "Dm",
+      "C7"
+     ]
+    ]
+   }
+  },
+  {
+   "name": "C",
+   "tonic": "Bb",
+   "bars": "36–X2",
+   "repeat": true,
+   "sequence": [
+    [
+     "Bb"
+    ],
+    [
+     "Bb"
+    ],
+    [
+     "Bb/D"
+    ],
+    [
+     "F/Eb"
+    ],
+    [
+     "F7/A"
+    ],
+    [
+     "Bb",
+     "F/A",
+     "Gm",
+     "Dm/F"
+    ],
+    [
+     "C7/E"
+    ],
+    [
+     "F7"
+    ],
+    [
+     "Bb"
+    ],
+    [
+     "Bb"
+    ],
+    [
+     "Bb7/D"
+    ],
+    [
+     "Eb",
+     "G7"
+    ],
+    [
+     "Cm",
+     "Ebm/Gb"
+    ],
+    [
+     "Bb/F",
+     "G7"
+    ],
+    [
+     "C7",
+     "F7"
+    ]
+   ],
+   "endings": {
+    "1": [
+     [
+      "Bb"
+     ]
+    ],
+    "2": [
+     [
+      "Bb",
+      "C7"
+     ]
+    ]
+   }
+  },
+  {
+   "name": "Coda",
+   "tonic": "F",
+   "bars": "53–53",
+   "repeat": false,
+   "sequence": [
+    [
+     "F"
+    ]
+   ]
+  }
+ ],
+ "notes": [
+  "Grille générée automatiquement depuis la partition MusicXML : à vérifier.",
+  "Corroborée par une autre partition : enchaînement 88%, mesures 85%."
+ ],
+ "confidence": "high",
+ "source": [
+  "mxl/C/Anacleto de Medeiros - Está se coando - Theme - C.mxl"
+ ],
+ "generated": "mxl"
+}

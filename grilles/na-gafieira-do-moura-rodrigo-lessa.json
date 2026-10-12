@@ -1,0 +1,256 @@
+{
+ "song_id": "na-gafieira-do-moura-rodrigo-lessa",
+ "title": "Na gafieira do Moura",
+ "composer": "Rodrigo Lessa",
+ "transposition": "c",
+ "meter": "2/4",
+ "form": "A — B — C (reprise)",
+ "parts": [
+  {
+   "name": "A",
+   "tonic": "A",
+   "bars": "1–33",
+   "repeat": false,
+   "sequence": [
+    [],
+    [],
+    [
+     "A"
+    ],
+    [],
+    [
+     "C#7"
+    ],
+    [],
+    [
+     "F#7"
+    ],
+    [],
+    [
+     "Bm"
+    ],
+    [],
+    [
+     "D6"
+    ],
+    [
+     "G#7"
+    ],
+    [
+     "A6"
+    ],
+    [
+     "F#m7"
+    ],
+    [
+     "B7(9)"
+    ],
+    [],
+    [
+     "E7"
+    ],
+    [],
+    [
+     "A"
+    ],
+    [],
+    [
+     "C#7"
+    ],
+    [
+     "Em6/G"
+    ],
+    [
+     "F#7"
+    ],
+    [],
+    [
+     "Bm"
+    ],
+    [],
+    [
+     "Dmaj7"
+    ],
+    [
+     "Dm6"
+    ],
+    [
+     "C#m7"
+    ],
+    [
+     "Cdim"
+    ],
+    [
+     "Bm7"
+    ],
+    [
+     "E7(b9,13)"
+    ],
+    [
+     "A"
+    ]
+   ]
+  },
+  {
+   "name": "B",
+   "tonic": "A",
+   "bars": "34–X1",
+   "repeat": false,
+   "sequence": [
+    [
+     "C#7"
+    ],
+    [
+     "F#m7"
+    ],
+    [
+     "D7/F#"
+    ],
+    [
+     "F#m7"
+    ],
+    [
+     "D7/F#"
+    ],
+    [
+     "F#m7"
+    ],
+    [
+     "D7/F#"
+    ],
+    [
+     "F#7(9)"
+    ],
+    [
+     "F#7"
+    ],
+    [
+     "B7(9)"
+    ],
+    [
+     "G7(13)"
+    ],
+    [
+     "F#m6"
+    ],
+    [
+     "Em6"
+    ],
+    [
+     "D#dim"
+    ],
+    [],
+    [
+     "Ddim"
+    ],
+    [
+     "D7",
+     "C#7"
+    ],
+    [
+     "F#m7(11)"
+    ],
+    [
+     "D7/F#"
+    ],
+    [
+     "F#m6"
+    ],
+    [
+     "D7/F#"
+    ],
+    [
+     "F#m7"
+    ],
+    [
+     "D7/F#"
+    ],
+    [
+     "F#7(9)"
+    ],
+    [
+     "F#7"
+    ],
+    [
+     "Bm"
+    ],
+    [
+     "B7/D#"
+    ],
+    [
+     "F#m6"
+    ],
+    [
+     "C#7/E#"
+    ],
+    [
+     "C#m6"
+    ],
+    [
+     "D7",
+     "C#7"
+    ],
+    [
+     "F#m6",
+     "Fdim"
+    ],
+    [
+     "E7(9)"
+    ]
+   ]
+  },
+  {
+   "name": "C",
+   "tonic": "A",
+   "bars": "67–77",
+   "repeat": true,
+   "sequence": [
+    [
+     "A7"
+    ],
+    [
+     "Dmaj7"
+    ],
+    [
+     "Dm6"
+    ],
+    [
+     "C#m7"
+    ],
+    [
+     "Cdim"
+    ],
+    [
+     "Bm7"
+    ],
+    [
+     "E7(b9,13)"
+    ],
+    [],
+    []
+   ],
+   "endings": {
+    "1": [
+     [
+      "A"
+     ]
+    ],
+    "2": [
+     [
+      "A"
+     ]
+    ]
+   }
+  }
+ ],
+ "notes": [
+  "Grille générée automatiquement depuis la partition MusicXML : à vérifier.",
+  "A : première mesure sans accord",
+  "Corroborée par une autre partition : enchaînement 99%, mesures 97%."
+ ],
+ "confidence": "high",
+ "source": [
+  "mxl/C/Rodrigo Lessa - Na gafieira do Moura - Theme - C.mxl"
+ ],
+ "generated": "mxl"
+}

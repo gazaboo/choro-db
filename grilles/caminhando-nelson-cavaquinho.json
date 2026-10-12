@@ -1,0 +1,231 @@
+{
+ "song_id": "caminhando-nelson-cavaquinho",
+ "title": "Caminhando",
+ "composer": "Nelson Cavaquinho",
+ "transposition": "c",
+ "meter": "2/4",
+ "form": "A — B",
+ "parts": [
+  {
+   "name": "A",
+   "tonic": "F",
+   "bars": "0–31",
+   "repeat": false,
+   "sequence": [
+    [
+     "Gm"
+    ],
+    [
+     "C7"
+    ],
+    [
+     "F"
+    ],
+    [
+     "Abdim"
+    ],
+    [
+     "Gm"
+    ],
+    [
+     "C7"
+    ],
+    [
+     "Am",
+     "C7"
+    ],
+    [
+     "F",
+     "Dm7"
+    ],
+    [
+     "Gm"
+    ],
+    [
+     "A7"
+    ],
+    [
+     "Dm"
+    ],
+    [
+     "E7"
+    ],
+    [
+     "A",
+     "F#7"
+    ],
+    [
+     "Bm",
+     "E7"
+    ],
+    [
+     "A"
+    ],
+    [
+     "C7"
+    ],
+    [
+     "Gm"
+    ],
+    [
+     "C7"
+    ],
+    [
+     "F"
+    ],
+    [
+     "Abdim"
+    ],
+    [
+     "Gm"
+    ],
+    [
+     "C7",
+     "Bb7"
+    ],
+    [
+     "A7"
+    ],
+    [],
+    [
+     "Bb"
+    ],
+    [
+     "Bdim"
+    ],
+    [
+     "F7",
+     "E7",
+     "Eb7"
+    ],
+    [
+     "D7"
+    ],
+    [
+     "Gm"
+    ],
+    [
+     "C7"
+    ],
+    [
+     "F"
+    ]
+   ]
+  },
+  {
+   "name": "B",
+   "tonic": "F",
+   "bars": "32–65",
+   "repeat": false,
+   "sequence": [
+    [
+     "A7"
+    ],
+    [
+     "Dm",
+     "Dm(maj7)"
+    ],
+    [
+     "Dm7"
+    ],
+    [
+     "Gm/Bb",
+     "D7/A"
+    ],
+    [
+     "Gm"
+    ],
+    [
+     "A7/E"
+    ],
+    [],
+    [
+     "Dm"
+    ],
+    [
+     "A7"
+    ],
+    [
+     "Dm"
+    ],
+    [
+     "E7"
+    ],
+    [
+     "A"
+    ],
+    [
+     "F#7"
+    ],
+    [
+     "Bm7"
+    ],
+    [
+     "E7"
+    ],
+    [
+     "Gm6/Bb"
+    ],
+    [
+     "A7"
+    ],
+    [
+     "Dm"
+    ],
+    [
+     "Dm/C"
+    ],
+    [
+     "Gm/Bb",
+     "D7/A"
+    ],
+    [
+     "Gm",
+     "Gm/F"
+    ],
+    [
+     "A7/E"
+    ],
+    [],
+    [
+     "Dm"
+    ],
+    [
+     "D7"
+    ],
+    [
+     "Gm"
+    ],
+    [
+     "A7"
+    ],
+    [
+     "Dm"
+    ],
+    [],
+    [
+     "E7"
+    ],
+    [
+     "A7"
+    ],
+    [
+     "Dm",
+     "Db7",
+     "C7"
+    ],
+    [],
+    []
+   ]
+  }
+ ],
+ "notes": [
+  "Grille générée automatiquement depuis la partition MusicXML : à vérifier.",
+  "Corroborée par une autre partition : enchaînement 96%, mesures 95%."
+ ],
+ "confidence": "high",
+ "source": [
+  "mxl/C/Nelson Cavaquinho - Caminhando - Theme - C.mxl"
+ ],
+ "generated": "mxl"
+}

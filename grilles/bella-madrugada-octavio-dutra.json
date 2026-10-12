@@ -1,0 +1,212 @@
+{
+ "song_id": "bella-madrugada-octavio-dutra",
+ "title": "Bella madrugada",
+ "composer": "Octávio Dutra",
+ "transposition": "c",
+ "meter": "2/4",
+ "form": "A (reprise) — B (reprise) — C (reprise)",
+ "parts": [
+  {
+   "name": "A",
+   "tonic": "C",
+   "bars": "1–16",
+   "repeat": true,
+   "sequence": [
+    [
+     "C/E",
+     "Ab7/Eb"
+    ],
+    [
+     "Dm7"
+    ],
+    [
+     "G7",
+     "G7/B"
+    ],
+    [
+     "C"
+    ],
+    [
+     "C",
+     "C/E"
+    ],
+    [
+     "D7"
+    ],
+    [
+     "G7",
+     "G/F"
+    ],
+    [
+     "C/E"
+    ],
+    [
+     "C/E",
+     "Ab7/Eb"
+    ],
+    [
+     "Dm7"
+    ],
+    [
+     "E7",
+     "E/D"
+    ],
+    [
+     "Am/C"
+    ],
+    [
+     "F",
+     "Fm6/Ab"
+    ],
+    [
+     "C/G"
+    ],
+    [
+     "G7",
+     "G7/B"
+    ],
+    [
+     "C"
+    ]
+   ]
+  },
+  {
+   "name": "B",
+   "tonic": "Am",
+   "bars": "17–X1",
+   "repeat": true,
+   "sequence": [
+    [
+     "Am",
+     "A7/C#"
+    ],
+    [
+     "Dm"
+    ],
+    [
+     "E7/G#",
+     "E7/B"
+    ],
+    [
+     "Am"
+    ],
+    [
+     "Am",
+     "Am/G"
+    ],
+    [
+     "B7/F#",
+     "F7"
+    ],
+    [
+     "E7"
+    ],
+    [
+     "Am"
+    ],
+    [
+     "Am",
+     "A7/C#"
+    ],
+    [
+     "Dm"
+    ],
+    [
+     "E7/G#",
+     "E7/B"
+    ],
+    [
+     "Am",
+     "Am/G"
+    ],
+    [
+     "Dm/F",
+     "F/Eb"
+    ],
+    [
+     "Am/E"
+    ],
+    [
+     "E7/B",
+     "E7/G#"
+    ],
+    [
+     "Am"
+    ]
+   ]
+  },
+  {
+   "name": "C",
+   "tonic": "F",
+   "bars": "33–49",
+   "repeat": true,
+   "sequence": [
+    [
+     "F",
+     "C7/G"
+    ],
+    [
+     "F/A"
+    ],
+    [
+     "F",
+     "F/A"
+    ],
+    [
+     "C7/G"
+    ],
+    [
+     "Gm7"
+    ],
+    [
+     "C7"
+    ],
+    [
+     "C7",
+     "C/Bb"
+    ],
+    [
+     "F/A",
+     "C7"
+    ],
+    [
+     "F",
+     "C7/G"
+    ],
+    [
+     "F/A"
+    ],
+    [
+     "D7/F#",
+     "D7"
+    ],
+    [
+     "Gm"
+    ],
+    [
+     "Bdim"
+    ],
+    [
+     "F/C"
+    ],
+    [
+     "C7/E",
+     "C7"
+    ],
+    [
+     "F"
+    ],
+    []
+   ]
+  }
+ ],
+ "notes": [
+  "Grille générée automatiquement depuis la partition MusicXML : à vérifier.",
+  "Corroborée par une autre partition : enchaînement 99%, mesures 95%."
+ ],
+ "confidence": "high",
+ "source": [
+  "mxl/C/Octávio Dutra - Bella madrugada - Theme - C.mxl"
+ ],
+ "generated": "mxl"
+}

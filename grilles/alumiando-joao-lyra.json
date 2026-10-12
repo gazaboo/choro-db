@@ -1,0 +1,281 @@
+{
+ "song_id": "alumiando-joao-lyra",
+ "title": "Alumiando",
+ "composer": "João Lyra",
+ "transposition": "c",
+ "meter": "2/4",
+ "form": "A (reprise) — B (reprise) — C — D (reprise) — E",
+ "parts": [
+  {
+   "name": "A",
+   "tonic": "Dm",
+   "bars": "0–17",
+   "repeat": true,
+   "sequence": [
+    [
+     "Dm"
+    ],
+    [
+     "Gm"
+    ],
+    [
+     "A7"
+    ],
+    [
+     "Dm",
+     "Eb7(9)"
+    ],
+    [
+     "Bm7b5",
+     "E7"
+    ],
+    [
+     "Am"
+    ],
+    [
+     "G#dim"
+    ],
+    [
+     "Gm",
+     "A7(#5)"
+    ],
+    [
+     "Dm"
+    ],
+    [
+     "Gm"
+    ],
+    [
+     "C7(9)"
+    ],
+    [
+     "F7sus4",
+     "F7"
+    ],
+    [
+     "Bb7(9)"
+    ],
+    [
+     "Ebmaj7"
+    ],
+    [
+     "Em7b5",
+     "A7"
+    ]
+   ],
+   "endings": {
+    "1": [
+     [
+      "Dm",
+      "Eb7(9)"
+     ]
+    ],
+    "2": [
+     [
+      "Dm",
+      "F#dim"
+     ]
+    ]
+   }
+  },
+  {
+   "name": "B",
+   "tonic": "Dm",
+   "bars": "18–34",
+   "repeat": true,
+   "sequence": [
+    [
+     "Gm"
+    ],
+    [
+     "C7(9)"
+    ],
+    [
+     "F6",
+     "C7/G"
+    ],
+    [
+     "F/A"
+    ],
+    [
+     "Adim"
+    ],
+    [
+     "F#dim"
+    ],
+    [
+     "Am7b5"
+    ],
+    [
+     "Gm"
+    ],
+    [
+     "A7"
+    ],
+    [],
+    [
+     "Dm"
+    ]
+   ],
+   "endings": {
+    "1": [
+     [
+      "Bm7b5"
+     ],
+     [
+      "Am"
+     ],
+     [
+      "E7/G#"
+     ],
+     [
+      "Am"
+     ],
+     [
+      "C7(9)",
+      "F#dim"
+     ]
+    ],
+    "2": [
+     [
+      "Dm"
+     ]
+    ]
+   }
+  },
+  {
+   "name": "C",
+   "tonic": "Dm",
+   "bars": "35–38",
+   "repeat": false,
+   "sequence": [
+    [
+     "Eb7(9)"
+    ],
+    [
+     "A7"
+    ],
+    [
+     "Dm"
+    ],
+    [
+     "Dm",
+     "F7(9)"
+    ]
+   ]
+  },
+  {
+   "name": "D",
+   "tonic": "Bb",
+   "bars": "39–55",
+   "repeat": true,
+   "sequence": [
+    [
+     "Bb6",
+     "Bdim"
+    ],
+    [
+     "F7/C",
+     "F7"
+    ],
+    [
+     "Bb6"
+    ],
+    [],
+    [
+     "Bb7sus4"
+    ],
+    [
+     "Bb7(9)"
+    ],
+    [
+     "Ebmaj7"
+    ]
+   ],
+   "endings": {
+    "1": [
+     [
+      "Ebmaj7"
+     ],
+     [
+      "Am7b5"
+     ],
+     [
+      "D7/F#"
+     ],
+     [
+      "Gm",
+      "Gm/F"
+     ],
+     [
+      "Em7b5",
+      "A7"
+     ],
+     [
+      "Dmaj7",
+      "Bm"
+     ],
+     [
+      "Em",
+      "A7"
+     ],
+     [
+      "D7",
+      "G7"
+     ],
+     [
+      "Cm7",
+      "F7"
+     ]
+    ],
+    "2": [
+     [
+      "Ebmaj7"
+     ]
+    ]
+   }
+  },
+  {
+   "name": "E",
+   "tonic": "Bb",
+   "bars": "56–64",
+   "repeat": false,
+   "sequence": [
+    [
+     "Edim"
+    ],
+    [
+     "C#dim"
+    ],
+    [
+     "Bb6"
+    ],
+    [
+     "G7"
+    ],
+    [
+     "Gb7"
+    ],
+    [
+     "F7"
+    ],
+    [
+     "Bb6"
+    ],
+    [
+     "A7"
+    ],
+    []
+   ]
+  }
+ ],
+ "notes": [
+  "Grille générée automatiquement depuis la partition MusicXML : à vérifier.",
+  "Corroborée par une autre partition : enchaînement 89%, mesures 84%."
+ ],
+ "confidence": "high",
+ "source": [
+  "mxl/C/João Lyra - Alumiando - Theme - C.mxl"
+ ],
+ "generated": "mxl"
+}

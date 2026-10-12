@@ -1,0 +1,249 @@
+{
+ "song_id": "dada-franklin-da-flauta",
+ "title": "Dadá",
+ "composer": "Franklin da Flauta",
+ "transposition": "c",
+ "meter": "3/4",
+ "form": "A — B (reprise) — C — D",
+ "parts": [
+  {
+   "name": "A",
+   "tonic": "D",
+   "bars": "1–8",
+   "repeat": false,
+   "sequence": [
+    [
+     "Dmaj7"
+    ],
+    [
+     "D7(b5)"
+    ],
+    [
+     "Em7"
+    ],
+    [
+     "D#dim"
+    ],
+    [
+     "Em7/D",
+     "F#m7/C#",
+     "Gmaj7/B"
+    ],
+    [
+     "A7(9)"
+    ],
+    [
+     "C#/B"
+    ],
+    [
+     "A7(9)"
+    ]
+   ]
+  },
+  {
+   "name": "B",
+   "tonic": "D",
+   "bars": "9–33",
+   "repeat": true,
+   "sequence": [
+    [
+     "D6/F#"
+    ],
+    [
+     "C#maj7/G#"
+    ],
+    [
+     "Cmaj7/G"
+    ],
+    [
+     "Am6/C",
+     "B7"
+    ],
+    [
+     "Gmaj7(#5)"
+    ],
+    [
+     "C7(9,#11)"
+    ],
+    [
+     "Dmaj7/A"
+    ],
+    [
+     "C#7/G#"
+    ],
+    [
+     "F#m7/C#"
+    ],
+    [
+     "C#7/B"
+    ],
+    [
+     "F#m/A"
+    ]
+   ],
+   "endings": {
+    "1": [
+     [
+      "Bm7",
+      "E7(9)"
+     ],
+     [
+      "Amaj7(9)"
+     ],
+     [
+      "G#7(b13)"
+     ],
+     [
+      "C#m7(9)"
+     ],
+     [
+      "F#7(b13)"
+     ],
+     [
+      "Bm7(9)"
+     ],
+     [
+      "E7(b13)"
+     ],
+     [
+      "Am7"
+     ],
+     [
+      "F#m7b5",
+      "B7(b9)"
+     ],
+     [
+      "Em7"
+     ],
+     [
+      "Em/D"
+     ],
+     [
+      "A7sus4"
+     ],
+     [
+      "A7(13)"
+     ]
+    ],
+    "2": [
+     [
+      "Bm7",
+      "E7(13)"
+     ]
+    ]
+   }
+  },
+  {
+   "name": "C",
+   "tonic": "D",
+   "bars": "34–45",
+   "repeat": false,
+   "sequence": [
+    [
+     "Amaj7/C#"
+    ],
+    [
+     "Cdim"
+    ],
+    [
+     "Bm7"
+    ],
+    [
+     "Gm6",
+     "F#7(b13)"
+    ],
+    [
+     "Bm7/D"
+    ],
+    [
+     "F#7/C#"
+    ],
+    [
+     "Bm7"
+    ],
+    [
+     "Em7/G"
+    ],
+    [
+     "Bm7"
+    ],
+    [
+     "Em6/G",
+     "F#7"
+    ],
+    [
+     "Bm7",
+     "Bm/A"
+    ],
+    [
+     "E7/G#",
+     "A7"
+    ]
+   ]
+  },
+  {
+   "name": "D",
+   "tonic": "D",
+   "bars": "46–61",
+   "repeat": false,
+   "sequence": [
+    [
+     "Dmaj7"
+    ],
+    [
+     "D7(b5)"
+    ],
+    [
+     "Em7"
+    ],
+    [
+     "D#dim"
+    ],
+    [
+     "Em7/D",
+     "F#m7/C#",
+     "Gmaj7/B"
+    ],
+    [
+     "A7sus4",
+     "Em6/G"
+    ],
+    [],
+    [
+     "F#7/A#"
+    ],
+    [
+     "Bm7"
+    ],
+    [
+     "Bb/Ab"
+    ],
+    [
+     "D/A"
+    ],
+    [
+     "Ab/Gb"
+    ],
+    [
+     "Em7/G"
+    ],
+    [
+     "Eb/Db"
+    ],
+    [
+     "Dmaj7(9)"
+    ],
+    []
+   ]
+  }
+ ],
+ "notes": [
+  "Grille générée automatiquement depuis la partition MusicXML : à vérifier.",
+  "Corroborée par une autre partition : enchaînement 85%, mesures 79%."
+ ],
+ "confidence": "high",
+ "source": [
+  "mxl/C/Franklin da Flauta - Dadá - Theme - C.mxl"
+ ],
+ "generated": "mxl"
+}

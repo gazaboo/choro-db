@@ -1,0 +1,185 @@
+{
+ "song_id": "maluquinha-mauricio-carrilho",
+ "title": "Maluquinha",
+ "composer": "Maurício Carrilho",
+ "transposition": "c",
+ "meter": "4/8",
+ "form": "A (reprise) — B (reprise) — C (reprise)",
+ "parts": [
+  {
+   "name": "A",
+   "tonic": "Bb",
+   "bars": "1–8",
+   "repeat": true,
+   "sequence": [
+    [
+     "Bb6",
+     "F7",
+     "D7/F#"
+    ],
+    [
+     "Gm",
+     "D7"
+    ],
+    [
+     "Eb",
+     "Edim",
+     "Bb/F"
+    ],
+    [
+     "C7/G",
+     "C7",
+     "F7"
+    ],
+    [
+     "Bb6",
+     "F7"
+    ],
+    [
+     "Eb7",
+     "D7"
+    ],
+    [
+     "G7(b9)",
+     "Eb6/G",
+     "Ebm6/Gb"
+    ],
+    [
+     "Bb/F",
+     "F7",
+     "Bb6"
+    ]
+   ]
+  },
+  {
+   "name": "B",
+   "tonic": "Gm",
+   "bars": "9–17",
+   "repeat": true,
+   "sequence": [
+    [
+     "Gm",
+     "D7/F#"
+    ],
+    [
+     "Eb/G",
+     "D7/F#"
+    ],
+    [
+     "Fm6",
+     "G7",
+     "Cm7"
+    ],
+    [
+     "Eb/Db",
+     "A7",
+     "D7",
+     "F7"
+    ],
+    [
+     "Bb6",
+     "F7",
+     "D7/F#"
+    ],
+    [
+     "Eb7/G",
+     "D7"
+    ],
+    [
+     "G7(b9)",
+     "Cm"
+    ]
+   ],
+   "endings": {
+    "1": [
+     [
+      "Gm",
+      "D7",
+      "Gm"
+     ]
+    ],
+    "2": [
+     [
+      "Gm",
+      "D7",
+      "Gm"
+     ]
+    ]
+   }
+  },
+  {
+   "name": "C",
+   "tonic": "F",
+   "bars": "19–28",
+   "repeat": true,
+   "sequence": [
+    [
+     "F",
+     "G/F",
+     "C7/E"
+    ],
+    [
+     "F/Eb",
+     "G7/D",
+     "A7/C#"
+    ],
+    [
+     "Cm6",
+     "Gm/Bb",
+     "D7/A"
+    ],
+    [
+     "Fm6/Ab",
+     "G7",
+     "C7"
+    ],
+    [
+     "F",
+     "G7(9)",
+     "A7(b9)"
+    ],
+    [
+     "D7",
+     "G7(9)"
+    ],
+    [
+     "Db7/Ab",
+     "Db7",
+     "Gb"
+    ],
+    []
+   ],
+   "endings": {
+    "1": [
+     [
+      "C7",
+      "F"
+     ]
+    ],
+    "2": [
+     [
+      "C7",
+      "F"
+     ]
+    ]
+   },
+   "transition_in": [
+    [],
+    [
+     "Bb/F",
+     "F7",
+     "Bb6"
+    ]
+   ]
+  }
+ ],
+ "notes": [
+  "Grille générée automatiquement depuis la partition MusicXML : à vérifier.",
+  "Corroborée par une autre partition : enchaînement 95%, mesures 75%."
+ ],
+ "confidence": "high",
+ "source": [
+  "mxl/C/Maurício Carrilho - Maluquinha - Theme - C.mxl"
+ ],
+ "generated": "mxl"
+}

@@ -1,0 +1,204 @@
+{
+ "song_id": "improviso-joaquim-callado",
+ "title": "Improviso",
+ "composer": "Joaquim Callado",
+ "transposition": "c",
+ "meter": "2/4",
+ "form": "A (reprise) — B (reprise) — C (reprise)",
+ "parts": [
+  {
+   "name": "A",
+   "tonic": "Bb",
+   "bars": "1–17",
+   "repeat": true,
+   "sequence": [
+    [
+     "Bb"
+    ],
+    [
+     "Cm7"
+    ],
+    [
+     "F7"
+    ],
+    [
+     "Bb6"
+    ],
+    [
+     "Bdim"
+    ],
+    [
+     "Cm"
+    ],
+    [
+     "F7"
+    ],
+    [
+     "Bbdim",
+     "F7"
+    ],
+    [
+     "Bb6"
+    ],
+    [
+     "Cm7"
+    ],
+    [
+     "F7"
+    ],
+    [
+     "Bb6"
+    ],
+    [
+     "Bdim"
+    ],
+    [
+     "Cm",
+     "Cm/Eb"
+    ],
+    [
+     "Bb/D",
+     "F7/C"
+    ]
+   ],
+   "endings": {
+    "1": [
+     [
+      "Bb6"
+     ]
+    ],
+    "2": [
+     [
+      "Bb6"
+     ]
+    ]
+   }
+  },
+  {
+   "name": "B",
+   "tonic": "Bb",
+   "bars": "18–X1",
+   "repeat": true,
+   "sequence": [
+    [
+     "D7",
+     "C/E",
+     "D7/F#"
+    ],
+    [
+     "Gm"
+    ],
+    [
+     "D7"
+    ],
+    [
+     "Gm"
+    ],
+    [
+     "C7"
+    ],
+    [
+     "F",
+     "Gm6"
+    ],
+    [
+     "F/A",
+     "C7"
+    ]
+   ],
+   "endings": {
+    "1": [
+     [
+      "F"
+     ]
+    ],
+    "2": [
+     [
+      "F",
+      "F7"
+     ]
+    ]
+   }
+  },
+  {
+   "name": "C",
+   "tonic": "Eb",
+   "bars": "28–45",
+   "repeat": true,
+   "sequence": [
+    [
+     "Eb"
+    ],
+    [],
+    [
+     "Bb7"
+    ],
+    [],
+    [
+     "Eb",
+     "Am7b5"
+    ],
+    [
+     "Gm/Bb",
+     "Gm"
+    ],
+    [
+     "D7/A"
+    ],
+    [
+     "Gm",
+     "Bb7"
+    ],
+    [
+     "Eb"
+    ],
+    [],
+    [
+     "Bb7"
+    ],
+    [],
+    [
+     "Eb",
+     "G7"
+    ],
+    [
+     "Cm",
+     "Adim"
+    ],
+    [
+     "Eb/Bb",
+     "Bb7"
+    ],
+    []
+   ],
+   "endings": {
+    "1": [
+     [
+      "Eb",
+      "Bb7"
+     ]
+    ],
+    "2": [
+     [
+      "Eb"
+     ]
+    ]
+   },
+   "transition_in": [
+    [
+     "Bb6",
+     "Bb7"
+    ]
+   ]
+  }
+ ],
+ "notes": [
+  "Grille générée automatiquement depuis la partition MusicXML : à vérifier.",
+  "Corroborée par une autre partition : enchaînement 96%, mesures 87%."
+ ],
+ "confidence": "high",
+ "source": [
+  "mxl/C/Joaquim Callado - Improviso - Theme - C.mxl"
+ ],
+ "generated": "mxl"
+}

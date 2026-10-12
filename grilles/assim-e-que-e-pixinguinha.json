@@ -1,0 +1,332 @@
+{
+ "song_id": "assim-e-que-e-pixinguinha",
+ "title": "Assim é que é",
+ "composer": "Pixinguinha",
+ "transposition": "c",
+ "meter": "2/4",
+ "form": "A (reprise) — B — C — D — Coda",
+ "parts": [
+  {
+   "name": "A",
+   "tonic": "Cm",
+   "bars": "1–17",
+   "repeat": true,
+   "sequence": [
+    [
+     "Cm",
+     "Cm/Bb"
+    ],
+    [
+     "D7/A",
+     "Ab7(#11)"
+    ],
+    [
+     "G7",
+     "G/F"
+    ],
+    [
+     "Cm/Eb"
+    ],
+    [
+     "Cm"
+    ],
+    [
+     "Gm/Bb"
+    ],
+    [
+     "D7/A"
+    ],
+    [
+     "G7"
+    ],
+    [
+     "Cm",
+     "Cm/Bb"
+    ],
+    [
+     "D7/A",
+     "Ab7(#11)"
+    ],
+    [
+     "G7",
+     "G/F"
+    ],
+    [
+     "C7/E",
+     "C7"
+    ],
+    [
+     "Fm",
+     "Fm6/Ab"
+    ],
+    [
+     "Cm/G"
+    ],
+    [
+     "D7",
+     "G7"
+    ]
+   ],
+   "endings": {
+    "1": [
+     [
+      "Cm"
+     ]
+    ],
+    "2": [
+     [
+      "Cm"
+     ]
+    ]
+   }
+  },
+  {
+   "name": "B",
+   "tonic": "Cm",
+   "bars": "18–38",
+   "repeat": false,
+   "sequence": [
+    [
+     "Bb7",
+     "Bbdim"
+    ],
+    [
+     "Bb7"
+    ],
+    [
+     "Eb",
+     "F#dim"
+    ],
+    [
+     "Eb/G",
+     "F#dim"
+    ],
+    [
+     "Fm7",
+     "F7/A"
+    ],
+    [
+     "Bb7",
+     "Gb(#5)"
+    ],
+    [
+     "Eb/G",
+     "F#dim"
+    ],
+    [
+     "Eb/G",
+     "Gbdim"
+    ],
+    [
+     "Bb7/F",
+     "Bbdim"
+    ],
+    [
+     "Bb7",
+     "Gb(#5)"
+    ],
+    [
+     "Eb/G",
+     "Ebdim"
+    ],
+    [
+     "Eb",
+     "Eb/Db"
+    ],
+    [
+     "Ab/C",
+     "Abm/Cb"
+    ],
+    [
+     "Eb/Bb",
+     "C7"
+    ],
+    [
+     "Fm",
+     "Bb7"
+    ],
+    [
+     "Eb",
+     "Eb/Db"
+    ],
+    [
+     "Ab/C",
+     "Abm/Cb"
+    ],
+    [
+     "Eb/Bb",
+     "C7"
+    ],
+    [
+     "Fm",
+     "Bb7"
+    ],
+    [
+     "Eb",
+     "G7/B"
+    ],
+    [
+     "Cm"
+    ]
+   ]
+  },
+  {
+   "name": "C",
+   "tonic": "C",
+   "bars": "39–54",
+   "repeat": false,
+   "sequence": [
+    [
+     "C/E",
+     "Ab7/Eb"
+    ],
+    [
+     "Dm"
+    ],
+    [
+     "Dm",
+     "Bb7/D"
+    ],
+    [
+     "G7",
+     "G/F"
+    ],
+    [
+     "C/E",
+     "Ebdim"
+    ],
+    [
+     "Dm7"
+    ],
+    [
+     "G7",
+     "G7(#5)"
+    ],
+    [
+     "C"
+    ],
+    [
+     "C/E",
+     "Ab7/Eb"
+    ],
+    [
+     "Dm",
+     "F7/C"
+    ],
+    [
+     "E7/B",
+     "E7"
+    ],
+    [
+     "Am",
+     "Am/G"
+    ],
+    [
+     "F#dim"
+    ],
+    [
+     "C/G",
+     "C"
+    ],
+    [
+     "D7",
+     "G7"
+    ],
+    [
+     "C"
+    ]
+   ]
+  },
+  {
+   "name": "D",
+   "tonic": "Ab",
+   "bars": "55–X2",
+   "repeat": false,
+   "sequence": [
+    [
+     "Ab"
+    ],
+    [],
+    [
+     "Ab/C",
+     "Bdim"
+    ],
+    [
+     "Eb7/Bb"
+    ],
+    [
+     "C7"
+    ],
+    [
+     "Fm",
+     "Fm/Eb"
+    ],
+    [
+     "Bb7/D",
+     "Bb7"
+    ],
+    [
+     "Eb7"
+    ],
+    [
+     "Ab"
+    ],
+    [],
+    [
+     "Ab7",
+     "Ab7(#5)"
+    ],
+    [
+     "Db"
+    ],
+    [
+     "Db/F",
+     "Dbm/Fb"
+    ],
+    [
+     "Ab/Eb",
+     "F7"
+    ],
+    [
+     "Bb7",
+     "Eb7"
+    ],
+    [
+     "Ab"
+    ],
+    [
+     "Ab7"
+    ],
+    [
+     "G7"
+    ],
+    [
+     "Ab7"
+    ],
+    [
+     "G7"
+    ]
+   ]
+  },
+  {
+   "name": "Coda",
+   "tonic": "Cm",
+   "bars": "75–75",
+   "repeat": false,
+   "sequence": [
+    [
+     "Cm"
+    ]
+   ]
+  }
+ ],
+ "notes": [
+  "Grille générée automatiquement depuis la partition MusicXML : à vérifier.",
+  "Corroborée par une autre partition : enchaînement 90%, mesures 79%."
+ ],
+ "confidence": "high",
+ "source": [
+  "mxl/C/Pixinguinha - Assim é que é - Theme - C.mxl"
+ ],
+ "generated": "mxl"
+}

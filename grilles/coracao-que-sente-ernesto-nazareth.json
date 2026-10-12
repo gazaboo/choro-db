@@ -1,0 +1,341 @@
+{
+ "song_id": "coracao-que-sente-ernesto-nazareth",
+ "title": "Coração que sente",
+ "composer": "Ernesto Nazareth",
+ "transposition": "c",
+ "meter": "3/4",
+ "form": "A (reprise) — B (reprise) — C (reprise)",
+ "parts": [
+  {
+   "name": "A",
+   "tonic": "C",
+   "bars": "1–33",
+   "repeat": true,
+   "sequence": [
+    [
+     "C"
+    ],
+    [
+     "E7/B"
+    ],
+    [
+     "Am"
+    ],
+    [
+     "A/G"
+    ],
+    [
+     "Dm/F"
+    ],
+    [
+     "A7/E"
+    ],
+    [
+     "Dm"
+    ],
+    [
+     "Dm/F"
+    ],
+    [
+     "F#dim"
+    ],
+    [
+     "Adim"
+    ],
+    [
+     "G7/D"
+    ],
+    [
+     "G7"
+    ],
+    [
+     "G7/D"
+    ],
+    [
+     "G7"
+    ],
+    [
+     "C6"
+    ],
+    [],
+    [
+     "C"
+    ],
+    [
+     "E7/B"
+    ],
+    [
+     "Am"
+    ],
+    [
+     "A/G"
+    ],
+    [
+     "Dm/F"
+    ],
+    [
+     "A7/E"
+    ],
+    [
+     "Dm"
+    ],
+    [
+     "Dm/F"
+    ],
+    [
+     "F#dim"
+    ],
+    [
+     "Adim"
+    ],
+    [
+     "C6"
+    ],
+    [
+     "A7"
+    ],
+    [
+     "D7(9)"
+    ],
+    [
+     "G7(13)"
+    ],
+    [
+     "C6"
+    ]
+   ],
+   "endings": {
+    "1": [
+     []
+    ],
+    "2": [
+     []
+    ]
+   }
+  },
+  {
+   "name": "B",
+   "tonic": "G",
+   "bars": "34–X1",
+   "repeat": true,
+   "sequence": [
+    [
+     "G"
+    ],
+    [
+     "D7/A"
+    ],
+    [
+     "G/B"
+    ],
+    [
+     "G/D"
+    ],
+    [
+     "D7/A"
+    ],
+    [
+     "D7"
+    ],
+    [
+     "G"
+    ],
+    [
+     "G"
+    ],
+    [
+     "G"
+    ],
+    [
+     "D7/A"
+    ],
+    [
+     "G/B"
+    ],
+    [
+     "G/D"
+    ],
+    [
+     "Bm7/F#"
+    ],
+    [
+     "F#7"
+    ],
+    [
+     "Bm7"
+    ],
+    [
+     "D7"
+    ],
+    [
+     "G"
+    ],
+    [
+     "D7/A"
+    ],
+    [
+     "G/B"
+    ],
+    [
+     "G/D"
+    ],
+    [
+     "D7/A"
+    ],
+    [
+     "D7"
+    ],
+    [
+     "G"
+    ],
+    [
+     "G"
+    ],
+    [
+     "G"
+    ],
+    [
+     "B7"
+    ],
+    [
+     "Em"
+    ],
+    [
+     "C#dim"
+    ],
+    [
+     "G/D"
+    ],
+    [
+     "D7"
+    ],
+    [
+     "G"
+    ]
+   ],
+   "endings": {
+    "1": [
+     [
+      "G"
+     ]
+    ],
+    "2": [
+     []
+    ]
+   }
+  },
+  {
+   "name": "C",
+   "tonic": "F",
+   "bars": "68–100",
+   "repeat": true,
+   "sequence": [
+    [
+     "C7/G"
+    ],
+    [
+     "C7"
+    ],
+    [
+     "C7/G"
+    ],
+    [
+     "C7"
+    ],
+    [
+     "F"
+    ],
+    [
+     "F/C"
+    ],
+    [
+     "F"
+    ],
+    [
+     "F/C"
+    ],
+    [
+     "G7(9)"
+    ],
+    [],
+    [
+     "C7(13)"
+    ],
+    [],
+    [
+     "F"
+    ],
+    [
+     "F/C"
+    ],
+    [
+     "Ddim"
+    ],
+    [
+     "F"
+    ],
+    [
+     "C7/G"
+    ],
+    [
+     "C7"
+    ],
+    [
+     "C7/G"
+    ],
+    [
+     "C7"
+    ],
+    [
+     "F"
+    ],
+    [
+     "F/C"
+    ],
+    [
+     "F"
+    ],
+    [
+     "F/Eb"
+    ],
+    [
+     "Bb/D"
+    ],
+    [
+     "D/C"
+    ],
+    [
+     "Gm/Bb"
+    ],
+    [
+     "Bdim"
+    ],
+    [
+     "F/C"
+    ],
+    [
+     "C7(9)"
+    ],
+    [
+     "F"
+    ],
+    [],
+    []
+   ],
+   "transition_in": [
+    [
+     "C"
+    ]
+   ]
+  }
+ ],
+ "notes": [
+  "Grille générée automatiquement depuis la partition MusicXML : à vérifier.",
+  "Corroborée par une autre partition : enchaînement 95%, mesures 95%."
+ ],
+ "confidence": "high",
+ "source": [
+  "mxl/C/Ernesto Nazareth - Coração que sente - Theme - C.mxl"
+ ],
+ "generated": "mxl"
+}

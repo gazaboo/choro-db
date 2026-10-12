@@ -1,0 +1,284 @@
+{
+ "song_id": "amigo-gustavo-luis-barcelos",
+ "title": "Amigo Gustavo",
+ "composer": "Luis Barcelos",
+ "transposition": "c",
+ "meter": "2/4",
+ "form": "A (reprise) — B (reprise) — Coda",
+ "parts": [
+  {
+   "name": "A",
+   "tonic": "G",
+   "bars": "0–34",
+   "repeat": true,
+   "sequence": [
+    [
+     "Am7"
+    ],
+    [
+     "D7"
+    ],
+    [
+     "G/B"
+    ],
+    [
+     "G/B",
+     "Bbdim"
+    ],
+    [
+     "Am7"
+    ],
+    [
+     "D7"
+    ],
+    [
+     "G6"
+    ],
+    [
+     "G6",
+     "G#dim"
+    ],
+    [
+     "Am"
+    ],
+    [
+     "F#m7b5",
+     "B7"
+    ],
+    [
+     "Em"
+    ],
+    [
+     "C#m7b5"
+    ],
+    [
+     "B6",
+     "G#m"
+    ],
+    [
+     "C#7",
+     "F#7"
+    ],
+    [
+     "B7",
+     "E7"
+    ],
+    [
+     "A7",
+     "D7"
+    ],
+    [
+     "Am7"
+    ],
+    [
+     "D7"
+    ],
+    [
+     "G/B"
+    ],
+    [
+     "G/B",
+     "Bbdim"
+    ],
+    [
+     "Am7"
+    ],
+    [
+     "D7"
+    ],
+    [
+     "Dm6/F"
+    ],
+    [
+     "E7"
+    ],
+    [
+     "Am7"
+    ],
+    [
+     "Bbdim"
+    ],
+    [
+     "G/B"
+    ],
+    [
+     "Fm6",
+     "E7"
+    ],
+    [
+     "Am7"
+    ],
+    [
+     "D7"
+    ],
+    [
+     "G7(#5)"
+    ]
+   ],
+   "endings": {
+    "1": [
+     [
+      "G"
+     ],
+     [
+      "Dm6/F",
+      "E7/G#"
+     ]
+    ],
+    "2": [
+     [
+      "G"
+     ]
+    ]
+   }
+  },
+  {
+   "name": "B",
+   "tonic": "C",
+   "bars": "35–X1",
+   "repeat": true,
+   "sequence": [
+    [
+     "C"
+    ],
+    [
+     "B7(13)"
+    ],
+    [
+     "Bb7(13)"
+    ],
+    [
+     "A7"
+    ],
+    [
+     "Dm"
+    ],
+    [
+     "A7"
+    ],
+    [
+     "Dm",
+     "A7/E"
+    ],
+    [
+     "Dm/F"
+    ],
+    [
+     "F6"
+    ],
+    [
+     "F#dim"
+    ],
+    [
+     "C/G"
+    ],
+    [
+     "Bbm6",
+     "A7"
+    ],
+    [
+     "D7(9)"
+    ],
+    [
+     "Am6"
+    ],
+    [
+     "Abm6"
+    ],
+    [
+     "G7(b13)"
+    ],
+    [
+     "Cm"
+    ],
+    [
+     "G7"
+    ],
+    [
+     "Bbm6/Db"
+    ],
+    [
+     "C7"
+    ],
+    [
+     "Fm"
+    ],
+    [
+     "C7"
+    ],
+    [
+     "Fm",
+     "C7/G"
+    ],
+    [
+     "Fm/Ab"
+    ],
+    [
+     "Fm7"
+    ],
+    [
+     "F#dim"
+    ],
+    [
+     "C/G"
+    ],
+    [
+     "Bbm6",
+     "A7"
+    ],
+    [
+     "D7(9)"
+    ],
+    [
+     "Fm6/Ab",
+     "G7"
+    ],
+    [
+     "D7"
+    ]
+   ],
+   "endings": {
+    "1": [
+     [
+      "C"
+     ],
+     [
+      "G7(#5)"
+     ]
+    ],
+    "2": [
+     [
+      "C"
+     ]
+    ]
+   }
+  },
+  {
+   "name": "Coda",
+   "tonic": "G",
+   "bars": "69–71",
+   "repeat": false,
+   "sequence": [
+    [
+     "G"
+    ],
+    [
+     "Cm6/Eb",
+     "D7"
+    ],
+    [
+     "G6(9)"
+    ]
+   ]
+  }
+ ],
+ "notes": [
+  "Grille générée automatiquement depuis la partition MusicXML : à vérifier.",
+  "Corroborée par une autre partition : enchaînement 93%, mesures 87%."
+ ],
+ "confidence": "high",
+ "source": [
+  "mxl/C/Luis Barcelos - Amigo Gustavo - Theme - C.mxl"
+ ],
+ "generated": "mxl"
+}

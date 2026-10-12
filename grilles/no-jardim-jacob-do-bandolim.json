@@ -1,0 +1,173 @@
+{
+ "song_id": "no-jardim-jacob-do-bandolim",
+ "title": "No Jardim",
+ "composer": "Jacob do Bandolim",
+ "transposition": "c",
+ "meter": "3/4",
+ "form": "A (reprise) — B — C — B — D",
+ "parts": [
+  {
+   "name": "A",
+   "tonic": "G",
+   "bars": "1–16",
+   "repeat": true,
+   "sequence": [
+    [
+     "G"
+    ],
+    [
+     "A7"
+    ],
+    [
+     "D/C"
+    ],
+    [
+     "G/B"
+    ],
+    [
+     "G"
+    ],
+    [
+     "D/A"
+    ],
+    [
+     "A7"
+    ],
+    [
+     "D7/F#"
+    ],
+    [
+     "G"
+    ],
+    [
+     "A7"
+    ],
+    [
+     "D/C"
+    ],
+    [
+     "G7/B"
+    ],
+    [
+     "C#dim"
+    ],
+    [
+     "G/D"
+    ],
+    [
+     "D7"
+    ],
+    [
+     "G"
+    ]
+   ]
+  },
+  {
+   "name": "B",
+   "tonic": "Em",
+   "bars": "17–24",
+   "repeat": false,
+   "sequence": [
+    [
+     "B/A"
+    ],
+    [
+     "Em/G"
+    ],
+    [
+     "B7(b9)"
+    ],
+    [
+     "Em7"
+    ],
+    [
+     "A/G"
+    ],
+    [
+     "D/F#"
+    ],
+    [
+     "Em7",
+     "A7"
+    ],
+    [
+     "D"
+    ]
+   ]
+  },
+  {
+   "name": "C",
+   "tonic": "G",
+   "bars": "25–32",
+   "repeat": false,
+   "sequence": [
+    [
+     "D7"
+    ],
+    [
+     "G"
+    ],
+    [
+     "D7"
+    ],
+    [
+     "Ddim"
+    ],
+    [
+     "Am/C"
+    ],
+    [
+     "G/B"
+    ],
+    [
+     "D7/F#"
+    ],
+    [
+     "G"
+    ]
+   ]
+  },
+  {
+   "name": "D",
+   "tonic": "G",
+   "bars": "41–49",
+   "repeat": false,
+   "sequence": [
+    [
+     "D7"
+    ],
+    [
+     "G/D"
+    ],
+    [
+     "D7"
+    ],
+    [
+     "E/D"
+    ],
+    [
+     "Am/C"
+    ],
+    [
+     "G/B"
+    ],
+    [
+     "D7"
+    ],
+    [
+     "G"
+    ],
+    []
+   ]
+  }
+ ],
+ "notes": [
+  "Grille générée automatiquement depuis la partition MusicXML : à vérifier.",
+  "Corroborée par une autre partition : enchaînement 90%, mesures 84%."
+ ],
+ "confidence": "high",
+ "source": [
+  "mxl/C/Jacob do Bandolim - No Jardim - Theme - C.mxl"
+ ],
+ "generated": "mxl"
+}

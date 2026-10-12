@@ -1,0 +1,166 @@
+{
+ "song_id": "doce-melodia-abel-ferreira",
+ "title": "Doce melodia",
+ "composer": "Abel Ferreira",
+ "transposition": "c",
+ "meter": "2/4",
+ "form": "A (reprise) — B (reprise)",
+ "parts": [
+  {
+   "name": "A",
+   "tonic": "Eb",
+   "bars": "1–18",
+   "repeat": true,
+   "sequence": [
+    [],
+    [
+     "Ebmaj7",
+     "Fm7"
+    ],
+    [
+     "Gm7",
+     "Fm7"
+    ],
+    [
+     "Ebmaj7"
+    ],
+    [
+     "Eb7(9)"
+    ],
+    [
+     "Abmaj7",
+     "Bbm7"
+    ],
+    [
+     "Cm7",
+     "Bbm7"
+    ],
+    [
+     "Abmaj7"
+    ],
+    [
+     "Ab6"
+    ],
+    [
+     "Fm7"
+    ],
+    [
+     "Bb7",
+     "Bb7(#5)"
+    ],
+    [
+     "Eb6"
+    ],
+    [
+     "Eb6",
+     "E7(#11)"
+    ],
+    [
+     "Ebmaj7",
+     "Fm7"
+    ],
+    [
+     "Gm7",
+     "Db7(9)"
+    ],
+    [
+     "Ebmaj7",
+     "Abm6"
+    ]
+   ],
+   "endings": {
+    "1": [
+     [
+      "Ebmaj7"
+     ]
+    ],
+    "2": [
+     [
+      "Ebmaj7"
+     ]
+    ]
+   }
+  },
+  {
+   "name": "B",
+   "tonic": "Eb",
+   "bars": "19–36",
+   "repeat": true,
+   "sequence": [
+    [
+     "Fm",
+     "Fm(maj7)"
+    ],
+    [
+     "Fm7",
+     "Bb7(9)"
+    ],
+    [
+     "Ebmaj7"
+    ],
+    [
+     "Eb7(9)"
+    ],
+    [
+     "Abmaj7"
+    ],
+    [
+     "Bb7",
+     "Bb7(#5)"
+    ],
+    [
+     "Ebmaj7"
+    ],
+    [
+     "Eb7(9)"
+    ],
+    [
+     "Abmaj7"
+    ],
+    [
+     "Db7(9)"
+    ],
+    [
+     "Ebmaj7"
+    ],
+    [
+     "Ebmaj7"
+    ],
+    [
+     "Ebmaj7",
+     "Fm7"
+    ],
+    [
+     "Gm7"
+    ],
+    [
+     "Ebmaj7"
+    ],
+    []
+   ],
+   "endings": {
+    "1": [
+     [
+      "Ebmaj7"
+     ]
+    ],
+    "2": [
+     [
+      "Ebmaj7"
+     ]
+    ]
+   }
+  }
+ ],
+ "notes": [
+  "Grille générée automatiquement depuis la partition MusicXML : à vérifier.",
+  "A : première mesure sans accord",
+  "Tonalité de la partition source non vérifiée.",
+  "Corroborée par une autre partition : enchaînement 94%, mesures 86%."
+ ],
+ "confidence": "high",
+ "source": [
+  "mxl/C/Abel Ferreira - Doce melodia - Theme - C.mxl"
+ ],
+ "generated": "mxl"
+}

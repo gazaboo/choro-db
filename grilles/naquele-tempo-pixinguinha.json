@@ -1,0 +1,242 @@
+{
+ "song_id": "naquele-tempo-pixinguinha",
+ "title": "Naquele tempo",
+ "composer": "Pixinguinha",
+ "transposition": "c",
+ "meter": "2/4",
+ "form": "A (reprise) — B (reprise) — C (reprise)",
+ "parts": [
+  {
+   "name": "A",
+   "tonic": "Dm",
+   "bars": "0–17",
+   "repeat": true,
+   "sequence": [
+    [
+     "A7"
+    ],
+    [
+     "Dm"
+    ],
+    [
+     "A7/C#"
+    ],
+    [
+     "Dm"
+    ],
+    [
+     "D7/F#"
+    ],
+    [
+     "Gm"
+    ],
+    [
+     "E7/G#"
+    ],
+    [
+     "A7"
+    ],
+    [
+     "A7"
+    ],
+    [
+     "Dm"
+    ],
+    [
+     "A/G"
+    ],
+    [
+     "Dm/F"
+    ],
+    [
+     "D7/F#"
+    ],
+    [
+     "Gm",
+     "Em7b5"
+    ],
+    [
+     "Dm/A",
+     "A7"
+    ]
+   ],
+   "endings": {
+    "1": [
+     [
+      "Dm"
+     ]
+    ],
+    "2": [
+     [
+      "Dm"
+     ]
+    ]
+   }
+  },
+  {
+   "name": "B",
+   "tonic": "F",
+   "bars": "18–X1",
+   "repeat": true,
+   "sequence": [
+    [
+     "F",
+     "A7/E",
+     "Dm",
+     "D/C"
+    ],
+    [
+     "Gm/Bb",
+     "G7"
+    ],
+    [
+     "C7"
+    ],
+    [
+     "F"
+    ],
+    [
+     "A7"
+    ],
+    [
+     "Dm"
+    ],
+    [
+     "G7/B"
+    ],
+    [
+     "Bbm6/Db",
+     "C7"
+    ],
+    [
+     "F",
+     "A7/E",
+     "Dm",
+     "D/C"
+    ],
+    [
+     "Gm/Bb"
+    ],
+    [
+     "A7/C#",
+     "A7"
+    ],
+    [
+     "Dm"
+    ],
+    [
+     "Bb",
+     "Bbm6"
+    ],
+    [
+     "F/A",
+     "D7/F#"
+    ],
+    [
+     "Gm",
+     "C7"
+    ]
+   ],
+   "endings": {
+    "1": [
+     [
+      "F"
+     ]
+    ],
+    "2": [
+     [
+      "F"
+     ]
+    ]
+   }
+  },
+  {
+   "name": "C",
+   "tonic": "D",
+   "bars": "36–53",
+   "repeat": true,
+   "sequence": [
+    [
+     "D",
+     "A7/E"
+    ],
+    [
+     "D/F#"
+    ],
+    [
+     "D",
+     "B7"
+    ],
+    [
+     "E7(9)"
+    ],
+    [],
+    [
+     "A7"
+    ],
+    [
+     "A7",
+     "A/G"
+    ],
+    [
+     "D/F#",
+     "A7/E"
+    ],
+    [
+     "D",
+     "A7/E"
+    ],
+    [
+     "D/F#"
+    ],
+    [
+     "D7/A"
+    ],
+    [
+     "G"
+    ],
+    [
+     "Gm6/Bb"
+    ],
+    [
+     "D/A",
+     "B7"
+    ],
+    [
+     "E7",
+     "A7"
+    ],
+    []
+   ],
+   "endings": {
+    "1": [
+     [
+      "D",
+      "Bm",
+      "E7",
+      "A7"
+     ]
+    ],
+    "2": [
+     [
+      "D"
+     ]
+    ]
+   },
+   "transition_in": [
+    [
+     "Dm"
+    ]
+   ]
+  }
+ ],
+ "notes": [
+  "Grille générée automatiquement depuis la partition MusicXML : à vérifier.",
+  "Corroborée par une grille relevée à la main : enchaînement 100%, mesures 79%."
+ ],
+ "confidence": "high",
+ "source": [
+  "mxl/C/Pixinguinha - Naquele tempo - Theme - C.mxl"
+ ],
+ "generated": "mxl"
+}

@@ -1,0 +1,262 @@
+{
+ "song_id": "gargalhada-pixinguinha",
+ "title": "Gargalhada",
+ "composer": "Pixinguinha",
+ "transposition": "c",
+ "meter": "4/4",
+ "form": "A (reprise) — B (reprise) — C (reprise)",
+ "parts": [
+  {
+   "name": "A",
+   "tonic": "Am",
+   "bars": "0–17",
+   "repeat": true,
+   "sequence": [
+    [
+     "C",
+     "G7/B"
+    ],
+    [
+     "C",
+     "E7/B"
+    ],
+    [
+     "Am",
+     "E7/G#"
+    ],
+    [
+     "Am"
+    ],
+    [
+     "F"
+    ],
+    [
+     "C"
+    ],
+    [
+     "D7"
+    ],
+    [
+     "G7"
+    ],
+    [
+     "C",
+     "G7/B"
+    ],
+    [
+     "C",
+     "E7/B"
+    ],
+    [
+     "Am",
+     "E7"
+    ],
+    [
+     "A7"
+    ],
+    [
+     "Dm",
+     "G7"
+    ],
+    [
+     "C"
+    ],
+    [
+     "D7",
+     "G7"
+    ]
+   ],
+   "endings": {
+    "1": [
+     [
+      "C",
+      "G7",
+      "C",
+      "G7"
+     ]
+    ],
+    "2": [
+     [
+      "C",
+      "G7",
+      "C",
+      "E7"
+     ]
+    ]
+   }
+  },
+  {
+   "name": "B",
+   "tonic": "C",
+   "bars": "18–X1",
+   "repeat": true,
+   "sequence": [
+    [
+     "Am",
+     "A7/C#"
+    ],
+    [
+     "Dm"
+    ],
+    [
+     "E7",
+     "E7/G#"
+    ],
+    [
+     "Am"
+    ],
+    [
+     "Am",
+     "F#m7b5"
+    ],
+    [
+     "Em"
+    ],
+    [
+     "B7/D#"
+    ],
+    [
+     "E7/G#"
+    ],
+    [
+     "Am",
+     "A7/C#"
+    ],
+    [
+     "Dm"
+    ],
+    [
+     "E7/G#"
+    ],
+    [
+     "A7"
+    ],
+    [
+     "Bb"
+    ],
+    [
+     "Am/C",
+     "Am"
+    ],
+    [
+     "F",
+     "E7"
+    ]
+   ],
+   "endings": {
+    "1": [
+     [
+      "Am",
+      "E7"
+     ]
+    ],
+    "2": [
+     [
+      "Am",
+      "G7"
+     ]
+    ]
+   }
+  },
+  {
+   "name": "C",
+   "tonic": "F",
+   "bars": "36–53",
+   "repeat": true,
+   "sequence": [
+    [
+     "F",
+     "F#dim"
+    ],
+    [
+     "G7",
+     "Bbm6"
+    ],
+    [
+     "C7",
+     "G7",
+     "C7/E"
+    ],
+    [
+     "F",
+     "C7"
+    ],
+    [
+     "F",
+     "Dm/F"
+    ],
+    [
+     "C/G",
+     "A7/C#"
+    ],
+    [
+     "D7",
+     "G7"
+    ],
+    [
+     "Bbm6",
+     "C7"
+    ],
+    [
+     "Cm6",
+     "D7/F#"
+    ],
+    [
+     "G7"
+    ],
+    [
+     "A7"
+    ],
+    [
+     "Dm"
+    ],
+    [
+     "Db",
+     "Db/Cb"
+    ],
+    [
+     "F/C",
+     "D7"
+    ],
+    [
+     "G7",
+     "C7"
+    ],
+    []
+   ],
+   "endings": {
+    "1": [
+     [
+      "F",
+      "C7",
+      "F"
+     ]
+    ],
+    "2": [
+     [
+      "F",
+      "C7",
+      "F",
+      "G7"
+     ]
+    ]
+   },
+   "transition_in": [
+    [
+     "C",
+     "G7",
+     "C"
+    ]
+   ]
+  }
+ ],
+ "notes": [
+  "Grille générée automatiquement depuis la partition MusicXML : à vérifier.",
+  "Corroborée par une autre partition : enchaînement 98%, mesures 94%."
+ ],
+ "confidence": "high",
+ "source": [
+  "mxl/C/Pixinguinha - Gargalhada - Theme - C.mxl"
+ ],
+ "generated": "mxl"
+}
