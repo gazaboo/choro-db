@@ -1,0 +1,212 @@
+{
+ "song_id": "cecilia-antonio-borges-teixeira",
+ "title": "Cecília",
+ "composer": "Antônio Borges Teixeira",
+ "transposition": "c",
+ "meter": "4/4",
+ "form": "A (reprise) — B (reprise) — C (reprise)",
+ "parts": [
+  {
+   "name": "A",
+   "tonic": "G",
+   "bars": "0–17",
+   "repeat": true,
+   "sequence": [
+    [
+     "G"
+    ],
+    [],
+    [
+     "G/B",
+     "Bbdim"
+    ],
+    [
+     "D7/A"
+    ],
+    [
+     "Am"
+    ],
+    [
+     "D7"
+    ],
+    [
+     "Am",
+     "D/C"
+    ],
+    [
+     "G/B",
+     "D7"
+    ],
+    [
+     "G"
+    ],
+    [],
+    [
+     "E7"
+    ],
+    [
+     "Am"
+    ],
+    [
+     "A7/C#",
+     "D/C"
+    ],
+    [
+     "G/B",
+     "G#dim"
+    ],
+    [
+     "Am7",
+     "D7"
+    ]
+   ],
+   "endings": {
+    "1": [
+     [
+      "G"
+     ]
+    ],
+    "2": [
+     [
+      "G"
+     ]
+    ]
+   }
+  },
+  {
+   "name": "B",
+   "tonic": "G",
+   "bars": "18–X1",
+   "repeat": true,
+   "sequence": [
+    [
+     "D7/F#"
+    ],
+    [
+     "G"
+    ],
+    [
+     "D7/F#"
+    ],
+    [
+     "G"
+    ],
+    [
+     "D7/F#"
+    ],
+    [
+     "G",
+     "Em7"
+    ],
+    [
+     "Am7",
+     "D7"
+    ]
+   ],
+   "endings": {
+    "1": [
+     [
+      "G"
+     ]
+    ],
+    "2": [
+     [
+      "G"
+     ]
+    ]
+   }
+  },
+  {
+   "name": "C",
+   "tonic": "D",
+   "bars": "28–45",
+   "repeat": true,
+   "sequence": [
+    [
+     "A7/E",
+     "A7"
+    ],
+    [
+     "D",
+     "D/F#"
+    ],
+    [
+     "A7/E",
+     "A7/C#"
+    ],
+    [
+     "D",
+     "D/F#"
+    ],
+    [
+     "A7/E",
+     "A7"
+    ],
+    [
+     "D",
+     "D/F#"
+    ],
+    [
+     "A7/E",
+     "A7"
+    ],
+    [
+     "D"
+    ],
+    [
+     "A7/E",
+     "A7"
+    ],
+    [
+     "D",
+     "D/F#"
+    ],
+    [
+     "A7/E",
+     "A7/C#"
+    ],
+    [
+     "D"
+    ],
+    [
+     "Em",
+     "A/G"
+    ],
+    [
+     "D/F#",
+     "Bm7"
+    ],
+    [
+     "Em7",
+     "A7"
+    ],
+    []
+   ],
+   "endings": {
+    "1": [
+     [
+      "D"
+     ]
+    ],
+    "2": [
+     [
+      "D"
+     ]
+    ]
+   },
+   "transition_in": [
+    [
+     "G"
+    ]
+   ]
+  }
+ ],
+ "notes": [
+  "Grille générée automatiquement depuis la partition MusicXML : à vérifier."
+ ],
+ "confidence": "medium",
+ "source": [
+  "mxl/C/Antônio Borges Teixeira - Cecília - Theme - C.mxl"
+ ],
+ "generated": "mxl"
+}

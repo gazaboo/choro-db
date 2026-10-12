@@ -1,0 +1,170 @@
+{
+ "song_id": "choro-de-memorias-paulinho-da-viola",
+ "title": "Choro de memórias",
+ "composer": "Paulinho da Viola",
+ "transposition": "c",
+ "meter": "2/4",
+ "form": "A (reprise) — B (reprise)",
+ "parts": [
+  {
+   "name": "A",
+   "tonic": "Gm",
+   "bars": "0–17",
+   "repeat": true,
+   "sequence": [
+    [
+     "Edim",
+     "D7/F#"
+    ],
+    [
+     "Gm",
+     "Gm/F"
+    ],
+    [
+     "Edim",
+     "D7/F#"
+    ],
+    [
+     "G7"
+    ],
+    [
+     "Cm",
+     "Am7b5"
+    ],
+    [
+     "Gm"
+    ],
+    [
+     "A7"
+    ],
+    [
+     "D7"
+    ],
+    [
+     "Edim",
+     "D7/F#"
+    ],
+    [
+     "Gm",
+     "Gm/F"
+    ],
+    [
+     "Edim",
+     "D7/F#"
+    ],
+    [
+     "G7"
+    ],
+    [
+     "Cm7",
+     "Am7b5"
+    ],
+    [
+     "Gm"
+    ],
+    [
+     "Ab7",
+     "D7"
+    ]
+   ],
+   "endings": {
+    "1": [
+     [
+      "Gm"
+     ]
+    ],
+    "2": [
+     [
+      "Gm"
+     ]
+    ]
+   }
+  },
+  {
+   "name": "B",
+   "tonic": "Bb",
+   "bars": "18–X1",
+   "repeat": true,
+   "sequence": [
+    [
+     "Cm7",
+     "F7"
+    ],
+    [
+     "Bbmaj7",
+     "G7"
+    ],
+    [
+     "Cm7",
+     "F7(13)"
+    ],
+    [
+     "Bbmaj7"
+    ],
+    [
+     "Cm7",
+     "F7"
+    ],
+    [
+     "Bbmaj7"
+    ],
+    [
+     "Bm7b5",
+     "G7(13)"
+    ],
+    [
+     "C7(9)"
+    ],
+    [
+     "Cm7",
+     "F7"
+    ],
+    [
+     "Bbmaj7",
+     "G7"
+    ],
+    [
+     "Cm7",
+     "F7(13)"
+    ],
+    [
+     "Fm6/Ab",
+     "G7"
+    ],
+    [
+     "Cm7",
+     "Ab7(9,#11)"
+    ],
+    [
+     "Bbmaj7",
+     "Gm7"
+    ],
+    [
+     "Ebm/Gb",
+     "Cm7/G",
+     "F7"
+    ]
+   ],
+   "endings": {
+    "1": [
+     [
+      "Bb"
+     ]
+    ],
+    "2": [
+     [
+      "Bb"
+     ]
+    ]
+   }
+  }
+ ],
+ "notes": [
+  "Grille générée automatiquement depuis la partition MusicXML : à vérifier."
+ ],
+ "confidence": "medium",
+ "source": [
+  "mxl/C/Paulinho da Viola - Choro de memórias - Theme - C.mxl"
+ ],
+ "generated": "mxl"
+}

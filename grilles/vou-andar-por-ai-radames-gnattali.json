@@ -1,0 +1,143 @@
+{
+ "song_id": "vou-andar-por-ai-radames-gnattali",
+ "title": "Vou andar por aí",
+ "composer": "Radamés Gnattali",
+ "transposition": "c",
+ "meter": "2/4",
+ "form": "A — B",
+ "parts": [
+  {
+   "name": "A",
+   "tonic": "C",
+   "bars": "1–36",
+   "sequence": [
+    [
+     "A7(b9)"
+    ],
+    [
+     "Dm7(9)"
+    ],
+    [
+     "Dm7(9)",
+     "A7(b9)"
+    ],
+    [
+     "G4"
+    ],
+    [],
+    [],
+    [
+     "D7(9)"
+    ],
+    [
+     "G7(b13)"
+    ],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [
+     "Db7(9)"
+    ],
+    [],
+    [],
+    [
+     "Dm7(9)"
+    ],
+    [
+     "Dm7(9)"
+    ],
+    [
+     "Dm6/F"
+    ],
+    [
+     "E7(b13)"
+    ],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [
+     "A7(b9)"
+    ],
+    [],
+    [],
+    [],
+    [],
+    [
+     "G4"
+    ],
+    [],
+    [],
+    [],
+    [
+     "Bb4"
+    ]
+   ]
+  },
+  {
+   "name": "B",
+   "tonic": "C",
+   "bars": "39–61",
+   "sequence": [
+    [],
+    [],
+    [
+     "C7(b9)"
+    ],
+    [
+     "Fm7(9)"
+    ],
+    [
+     "Fm7(9)"
+    ],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [
+     "C7(b9)"
+    ],
+    [],
+    [],
+    [
+     "F7(9)"
+    ],
+    [
+     "F7(9)"
+    ],
+    [],
+    [],
+    [],
+    [
+     "C7(b9)"
+    ],
+    [
+     "Fm7(9)"
+    ],
+    [
+     "Fm7(9)"
+    ],
+    [
+     "Fm6/Ab"
+    ],
+    [
+     "G7(b13)"
+    ]
+   ]
+  }
+ ],
+ "notes": [
+  "Grille générée automatiquement depuis le texte du PDF : à vérifier.",
+  "Reprises et fins non détectées : les mesures sont dans l'ordre d'écriture."
+ ],
+ "confidence": "low",
+ "source": [
+  "pdf/Radamés Gnattali - Vou andar por aí - Theme - C.pdf"
+ ],
+ "generated": "pdf"
+}

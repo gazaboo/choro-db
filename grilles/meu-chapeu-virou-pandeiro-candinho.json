@@ -1,0 +1,227 @@
+{
+ "song_id": "meu-chapeu-virou-pandeiro-candinho",
+ "title": "Meu chapéu virou pandeiro",
+ "composer": "Candinho",
+ "transposition": "c",
+ "meter": "2/4",
+ "form": "A (reprise) — B (reprise) — C (reprise)",
+ "parts": [
+  {
+   "name": "A",
+   "tonic": "C",
+   "bars": "0–17",
+   "repeat": true,
+   "sequence": [
+    [
+     "C",
+     "Am7"
+    ],
+    [
+     "Dm7"
+    ],
+    [
+     "G7"
+    ],
+    [
+     "C/G"
+    ],
+    [
+     "C/E"
+    ],
+    [
+     "G/D"
+    ],
+    [
+     "D7(9)"
+    ],
+    [
+     "G7"
+    ],
+    [
+     "G/F"
+    ],
+    [
+     "C/E"
+    ],
+    [
+     "E7"
+    ],
+    [
+     "Am"
+    ],
+    [
+     "Fm6/Ab"
+    ],
+    [
+     "C/G",
+     "A7"
+    ],
+    [
+     "Dm7",
+     "G7"
+    ]
+   ],
+   "endings": {
+    "1": [
+     [
+      "C"
+     ]
+    ],
+    "2": [
+     [
+      "C"
+     ]
+    ]
+   }
+  },
+  {
+   "name": "B",
+   "tonic": "G",
+   "bars": "18–X1",
+   "repeat": true,
+   "sequence": [
+    [
+     "D7/F#"
+    ],
+    [
+     "G6"
+    ],
+    [
+     "D7/F#"
+    ],
+    [
+     "G6"
+    ],
+    [
+     "B7"
+    ],
+    [
+     "Em"
+    ],
+    [
+     "B7"
+    ],
+    [
+     "Em"
+    ],
+    [
+     "D7/F#"
+    ],
+    [
+     "G6"
+    ],
+    [
+     "E7"
+    ],
+    [
+     "Am"
+    ],
+    [
+     "Am/C"
+    ],
+    [
+     "G/B"
+    ],
+    [
+     "Am",
+     "D7"
+    ]
+   ],
+   "endings": {
+    "1": [
+     [
+      "G"
+     ]
+    ],
+    "2": [
+     [
+      "G"
+     ]
+    ]
+   }
+  },
+  {
+   "name": "C",
+   "tonic": "F",
+   "bars": "36–53",
+   "repeat": true,
+   "sequence": [
+    [
+     "F6"
+    ],
+    [],
+    [
+     "D7/F#"
+    ],
+    [
+     "Gm7"
+    ],
+    [
+     "C7"
+    ],
+    [
+     "F6"
+    ],
+    [
+     "E7"
+    ],
+    [
+     "Am7",
+     "D7"
+    ],
+    [
+     "Gm",
+     "C7"
+    ],
+    [
+     "F"
+    ],
+    [
+     "F7"
+    ],
+    [
+     "Bb6"
+    ],
+    [
+     "Bdim"
+    ],
+    [
+     "F/C",
+     "F/A"
+    ],
+    [
+     "G7",
+     "C7"
+    ],
+    []
+   ],
+   "endings": {
+    "1": [
+     [
+      "F"
+     ]
+    ],
+    "2": [
+     [
+      "F",
+      "G7"
+     ]
+    ]
+   },
+   "transition_in": [
+    [
+     "C",
+     "C7"
+    ]
+   ]
+  }
+ ],
+ "notes": [
+  "Grille générée automatiquement depuis la partition MusicXML : à vérifier."
+ ],
+ "confidence": "medium",
+ "source": [
+  "mxl/C/Candinho - Meu chapéu virou pandeiro - Theme - C.mxl"
+ ],
+ "generated": "mxl"
+}

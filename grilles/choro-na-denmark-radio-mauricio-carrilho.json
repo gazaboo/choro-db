@@ -1,0 +1,251 @@
+{
+ "song_id": "choro-na-denmark-radio-mauricio-carrilho",
+ "title": "Choro na Denmark Radio",
+ "composer": "Maurício Carrilho",
+ "transposition": "c",
+ "meter": "2/4",
+ "form": "A (reprise) — B (reprise) — C (reprise) — Coda",
+ "parts": [
+  {
+   "name": "A",
+   "tonic": "Bm",
+   "bars": "0–17",
+   "repeat": true,
+   "sequence": [
+    [
+     "Fdim",
+     "F#7"
+    ],
+    [
+     "Bm",
+     "Am7"
+    ],
+    [
+     "Bbdim",
+     "B7"
+    ],
+    [
+     "Em7"
+    ],
+    [
+     "A7(9)"
+    ],
+    [
+     "D7(9)"
+    ],
+    [
+     "G6",
+     "C#7"
+    ],
+    [
+     "F#7",
+     "Bm7"
+    ],
+    [
+     "Fdim",
+     "F#7"
+    ],
+    [
+     "Bm",
+     "Am7"
+    ],
+    [
+     "Bbdim",
+     "B7"
+    ],
+    [
+     "Em7"
+    ],
+    [
+     "Em6/G"
+    ],
+    [
+     "Bm/F#",
+     "G7(b5)"
+    ],
+    [
+     "Bm/F#",
+     "C#7"
+    ]
+   ],
+   "endings": {
+    "1": [
+     [
+      "Bm/D",
+      "Em7"
+     ]
+    ],
+    "2": [
+     [
+      "Bm/D",
+      "E7(9)"
+     ]
+    ]
+   }
+  },
+  {
+   "name": "B",
+   "tonic": "D",
+   "bars": "18–36",
+   "repeat": true,
+   "sequence": [
+    [
+     "A7(#5)"
+    ],
+    [
+     "D6"
+    ],
+    [
+     "Fm6",
+     "A7/E"
+    ],
+    [
+     "D6"
+    ],
+    [
+     "G7(9)"
+    ],
+    [
+     "Gm6"
+    ],
+    [
+     "F7"
+    ],
+    [
+     "E7"
+    ],
+    [
+     "A7(9)"
+    ],
+    [
+     "D6"
+    ],
+    [
+     "D7(9)"
+    ],
+    [
+     "G6"
+    ],
+    [
+     "Bb7(9)"
+    ],
+    [
+     "Eb6"
+    ],
+    [
+     "A7(9)"
+    ],
+    [
+     "Bm/D",
+     "D7"
+    ]
+   ],
+   "endings": {
+    "1": [
+     [
+      "D6",
+      "E7(9)"
+     ]
+    ],
+    "2": [
+     [
+      "D6",
+      "Em7"
+     ]
+    ]
+   }
+  },
+  {
+   "name": "C",
+   "tonic": "Em",
+   "bars": "37–54",
+   "repeat": true,
+   "sequence": [
+    [
+     "G6"
+    ],
+    [
+     "Cm6"
+    ],
+    [
+     "A7(9)",
+     "D7"
+    ],
+    [
+     "G6"
+    ],
+    [
+     "F#7",
+     "B7"
+    ],
+    [
+     "E7"
+    ],
+    [
+     "A7(9)"
+    ],
+    [
+     "D7"
+    ],
+    [
+     "G6"
+    ],
+    [
+     "D7/F#"
+    ],
+    [
+     "G7(9)"
+    ],
+    [
+     "C6"
+    ],
+    [
+     "Eb7"
+    ],
+    [
+     "G6",
+     "Em7"
+    ],
+    [
+     "A7(9)",
+     "D7(b9)"
+    ],
+    []
+   ],
+   "endings": {
+    "1": [
+     [
+      "G6",
+      "D7"
+     ]
+    ],
+    "2": [
+     [
+      "G6",
+      "Em7"
+     ]
+    ]
+   }
+  },
+  {
+   "name": "Coda",
+   "tonic": "Bm",
+   "bars": "55–55",
+   "repeat": false,
+   "sequence": [
+    [
+     "Bm/D",
+     "Bm7"
+    ]
+   ]
+  }
+ ],
+ "notes": [
+  "Grille générée automatiquement depuis la partition MusicXML : à vérifier."
+ ],
+ "confidence": "medium",
+ "source": [
+  "mxl/C/Maurício Carrilho - Choro na Denmark Radio - Theme - C.mxl"
+ ],
+ "generated": "mxl"
+}

@@ -1,0 +1,184 @@
+{
+ "song_id": "salto-do-grilo-pixinguinha",
+ "title": "Salto do grilo",
+ "composer": "Pixinguinha",
+ "transposition": "c",
+ "meter": "2/4",
+ "form": "A — B — C",
+ "parts": [
+  {
+   "name": "A",
+   "tonic": "C",
+   "bars": "1–19",
+   "sequence": [
+    [
+     "C"
+    ],
+    [
+     "C"
+    ],
+    [
+     "Dm"
+    ],
+    [
+     "C"
+    ],
+    [
+     "C"
+    ],
+    [],
+    [],
+    [
+     "C"
+    ],
+    [
+     "C"
+    ],
+    [
+     "C"
+    ],
+    [],
+    [
+     "Am"
+    ],
+    [
+     "Dm",
+     "Fm6"
+    ],
+    [
+     "C/E"
+    ],
+    [
+     "Dm"
+    ],
+    [
+     "Gm/Bb"
+    ],
+    [
+     "Dm",
+     "B7"
+    ],
+    [
+     "C/E"
+    ],
+    [
+     "D7"
+    ]
+   ]
+  },
+  {
+   "name": "B",
+   "tonic": "C",
+   "bars": "20–37",
+   "sequence": [
+    [
+     "C"
+    ],
+    [
+     "C",
+     "E/D"
+    ],
+    [],
+    [
+     "Am/C"
+    ],
+    [],
+    [],
+    [
+     "Dm"
+    ],
+    [
+     "Dm6/F"
+    ],
+    [
+     "Am"
+    ],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [
+     "C"
+    ],
+    [
+     "Dm"
+    ],
+    [
+     "Am"
+    ],
+    [
+     "B7"
+    ]
+   ]
+  },
+  {
+   "name": "C",
+   "tonic": "C",
+   "bars": "38–58",
+   "sequence": [
+    [
+     "Am",
+     "E/D"
+    ],
+    [
+     "Am"
+    ],
+    [
+     "C"
+    ],
+    [],
+    [
+     "F"
+    ],
+    [
+     "F/A"
+    ],
+    [
+     "F"
+    ],
+    [],
+    [
+     "A/G"
+    ],
+    [
+     "Dm/F"
+    ],
+    [],
+    [],
+    [
+     "F"
+    ],
+    [
+     "F"
+    ],
+    [],
+    [
+     "Bb"
+    ],
+    [
+     "Db/Ab"
+    ],
+    [
+     "F/A"
+    ],
+    [
+     "F"
+    ],
+    [],
+    [
+     "C"
+    ]
+   ]
+  }
+ ],
+ "notes": [
+  "Grille générée automatiquement depuis le texte du PDF : à vérifier.",
+  "Reprises et fins non détectées : les mesures sont dans l'ordre d'écriture."
+ ],
+ "confidence": "low",
+ "source": [
+  "pdf/Pixinguinha - Salto do grilo - Theme - C.pdf"
+ ],
+ "generated": "pdf"
+}

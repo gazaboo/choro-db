@@ -1,0 +1,196 @@
+{
+ "song_id": "em-dias-de-jardim-marcelo-menezes",
+ "title": "Em dias de jardim",
+ "composer": "Marcelo Menezes",
+ "transposition": "c",
+ "meter": "2/4",
+ "form": "A — B — C — D (reprise)",
+ "parts": [
+  {
+   "name": "A",
+   "tonic": "F",
+   "bars": "0–12",
+   "repeat": false,
+   "sequence": [
+    [
+     "Cm7(9)",
+     "B7(#9)"
+    ],
+    [
+     "Bbmaj7(9)",
+     "Gb7"
+    ],
+    [
+     "Cm7(9)",
+     "B7(#9)"
+    ],
+    [
+     "Bbmaj7"
+    ],
+    [
+     "Bbm7",
+     "Gm7b5"
+    ],
+    [
+     "Fm7(9)"
+    ],
+    [
+     "Ebm",
+     "Ab7"
+    ],
+    [
+     "Dbmaj7"
+    ],
+    [
+     "Gm7b5",
+     "Gb7(#11)"
+    ],
+    [
+     "Fmaj7",
+     "Fmaj7(#5)"
+    ],
+    [
+     "Gm7",
+     "C7(9)"
+    ],
+    [
+     "F"
+    ]
+   ]
+  },
+  {
+   "name": "B",
+   "tonic": "F",
+   "bars": "13–25",
+   "repeat": false,
+   "sequence": [
+    [
+     "Cm7",
+     "F7"
+    ],
+    [
+     "Bb6"
+    ],
+    [
+     "Bbdim",
+     "Eb7"
+    ],
+    [
+     "Abm",
+     "Adim"
+    ],
+    [
+     "Bbm",
+     "Bm"
+    ],
+    [
+     "Gbmaj7"
+    ],
+    [
+     "Ab/Gb"
+    ],
+    [
+     "Db/F"
+    ],
+    [
+     "Gb7"
+    ],
+    [
+     "Bmaj7"
+    ],
+    [
+     "Eb7sus4"
+    ],
+    [
+     "Eb7"
+    ],
+    [
+     "Ab"
+    ]
+   ]
+  },
+  {
+   "name": "C",
+   "tonic": "F",
+   "bars": "26–32",
+   "repeat": false,
+   "sequence": [
+    [
+     "Gm7(11)",
+     "C7(b9)"
+    ],
+    [
+     "Fm"
+    ],
+    [
+     "Cm7b5",
+     "F7(b13)"
+    ],
+    [
+     "Bbm7(9)"
+    ],
+    [
+     "F7(#5)"
+    ],
+    [
+     "Fm",
+     "Eb7"
+    ],
+    [
+     "Abmaj7"
+    ]
+   ]
+  },
+  {
+   "name": "D",
+   "tonic": "F",
+   "bars": "33–42",
+   "repeat": true,
+   "sequence": [
+    [
+     "Ab7"
+    ],
+    [
+     "Db/F"
+    ],
+    [
+     "Dbm6"
+    ],
+    [
+     "Abmaj7"
+    ],
+    [
+     "Bb/Ab"
+    ],
+    [
+     "Eb/G"
+    ],
+    [
+     "Eb/Db"
+    ],
+    []
+   ],
+   "endings": {
+    "1": [
+     [
+      "Abmaj7"
+     ]
+    ],
+    "2": [
+     [
+      "Abmaj7",
+      "G7"
+     ]
+    ]
+   }
+  }
+ ],
+ "notes": [
+  "Grille générée automatiquement depuis la partition MusicXML : à vérifier."
+ ],
+ "confidence": "medium",
+ "source": [
+  "mxl/C/Marcelo Menezes - Em dias de jardim - Theme - C.mxl"
+ ],
+ "generated": "mxl"
+}

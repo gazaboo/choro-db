@@ -1,0 +1,161 @@
+{
+ "song_id": "quebradinha-ernesto-nazareth",
+ "title": "Quebradinha",
+ "composer": "Ernesto Nazareth",
+ "transposition": "c",
+ "meter": "2/4",
+ "form": "A — B — C",
+ "parts": [
+  {
+   "name": "A",
+   "tonic": "C",
+   "bars": "1–15",
+   "sequence": [
+    [
+     "Gm"
+    ],
+    [],
+    [
+     "D/C"
+    ],
+    [
+     "Gm/Bb"
+    ],
+    [
+     "Gm"
+    ],
+    [
+     "Dm/A"
+    ],
+    [
+     "Eb7(b5)"
+    ],
+    [],
+    [
+     "Gm"
+    ],
+    [
+     "D7/A"
+    ],
+    [
+     "D/C"
+    ],
+    [
+     "Gm/Bb"
+    ],
+    [
+     "G/F"
+    ],
+    [
+     "Cm/Eb"
+    ],
+    [
+     "Gm/D"
+    ]
+   ]
+  },
+  {
+   "name": "B",
+   "tonic": "C",
+   "bars": "16–25",
+   "sequence": [
+    [
+     "Gm"
+    ],
+    [
+     "Gm"
+    ],
+    [],
+    [
+     "F/Eb"
+    ],
+    [
+     "Bb/D"
+    ],
+    [],
+    [
+     "Bb"
+    ],
+    [
+     "F/Eb"
+    ],
+    [
+     "Bb/D"
+    ],
+    [
+     "Cm/Eb"
+    ]
+   ]
+  },
+  {
+   "name": "C",
+   "tonic": "Am",
+   "bars": "26–46",
+   "sequence": [
+    [
+     "Bb"
+    ],
+    [
+     "Bb"
+    ],
+    [
+     "Gm"
+    ],
+    [],
+    [
+     "G"
+    ],
+    [
+     "G"
+    ],
+    [],
+    [
+     "Am"
+    ],
+    [
+     "Am"
+    ],
+    [
+     "Am"
+    ],
+    [
+     "D7"
+    ],
+    [
+     "G"
+    ],
+    [
+     "G"
+    ],
+    [
+     "G"
+    ],
+    [],
+    [
+     "Am"
+    ],
+    [],
+    [
+     "G/D"
+    ],
+    [
+     "D7",
+     "G"
+    ],
+    [],
+    [
+     "Gm"
+    ]
+   ]
+  }
+ ],
+ "notes": [
+  "Grille générée automatiquement depuis le texte du PDF : à vérifier.",
+  "Reprises et fins non détectées : les mesures sont dans l'ordre d'écriture."
+ ],
+ "confidence": "low",
+ "source": [
+  "pdf/Ernesto Nazareth - Quebradinha - Theme - C.pdf"
+ ],
+ "generated": "pdf"
+}

@@ -1,0 +1,239 @@
+{
+ "song_id": "migalhas-de-amor-jacob-do-bandolim",
+ "title": "Migalhas de Amor",
+ "composer": "Jacob do Bandolim",
+ "transposition": "c",
+ "meter": "2/4",
+ "form": "A (reprise) — B (reprise) — Coda",
+ "parts": [
+  {
+   "name": "A",
+   "tonic": "Gm",
+   "bars": "0–34",
+   "repeat": true,
+   "sequence": [
+    [
+     "Gm"
+    ],
+    [
+     "Gm",
+     "G/F"
+    ],
+    [
+     "Cm/Eb",
+     "Cm/G"
+    ],
+    [
+     "D7/A",
+     "D7/F#"
+    ],
+    [
+     "Gm"
+    ],
+    [
+     "Gm",
+     "G/F"
+    ],
+    [
+     "Cm/Eb",
+     "Cm/G"
+    ],
+    [
+     "F7/A"
+    ],
+    [
+     "Bb/D"
+    ],
+    [
+     "D7/F#"
+    ],
+    [
+     "Gm"
+    ],
+    [
+     "A7/E"
+    ],
+    [
+     "D",
+     "Bm"
+    ],
+    [
+     "Em",
+     "A7"
+    ],
+    [
+     "D7"
+    ],
+    [
+     "Cm6/Eb",
+     "D7"
+    ],
+    [
+     "Gm"
+    ],
+    [
+     "Gm",
+     "G/F"
+    ],
+    [
+     "Cm/Eb",
+     "Cm/G"
+    ],
+    [
+     "D7/A",
+     "D7/F#"
+    ],
+    [
+     "Gm"
+    ],
+    [
+     "Gm",
+     "G/F"
+    ],
+    [
+     "Cm/Eb",
+     "Cm/G"
+    ],
+    [
+     "F7/A"
+    ],
+    [
+     "Bb/D"
+    ],
+    [
+     "D7/F#"
+    ],
+    [
+     "Gm"
+    ],
+    [
+     "Ab"
+    ],
+    [
+     "Gm"
+    ],
+    [
+     "A7/C#",
+     "D7"
+    ],
+    [
+     "F7(#5)"
+    ]
+   ],
+   "endings": {
+    "1": [
+     [
+      "Gm"
+     ],
+     [
+      "D7"
+     ]
+    ],
+    "2": [
+     [
+      "Gm"
+     ]
+    ]
+   }
+  },
+  {
+   "name": "B",
+   "tonic": "Bb",
+   "bars": "35–53",
+   "repeat": true,
+   "sequence": [
+    [
+     "Bb",
+     "Fm6/Ab"
+    ],
+    [
+     "G7"
+    ],
+    [
+     "Cm",
+     "G7"
+    ],
+    [
+     "Cm",
+     "Cm/Bb"
+    ],
+    [
+     "F7/A"
+    ],
+    [
+     "F/Eb"
+    ],
+    [
+     "Bb/D"
+    ],
+    [
+     "Bb",
+     "F7"
+    ],
+    [
+     "Bb",
+     "Fm6/Ab"
+    ],
+    [
+     "G7"
+    ],
+    [
+     "Cm"
+    ],
+    [
+     "Ebm6/Gb"
+    ],
+    [
+     "Bb/F",
+     "Gm"
+    ],
+    [
+     "Cm",
+     "F7"
+    ],
+    [
+     "D7"
+    ],
+    []
+   ],
+   "endings": {
+    "1": [
+     [
+      "Bb"
+     ],
+     [
+      "F7(#5)"
+     ]
+    ],
+    "2": [
+     [
+      "Bb"
+     ]
+    ]
+   }
+  },
+  {
+   "name": "Coda",
+   "tonic": "Gm",
+   "bars": "54–55",
+   "repeat": false,
+   "sequence": [
+    [
+     "Gm",
+     "Cm6"
+    ],
+    [
+     "Gm6"
+    ]
+   ]
+  }
+ ],
+ "notes": [
+  "Grille générée automatiquement depuis la partition MusicXML : à vérifier."
+ ],
+ "confidence": "medium",
+ "source": [
+  "mxl/C/Jacob do Bandolim - Migalhas de Amor - Theme - C.mxl"
+ ],
+ "generated": "mxl"
+}

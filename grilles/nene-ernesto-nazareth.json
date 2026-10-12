@@ -1,0 +1,281 @@
+{
+ "song_id": "nene-ernesto-nazareth",
+ "title": "Nenê",
+ "composer": "Ernesto Nazareth",
+ "transposition": "c",
+ "meter": "2/4",
+ "form": "A (reprise) — B (reprise) — C — B — D (reprise) — Coda",
+ "parts": [
+  {
+   "name": "A",
+   "tonic": "D",
+   "bars": "0–17",
+   "repeat": true,
+   "sequence": [
+    [
+     "E7/A"
+    ],
+    [
+     "A7"
+    ],
+    [
+     "D/A"
+    ],
+    [
+     "A7"
+    ],
+    [
+     "D/A",
+     "E7/A"
+    ],
+    [
+     "A7",
+     "F#7"
+    ],
+    [
+     "Bm"
+    ],
+    [
+     "E7/B",
+     "Bb7(#11)"
+    ],
+    [
+     "A7",
+     "E7/A"
+    ],
+    [
+     "A7"
+    ],
+    [
+     "D/A"
+    ],
+    [
+     "A7"
+    ],
+    [
+     "D/A",
+     "E7/A"
+    ],
+    [
+     "A7",
+     "F#7/A#"
+    ],
+    [
+     "Bm",
+     "G#dim"
+    ],
+    [
+     "D/A",
+     "A7"
+    ]
+   ],
+   "endings": {
+    "1": [
+     [
+      "D",
+      "E7/A"
+     ]
+    ],
+    "2": [
+     [
+      "D"
+     ]
+    ]
+   }
+  },
+  {
+   "name": "B",
+   "tonic": "Bm",
+   "bars": "18–26",
+   "repeat": true,
+   "sequence": [
+    [
+     "C#7/G#",
+     "F#7/A#"
+    ],
+    [
+     "Bm"
+    ],
+    [
+     "Em",
+     "F#7"
+    ],
+    [
+     "Bm"
+    ],
+    [
+     "Bdim",
+     "F#7/B"
+    ],
+    [
+     "Bm",
+     "Em7"
+    ],
+    [
+     "Bm/F#",
+     "F#7"
+    ]
+   ],
+   "endings": {
+    "1": [
+     [
+      "Bm"
+     ]
+    ],
+    "2": [
+     [
+      "Bm"
+     ]
+    ]
+   }
+  },
+  {
+   "name": "C",
+   "tonic": "D",
+   "bars": "27–42",
+   "repeat": false,
+   "sequence": [
+    [
+     "A7"
+    ],
+    [
+     "D/F#"
+    ],
+    [
+     "A7/E"
+    ],
+    [
+     "D#dim"
+    ],
+    [
+     "Em/G",
+     "G#dim"
+    ],
+    [
+     "D/A"
+    ],
+    [
+     "E7/G#",
+     "A/G"
+    ],
+    [
+     "D/F#"
+    ],
+    [
+     "A7/E",
+     "A/G"
+    ],
+    [
+     "D/F#"
+    ],
+    [
+     "A7/E"
+    ],
+    [
+     "D#dim"
+    ],
+    [
+     "Em/G",
+     "G#dim"
+    ],
+    [
+     "D/A"
+    ],
+    [
+     "E7/G#",
+     "A7"
+    ],
+    [
+     "D"
+    ]
+   ]
+  },
+  {
+   "name": "D",
+   "tonic": "G",
+   "bars": "52–69",
+   "repeat": true,
+   "sequence": [
+    [
+     "D/C"
+    ],
+    [
+     "G/B"
+    ],
+    [
+     "B/A"
+    ],
+    [
+     "Em/G"
+    ],
+    [
+     "Ab/C"
+    ],
+    [
+     "G/D"
+    ],
+    [
+     "A/G"
+    ],
+    [
+     "D7/F#"
+    ],
+    [
+     "D/C"
+    ],
+    [
+     "G/B"
+    ],
+    [
+     "B/A"
+    ],
+    [
+     "Em/G"
+    ],
+    [
+     "Ab/C"
+    ],
+    [
+     "G/D"
+    ],
+    [
+     "Am/C",
+     "D7"
+    ],
+    []
+   ],
+   "endings": {
+    "1": [
+     [
+      "G"
+     ]
+    ],
+    "2": [
+     [
+      "G",
+      "E7/A"
+     ]
+    ]
+   }
+  },
+  {
+   "name": "Coda",
+   "tonic": "D",
+   "bars": "70–70",
+   "repeat": false,
+   "sequence": [
+    [
+     "D"
+    ]
+   ]
+  }
+ ],
+ "notes": [
+  "Grille générée automatiquement depuis la partition MusicXML : à vérifier."
+ ],
+ "confidence": "medium",
+ "source": [
+  "mxl/C/Ernesto Nazareth - Nenê - Theme - C.mxl"
+ ],
+ "generated": "mxl"
+}

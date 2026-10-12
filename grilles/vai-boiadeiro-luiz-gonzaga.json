@@ -1,0 +1,107 @@
+{
+ "song_id": "vai-boiadeiro-luiz-gonzaga",
+ "title": "Vai boiadeiro",
+ "composer": "Luiz Gonzaga",
+ "transposition": "c",
+ "meter": "2/4",
+ "form": "A — B — A — Coda",
+ "parts": [
+  {
+   "name": "A",
+   "tonic": "C",
+   "bars": "1–6",
+   "sequence": [
+    [
+     "E6"
+    ],
+    [
+     "E"
+    ],
+    [
+     "A",
+     "B"
+    ],
+    [],
+    [
+     "E"
+    ],
+    [
+     "E"
+    ]
+   ]
+  },
+  {
+   "name": "B",
+   "tonic": "C",
+   "bars": "7–21",
+   "sequence": [
+    [],
+    [
+     "E6",
+     "C#m7"
+    ],
+    [],
+    [
+     "F#m7"
+    ],
+    [
+     "E",
+     "C#m7"
+    ],
+    [
+     "F#m7"
+    ],
+    [
+     "E"
+    ],
+    [
+     "E"
+    ],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [
+     "E"
+    ]
+   ]
+  },
+  {
+   "name": "Coda",
+   "tonic": "C",
+   "bars": "27–32",
+   "sequence": [
+    [],
+    [
+     "E6",
+     "C#m7"
+    ],
+    [
+     "F#m7"
+    ],
+    [
+     "E",
+     "C#m7"
+    ],
+    [
+     "F#m7"
+    ],
+    [
+     "E",
+     "C#m7"
+    ]
+   ]
+  }
+ ],
+ "notes": [
+  "Grille générée automatiquement depuis le texte du PDF : à vérifier.",
+  "Reprises et fins non détectées : les mesures sont dans l'ordre d'écriture."
+ ],
+ "confidence": "low",
+ "source": [
+  "pdf/Luiz Gonzaga - Vai boiadeiro - Theme - C.pdf"
+ ],
+ "generated": "pdf"
+}

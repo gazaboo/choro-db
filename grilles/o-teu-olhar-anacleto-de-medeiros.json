@@ -1,0 +1,206 @@
+{
+ "song_id": "o-teu-olhar-anacleto-de-medeiros",
+ "title": "O teu olhar",
+ "composer": "Anacleto de Medeiros",
+ "transposition": "c",
+ "meter": "4/4",
+ "form": "A — B (reprise) — C (reprise) — Coda",
+ "parts": [
+  {
+   "name": "A",
+   "tonic": "C",
+   "bars": "0–16",
+   "repeat": false,
+   "sequence": [
+    [
+     "C"
+    ],
+    [
+     "D7/F#"
+    ],
+    [
+     "G7"
+    ],
+    [
+     "C"
+    ],
+    [
+     "C/E",
+     "F#m7b5"
+    ],
+    [
+     "Em/G"
+    ],
+    [
+     "Am6",
+     "B7/F#"
+    ],
+    [
+     "Em",
+     "G7"
+    ],
+    [
+     "C"
+    ],
+    [
+     "D7/F#"
+    ],
+    [
+     "G7"
+    ],
+    [
+     "C"
+    ],
+    [
+     "C/E",
+     "F#m7b5"
+    ],
+    [
+     "Em/G"
+    ],
+    [
+     "Am6",
+     "B7/F#"
+    ],
+    [
+     "Em"
+    ]
+   ]
+  },
+  {
+   "name": "B",
+   "tonic": "C",
+   "bars": "17–25",
+   "repeat": true,
+   "sequence": [
+    [
+     "Gm6",
+     "A7"
+    ],
+    [
+     "Dm"
+    ],
+    [
+     "G7"
+    ],
+    [
+     "C"
+    ],
+    [
+     "Dm/F",
+     "Fm6"
+    ],
+    [
+     "C/E"
+    ],
+    [
+     "D7",
+     "G7"
+    ]
+   ],
+   "endings": {
+    "1": [
+     [
+      "C"
+     ]
+    ],
+    "2": [
+     [
+      "C"
+     ]
+    ]
+   }
+  },
+  {
+   "name": "C",
+   "tonic": "F",
+   "bars": "26–X1",
+   "repeat": true,
+   "sequence": [
+    [
+     "F"
+    ],
+    [
+     "Gm"
+    ],
+    [
+     "C7",
+     "C/Bb"
+    ],
+    [
+     "F/A"
+    ],
+    [
+     "F",
+     "F/A"
+    ],
+    [
+     "C/G"
+    ],
+    [
+     "D7",
+     "G7"
+    ],
+    [
+     "C",
+     "C7/G"
+    ],
+    [
+     "F"
+    ],
+    [
+     "Gm"
+    ],
+    [
+     "C7",
+     "C/Bb"
+    ],
+    [
+     "F/A"
+    ],
+    [
+     "F7"
+    ],
+    [
+     "Bb",
+     "Bbm6/Db"
+    ],
+    [
+     "F/C",
+     "C7"
+    ]
+   ],
+   "endings": {
+    "1": [
+     [
+      "F"
+     ]
+    ],
+    "2": [
+     [
+      "F"
+     ]
+    ]
+   }
+  },
+  {
+   "name": "Coda",
+   "tonic": "C",
+   "bars": "43–43",
+   "repeat": false,
+   "sequence": [
+    [
+     "C"
+    ]
+   ]
+  }
+ ],
+ "notes": [
+  "Grille générée automatiquement depuis la partition MusicXML : à vérifier."
+ ],
+ "confidence": "medium",
+ "source": [
+  "mxl/C/Anacleto de Medeiros - O teu olhar - Theme - C.mxl"
+ ],
+ "generated": "mxl"
+}

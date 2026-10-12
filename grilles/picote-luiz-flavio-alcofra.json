@@ -1,0 +1,246 @@
+{
+ "song_id": "picote-luiz-flavio-alcofra",
+ "title": "Picote",
+ "composer": "Luiz Flavio Alcofra",
+ "transposition": "c",
+ "meter": "2/4",
+ "form": "A — B — C (reprise) — D — Coda — E",
+ "parts": [
+  {
+   "name": "A",
+   "tonic": "F",
+   "bars": "1–7",
+   "repeat": false,
+   "sequence": [
+    [
+     "Em7b5"
+    ],
+    [
+     "A7"
+    ],
+    [
+     "Dm(maj7)"
+    ],
+    [
+     "Am7(11)",
+     "Ab7(b5)"
+    ],
+    [
+     "Gm(maj7)"
+    ],
+    [
+     "C7(9)",
+     "F6"
+    ],
+    [
+     "Bb7(9)"
+    ]
+   ]
+  },
+  {
+   "name": "B",
+   "tonic": "F",
+   "bars": "8–16",
+   "repeat": false,
+   "sequence": [
+    [
+     "E7(b9)"
+    ],
+    [
+     "Em7b5"
+    ],
+    [
+     "A7"
+    ],
+    [
+     "Dm(maj7)"
+    ],
+    [
+     "Am7(11)",
+     "Ab7(b5)"
+    ],
+    [
+     "Gm(maj7)"
+    ],
+    [
+     "C7(9)",
+     "Bbm6/Db"
+    ],
+    [
+     "C7(#9)",
+     "Gb7(b5)"
+    ],
+    [
+     "Fm7",
+     "C7(b9)"
+    ]
+   ]
+  },
+  {
+   "name": "C",
+   "tonic": "F",
+   "bars": "17–24",
+   "repeat": true,
+   "sequence": [
+    [
+     "Fm7",
+     "Bb7(9)"
+    ],
+    [
+     "Db7(9)"
+    ],
+    [
+     "Gm7(11)",
+     "F7"
+    ]
+   ],
+   "endings": {
+    "1": [
+     [
+      "Bbm7"
+     ],
+     [
+      "Ab7(9)",
+      "Db7(9)"
+     ],
+     [
+      "Gb7(b5)",
+      "Db/Cb"
+     ],
+     [
+      "Gm7(11)"
+     ]
+    ],
+    "2": [
+     [
+      "Bb7(9)"
+     ]
+    ]
+   }
+  },
+  {
+   "name": "D",
+   "tonic": "F",
+   "bars": "25–X1",
+   "repeat": false,
+   "sequence": [
+    [
+     "Dbm6",
+     "C7"
+    ],
+    [
+     "Fm6(9)/Ab"
+    ],
+    [
+     "G7(13)"
+    ],
+    [
+     "A7(13)",
+     "C7(13)"
+    ],
+    []
+   ]
+  },
+  {
+   "name": "Coda",
+   "tonic": "Dm",
+   "bars": "30–43",
+   "repeat": false,
+   "sequence": [
+    [
+     "Ebm7(11)",
+     "Ab7(13)"
+    ],
+    [
+     "C#m7(11)",
+     "B7"
+    ],
+    [
+     "Emaj7(9)"
+    ],
+    [
+     "Eb7(9)",
+     "D7(9)"
+    ],
+    [
+     "C#maj7(9)"
+    ],
+    [
+     "Bm7(9)",
+     "E7"
+    ],
+    [
+     "Em7(11)",
+     "A7(b13)"
+    ],
+    [
+     "Dmaj7(9)",
+     "Bm7"
+    ],
+    [
+     "Bbm7",
+     "Am7"
+    ],
+    [
+     "Bmaj7(9)"
+    ],
+    [
+     "G#m7b5",
+     "C#7"
+    ],
+    [
+     "Dmaj7/F#",
+     "Ab7(13)"
+    ],
+    [
+     "G#m7b5",
+     "C7(b5)"
+    ],
+    [
+     "Bm7b5/D",
+     "A7(b5)"
+    ]
+   ]
+  },
+  {
+   "name": "E",
+   "tonic": "F",
+   "bars": "44–51",
+   "repeat": false,
+   "sequence": [
+    [
+     "D6"
+    ],
+    [
+     "C#7"
+    ],
+    [
+     "Bm7(9)"
+    ],
+    [
+     "Bb7(b5)"
+    ],
+    [
+     "Ab7(13)"
+    ],
+    [
+     "Gb7(13)"
+    ],
+    [
+     "C7(b9)"
+    ],
+    [
+     "Fm6(9)"
+    ]
+   ]
+  }
+ ],
+ "notes": [
+  "Grille générée automatiquement depuis la partition MusicXML : à vérifier."
+ ],
+ "confidence": "medium",
+ "source": [
+  "mxl/C/Luiz Flavio Alcofra - Picote - Theme - C.mxl"
+ ],
+ "generated": "mxl"
+}

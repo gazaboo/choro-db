@@ -1,0 +1,225 @@
+{
+ "song_id": "valsa-do-trovador-luciana-rabello",
+ "title": "Valsa do trovador",
+ "composer": "Luciana Rabello",
+ "transposition": "c",
+ "meter": "2/4",
+ "form": "A — B — Coda",
+ "parts": [
+  {
+   "name": "A",
+   "tonic": "Am",
+   "bars": "1–35",
+   "sequence": [
+    [
+     "Gm6"
+    ],
+    [
+     "Am7(b5)"
+    ],
+    [
+     "D7(b9)"
+    ],
+    [],
+    [
+     "Gm6"
+    ],
+    [
+     "Fm6/Ab"
+    ],
+    [
+     "G7(b9)"
+    ],
+    [],
+    [],
+    [
+     "Eb/Db"
+    ],
+    [
+     "Gm/D"
+    ],
+    [
+     "Bbm6"
+    ],
+    [
+     "Ab6"
+    ],
+    [
+     "D7/A",
+     "Am7(b5)"
+    ],
+    [
+     "Gm/Bb"
+    ],
+    [
+     "A7(9)",
+     "Em7(b5)"
+    ],
+    [
+     "Cm/D"
+    ],
+    [],
+    [
+     "Gm6"
+    ],
+    [],
+    [
+     "D/C"
+    ],
+    [],
+    [
+     "Gm/F"
+    ],
+    [
+     "Fm/Eb"
+    ],
+    [
+     "G7/D"
+    ],
+    [],
+    [],
+    [
+     "Eb/Db",
+     "Em7(b5)"
+    ],
+    [
+     "Gm/D"
+    ],
+    [
+     "Bbm6"
+    ],
+    [],
+    [
+     "D7/F#"
+    ],
+    [
+     "Gm/F"
+    ],
+    [
+     "Ab/Eb",
+     "D7(b9)"
+    ],
+    [
+     "Gm"
+    ]
+   ]
+  },
+  {
+   "name": "B",
+   "tonic": "Am",
+   "bars": "36–68",
+   "sequence": [
+    [
+     "D4"
+    ],
+    [],
+    [
+     "Cm6/Eb"
+    ],
+    [
+     "A7/E"
+    ],
+    [
+     "D4",
+     "Am7(b5)"
+    ],
+    [
+     "G4"
+    ],
+    [
+     "G7(9)"
+    ],
+    [],
+    [],
+    [
+     "Cm6"
+    ],
+    [],
+    [],
+    [],
+    [
+     "Am7(b5)"
+    ],
+    [
+     "A7"
+    ],
+    [
+     "Cm6/Eb"
+    ],
+    [
+     "D7"
+    ],
+    [],
+    [
+     "D4"
+    ],
+    [],
+    [
+     "G6"
+    ],
+    [
+     "Dm/F"
+    ],
+    [
+     "G7"
+    ],
+    [],
+    [],
+    [
+     "Cm6"
+    ],
+    [],
+    [],
+    [
+     "Am7(b5)"
+    ],
+    [
+     "G/B"
+    ],
+    [
+     "A7",
+     "D7(b9)"
+    ],
+    [
+     "Cm6/G"
+    ],
+    [
+     "G"
+    ]
+   ]
+  },
+  {
+   "name": "Coda",
+   "tonic": "C",
+   "bars": "69–73",
+   "sequence": [
+    [
+     "Ab/Eb",
+     "D7(b9)"
+    ],
+    [
+     "Gm",
+     "Ab/Eb"
+    ],
+    [
+     "D7(b9)"
+    ],
+    [
+     "Gm"
+    ],
+    [
+     "Gm"
+    ]
+   ]
+  }
+ ],
+ "notes": [
+  "Grille générée automatiquement depuis le texte du PDF : à vérifier.",
+  "Reprises et fins non détectées : les mesures sont dans l'ordre d'écriture."
+ ],
+ "confidence": "low",
+ "source": [
+  "pdf/Luciana Rabello - Valsa do trovador - Theme - C.pdf"
+ ],
+ "generated": "pdf"
+}

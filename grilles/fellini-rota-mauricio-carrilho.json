@@ -1,0 +1,194 @@
+{
+ "song_id": "fellini-rota-mauricio-carrilho",
+ "title": "Fellini & Rota",
+ "composer": "Maurício Carrilho",
+ "transposition": "c",
+ "meter": "2/4",
+ "form": "A — B — C",
+ "parts": [
+  {
+   "name": "A",
+   "tonic": "Am",
+   "bars": "1–15",
+   "sequence": [
+    [
+     "Am"
+    ],
+    [
+     "E7(#5)"
+    ],
+    [
+     "Am",
+     "A7(b9)"
+    ],
+    [
+     "Dm",
+     "Dm/F"
+    ],
+    [
+     "Bb/A"
+    ],
+    [
+     "A7(b9)",
+     "F6"
+    ],
+    [
+     "Cm6"
+    ],
+    [
+     "E7(b5)"
+    ],
+    [],
+    [],
+    [],
+    [
+     "Dm6"
+    ],
+    [
+     "A7(b9)"
+    ],
+    [
+     "Am",
+     "Am/G"
+    ],
+    [
+     "F7(b5)"
+    ]
+   ]
+  },
+  {
+   "name": "B",
+   "tonic": "Am",
+   "bars": "16–32",
+   "sequence": [
+    [
+     "Am"
+    ],
+    [
+     "Am"
+    ],
+    [
+     "F6",
+     "Db/Ab"
+    ],
+    [
+     "G7(9)",
+     "Ab7(9)"
+    ],
+    [
+     "Db"
+    ],
+    [
+     "C7(9)"
+    ],
+    [
+     "F6",
+     "C7(9)"
+    ],
+    [],
+    [
+     "E7(b9)"
+    ],
+    [],
+    [
+     "Dm",
+     "Bbm6",
+     "Ab/Gb"
+    ],
+    [
+     "Dm"
+    ],
+    [
+     "C/E",
+     "Fm6"
+    ],
+    [
+     "A7"
+    ],
+    [],
+    [
+     "Am"
+    ],
+    [
+     "C/G",
+     "Fm7(b5)"
+    ]
+   ]
+  },
+  {
+   "name": "C",
+   "tonic": "Am",
+   "bars": "33–52",
+   "sequence": [
+    [
+     "C"
+    ],
+    [
+     "C"
+    ],
+    [
+     "Am",
+     "A7(b9)",
+     "C7"
+    ],
+    [],
+    [
+     "F"
+    ],
+    [
+     "F"
+    ],
+    [
+     "Bb6"
+    ],
+    [
+     "G7(9)"
+    ],
+    [
+     "Fm7(b5)"
+    ],
+    [],
+    [
+     "A",
+     "B/A"
+    ],
+    [
+     "A",
+     "Db/F"
+    ],
+    [
+     "F",
+     "Db/Cb"
+    ],
+    [
+     "F"
+    ],
+    [
+     "Bb6"
+    ],
+    [
+     "G7(9)"
+    ],
+    [],
+    [
+     "Bbm6",
+     "F/C",
+     "F"
+    ],
+    [],
+    [
+     "Am"
+    ]
+   ]
+  }
+ ],
+ "notes": [
+  "Grille générée automatiquement depuis le texte du PDF : à vérifier.",
+  "Reprises et fins non détectées : les mesures sont dans l'ordre d'écriture."
+ ],
+ "confidence": "low",
+ "source": [
+  "pdf/Maurício Carrilho - Fellini & Rota - Theme - C.pdf"
+ ],
+ "generated": "pdf"
+}

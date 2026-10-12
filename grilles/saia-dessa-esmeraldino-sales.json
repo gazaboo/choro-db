@@ -1,0 +1,149 @@
+{
+ "song_id": "saia-dessa-esmeraldino-sales",
+ "title": "Saia dessa",
+ "composer": "Esmeraldino Sales",
+ "transposition": "c",
+ "meter": "2/4",
+ "form": "A — B — Coda",
+ "parts": [
+  {
+   "name": "A",
+   "tonic": "C",
+   "bars": "1–25",
+   "sequence": [
+    [
+     "Dm"
+    ],
+    [
+     "Dm"
+    ],
+    [
+     "Gm"
+    ],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [
+     "Bb7"
+    ],
+    [
+     "Bb7"
+    ],
+    [],
+    [
+     "Eb7(9)"
+    ],
+    [],
+    [],
+    [],
+    [],
+    [
+     "Dm"
+    ],
+    [
+     "Dm"
+    ],
+    [
+     "Gm"
+    ],
+    [],
+    [],
+    [
+     "Bb7"
+    ],
+    [
+     "Dm"
+    ],
+    [],
+    [
+     "Gm"
+    ]
+   ]
+  },
+  {
+   "name": "B",
+   "tonic": "C",
+   "bars": "26–61",
+   "sequence": [
+    [],
+    [],
+    [],
+    [
+     "Dm6"
+    ],
+    [],
+    [],
+    [],
+    [
+     "Gm"
+    ],
+    [
+     "Bbm6",
+     "Eb7(9)"
+    ],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [
+     "Bm7(b5)"
+    ],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [
+     "Abm7",
+     "Db7(9)"
+    ],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [
+     "F"
+    ]
+   ]
+  },
+  {
+   "name": "Coda",
+   "tonic": "C",
+   "bars": "63–68",
+   "sequence": [
+    [],
+    [
+     "Dm6"
+    ],
+    [],
+    [],
+    [],
+    [
+     "F"
+    ]
+   ]
+  }
+ ],
+ "notes": [
+  "Grille générée automatiquement depuis le texte du PDF : à vérifier.",
+  "Reprises et fins non détectées : les mesures sont dans l'ordre d'écriture."
+ ],
+ "confidence": "low",
+ "source": [
+  "pdf/Esmeraldino Sales - Saia dessa - Theme - C.pdf"
+ ],
+ "generated": "pdf"
+}

@@ -1,0 +1,202 @@
+{
+ "song_id": "saudades-candinho",
+ "title": "Saudades",
+ "composer": "Candinho",
+ "transposition": "c",
+ "meter": "2/4",
+ "form": "A — B — C",
+ "parts": [
+  {
+   "name": "A",
+   "tonic": "C",
+   "bars": "1–15",
+   "sequence": [
+    [
+     "G6",
+     "E7"
+    ],
+    [
+     "A7"
+    ],
+    [
+     "D7"
+    ],
+    [
+     "G6"
+    ],
+    [
+     "G6"
+    ],
+    [
+     "Bm"
+    ],
+    [
+     "F#7"
+    ],
+    [
+     "Bm",
+     "D7"
+    ],
+    [
+     "G6",
+     "E7"
+    ],
+    [
+     "A7"
+    ],
+    [
+     "D7"
+    ],
+    [
+     "G6"
+    ],
+    [],
+    [
+     "G/D",
+     "E7"
+    ],
+    [
+     "A7"
+    ]
+   ]
+  },
+  {
+   "name": "B",
+   "tonic": "Am",
+   "bars": "16–33",
+   "sequence": [
+    [
+     "G"
+    ],
+    [
+     "G"
+    ],
+    [],
+    [
+     "Em"
+    ],
+    [
+     "F#m7(b5)"
+    ],
+    [
+     "B7"
+    ],
+    [
+     "Em"
+    ],
+    [
+     "Em/G"
+    ],
+    [
+     "Am6",
+     "Am6/C"
+    ],
+    [
+     "B7"
+    ],
+    [
+     "Em"
+    ],
+    [],
+    [
+     "F#m7(b5)"
+    ],
+    [
+     "B7"
+    ],
+    [],
+    [
+     "E7/G#"
+    ],
+    [
+     "Am",
+     "C7/G"
+    ],
+    [
+     "B7/F#",
+     "B7"
+    ]
+   ]
+  },
+  {
+   "name": "C",
+   "tonic": "C",
+   "bars": "34–54",
+   "sequence": [
+    [
+     "Em"
+    ],
+    [
+     "Em"
+    ],
+    [
+     "G"
+    ],
+    [],
+    [
+     "C"
+    ],
+    [
+     "Dm"
+    ],
+    [
+     "G7",
+     "G7/B"
+    ],
+    [
+     "C"
+    ],
+    [
+     "C/E"
+    ],
+    [
+     "G7/D"
+    ],
+    [
+     "G7"
+    ],
+    [
+     "C"
+    ],
+    [],
+    [
+     "F6"
+    ],
+    [
+     "D7",
+     "D7/F#"
+    ],
+    [
+     "Gm"
+    ],
+    [
+     "E7",
+     "E7/G#"
+    ],
+    [
+     "Am",
+     "Dm"
+    ],
+    [
+     "C/G",
+     "G7"
+    ],
+    [
+     "C"
+    ],
+    [
+     "C"
+    ]
+   ]
+  }
+ ],
+ "notes": [
+  "Grille générée automatiquement depuis le texte du PDF : à vérifier.",
+  "Reprises et fins non détectées : les mesures sont dans l'ordre d'écriture."
+ ],
+ "confidence": "low",
+ "source": [
+  "pdf/Candinho - Saudades - Theme - C.pdf"
+ ],
+ "generated": "pdf"
+}

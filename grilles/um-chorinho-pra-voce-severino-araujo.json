@@ -1,0 +1,192 @@
+{
+ "song_id": "um-chorinho-pra-voce-severino-araujo",
+ "title": "Um Chorinho Pra Você",
+ "composer": "Severino Araújo",
+ "transposition": "c",
+ "meter": "2/4",
+ "form": "A — B — C — Coda",
+ "parts": [
+  {
+   "name": "A",
+   "tonic": "C",
+   "bars": "1–16",
+   "sequence": [
+    [
+     "Bm",
+     "F#7"
+    ],
+    [
+     "G7"
+    ],
+    [
+     "Bm"
+    ],
+    [
+     "F#7"
+    ],
+    [
+     "D"
+    ],
+    [
+     "Em"
+    ],
+    [
+     "Bm"
+    ],
+    [
+     "A7"
+    ],
+    [],
+    [
+     "Bm",
+     "C#m7(b5)"
+    ],
+    [],
+    [
+     "G7",
+     "Bm"
+    ],
+    [],
+    [
+     "A7",
+     "D"
+    ],
+    [
+     "Em"
+    ],
+    [
+     "Bm",
+     "F#7"
+    ]
+   ]
+  },
+  {
+   "name": "B",
+   "tonic": "C",
+   "bars": "18–34",
+   "sequence": [
+    [],
+    [
+     "C#7"
+    ],
+    [
+     "D"
+    ],
+    [
+     "F#7",
+     "A7"
+    ],
+    [
+     "Bm"
+    ],
+    [],
+    [
+     "F#7",
+     "Bm"
+    ],
+    [],
+    [
+     "C#m7(b5)"
+    ],
+    [],
+    [
+     "D",
+     "F#7"
+    ],
+    [],
+    [
+     "Bm"
+    ],
+    [],
+    [
+     "Bm"
+    ],
+    [
+     "C"
+    ],
+    [
+     "Bm"
+    ]
+   ]
+  },
+  {
+   "name": "C",
+   "tonic": "C",
+   "bars": "35–50",
+   "sequence": [
+    [],
+    [
+     "D7"
+    ],
+    [
+     "G"
+    ],
+    [],
+    [
+     "G"
+    ],
+    [
+     "Am"
+    ],
+    [
+     "G7"
+    ],
+    [],
+    [
+     "Cm6"
+    ],
+    [
+     "G"
+    ],
+    [
+     "G",
+     "Em7"
+    ],
+    [
+     "D7"
+    ],
+    [],
+    [
+     "C"
+    ],
+    [],
+    [
+     "G"
+    ]
+   ]
+  },
+  {
+   "name": "Coda",
+   "tonic": "C",
+   "bars": "52–58",
+   "sequence": [
+    [
+     "G"
+    ],
+    [
+     "F",
+     "C#7",
+     "F#7"
+    ],
+    [],
+    [
+     "Bm"
+    ],
+    [],
+    [],
+    [
+     "Bm"
+    ]
+   ]
+  }
+ ],
+ "notes": [
+  "Grille générée automatiquement depuis le texte du PDF : à vérifier.",
+  "Reprises et fins non détectées : les mesures sont dans l'ordre d'écriture."
+ ],
+ "confidence": "low",
+ "source": [
+  "pdf/Severino Araújo - Um Chorinho Pra Você - Theme - C - variant 1.pdf"
+ ],
+ "generated": "pdf"
+}

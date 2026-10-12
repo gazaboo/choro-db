@@ -1,0 +1,267 @@
+{
+ "song_id": "beth-cidinho-7-cordas",
+ "title": "Beth",
+ "composer": "Cidinho 7 Cordas",
+ "transposition": "c",
+ "meter": "3/4",
+ "form": "A — B (reprise) — C (reprise)",
+ "parts": [
+  {
+   "name": "A",
+   "tonic": "Am",
+   "bars": "0–8",
+   "repeat": false,
+   "sequence": [
+    [
+     "Fm/Ab"
+    ],
+    [],
+    [
+     "C"
+    ],
+    [
+     "A7"
+    ],
+    [
+     "Dm7"
+    ],
+    [
+     "G7(13)",
+     "G7(b13)",
+     "G7"
+    ],
+    [
+     "C"
+    ],
+    [
+     "E7"
+    ]
+   ]
+  },
+  {
+   "name": "B",
+   "tonic": "Am",
+   "bars": "9–41",
+   "repeat": true,
+   "sequence": [
+    [
+     "Am"
+    ],
+    [],
+    [
+     "C#dim"
+    ],
+    [
+     "Dm"
+    ],
+    [
+     "E7"
+    ],
+    [
+     "E7/G#"
+    ],
+    [
+     "Am"
+    ],
+    [
+     "E7"
+    ],
+    [
+     "Am"
+    ],
+    [
+     "F#m7b5"
+    ],
+    [
+     "Em/G"
+    ],
+    [
+     "Em"
+    ],
+    [
+     "B7/D#"
+    ],
+    [
+     "B7"
+    ],
+    [
+     "Dm6"
+    ],
+    [
+     "E7"
+    ],
+    [
+     "Am"
+    ],
+    [],
+    [
+     "C#dim"
+    ],
+    [
+     "Dm"
+    ],
+    [
+     "Bdim"
+    ],
+    [
+     "E7/G#"
+    ],
+    [
+     "Gm6/Bb"
+    ],
+    [
+     "A7"
+    ],
+    [
+     "Dm"
+    ],
+    [
+     "D#dim",
+     "E7"
+    ],
+    [
+     "Am"
+    ],
+    [
+     "Am/G"
+    ],
+    [
+     "Dm/F"
+    ],
+    [
+     "E7"
+    ],
+    [
+     "Am"
+    ]
+   ],
+   "endings": {
+    "1": [
+     [
+      "Am"
+     ]
+    ],
+    "2": [
+     [
+      "Am"
+     ]
+    ]
+   }
+  },
+  {
+   "name": "C",
+   "tonic": "C",
+   "bars": "42–76",
+   "repeat": true,
+   "sequence": [
+    [
+     "Dm"
+    ],
+    [
+     "D#dim"
+    ],
+    [
+     "C/E"
+    ],
+    [
+     "C"
+    ],
+    [
+     "Bm7b5"
+    ],
+    [
+     "E/D"
+    ],
+    [
+     "Am/C"
+    ],
+    [],
+    [
+     "F#dim"
+    ],
+    [
+     "D#dim"
+    ],
+    [
+     "C/E"
+    ],
+    [],
+    [
+     "E"
+    ],
+    [
+     "B7"
+    ],
+    [
+     "E"
+    ],
+    [
+     "C#dim"
+    ],
+    [
+     "Dm"
+    ],
+    [
+     "D#dim"
+    ],
+    [
+     "C/E"
+    ],
+    [],
+    [
+     "Gm6"
+    ],
+    [
+     "A7"
+    ],
+    [
+     "Dm"
+    ],
+    [],
+    [
+     "Fm6/Ab"
+    ],
+    [],
+    [
+     "C"
+    ],
+    [
+     "A7"
+    ],
+    [
+     "Dm"
+    ],
+    [
+     "G7(13)",
+     "G7(b13)",
+     "G7"
+    ],
+    [
+     "E7"
+    ],
+    []
+   ],
+   "endings": {
+    "1": [
+     [
+      "C"
+     ],
+     []
+    ],
+    "2": [
+     [
+      "C"
+     ]
+    ]
+   }
+  }
+ ],
+ "notes": [
+  "Grille générée automatiquement depuis la partition MusicXML : à vérifier."
+ ],
+ "confidence": "medium",
+ "source": [
+  "mxl/C/Cidinho 7 Cordas - Beth - Theme - C.mxl"
+ ],
+ "generated": "mxl"
+}

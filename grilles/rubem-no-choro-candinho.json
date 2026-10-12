@@ -1,0 +1,160 @@
+{
+ "song_id": "rubem-no-choro-candinho",
+ "title": "Rubem no choro",
+ "composer": "Candinho",
+ "transposition": "c",
+ "meter": "2/4",
+ "form": "A — B — C",
+ "parts": [
+  {
+   "name": "A",
+   "tonic": "C",
+   "bars": "1–16",
+   "sequence": [
+    [
+     "F"
+    ],
+    [],
+    [],
+    [
+     "F"
+    ],
+    [
+     "D7/F#"
+    ],
+    [
+     "Gm"
+    ],
+    [],
+    [
+     "F"
+    ],
+    [
+     "F"
+    ],
+    [
+     "A7"
+    ],
+    [],
+    [
+     "Dm"
+    ],
+    [],
+    [
+     "F/C"
+    ],
+    [],
+    [
+     "F"
+    ]
+   ]
+  },
+  {
+   "name": "B",
+   "tonic": "C",
+   "bars": "17–32",
+   "sequence": [
+    [],
+    [
+     "G7",
+     "G7/B"
+    ],
+    [
+     "C"
+    ],
+    [
+     "A7/C#"
+    ],
+    [
+     "Dm"
+    ],
+    [],
+    [
+     "C/E"
+    ],
+    [
+     "D/C"
+    ],
+    [],
+    [
+     "G7"
+    ],
+    [
+     "C"
+    ],
+    [
+     "A7",
+     "A7/C#"
+    ],
+    [
+     "Dm"
+    ],
+    [
+     "Fm6/Ab"
+    ],
+    [
+     "C/G"
+    ],
+    [
+     "Dm",
+     "C"
+    ]
+   ]
+  },
+  {
+   "name": "C",
+   "tonic": "C",
+   "bars": "33–48",
+   "sequence": [
+    [
+     "Em7(b5)"
+    ],
+    [
+     "Bb",
+     "Cm"
+    ],
+    [],
+    [
+     "Bb"
+    ],
+    [
+     "Bb"
+    ],
+    [
+     "Dm"
+    ],
+    [],
+    [
+     "Dm"
+    ],
+    [
+     "Bb"
+    ],
+    [
+     "Cm"
+    ],
+    [],
+    [
+     "Cm"
+    ],
+    [],
+    [
+     "Bb/F"
+    ],
+    [],
+    [
+     "Bb"
+    ]
+   ]
+  }
+ ],
+ "notes": [
+  "Grille générée automatiquement depuis le texte du PDF : à vérifier.",
+  "Reprises et fins non détectées : les mesures sont dans l'ordre d'écriture."
+ ],
+ "confidence": "low",
+ "source": [
+  "pdf/Candinho - Rubem no choro - Theme - C.pdf"
+ ],
+ "generated": "pdf"
+}

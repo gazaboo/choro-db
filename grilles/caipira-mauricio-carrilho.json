@@ -1,0 +1,154 @@
+{
+ "song_id": "caipira-mauricio-carrilho",
+ "title": "Caipira",
+ "composer": "Maurício Carrilho",
+ "transposition": "c",
+ "meter": "4/4",
+ "form": "A (reprise) — B (reprise)",
+ "parts": [
+  {
+   "name": "A",
+   "tonic": "Em",
+   "bars": "1–18",
+   "repeat": true,
+   "sequence": [
+    [
+     "Em",
+     "Em/D"
+    ],
+    [
+     "Am6/C",
+     "B7"
+    ],
+    [
+     "Em",
+     "Em/D"
+    ],
+    [
+     "Am6/C",
+     "B7"
+    ],
+    [
+     "Em",
+     "Em/G"
+    ],
+    [
+     "Am6"
+    ],
+    [
+     "B7",
+     "Gm6"
+    ],
+    [
+     "Em"
+    ],
+    [
+     "A7"
+    ],
+    [
+     "D7",
+     "D#dim"
+    ],
+    [
+     "Em"
+    ],
+    [
+     "Am",
+     "D7"
+    ],
+    [
+     "G7"
+    ],
+    [
+     "C",
+     "E7"
+    ],
+    [
+     "Am",
+     "D7"
+    ],
+    [
+     "G7"
+    ],
+    [
+     "C7",
+     "B7"
+    ],
+    [
+     "Em",
+     "B7",
+     "Em"
+    ]
+   ]
+  },
+  {
+   "name": "B",
+   "tonic": "G",
+   "bars": "19–35",
+   "repeat": true,
+   "sequence": [
+    [
+     "D7"
+    ],
+    [
+     "G"
+    ],
+    [
+     "D7"
+    ],
+    [
+     "G"
+    ],
+    [
+     "B7"
+    ],
+    [
+     "Em",
+     "C#m7b5"
+    ],
+    [
+     "Bm",
+     "F#7"
+    ],
+    [
+     "Bm"
+    ],
+    [
+     "D7"
+    ],
+    [
+     "G"
+    ],
+    [
+     "G7"
+    ],
+    [
+     "C"
+    ],
+    [
+     "Bbdim"
+    ],
+    [
+     "G/B",
+     "E7"
+    ],
+    [
+     "Am",
+     "D7"
+    ],
+    [
+     "G"
+    ],
+    []
+   ]
+  }
+ ],
+ "notes": [
+  "Grille générée automatiquement depuis la partition MusicXML : à vérifier."
+ ],
+ "confidence": "medium",
+ "source": [
+  "mxl/C/Maurício Carrilho - Caipira - Theme - C.mxl"
+ ],
+ "generated": "mxl"
+}

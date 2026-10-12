@@ -1,0 +1,206 @@
+{
+ "song_id": "gadu-namorando-lalau-do-bandolim",
+ "title": "Gadu namorando",
+ "composer": "Lalau do Bandolim",
+ "transposition": "c",
+ "meter": "2/4",
+ "form": "A — B — C",
+ "parts": [
+  {
+   "name": "A",
+   "tonic": "C",
+   "bars": "1–16",
+   "sequence": [
+    [
+     "G7"
+    ],
+    [
+     "C"
+    ],
+    [
+     "C7"
+    ],
+    [
+     "F"
+    ],
+    [
+     "Fm6"
+    ],
+    [
+     "C/G"
+    ],
+    [
+     "D7"
+    ],
+    [
+     "G7"
+    ],
+    [],
+    [
+     "C"
+    ],
+    [
+     "C7"
+    ],
+    [
+     "F"
+    ],
+    [
+     "Fm6"
+    ],
+    [
+     "C",
+     "A7"
+    ],
+    [
+     "D7",
+     "G7"
+    ],
+    [
+     "C"
+    ]
+   ]
+  },
+  {
+   "name": "B",
+   "tonic": "Am",
+   "bars": "17–33",
+   "sequence": [
+    [
+     "C"
+    ],
+    [
+     "Am",
+     "E7/B"
+    ],
+    [
+     "Am/C",
+     "A7/C#"
+    ],
+    [
+     "Dm",
+     "A7"
+    ],
+    [
+     "Dm"
+    ],
+    [
+     "Bm7b5"
+    ],
+    [
+     "Am"
+    ],
+    [
+     "B7"
+    ],
+    [
+     "E7"
+    ],
+    [
+     "Am",
+     "E7/B"
+    ],
+    [
+     "Am/C",
+     "A7/C#"
+    ],
+    [
+     "Dm",
+     "A7"
+    ],
+    [
+     "Dm"
+    ],
+    [
+     "Bm7b5"
+    ],
+    [
+     "Am"
+    ],
+    [
+     "B7",
+     "E7"
+    ],
+    [
+     "Am"
+    ]
+   ]
+  },
+  {
+   "name": "C",
+   "tonic": "C",
+   "bars": "34–53",
+   "sequence": [
+    [
+     "Am"
+    ],
+    [],
+    [
+     "C"
+    ],
+    [
+     "F"
+    ],
+    [
+     "C7"
+    ],
+    [
+     "F"
+    ],
+    [
+     "C7"
+    ],
+    [
+     "A7"
+    ],
+    [
+     "Dm"
+    ],
+    [
+     "G7"
+    ],
+    [
+     "C7"
+    ],
+    [
+     "F"
+    ],
+    [
+     "C7"
+    ],
+    [
+     "F"
+    ],
+    [
+     "C7"
+    ],
+    [
+     "A7"
+    ],
+    [
+     "Dm",
+     "Bdim"
+    ],
+    [
+     "F/C",
+     "C7"
+    ],
+    [
+     "F"
+    ],
+    [
+     "F"
+    ]
+   ]
+  }
+ ],
+ "notes": [
+  "Grille générée automatiquement depuis le texte du PDF : à vérifier.",
+  "Reprises et fins non détectées : les mesures sont dans l'ordre d'écriture."
+ ],
+ "confidence": "low",
+ "source": [
+  "pdf/Lalau do Bandolim - Gadu namorando - Theme - C.pdf"
+ ],
+ "generated": "pdf"
+}

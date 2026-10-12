@@ -1,0 +1,252 @@
+{
+ "song_id": "guerreiro-ernesto-nazareth",
+ "title": "Guerreiro",
+ "composer": "Ernesto Nazareth",
+ "transposition": "c",
+ "meter": "2/4",
+ "form": "A (reprise) — B (reprise) — C (reprise) — Coda",
+ "parts": [
+  {
+   "name": "A",
+   "tonic": "A",
+   "bars": "0–17",
+   "repeat": true,
+   "sequence": [
+    [
+     "E7"
+    ],
+    [
+     "A"
+    ],
+    [
+     "C#7"
+    ],
+    [
+     "F#m"
+    ],
+    [
+     "D#dim"
+    ],
+    [
+     "A/E"
+    ],
+    [
+     "E7"
+    ],
+    [
+     "A"
+    ],
+    [
+     "E7"
+    ],
+    [
+     "A"
+    ],
+    [
+     "F#7"
+    ],
+    [
+     "Bm"
+    ],
+    [
+     "D#dim"
+    ],
+    [
+     "A/E",
+     "F#7"
+    ],
+    [
+     "Bm",
+     "E7"
+    ]
+   ],
+   "endings": {
+    "1": [
+     [
+      "A"
+     ]
+    ],
+    "2": [
+     [
+      "A"
+     ]
+    ]
+   }
+  },
+  {
+   "name": "B",
+   "tonic": "F#m",
+   "bars": "18–35",
+   "repeat": true,
+   "sequence": [
+    [
+     "F#m",
+     "C#7/F#"
+    ],
+    [
+     "F#m",
+     "C#7/F#"
+    ],
+    [
+     "F#m",
+     "C#7/F#"
+    ],
+    [
+     "F#m",
+     "D#dim"
+    ],
+    [
+     "E7"
+    ],
+    [
+     "A"
+    ],
+    [
+     "Bm",
+     "D7"
+    ],
+    [
+     "C#7"
+    ],
+    [
+     "F#m",
+     "C#7/F#"
+    ],
+    [
+     "F#m"
+    ],
+    [
+     "Bm",
+     "Edim/B"
+    ],
+    [
+     "Bm"
+    ],
+    [
+     "C#7/G#",
+     "C#7"
+    ],
+    [
+     "F#m",
+     "G/B"
+    ],
+    [
+     "F#m/C#",
+     "Bm/D",
+     "C#7"
+    ],
+    [
+     "A"
+    ]
+   ],
+   "endings": {
+    "1": [
+     [
+      "F#m"
+     ]
+    ],
+    "2": [
+     [
+      "F#m"
+     ]
+    ]
+   }
+  },
+  {
+   "name": "C",
+   "tonic": "D",
+   "bars": "36–53",
+   "repeat": true,
+   "sequence": [
+    [
+     "A7/E",
+     "A7"
+    ],
+    [
+     "D"
+    ],
+    [
+     "A7/E",
+     "A7(#5)"
+    ],
+    [
+     "D"
+    ],
+    [
+     "A7/E",
+     "A7"
+    ],
+    [
+     "D",
+     "D#dim"
+    ],
+    [
+     "A/E",
+     "E7"
+    ],
+    [
+     "A"
+    ],
+    [
+     "A7/E",
+     "A7"
+    ],
+    [
+     "D"
+    ],
+    [
+     "A7/E",
+     "A7(#5)"
+    ],
+    [
+     "D",
+     "D/C"
+    ],
+    [
+     "G/B",
+     "B/A"
+    ],
+    [
+     "Em/G",
+     "Bb/Ab"
+    ],
+    [
+     "Eb/G",
+     "A7"
+    ],
+    []
+   ],
+   "endings": {
+    "1": [
+     [
+      "D"
+     ]
+    ],
+    "2": [
+     [
+      "D"
+     ]
+    ]
+   }
+  },
+  {
+   "name": "Coda",
+   "tonic": "A",
+   "bars": "54–54",
+   "repeat": false,
+   "sequence": [
+    [
+     "A"
+    ]
+   ]
+  }
+ ],
+ "notes": [
+  "Grille générée automatiquement depuis la partition MusicXML : à vérifier."
+ ],
+ "confidence": "medium",
+ "source": [
+  "mxl/C/Ernesto Nazareth - Guerreiro - Theme - C.mxl"
+ ],
+ "generated": "mxl"
+}

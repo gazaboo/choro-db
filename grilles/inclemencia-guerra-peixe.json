@@ -1,0 +1,286 @@
+{
+ "song_id": "inclemencia-guerra-peixe",
+ "title": "Inclemência",
+ "composer": "Guerra Peixe",
+ "transposition": "c",
+ "meter": "2/4",
+ "form": "A — B (reprise) — C — D (reprise) — E — F (reprise) — Coda",
+ "parts": [
+  {
+   "name": "A",
+   "tonic": "Gm",
+   "bars": "1–8",
+   "repeat": false,
+   "sequence": [
+    [
+     "Gm",
+     "Gm/F"
+    ],
+    [
+     "A7/E",
+     "Cm6/Eb"
+    ],
+    [
+     "D7(b9)",
+     "Cdim"
+    ],
+    [
+     "Gm6/Bb",
+     "Adim"
+    ],
+    [
+     "Gm",
+     "Gm6"
+    ],
+    [
+     "Dm/F",
+     "Dm"
+    ],
+    [
+     "Eb7",
+     "Eb7/G"
+    ],
+    [
+     "F#dim"
+    ]
+   ]
+  },
+  {
+   "name": "B",
+   "tonic": "Gm",
+   "bars": "9–17",
+   "repeat": true,
+   "sequence": [
+    [
+     "Gm",
+     "Gm/F"
+    ],
+    [
+     "A7/E",
+     "Cm6/Eb"
+    ],
+    [
+     "D7(b9)",
+     "Cdim"
+    ],
+    [
+     "Bdim",
+     "G7(b9)"
+    ],
+    [
+     "C7(9)",
+     "F7(b9)"
+    ],
+    [
+     "Bb6",
+     "Eb7(b9)"
+    ],
+    [
+     "Ab6",
+     "D7"
+    ]
+   ],
+   "endings": {
+    "1": [
+     [
+      "Gm"
+     ]
+    ],
+    "2": [
+     [
+      "Gm"
+     ]
+    ]
+   }
+  },
+  {
+   "name": "C",
+   "tonic": "Bb",
+   "bars": "18–25",
+   "repeat": false,
+   "sequence": [
+    [
+     "F7"
+    ],
+    [
+     "Bb"
+    ],
+    [
+     "F7"
+    ],
+    [
+     "Bb"
+    ],
+    [
+     "F7"
+    ],
+    [
+     "Bb"
+    ],
+    [
+     "C7/G",
+     "C7/E"
+    ],
+    [
+     "F7"
+    ]
+   ]
+  },
+  {
+   "name": "D",
+   "tonic": "Bb",
+   "bars": "26–35",
+   "repeat": true,
+   "sequence": [
+    [
+     "Am7b5",
+     "D7"
+    ],
+    [
+     "G7(b9)",
+     "C7"
+    ],
+    [
+     "F7"
+    ],
+    [
+     "Bb",
+     "Bb/D"
+    ],
+    [
+     "Dbdim",
+     "Cm7b5"
+    ],
+    [
+     "Bb",
+     "Edim"
+    ],
+    [
+     "Bb/F",
+     "F7"
+    ],
+    [
+     "Gm"
+    ]
+   ],
+   "endings": {
+    "1": [
+     [
+      "Bb"
+     ]
+    ],
+    "2": [
+     [
+      "Bb"
+     ]
+    ]
+   }
+  },
+  {
+   "name": "E",
+   "tonic": "G",
+   "bars": "36–43",
+   "repeat": false,
+   "sequence": [
+    [
+     "G6",
+     "D6/F#"
+    ],
+    [
+     "Em7",
+     "Gmaj7/D"
+    ],
+    [
+     "G6",
+     "G#dim"
+    ],
+    [
+     "Am",
+     "E7"
+    ],
+    [
+     "Am",
+     "E7/B"
+    ],
+    [
+     "Am/C",
+     "Cm6/Eb"
+    ],
+    [
+     "D7(9)",
+     "C7(9)"
+    ],
+    [
+     "Bbdim",
+     "G/B",
+     "D7"
+    ]
+   ]
+  },
+  {
+   "name": "F",
+   "tonic": "G",
+   "bars": "44–X2",
+   "repeat": true,
+   "sequence": [
+    [
+     "G6",
+     "D6/F#"
+    ],
+    [
+     "Em7",
+     "Gmaj7/D"
+    ],
+    [
+     "G7(9)"
+    ],
+    [
+     "C6"
+    ],
+    [
+     "Am7b5"
+    ],
+    [
+     "G6",
+     "Bm7(11)",
+     "Bb7(#11)"
+    ],
+    [
+     "A7",
+     "D7(9)"
+    ]
+   ],
+   "endings": {
+    "1": [
+     [
+      "G6"
+     ]
+    ],
+    "2": [
+     [
+      "G6"
+     ]
+    ]
+   }
+  },
+  {
+   "name": "Coda",
+   "tonic": "Gm",
+   "bars": "53–53",
+   "repeat": false,
+   "sequence": [
+    [
+     "Gm"
+    ]
+   ]
+  }
+ ],
+ "notes": [
+  "Grille générée automatiquement depuis la partition MusicXML : à vérifier."
+ ],
+ "confidence": "medium",
+ "source": [
+  "mxl/C/Guerra Peixe - Inclemência - Theme - C.mxl"
+ ],
+ "generated": "mxl"
+}

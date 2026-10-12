@@ -1,0 +1,162 @@
+{
+ "song_id": "tudo-danca-bonifiglio-de-oliveira",
+ "title": "Tudo Dança",
+ "composer": "Bonifiglio De Oliveira",
+ "transposition": "c",
+ "meter": "2/4",
+ "form": "A — B — C",
+ "parts": [
+  {
+   "name": "A",
+   "tonic": "C",
+   "bars": "1–14",
+   "sequence": [
+    [
+     "C"
+    ],
+    [
+     "C"
+    ],
+    [
+     "C"
+    ],
+    [
+     "Dm"
+    ],
+    [
+     "Dm/F"
+    ],
+    [],
+    [
+     "G/F"
+    ],
+    [
+     "C/E"
+    ],
+    [
+     "C"
+    ],
+    [
+     "C"
+    ],
+    [],
+    [
+     "F"
+    ],
+    [
+     "F"
+    ],
+    [
+     "C/G"
+    ]
+   ]
+  },
+  {
+   "name": "B",
+   "tonic": "C",
+   "bars": "16–31",
+   "sequence": [
+    [
+     "C"
+    ],
+    [
+     "C"
+    ],
+    [],
+    [
+     "Am"
+    ],
+    [],
+    [
+     "G"
+    ],
+    [
+     "G/F"
+    ],
+    [
+     "C/E"
+    ],
+    [],
+    [
+     "C"
+    ],
+    [
+     "Dm"
+    ],
+    [
+     "C"
+    ],
+    [],
+    [
+     "C"
+    ],
+    [],
+    [
+     "C"
+    ]
+   ]
+  },
+  {
+   "name": "C",
+   "tonic": "C",
+   "bars": "33–53",
+   "sequence": [
+    [
+     "C"
+    ],
+    [
+     "C"
+    ],
+    [
+     "C"
+    ],
+    [],
+    [
+     "F"
+    ],
+    [],
+    [
+     "F"
+    ],
+    [],
+    [
+     "Gm"
+    ],
+    [],
+    [],
+    [],
+    [
+     "F"
+    ],
+    [
+     "Gm6/Bb"
+    ],
+    [],
+    [
+     "Dm"
+    ],
+    [],
+    [
+     "F",
+     "Dm"
+    ],
+    [
+     "F"
+    ],
+    [],
+    [
+     "C"
+    ]
+   ]
+  }
+ ],
+ "notes": [
+  "Grille générée automatiquement depuis le texte du PDF : à vérifier.",
+  "Reprises et fins non détectées : les mesures sont dans l'ordre d'écriture."
+ ],
+ "confidence": "low",
+ "source": [
+  "pdf/Bonifiglio De Oliveira - Tudo Dança - Theme - C.pdf"
+ ],
+ "generated": "pdf"
+}

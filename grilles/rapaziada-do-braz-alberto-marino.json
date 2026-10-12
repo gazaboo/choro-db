@@ -1,0 +1,227 @@
+{
+ "song_id": "rapaziada-do-braz-alberto-marino",
+ "title": "Rapaziada Do Braz",
+ "composer": "Alberto Marino",
+ "transposition": "c",
+ "meter": "2/4",
+ "form": "A — B — C",
+ "parts": [
+  {
+   "name": "A",
+   "tonic": "C",
+   "bars": "1–30",
+   "sequence": [
+    [
+     "A7/E"
+    ],
+    [
+     "Dm/F"
+    ],
+    [
+     "A7"
+    ],
+    [
+     "Dm"
+    ],
+    [
+     "Dm/F"
+    ],
+    [
+     "A7/E"
+    ],
+    [
+     "A7"
+    ],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [
+     "Dm"
+    ],
+    [
+     "A7"
+    ],
+    [
+     "Dm"
+    ],
+    [
+     "A7/E"
+    ],
+    [
+     "Dm/F"
+    ],
+    [
+     "A7"
+    ],
+    [
+     "Dm"
+    ],
+    [
+     "D/C"
+    ],
+    [
+     "Gm/Bb"
+    ],
+    [
+     "Gm"
+    ],
+    [
+     "Em7(b5)"
+    ],
+    [
+     "A7"
+    ],
+    [
+     "Dm"
+    ],
+    [],
+    [
+     "A7"
+    ],
+    [],
+    [
+     "Dm"
+    ]
+   ]
+  },
+  {
+   "name": "B",
+   "tonic": "C",
+   "bars": "31–47",
+   "sequence": [
+    [],
+    [],
+    [
+     "A7"
+    ],
+    [],
+    [
+     "Dm"
+    ],
+    [],
+    [
+     "A7"
+    ],
+    [],
+    [
+     "Dm"
+    ],
+    [],
+    [
+     "A7"
+    ],
+    [],
+    [
+     "Dm"
+    ],
+    [],
+    [
+     "A7"
+    ],
+    [],
+    [
+     "Dm"
+    ]
+   ]
+  },
+  {
+   "name": "C",
+   "tonic": "C",
+   "bars": "48–81",
+   "sequence": [
+    [],
+    [
+     "Dm"
+    ],
+    [],
+    [
+     "D"
+    ],
+    [
+     "G"
+    ],
+    [
+     "D"
+    ],
+    [
+     "A7"
+    ],
+    [
+     "D/F#"
+    ],
+    [],
+    [
+     "A7/E"
+    ],
+    [
+     "A7"
+    ],
+    [
+     "Em"
+    ],
+    [],
+    [
+     "A7"
+    ],
+    [],
+    [],
+    [],
+    [
+     "D"
+    ],
+    [
+     "A7"
+    ],
+    [
+     "D"
+    ],
+    [
+     "G"
+    ],
+    [
+     "D"
+    ],
+    [
+     "D"
+    ],
+    [
+     "B7"
+    ],
+    [],
+    [
+     "Em"
+    ],
+    [],
+    [
+     "G"
+    ],
+    [],
+    [
+     "D/F#"
+    ],
+    [],
+    [
+     "Em"
+    ],
+    [
+     "A7"
+    ],
+    [
+     "D"
+    ]
+   ]
+  }
+ ],
+ "notes": [
+  "Grille générée automatiquement depuis le texte du PDF : à vérifier.",
+  "Reprises et fins non détectées : les mesures sont dans l'ordre d'écriture."
+ ],
+ "confidence": "low",
+ "source": [
+  "pdf/Alberto Marino - Rapaziada Do Braz - Theme - C.pdf"
+ ],
+ "generated": "pdf"
+}

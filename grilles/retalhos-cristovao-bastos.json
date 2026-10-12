@@ -1,0 +1,177 @@
+{
+ "song_id": "retalhos-cristovao-bastos",
+ "title": "Retalhos",
+ "composer": "Cristovão Bastos",
+ "transposition": "c",
+ "meter": "2/4",
+ "form": "A — B — C — Coda",
+ "parts": [
+  {
+   "name": "A",
+   "tonic": "C",
+   "bars": "1–9",
+   "sequence": [
+    [
+     "F#7(13)"
+    ],
+    [
+     "Bm6"
+    ],
+    [
+     "F#7(13)"
+    ],
+    [
+     "Bm6"
+    ],
+    [
+     "G7(13)"
+    ],
+    [
+     "C6"
+    ],
+    [
+     "A7"
+    ],
+    [],
+    [
+     "Fm6"
+    ]
+   ]
+  },
+  {
+   "name": "B",
+   "tonic": "C",
+   "bars": "11–25",
+   "sequence": [
+    [
+     "A7"
+    ],
+    [
+     "A7"
+    ],
+    [],
+    [],
+    [
+     "D7(9)"
+    ],
+    [
+     "Eb7(9)"
+    ],
+    [],
+    [
+     "Db7(9)"
+    ],
+    [
+     "C7(9)"
+    ],
+    [],
+    [
+     "Bm6"
+    ],
+    [],
+    [
+     "Cm6"
+    ],
+    [
+     "Em7(9)"
+    ],
+    [
+     "C#m7(b5)",
+     "F#7"
+    ]
+   ]
+  },
+  {
+   "name": "C",
+   "tonic": "C",
+   "bars": "28–46",
+   "sequence": [
+    [
+     "A6"
+    ],
+    [
+     "A6"
+    ],
+    [],
+    [
+     "A6"
+    ],
+    [
+     "F7(9)"
+    ],
+    [],
+    [
+     "Eb7(9)"
+    ],
+    [],
+    [
+     "Ebm7"
+    ],
+    [],
+    [],
+    [
+     "C#m6"
+    ],
+    [
+     "B6"
+    ],
+    [
+     "G#m7",
+     "G#m7(9)"
+    ],
+    [
+     "F7"
+    ],
+    [
+     "A"
+    ],
+    [
+     "F#7(9)"
+    ],
+    [
+     "B7(9)"
+    ],
+    [
+     "Bb7(9)"
+    ]
+   ]
+  },
+  {
+   "name": "Coda",
+   "tonic": "C",
+   "bars": "47–53",
+   "sequence": [
+    [
+     "A69"
+    ],
+    [
+     "A69"
+    ],
+    [
+     "A7"
+    ],
+    [
+     "F#7(13)"
+    ],
+    [
+     "Bm6"
+    ],
+    [
+     "F#7(13)"
+    ],
+    [
+     "Bm6"
+    ]
+   ]
+  }
+ ],
+ "notes": [
+  "Grille générée automatiquement depuis le texte du PDF : à vérifier.",
+  "Reprises et fins non détectées : les mesures sont dans l'ordre d'écriture."
+ ],
+ "confidence": "low",
+ "source": [
+  "pdf/Cristovão Bastos - Retalhos - Theme - C.pdf"
+ ],
+ "generated": "pdf"
+}

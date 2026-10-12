@@ -1,0 +1,153 @@
+{
+ "song_id": "hora-de-sonhar-waldir-azevedo",
+ "title": "Hora de sonhar",
+ "composer": "Waldir Azevedo",
+ "transposition": "c",
+ "meter": "2/4",
+ "form": "A — B — Coda",
+ "parts": [
+  {
+   "name": "A",
+   "tonic": "D",
+   "bars": "0–24",
+   "repeat": false,
+   "sequence": [
+    [
+     "D"
+    ],
+    [],
+    [
+     "E7"
+    ],
+    [],
+    [
+     "A7"
+    ],
+    [],
+    [
+     "Dm"
+    ],
+    [],
+    [
+     "Gm7"
+    ],
+    [],
+    [
+     "Dm"
+    ],
+    [],
+    [
+     "Gm7"
+    ],
+    [],
+    [
+     "A7"
+    ],
+    [],
+    [
+     "D"
+    ],
+    [],
+    [
+     "E7"
+    ],
+    [],
+    [
+     "A7"
+    ],
+    [],
+    [
+     "Dm"
+    ],
+    [
+     "D7"
+    ]
+   ]
+  },
+  {
+   "name": "B",
+   "tonic": "D",
+   "bars": "25–X1",
+   "repeat": false,
+   "sequence": [
+    [
+     "G"
+    ],
+    [
+     "G#dim"
+    ],
+    [
+     "D"
+    ],
+    [
+     "B7"
+    ],
+    [
+     "Em"
+    ],
+    [
+     "F#7"
+    ],
+    [
+     "Bm"
+    ],
+    [
+     "D7"
+    ],
+    [
+     "G"
+    ],
+    [
+     "G#dim"
+    ],
+    [
+     "D"
+    ],
+    [
+     "B7"
+    ],
+    [
+     "Em"
+    ],
+    [
+     "A7"
+    ],
+    [
+     "D"
+    ],
+    [
+     "A7"
+    ]
+   ]
+  },
+  {
+   "name": "Coda",
+   "tonic": "D",
+   "bars": "41–45",
+   "repeat": false,
+   "sequence": [
+    [
+     "Bb"
+    ],
+    [
+     "Gm"
+    ],
+    [
+     "D6(9)"
+    ],
+    [
+     "Dmaj7"
+    ],
+    []
+   ]
+  }
+ ],
+ "notes": [
+  "Grille générée automatiquement depuis la partition MusicXML : à vérifier."
+ ],
+ "confidence": "medium",
+ "source": [
+  "mxl/C/Waldir Azevedo - Hora de sonhar - Theme - C.mxl"
+ ],
+ "generated": "mxl"
+}

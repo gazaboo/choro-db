@@ -1,0 +1,162 @@
+{
+ "song_id": "salve-o-sol-eduardinho-violao",
+ "title": "Salve o sol",
+ "composer": "Eduardinho Violão",
+ "transposition": "c",
+ "meter": "2/4",
+ "form": "A — B — C",
+ "parts": [
+  {
+   "name": "A",
+   "tonic": "Am",
+   "bars": "1–15",
+   "sequence": [
+    [
+     "F",
+     "F/A"
+    ],
+    [],
+    [
+     "F"
+    ],
+    [],
+    [
+     "F",
+     "Dm"
+    ],
+    [],
+    [
+     "Am"
+    ],
+    [],
+    [
+     "F"
+    ],
+    [],
+    [
+     "F/A",
+     "F"
+    ],
+    [
+     "D/C"
+    ],
+    [
+     "Gm/Bb",
+     "Bbm"
+    ],
+    [
+     "F/C",
+     "F/A"
+    ],
+    [
+     "F",
+     "F/C",
+     "F"
+    ]
+   ]
+  },
+  {
+   "name": "B",
+   "tonic": "C",
+   "bars": "16–32",
+   "sequence": [
+    [],
+    [
+     "G/F"
+    ],
+    [
+     "C/E",
+     "C"
+    ],
+    [],
+    [
+     "A/G"
+    ],
+    [
+     "Dm/F"
+    ],
+    [
+     "C/G"
+    ],
+    [],
+    [],
+    [],
+    [
+     "C"
+    ],
+    [],
+    [
+     "A/G"
+    ],
+    [
+     "Dm/F"
+    ],
+    [
+     "C/G",
+     "C/E"
+    ],
+    [],
+    [
+     "C"
+    ]
+   ]
+  },
+  {
+   "name": "C",
+   "tonic": "C",
+   "bars": "33–53",
+   "sequence": [
+    [],
+    [
+     "F"
+    ],
+    [],
+    [],
+    [
+     "Bb"
+    ],
+    [],
+    [
+     "Gm",
+     "Gm/Bb"
+    ],
+    [],
+    [
+     "Bb"
+    ],
+    [],
+    [],
+    [],
+    [
+     "Bb"
+    ],
+    [],
+    [
+     "Gm",
+     "Gm/Bb"
+    ],
+    [],
+    [],
+    [],
+    [
+     "Bb"
+    ],
+    [],
+    [
+     "F",
+     "F/C",
+     "F"
+    ]
+   ]
+  }
+ ],
+ "notes": [
+  "Grille générée automatiquement depuis le texte du PDF : à vérifier.",
+  "Reprises et fins non détectées : les mesures sont dans l'ordre d'écriture."
+ ],
+ "confidence": "low",
+ "source": [
+  "pdf/Eduardinho Violão - Salve o sol - Theme - C.pdf"
+ ],
+ "generated": "pdf"
+}

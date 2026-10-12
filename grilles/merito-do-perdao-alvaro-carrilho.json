@@ -1,0 +1,195 @@
+{
+ "song_id": "merito-do-perdao-alvaro-carrilho",
+ "title": "Mérito do perdão",
+ "composer": "Álvaro Carrilho",
+ "transposition": "c",
+ "meter": "2/4",
+ "form": "A (reprise) — B (reprise) — D.C. — C (reprise) — D (reprise)",
+ "parts": [
+  {
+   "name": "A",
+   "tonic": "Am",
+   "bars": "1–16",
+   "repeat": true,
+   "sequence": [
+    [
+     "Am7"
+    ],
+    [
+     "F(9)/A"
+    ],
+    [
+     "Am7(9)"
+    ],
+    [],
+    [
+     "A7(b9)"
+    ],
+    [],
+    [
+     "Dm7"
+    ],
+    [],
+    [
+     "Dm6"
+    ],
+    [],
+    [
+     "Am6/C"
+    ],
+    [],
+    [
+     "B7(b9)"
+    ],
+    [],
+    [
+     "F7"
+    ],
+    [
+     "E7"
+    ]
+   ]
+  },
+  {
+   "name": "B",
+   "tonic": "Am",
+   "bars": "17–28",
+   "repeat": true,
+   "sequence": [
+    [
+     "Dm7"
+    ],
+    [
+     "Dm6"
+    ],
+    [
+     "Am7"
+    ],
+    [
+     "C7/G"
+    ],
+    [
+     "B7/F#"
+    ],
+    [
+     "E7"
+    ],
+    [],
+    [
+     "Am"
+    ],
+    []
+   ],
+   "endings": {
+    "1": [
+     [
+      "Am7",
+      "A7"
+     ],
+     []
+    ],
+    "2": [
+     [
+      "Am",
+      "F7",
+      "Bb7",
+      "E7"
+     ]
+    ]
+   }
+  },
+  {
+   "name": "C",
+   "tonic": "Dm",
+   "bars": "29–45",
+   "repeat": true,
+   "sequence": [
+    [
+     "Dm7"
+    ],
+    [],
+    [
+     "Cm6/Eb"
+    ],
+    [
+     "D7(b9)"
+    ],
+    [
+     "Gm7(9)/D"
+    ],
+    [],
+    [
+     "Gm6/D"
+    ],
+    [],
+    [
+     "Cm6"
+    ],
+    [],
+    [
+     "E7(b9)"
+    ],
+    [],
+    [
+     "Bb7"
+    ],
+    [
+     "A7"
+    ]
+   ],
+   "endings": {
+    "1": [
+     [
+      "Dm"
+     ],
+     [
+      "Gm6"
+     ]
+    ],
+    "2": [
+     [
+      "Gm"
+     ]
+    ]
+   }
+  },
+  {
+   "name": "D",
+   "tonic": "Dm",
+   "bars": "46–52",
+   "repeat": true,
+   "sequence": [
+    [
+     "Gm6"
+    ],
+    [
+     "D/F#"
+    ],
+    [
+     "F7",
+     "Cm6"
+    ],
+    [
+     "E7"
+    ],
+    [
+     "A7"
+    ],
+    [
+     "Am6"
+    ],
+    [
+     "Ab7(#11)"
+    ]
+   ]
+  }
+ ],
+ "notes": [
+  "Grille générée automatiquement depuis la partition MusicXML : à vérifier."
+ ],
+ "confidence": "medium",
+ "source": [
+  "mxl/C/Álvaro Carrilho - Mérito do perdão - Theme - C.mxl"
+ ],
+ "generated": "mxl"
+}

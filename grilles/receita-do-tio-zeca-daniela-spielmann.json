@@ -1,0 +1,116 @@
+{
+ "song_id": "receita-do-tio-zeca-daniela-spielmann",
+ "title": "Receita do Tio Zeca",
+ "composer": "Daniela Spielmann",
+ "transposition": "c",
+ "meter": "2/4",
+ "form": "A — B — Coda",
+ "parts": [
+  {
+   "name": "A",
+   "tonic": "Am",
+   "bars": "1–20",
+   "sequence": [
+    [
+     "Em7(b5)",
+     "A7(b9)"
+    ],
+    [
+     "Dm"
+    ],
+    [
+     "Dm6"
+    ],
+    [],
+    [],
+    [],
+    [],
+    [
+     "Bm7(b5)"
+    ],
+    [
+     "E7(#9)"
+    ],
+    [
+     "Am7(b5)"
+    ],
+    [
+     "D7(#9)"
+    ],
+    [
+     "Gm7(b5)"
+    ],
+    [
+     "C7(#9)"
+    ],
+    [],
+    [],
+    [],
+    [
+     "B/A"
+    ],
+    [
+     "G#m7"
+    ],
+    [],
+    [
+     "Gb7(#11)"
+    ]
+   ]
+  },
+  {
+   "name": "B",
+   "tonic": "C",
+   "bars": "21–32",
+   "sequence": [
+    [],
+    [],
+    [],
+    [],
+    [
+     "Ebm6"
+    ],
+    [
+     "D7"
+    ],
+    [],
+    [
+     "G7(b9)"
+    ],
+    [],
+    [
+     "Cm/Bb"
+    ],
+    [
+     "F7(b9)/A"
+    ],
+    [
+     "Abm6",
+     "G7(b9)"
+    ]
+   ]
+  },
+  {
+   "name": "Coda",
+   "tonic": "C",
+   "bars": "34–37",
+   "sequence": [
+    [],
+    [],
+    [],
+    [
+     "Gb7(#11)"
+    ]
+   ]
+  }
+ ],
+ "notes": [
+  "Grille générée automatiquement depuis le texte du PDF : à vérifier.",
+  "Reprises et fins non détectées : les mesures sont dans l'ordre d'écriture."
+ ],
+ "confidence": "low",
+ "source": [
+  "pdf/Daniela Spielmann - Receita do Tio Zeca - Theme - C.pdf"
+ ],
+ "generated": "pdf"
+}

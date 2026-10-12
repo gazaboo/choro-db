@@ -1,0 +1,290 @@
+{
+ "song_id": "musicos-e-poetas-sivuca",
+ "title": "Músicos e poetas",
+ "composer": "Sivuca",
+ "transposition": "c",
+ "meter": "2/4",
+ "form": "A (reprise) — B (reprise) — Coda",
+ "parts": [
+  {
+   "name": "A",
+   "tonic": "F",
+   "bars": "1–36",
+   "repeat": true,
+   "sequence": [
+    [
+     "F",
+     "Dm"
+    ],
+    [
+     "Gm",
+     "C7"
+    ],
+    [
+     "F"
+    ],
+    [
+     "Cm6",
+     "D7"
+    ],
+    [
+     "Gm"
+    ],
+    [
+     "Bm7b5",
+     "E7"
+    ],
+    [
+     "Am"
+    ],
+    [
+     "Gm",
+     "C7"
+    ],
+    [
+     "F",
+     "Dm"
+    ],
+    [
+     "G7",
+     "C7"
+    ],
+    [
+     "Fm"
+    ],
+    [
+     "Fm6",
+     "G7"
+    ],
+    [
+     "C"
+    ],
+    [
+     "Am"
+    ],
+    [
+     "Dm"
+    ],
+    [
+     "G7"
+    ],
+    [
+     "C7"
+    ],
+    [
+     "Gm",
+     "C7"
+    ],
+    [
+     "F"
+    ],
+    [
+     "Cm6",
+     "D7"
+    ],
+    [
+     "Gm"
+    ],
+    [
+     "Bm7b5",
+     "E7"
+    ],
+    [
+     "Am"
+    ],
+    [
+     "Gm",
+     "C7"
+    ],
+    [
+     "F"
+    ],
+    [
+     "F7"
+    ],
+    [
+     "Bb/D"
+    ],
+    [
+     "Eb/Db"
+    ],
+    [
+     "Ab/C"
+    ],
+    [
+     "Db/Cb"
+    ],
+    [
+     "F/C",
+     "Dm7"
+    ],
+    [
+     "G7",
+     "C7"
+    ],
+    [
+     "Bbm6",
+     "C7"
+    ]
+   ],
+   "endings": {
+    "1": [
+     [
+      "F"
+     ],
+     [
+      "Gm",
+      "C7"
+     ]
+    ],
+    "2": [
+     [
+      "F"
+     ]
+    ]
+   }
+  },
+  {
+   "name": "B",
+   "tonic": "Fm",
+   "bars": "37–X1",
+   "repeat": true,
+   "sequence": [
+    [
+     "Fm"
+    ],
+    [
+     "Fm/Eb"
+    ],
+    [
+     "Bbm/Db"
+    ],
+    [
+     "Bbm"
+    ],
+    [
+     "Gm7b5"
+    ],
+    [
+     "C7"
+    ],
+    [
+     "Fm"
+    ],
+    [
+     "C7/G"
+    ],
+    [
+     "Fm"
+    ],
+    [
+     "Fm6"
+    ],
+    [
+     "C/G"
+    ],
+    [
+     "Am7"
+    ],
+    [
+     "Dm"
+    ],
+    [
+     "G7"
+    ],
+    [
+     "C7"
+    ],
+    [],
+    [
+     "Fm"
+    ],
+    [
+     "Fm/Eb"
+    ],
+    [
+     "Bbm/Db"
+    ],
+    [
+     "Bbm"
+    ],
+    [
+     "Gm7b5"
+    ],
+    [
+     "C7"
+    ],
+    [
+     "Cm7b5"
+    ],
+    [
+     "F7"
+    ],
+    [
+     "Bbm"
+    ],
+    [
+     "Bbm6"
+    ],
+    [
+     "Fm"
+    ],
+    [
+     "Fm/Ab"
+    ],
+    [
+     "G7"
+    ],
+    [
+     "C7"
+    ],
+    [
+     "Gm7",
+     "C7"
+    ]
+   ],
+   "endings": {
+    "1": [
+     [
+      "F"
+     ],
+     [
+      "Gm7b5",
+      "C7"
+     ]
+    ],
+    "2": [
+     [
+      "F"
+     ]
+    ]
+   }
+  },
+  {
+   "name": "Coda",
+   "tonic": "F",
+   "bars": "71–74",
+   "repeat": false,
+   "sequence": [
+    [
+     "F"
+    ],
+    [
+     "Bbm6"
+    ],
+    [
+     "F"
+    ],
+    []
+   ]
+  }
+ ],
+ "notes": [
+  "Grille générée automatiquement depuis la partition MusicXML : à vérifier."
+ ],
+ "confidence": "medium",
+ "source": [
+  "mxl/C/Sivuca - Músicos e poetas - Theme - C.mxl"
+ ],
+ "generated": "mxl"
+}

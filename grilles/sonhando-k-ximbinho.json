@@ -1,0 +1,175 @@
+{
+ "song_id": "sonhando-k-ximbinho",
+ "title": "Sonhando",
+ "composer": "K-Ximbinho",
+ "transposition": "c",
+ "meter": "2/4",
+ "form": "A — B — C",
+ "parts": [
+  {
+   "name": "A",
+   "tonic": "Am",
+   "bars": "1–14",
+   "sequence": [
+    [
+     "Em",
+     "Em/D"
+    ],
+    [
+     "Am/C"
+    ],
+    [
+     "B7"
+    ],
+    [
+     "Em",
+     "B7"
+    ],
+    [
+     "Em"
+    ],
+    [
+     "Bm/D",
+     "Bm"
+    ],
+    [],
+    [
+     "B7"
+    ],
+    [
+     "Em",
+     "Em/D"
+    ],
+    [
+     "Am/C"
+    ],
+    [
+     "B7"
+    ],
+    [
+     "E7"
+    ],
+    [
+     "Am"
+    ],
+    [
+     "Em",
+     "Em/D"
+    ]
+   ]
+  },
+  {
+   "name": "B",
+   "tonic": "Am",
+   "bars": "16–32",
+   "sequence": [
+    [
+     "Em",
+     "B7"
+    ],
+    [
+     "Em"
+    ],
+    [],
+    [],
+    [
+     "Am"
+    ],
+    [],
+    [
+     "G"
+    ],
+    [],
+    [
+     "Em"
+    ],
+    [],
+    [
+     "B7"
+    ],
+    [
+     "E7"
+    ],
+    [
+     "Am"
+    ],
+    [
+     "D7"
+    ],
+    [
+     "G"
+    ],
+    [
+     "B7"
+    ],
+    [
+     "Em",
+     "Em/D"
+    ]
+   ]
+  },
+  {
+   "name": "C",
+   "tonic": "C",
+   "bars": "34–54",
+   "sequence": [
+    [
+     "Em"
+    ],
+    [
+     "Em",
+     "B7"
+    ],
+    [
+     "Em",
+     "B7"
+    ],
+    [],
+    [
+     "A6"
+    ],
+    [],
+    [
+     "A6"
+    ],
+    [
+     "E/G#"
+    ],
+    [],
+    [],
+    [
+     "B7(9)"
+    ],
+    [
+     "E7"
+    ],
+    [
+     "A6"
+    ],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [
+     "A6",
+     "E7",
+     "G"
+    ],
+    [],
+    [
+     "Gm"
+    ]
+   ]
+  }
+ ],
+ "notes": [
+  "Grille générée automatiquement depuis le texte du PDF : à vérifier.",
+  "Reprises et fins non détectées : les mesures sont dans l'ordre d'écriture."
+ ],
+ "confidence": "low",
+ "source": [
+  "pdf/K-Ximbinho - Sonhando - Theme - C - variant 1.pdf"
+ ],
+ "generated": "pdf"
+}

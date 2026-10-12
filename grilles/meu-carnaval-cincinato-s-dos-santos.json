@@ -1,0 +1,178 @@
+{
+ "song_id": "meu-carnaval-cincinato-s-dos-santos",
+ "title": "Meu carnaval",
+ "composer": "Cincinato S. dos Santos",
+ "transposition": "c",
+ "meter": "2/4",
+ "form": "A (reprise) — B (reprise) — Coda",
+ "parts": [
+  {
+   "name": "A",
+   "tonic": "G",
+   "bars": "0–17",
+   "repeat": true,
+   "sequence": [
+    [
+     "G",
+     "Em"
+    ],
+    [
+     "Am",
+     "A7"
+    ],
+    [
+     "D7"
+    ],
+    [
+     "G",
+     "D7"
+    ],
+    [
+     "G",
+     "Gm6"
+    ],
+    [
+     "D/F#"
+    ],
+    [
+     "A7"
+    ],
+    [
+     "D7"
+    ],
+    [
+     "G",
+     "Em"
+    ],
+    [
+     "Am",
+     "A7"
+    ],
+    [
+     "D7",
+     "B7"
+    ],
+    [
+     "E7"
+    ],
+    [
+     "Am",
+     "Cm"
+    ],
+    [
+     "G",
+     "E7"
+    ],
+    [
+     "Am",
+     "D7"
+    ]
+   ],
+   "endings": {
+    "1": [
+     [
+      "G"
+     ]
+    ],
+    "2": [
+     [
+      "G"
+     ]
+    ]
+   }
+  },
+  {
+   "name": "B",
+   "tonic": "Em",
+   "bars": "18–35",
+   "repeat": true,
+   "sequence": [
+    [
+     "B7"
+    ],
+    [
+     "Em",
+     "E7"
+    ],
+    [
+     "Am",
+     "E7"
+    ],
+    [
+     "Am"
+    ],
+    [
+     "Am6"
+    ],
+    [
+     "Em"
+    ],
+    [
+     "Edim"
+    ],
+    [
+     "D#dim"
+    ],
+    [
+     "B7"
+    ],
+    [
+     "Em",
+     "E7"
+    ],
+    [
+     "Am",
+     "E7"
+    ],
+    [
+     "Am"
+    ],
+    [
+     "Am6"
+    ],
+    [
+     "Em"
+    ],
+    [
+     "F#7",
+     "B7"
+    ],
+    []
+   ],
+   "endings": {
+    "1": [
+     [
+      "Em"
+     ]
+    ],
+    "2": [
+     [
+      "Em"
+     ]
+    ]
+   }
+  },
+  {
+   "name": "Coda",
+   "tonic": "G",
+   "bars": "36–37",
+   "repeat": false,
+   "sequence": [
+    [
+     "G"
+    ],
+    [
+     "Gmaj7"
+    ]
+   ]
+  }
+ ],
+ "notes": [
+  "Grille générée automatiquement depuis la partition MusicXML : à vérifier."
+ ],
+ "confidence": "medium",
+ "source": [
+  "mxl/C/Cincinato S. dos Santos - Meu carnaval - Theme - C.mxl"
+ ],
+ "generated": "mxl"
+}

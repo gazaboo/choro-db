@@ -1,0 +1,187 @@
+{
+ "song_id": "de-frente-pra-baia-jayme-vignoli",
+ "title": "De frente prá Baía",
+ "composer": "Jayme Vignoli",
+ "transposition": "c",
+ "meter": "3/4",
+ "form": "A — B — B — C — D — Coda",
+ "parts": [
+  {
+   "name": "A",
+   "tonic": "D",
+   "bars": "1–6",
+   "repeat": false,
+   "sequence": [
+    [
+     "Em6/G"
+    ],
+    [],
+    [
+     "G#m7b5"
+    ],
+    [
+     "Gm6"
+    ],
+    [],
+    [
+     "A7(b13,b9,#11)"
+    ]
+   ]
+  },
+  {
+   "name": "B",
+   "tonic": "D",
+   "bars": "7–23",
+   "repeat": false,
+   "sequence": [
+    [
+     "Dmaj7"
+    ],
+    [
+     "G(9)/D"
+    ],
+    [
+     "D6"
+    ],
+    [
+     "G(9)/D"
+    ],
+    [
+     "Dmaj7"
+    ],
+    [
+     "G(9)/D"
+    ],
+    [
+     "D6"
+    ],
+    [
+     "A/D#"
+    ],
+    [
+     "C/E"
+    ],
+    [
+     "Cm6/Eb"
+    ],
+    [
+     "Em"
+    ],
+    [
+     "Em/D"
+    ],
+    [
+     "C#m7b5"
+    ],
+    [
+     "C7(#11)"
+    ],
+    [
+     "Bm7(11)"
+    ],
+    [
+     "Em7(11)"
+    ],
+    [
+     "C7(#11)"
+    ]
+   ]
+  },
+  {
+   "name": "C",
+   "tonic": "D",
+   "bars": "40–43",
+   "repeat": false,
+   "sequence": [
+    [],
+    [
+     "F#7(b5)"
+    ],
+    [
+     "G7(b9,13)"
+    ],
+    []
+   ]
+  },
+  {
+   "name": "D",
+   "tonic": "Cm",
+   "bars": "44–X1",
+   "repeat": false,
+   "sequence": [
+    [
+     "Cm/G"
+    ],
+    [
+     "D/G"
+    ],
+    [
+     "Cm/G"
+    ],
+    [
+     "D/G"
+    ],
+    [],
+    [
+     "Gb7"
+    ],
+    [
+     "Gbmaj7(9)"
+    ],
+    [
+     "Bb/F"
+    ],
+    [
+     "Bb/E"
+    ],
+    [
+     "Ebmaj7"
+    ],
+    [
+     "F/Eb"
+    ],
+    [
+     "Bb6/D"
+    ],
+    [],
+    [],
+    [
+     "E7(#9)/B"
+    ],
+    [
+     "Eb6(9)/Bb"
+    ],
+    [
+     "A7(#9,13)"
+    ]
+   ]
+  },
+  {
+   "name": "Coda",
+   "tonic": "Bm",
+   "bars": "61–65",
+   "repeat": false,
+   "sequence": [
+    [],
+    [
+     "F#7(b5)"
+    ],
+    [
+     "Bm6(9)"
+    ],
+    [],
+    []
+   ]
+  }
+ ],
+ "notes": [
+  "Grille générée automatiquement depuis la partition MusicXML : à vérifier.",
+  "C : première mesure sans accord",
+  "Coda : première mesure sans accord"
+ ],
+ "confidence": "medium",
+ "source": [
+  "mxl/C/Jayme Vignoli - De frente prá Baía - Theme - C.mxl"
+ ],
+ "generated": "mxl"
+}

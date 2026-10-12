@@ -1,0 +1,293 @@
+{
+ "song_id": "rosa-pixinguinha",
+ "title": "Rosa",
+ "composer": "Pixinguinha",
+ "transposition": "c",
+ "meter": "2/4",
+ "form": "A — B — C",
+ "parts": [
+  {
+   "name": "A",
+   "tonic": "C",
+   "bars": "1–31",
+   "sequence": [
+    [
+     "F"
+    ],
+    [],
+    [
+     "C7/E"
+    ],
+    [
+     "C7"
+    ],
+    [
+     "F/A"
+    ],
+    [],
+    [
+     "C7/G"
+    ],
+    [],
+    [
+     "A7/C#"
+    ],
+    [
+     "A7"
+    ],
+    [
+     "Dm"
+    ],
+    [
+     "D7/C"
+    ],
+    [
+     "Gm/Bb"
+    ],
+    [
+     "Gm"
+    ],
+    [
+     "C7"
+    ],
+    [],
+    [
+     "F"
+    ],
+    [],
+    [
+     "C7/G"
+    ],
+    [
+     "C7"
+    ],
+    [
+     "F7"
+    ],
+    [
+     "F7/Eb"
+    ],
+    [
+     "Bb/D"
+    ],
+    [],
+    [
+     "Bbm"
+    ],
+    [],
+    [
+     "F"
+    ],
+    [
+     "D7/F#"
+    ],
+    [
+     "Gm"
+    ],
+    [
+     "C7"
+    ],
+    [
+     "F"
+    ]
+   ]
+  },
+  {
+   "name": "B",
+   "tonic": "C",
+   "bars": "32–64",
+   "sequence": [
+    [],
+    [],
+    [
+     "Dm"
+    ],
+    [
+     "Dm/C"
+    ],
+    [
+     "Gm/Bb"
+    ],
+    [
+     "Gm"
+    ],
+    [
+     "A7/E"
+    ],
+    [
+     "A7"
+    ],
+    [
+     "Dm"
+    ],
+    [],
+    [
+     "D7/F#"
+    ],
+    [],
+    [
+     "Gm"
+    ],
+    [],
+    [
+     "E7"
+    ],
+    [],
+    [
+     "A7"
+    ],
+    [],
+    [
+     "Dm"
+    ],
+    [
+     "Dm/C"
+    ],
+    [
+     "Gm/Bb"
+    ],
+    [
+     "Gm"
+    ],
+    [
+     "C7"
+    ],
+    [],
+    [],
+    [],
+    [
+     "Gm"
+    ],
+    [],
+    [
+     "Dm/F"
+    ],
+    [
+     "Dm"
+    ],
+    [
+     "Gm/Bb"
+    ],
+    [
+     "A7/C#"
+    ],
+    [
+     "Dm"
+    ]
+   ]
+  },
+  {
+   "name": "C",
+   "tonic": "C",
+   "bars": "65–99",
+   "sequence": [
+    [],
+    [],
+    [
+     "F7"
+    ],
+    [],
+    [
+     "Bb"
+    ],
+    [
+     "G7"
+    ],
+    [
+     "Cm"
+    ],
+    [
+     "F7",
+     "Gb"
+    ],
+    [
+     "Bb"
+    ],
+    [
+     "G7"
+    ],
+    [
+     "Cm"
+    ],
+    [
+     "F7",
+     "Gb"
+    ],
+    [
+     "D7/F#"
+    ],
+    [
+     "D7/A"
+    ],
+    [
+     "Gm"
+    ],
+    [],
+    [
+     "A7/E"
+    ],
+    [
+     "A7/C#"
+    ],
+    [
+     "F7"
+    ],
+    [],
+    [
+     "G7"
+    ],
+    [
+     "G7/B"
+    ],
+    [
+     "Cm"
+    ],
+    [
+     "Cm/Bb"
+    ],
+    [
+     "F7/A"
+    ],
+    [
+     "F7"
+    ],
+    [
+     "Bb/D"
+    ],
+    [
+     "Bb"
+    ],
+    [
+     "Gb"
+    ],
+    [
+     "Gb/Db"
+    ],
+    [
+     "Bb/D"
+    ],
+    [
+     "Gm"
+    ],
+    [
+     "Cm"
+    ],
+    [
+     "F7"
+    ],
+    [
+     "Bb"
+    ]
+   ]
+  }
+ ],
+ "notes": [
+  "Grille générée automatiquement depuis le texte du PDF : à vérifier.",
+  "Reprises et fins non détectées : les mesures sont dans l'ordre d'écriture."
+ ],
+ "confidence": "low",
+ "source": [
+  "pdf/Pixinguinha - Rosa - Theme - C - variant 1.pdf"
+ ],
+ "generated": "pdf"
+}

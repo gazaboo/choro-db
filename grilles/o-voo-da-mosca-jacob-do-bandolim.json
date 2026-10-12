@@ -1,0 +1,368 @@
+{
+ "song_id": "o-voo-da-mosca-jacob-do-bandolim",
+ "title": "O Vôo da Mosca",
+ "composer": "Jacob do Bandolim",
+ "transposition": "c",
+ "meter": "3/4",
+ "form": "A (reprise) — B (reprise) — C (reprise) — Coda",
+ "parts": [
+  {
+   "name": "A",
+   "tonic": "G",
+   "bars": "0–33",
+   "repeat": true,
+   "sequence": [
+    [
+     "A7"
+    ],
+    [
+     "Ab7"
+    ],
+    [
+     "G6"
+    ],
+    [
+     "Em7"
+    ],
+    [
+     "A7"
+    ],
+    [
+     "Ab7"
+    ],
+    [
+     "G6"
+    ],
+    [
+     "E7"
+    ],
+    [
+     "Am"
+    ],
+    [
+     "Cm6"
+    ],
+    [
+     "G/B"
+    ],
+    [
+     "Em7"
+    ],
+    [
+     "A7"
+    ],
+    [
+     "A/G"
+    ],
+    [
+     "D7/F#"
+    ],
+    [
+     "D7"
+    ],
+    [
+     "A7"
+    ],
+    [
+     "Ab7"
+    ],
+    [
+     "G6"
+    ],
+    [
+     "Em7"
+    ],
+    [
+     "A7"
+    ],
+    [
+     "Ab7"
+    ],
+    [
+     "G6"
+    ],
+    [
+     "E7"
+    ],
+    [
+     "Am"
+    ],
+    [
+     "B7"
+    ],
+    [
+     "Em7"
+    ],
+    [
+     "Cm6"
+    ],
+    [
+     "G/B"
+    ],
+    [
+     "D7/A"
+    ],
+    [
+     "G"
+    ]
+   ],
+   "endings": {
+    "1": [
+     [
+      "G"
+     ]
+    ],
+    "2": [
+     [
+      "G"
+     ]
+    ]
+   }
+  },
+  {
+   "name": "B",
+   "tonic": "Em",
+   "bars": "34–67",
+   "repeat": true,
+   "sequence": [
+    [
+     "Em"
+    ],
+    [
+     "E/D"
+    ],
+    [
+     "Am"
+    ],
+    [
+     "Bbdim"
+    ],
+    [
+     "B7"
+    ],
+    [
+     "B/A"
+    ],
+    [
+     "Em/G"
+    ],
+    [
+     "B7/F#"
+    ],
+    [
+     "Em"
+    ],
+    [
+     "C#m7b5"
+    ],
+    [
+     "Bm"
+    ],
+    [
+     "Bm/A"
+    ],
+    [
+     "G#dim"
+    ],
+    [
+     "Gdim"
+    ],
+    [
+     "F#dim"
+    ],
+    [
+     "B7"
+    ],
+    [
+     "Em"
+    ],
+    [
+     "E/D"
+    ],
+    [
+     "Am/C"
+    ],
+    [
+     "Bbdim"
+    ],
+    [
+     "B7"
+    ],
+    [
+     "B/A"
+    ],
+    [
+     "Em/G"
+    ],
+    [
+     "E7/G#"
+    ],
+    [
+     "Am"
+    ],
+    [
+     "D7"
+    ],
+    [
+     "G"
+    ],
+    [
+     "C7"
+    ],
+    [
+     "F"
+    ],
+    [
+     "B7"
+    ],
+    [
+     "Em"
+    ],
+    [
+     "G"
+    ]
+   ],
+   "endings": {
+    "1": [
+     [
+      "Em"
+     ]
+    ],
+    "2": [
+     [
+      "Em"
+     ]
+    ]
+   }
+  },
+  {
+   "name": "C",
+   "tonic": "C",
+   "bars": "68–101",
+   "repeat": true,
+   "sequence": [
+    [
+     "C"
+    ],
+    [
+     "E7"
+    ],
+    [
+     "Am"
+    ],
+    [
+     "C7/G"
+    ],
+    [
+     "F6"
+    ],
+    [
+     "A7/E"
+    ],
+    [
+     "Dm"
+    ],
+    [],
+    [
+     "Dm/F"
+    ],
+    [
+     "Fm6"
+    ],
+    [
+     "C/E"
+    ],
+    [
+     "Am7"
+    ],
+    [
+     "G/B"
+    ],
+    [
+     "D7/A"
+    ],
+    [
+     "G7"
+    ],
+    [
+     "G7/B"
+    ],
+    [
+     "C"
+    ],
+    [
+     "E7"
+    ],
+    [
+     "Am"
+    ],
+    [
+     "C7/G"
+    ],
+    [
+     "F6"
+    ],
+    [
+     "A7/E"
+    ],
+    [
+     "Dm"
+    ],
+    [],
+    [
+     "Dm/F"
+    ],
+    [
+     "Fm6"
+    ],
+    [
+     "C/E"
+    ],
+    [
+     "Ebdim"
+    ],
+    [
+     "Dm"
+    ],
+    [
+     "G7"
+    ],
+    [
+     "C"
+    ],
+    []
+   ],
+   "endings": {
+    "1": [
+     [
+      "C"
+     ]
+    ],
+    "2": [
+     [
+      "C"
+     ]
+    ]
+   }
+  },
+  {
+   "name": "Coda",
+   "tonic": "G",
+   "bars": "102–102",
+   "repeat": false,
+   "sequence": [
+    [
+     "G"
+    ]
+   ]
+  }
+ ],
+ "notes": [
+  "Grille générée automatiquement depuis la partition MusicXML : à vérifier."
+ ],
+ "confidence": "medium",
+ "source": [
+  "mxl/C/Jacob do Bandolim - O Vôo da Mosca - Theme - C.mxl"
+ ],
+ "generated": "mxl"
+}

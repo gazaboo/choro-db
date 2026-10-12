@@ -1,0 +1,273 @@
+{
+ "song_id": "chimarrao-luis-barcelos",
+ "title": "Chimarrão",
+ "composer": "Luis Barcelos",
+ "transposition": "c",
+ "meter": "2/4",
+ "form": "A (reprise) — B (reprise) — C (reprise) — Coda",
+ "parts": [
+  {
+   "name": "A",
+   "tonic": "Dm",
+   "bars": "1–17",
+   "repeat": true,
+   "sequence": [
+    [
+     "F",
+     "D7/F#"
+    ],
+    [
+     "G7"
+    ],
+    [
+     "C7"
+    ],
+    [
+     "F/A",
+     "C7(#5)"
+    ],
+    [
+     "F",
+     "F#dim"
+    ],
+    [
+     "C/G",
+     "Am"
+    ],
+    [
+     "D7/F#",
+     "G7"
+    ],
+    [
+     "Gm",
+     "C7"
+    ],
+    [
+     "F",
+     "D7/F#"
+    ],
+    [
+     "G7"
+    ],
+    [
+     "A7"
+    ],
+    [
+     "D7"
+    ],
+    [
+     "Gm",
+     "Bbm6"
+    ],
+    [
+     "F/A",
+     "D7"
+    ],
+    [
+     "Gm",
+     "G7",
+     "C7"
+    ]
+   ],
+   "endings": {
+    "1": [
+     [
+      "F"
+     ]
+    ],
+    "2": [
+     [
+      "F",
+      "A7"
+     ]
+    ]
+   }
+  },
+  {
+   "name": "B",
+   "tonic": "F",
+   "bars": "18–35",
+   "repeat": true,
+   "sequence": [
+    [
+     "Dm",
+     "D7"
+    ],
+    [
+     "Gm",
+     "G7"
+    ],
+    [
+     "C7"
+    ],
+    [
+     "F/A",
+     "A7/C#"
+    ],
+    [
+     "Dm",
+     "Bm7b5"
+    ],
+    [
+     "A/C#",
+     "F#7"
+    ],
+    [
+     "Bm7",
+     "E7"
+    ],
+    [
+     "Bbdim",
+     "A7"
+    ],
+    [
+     "Dm",
+     "D7"
+    ],
+    [
+     "Gm",
+     "G7"
+    ],
+    [
+     "C7",
+     "Bb7"
+    ],
+    [
+     "A7"
+    ],
+    [
+     "Ebdim",
+     "D7"
+    ],
+    [
+     "Gm",
+     "Eb"
+    ],
+    [
+     "D",
+     "E7/B",
+     "A7/C#"
+    ],
+    [
+     "F",
+     "F7"
+    ]
+   ],
+   "endings": {
+    "1": [
+     [
+      "Dm",
+      "A7"
+     ]
+    ],
+    "2": [
+     [
+      "Dm",
+      "Db7",
+      "Gm",
+      "C7"
+     ]
+    ]
+   }
+  },
+  {
+   "name": "C",
+   "tonic": "Bb",
+   "bars": "36–53",
+   "repeat": true,
+   "sequence": [
+    [
+     "Bb"
+    ],
+    [
+     "Ebm6/Gb"
+    ],
+    [
+     "C7/G",
+     "F7/A"
+    ],
+    [
+     "Bb",
+     "F7(#5)"
+    ],
+    [
+     "Bb",
+     "C7"
+    ],
+    [
+     "F/A",
+     "Dm"
+    ],
+    [
+     "Gm",
+     "C7"
+    ],
+    [
+     "Cm",
+     "F7"
+    ],
+    [
+     "Bb"
+    ],
+    [
+     "Ebm6"
+    ],
+    [
+     "D7",
+     "G7(b9)"
+    ],
+    [
+     "Cm"
+    ],
+    [
+     "Em7b5",
+     "A7"
+    ],
+    [
+     "Dm7b5",
+     "G7"
+    ],
+    [
+     "Ebm6/Gb",
+     "C7/G",
+     "F7/A"
+    ],
+    []
+   ],
+   "endings": {
+    "1": [
+     [
+      "Bb"
+     ]
+    ],
+    "2": [
+     [
+      "Bb",
+      "Db7",
+      "Gm",
+      "C7"
+     ]
+    ]
+   }
+  },
+  {
+   "name": "Coda",
+   "tonic": "F",
+   "bars": "54–54",
+   "repeat": false,
+   "sequence": [
+    [
+     "F"
+    ]
+   ]
+  }
+ ],
+ "notes": [
+  "Grille générée automatiquement depuis la partition MusicXML : à vérifier."
+ ],
+ "confidence": "medium",
+ "source": [
+  "mxl/C/Luis Barcelos - Chimarrão - Theme - C.mxl"
+ ],
+ "generated": "mxl"
+}

@@ -1,0 +1,205 @@
+{
+ "song_id": "gaucho-chiquinha-gonzaga",
+ "title": "Gaucho",
+ "composer": "Chiquinha Gonzaga",
+ "transposition": "c",
+ "meter": "2/4",
+ "form": "A — B (reprise) — C (reprise)",
+ "parts": [
+  {
+   "name": "A",
+   "tonic": "Dm",
+   "bars": "1–24",
+   "repeat": false,
+   "sequence": [
+    [
+     "Dm",
+     "Dm/F"
+    ],
+    [
+     "A7/E",
+     "A7"
+    ],
+    [
+     "Dm",
+     "Dm/F"
+    ],
+    [
+     "A7/E",
+     "A7"
+    ],
+    [
+     "Dm",
+     "Dm/F"
+    ],
+    [
+     "A7/E",
+     "A7"
+    ],
+    [
+     "Dm",
+     "Dm/F"
+    ],
+    [
+     "A7/E",
+     "A7"
+    ],
+    [
+     "Dm",
+     "Dm/F"
+    ],
+    [
+     "A7/E",
+     "A7"
+    ],
+    [
+     "Dm",
+     "Dm/F"
+    ],
+    [
+     "A7/E",
+     "A7"
+    ],
+    [
+     "D7"
+    ],
+    [
+     "Gm",
+     "Gm/Bb"
+    ],
+    [
+     "A7"
+    ],
+    [
+     "Dm"
+    ],
+    [
+     "D7"
+    ],
+    [
+     "Gm",
+     "Gm/Bb"
+    ],
+    [
+     "A7"
+    ],
+    [
+     "Dm",
+     "Dm/F"
+    ],
+    [
+     "A7/E",
+     "A7"
+    ],
+    [
+     "Dm",
+     "Dm/F"
+    ],
+    [
+     "A7/E",
+     "A7"
+    ],
+    [
+     "Dm"
+    ]
+   ]
+  },
+  {
+   "name": "B",
+   "tonic": "F",
+   "bars": "25–41",
+   "repeat": true,
+   "sequence": [
+    [
+     "C7/E"
+    ],
+    [
+     "C7/E",
+     "C7"
+    ],
+    [
+     "F"
+    ],
+    [],
+    [
+     "C7/E"
+    ],
+    [],
+    [
+     "F/C",
+     "F"
+    ],
+    [
+     "F"
+    ],
+    [
+     "C7/E",
+     "C7"
+    ],
+    [],
+    [
+     "F"
+    ],
+    []
+   ],
+   "endings": {
+    "1": [
+     [
+      "Dm",
+      "Dm/F"
+     ],
+     [
+      "Dm"
+     ],
+     [
+      "A7"
+     ],
+     [
+      "A7"
+     ]
+    ],
+    "2": [
+     [
+      "Gm/D",
+      "Gm"
+     ]
+    ]
+   }
+  },
+  {
+   "name": "C",
+   "tonic": "Dm",
+   "bars": "42–47",
+   "repeat": true,
+   "sequence": [
+    [
+     "C7",
+     "C7/E"
+    ],
+    [
+     "F"
+    ],
+    [
+     "A7"
+    ],
+    [],
+    [
+     "Dm",
+     "Dm/F"
+    ],
+    [
+     "A7/E",
+     "A7"
+    ]
+   ]
+  }
+ ],
+ "notes": [
+  "Grille générée automatiquement depuis la partition MusicXML : à vérifier."
+ ],
+ "confidence": "medium",
+ "source": [
+  "mxl/C/Chiquinha Gonzaga - Gaucho - Theme - C.mxl"
+ ],
+ "generated": "mxl"
+}

@@ -1,0 +1,182 @@
+{
+ "song_id": "rato-rato-casimiro-rocha",
+ "title": "Rato rato",
+ "composer": "Casimiro Rocha",
+ "transposition": "c",
+ "meter": "2/4",
+ "form": "A — B — C — Coda",
+ "parts": [
+  {
+   "name": "A",
+   "tonic": "Am",
+   "bars": "1–15",
+   "sequence": [
+    [
+     "G"
+    ],
+    [
+     "G/B"
+    ],
+    [
+     "G",
+     "G/B"
+    ],
+    [
+     "Am"
+    ],
+    [
+     "Am",
+     "Am/G"
+    ],
+    [],
+    [],
+    [
+     "G/B"
+    ],
+    [
+     "G"
+    ],
+    [
+     "G/B"
+    ],
+    [],
+    [
+     "C/E"
+    ],
+    [
+     "C"
+    ],
+    [
+     "G/D"
+    ],
+    [
+     "Am"
+    ]
+   ]
+  },
+  {
+   "name": "B",
+   "tonic": "Am",
+   "bars": "16–33",
+   "sequence": [
+    [
+     "G"
+    ],
+    [],
+    [
+     "G"
+    ],
+    [],
+    [
+     "G/B"
+    ],
+    [
+     "Am"
+    ],
+    [],
+    [
+     "Am/C"
+    ],
+    [
+     "D4",
+     "D/C"
+    ],
+    [
+     "G6/B"
+    ],
+    [
+     "G"
+    ],
+    [],
+    [],
+    [
+     "C6"
+    ],
+    [
+     "C"
+    ],
+    [],
+    [
+     "Am"
+    ],
+    [
+     "G"
+    ]
+   ]
+  },
+  {
+   "name": "C",
+   "tonic": "C",
+   "bars": "34–49",
+   "sequence": [
+    [
+     "G"
+    ],
+    [],
+    [
+     "C"
+    ],
+    [],
+    [],
+    [
+     "Dm"
+    ],
+    [],
+    [],
+    [],
+    [
+     "C"
+    ],
+    [
+     "C"
+    ],
+    [
+     "C6",
+     "Gm6/Bb"
+    ],
+    [],
+    [
+     "Dm"
+    ],
+    [
+     "F"
+    ],
+    [
+     "C/G",
+     "C/E"
+    ]
+   ]
+  },
+  {
+   "name": "Coda",
+   "tonic": "C",
+   "bars": "51–54",
+   "sequence": [
+    [
+     "C"
+    ],
+    [
+     "C"
+    ],
+    [],
+    [
+     "G",
+     "Am",
+     "Bm",
+     "C",
+     "G/D",
+     "G"
+    ]
+   ]
+  }
+ ],
+ "notes": [
+  "Grille générée automatiquement depuis le texte du PDF : à vérifier.",
+  "Reprises et fins non détectées : les mesures sont dans l'ordre d'écriture."
+ ],
+ "confidence": "low",
+ "source": [
+  "pdf/Casimiro Rocha - Rato rato - Theme - C - variant 1.pdf"
+ ],
+ "generated": "pdf"
+}

@@ -1,0 +1,183 @@
+{
+ "song_id": "quebrando-galho-jacob-do-bandolim",
+ "title": "Quebrando Galho",
+ "composer": "Jacob do Bandolim",
+ "transposition": "c",
+ "meter": "2/4",
+ "form": "A — B — C",
+ "parts": [
+  {
+   "name": "A",
+   "tonic": "C",
+   "bars": "1–15",
+   "sequence": [
+    [
+     "Cm"
+    ],
+    [
+     "Fm/Ab"
+    ],
+    [
+     "G7"
+    ],
+    [
+     "Cm",
+     "G7"
+    ],
+    [
+     "Cm",
+     "Am7(b5)"
+    ],
+    [
+     "Gm/Bb",
+     "Gm"
+    ],
+    [
+     "D7/A",
+     "D7/F#"
+    ],
+    [
+     "G7"
+    ],
+    [
+     "Cm",
+     "Cm/Bb"
+    ],
+    [
+     "Fm/Ab"
+    ],
+    [
+     "G7"
+    ],
+    [],
+    [
+     "C7",
+     "C/Bb"
+    ],
+    [
+     "Fm/Ab",
+     "Fm"
+    ],
+    [
+     "Cm/Eb",
+     "G7/D"
+    ]
+   ]
+  },
+  {
+   "name": "B",
+   "tonic": "C",
+   "bars": "16–32",
+   "sequence": [
+    [
+     "Cm",
+     "G7"
+    ],
+    [
+     "Cm"
+    ],
+    [
+     "Bb7"
+    ],
+    [],
+    [
+     "Bb7"
+    ],
+    [],
+    [
+     "Bb7"
+    ],
+    [
+     "Cm6"
+    ],
+    [
+     "D7/A"
+    ],
+    [],
+    [],
+    [
+     "F7"
+    ],
+    [
+     "Bb7"
+    ],
+    [
+     "Eb"
+    ],
+    [],
+    [
+     "C7"
+    ],
+    [
+     "F7",
+     "Bb7"
+    ]
+   ]
+  },
+  {
+   "name": "C",
+   "tonic": "C",
+   "bars": "33–51",
+   "sequence": [
+    [
+     "Eb"
+    ],
+    [
+     "Eb",
+     "G7"
+    ],
+    [
+     "Cm"
+    ],
+    [],
+    [],
+    [
+     "D7/F#"
+    ],
+    [
+     "G7"
+    ],
+    [
+     "C"
+    ],
+    [
+     "Am"
+    ],
+    [],
+    [
+     "B7"
+    ],
+    [
+     "Em",
+     "G7"
+    ],
+    [],
+    [
+     "D7/F#"
+    ],
+    [
+     "E7/G#"
+    ],
+    [],
+    [
+     "Dm/F"
+    ],
+    [
+     "C/E"
+    ],
+    [
+     "G7/D"
+    ]
+   ]
+  }
+ ],
+ "notes": [
+  "Grille générée automatiquement depuis le texte du PDF : à vérifier.",
+  "Reprises et fins non détectées : les mesures sont dans l'ordre d'écriture."
+ ],
+ "confidence": "low",
+ "source": [
+  "pdf/Jacob do Bandolim - Quebrando Galho - Theme - C.pdf"
+ ],
+ "generated": "pdf"
+}

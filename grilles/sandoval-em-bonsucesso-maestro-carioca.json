@@ -1,0 +1,180 @@
+{
+ "song_id": "sandoval-em-bonsucesso-maestro-carioca",
+ "title": "Sandoval em Bonsucesso",
+ "composer": "Maestro Carioca",
+ "transposition": "c",
+ "meter": "2/4",
+ "form": "A — B — C",
+ "parts": [
+  {
+   "name": "A",
+   "tonic": "C",
+   "bars": "1–15",
+   "sequence": [
+    [
+     "Gm"
+    ],
+    [
+     "Cm6/Eb"
+    ],
+    [
+     "Gm"
+    ],
+    [
+     "Cm6/Eb"
+    ],
+    [],
+    [
+     "Bb7"
+    ],
+    [
+     "Eb7"
+    ],
+    [
+     "D7"
+    ],
+    [
+     "Gm"
+    ],
+    [
+     "Cm6/Eb"
+    ],
+    [
+     "Gm"
+    ],
+    [
+     "Cm6/Eb",
+     "G7/B"
+    ],
+    [],
+    [
+     "Bb7",
+     "Eb7"
+    ],
+    [
+     "A7",
+     "D7"
+    ]
+   ]
+  },
+  {
+   "name": "B",
+   "tonic": "C",
+   "bars": "16–31",
+   "sequence": [
+    [
+     "Gm"
+    ],
+    [
+     "D7"
+    ],
+    [
+     "Ab7"
+    ],
+    [
+     "G6"
+    ],
+    [
+     "Gm",
+     "Gm/F",
+     "A7(b9)"
+    ],
+    [
+     "Cm6/Eb",
+     "D7"
+    ],
+    [
+     "Gm6"
+    ],
+    [
+     "D6"
+    ],
+    [],
+    [],
+    [],
+    [],
+    [
+     "Ab7"
+    ],
+    [
+     "G7"
+    ],
+    [],
+    [
+     "Gm/D"
+    ]
+   ]
+  },
+  {
+   "name": "C",
+   "tonic": "C",
+   "bars": "34–53",
+   "sequence": [
+    [
+     "Gm"
+    ],
+    [],
+    [
+     "Em"
+    ],
+    [],
+    [
+     "D7"
+    ],
+    [
+     "G6",
+     "D7"
+    ],
+    [
+     "Gm",
+     "Gm6"
+    ],
+    [
+     "D/F#"
+    ],
+    [],
+    [],
+    [
+     "G6",
+     "E7/G#"
+    ],
+    [],
+    [
+     "D7"
+    ],
+    [
+     "G6",
+     "G7"
+    ],
+    [
+     "C",
+     "Cm6"
+    ],
+    [
+     "G",
+     "E7"
+    ],
+    [
+     "Am"
+    ],
+    [
+     "G6",
+     "D7"
+    ],
+    [],
+    [
+     "Gm"
+    ]
+   ]
+  }
+ ],
+ "notes": [
+  "Grille générée automatiquement depuis le texte du PDF : à vérifier.",
+  "Reprises et fins non détectées : les mesures sont dans l'ordre d'écriture."
+ ],
+ "confidence": "low",
+ "source": [
+  "pdf/Maestro Carioca - Sandoval em Bonsucesso - Theme - C.pdf"
+ ],
+ "generated": "pdf"
+}

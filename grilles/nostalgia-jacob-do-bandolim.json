@@ -1,0 +1,305 @@
+{
+ "song_id": "nostalgia-jacob-do-bandolim",
+ "title": "Nostalgia",
+ "composer": "Jacob do Bandolim",
+ "transposition": "c",
+ "meter": "2/4",
+ "form": "A — B — C — D — Coda",
+ "parts": [
+  {
+   "name": "A",
+   "tonic": "C",
+   "bars": "0–8",
+   "repeat": false,
+   "sequence": [
+    [
+     "Dm"
+    ],
+    [
+     "G#dim",
+     "G7"
+    ],
+    [
+     "C"
+    ],
+    [
+     "Cdim"
+    ],
+    [
+     "Dm7"
+    ],
+    [
+     "Dm7b5"
+    ],
+    [
+     "Dm7"
+    ],
+    [
+     "G7(#5)"
+    ]
+   ]
+  },
+  {
+   "name": "B",
+   "tonic": "C",
+   "bars": "9–37",
+   "repeat": false,
+   "sequence": [
+    [
+     "C6"
+    ],
+    [
+     "C/E"
+    ],
+    [
+     "F#dim"
+    ],
+    [
+     "G7"
+    ],
+    [
+     "C"
+    ],
+    [
+     "C/E",
+     "Ab7"
+    ],
+    [
+     "Dm7"
+    ],
+    [
+     "A7/C#",
+     "A7"
+    ],
+    [
+     "Dm",
+     "A7/E"
+    ],
+    [
+     "Dm/F"
+    ],
+    [
+     "Fm6/Ab"
+    ],
+    [
+     "G7"
+    ],
+    [
+     "G7/D"
+    ],
+    [
+     "Eb(#5)"
+    ],
+    [
+     "C/E"
+    ],
+    [
+     "D7/F#",
+     "G7/B"
+    ],
+    [
+     "C6"
+    ],
+    [
+     "C/E"
+    ],
+    [
+     "Bb7"
+    ],
+    [
+     "A7"
+    ],
+    [
+     "Dm"
+    ],
+    [
+     "A7/C#"
+    ],
+    [
+     "Edim"
+    ],
+    [
+     "Dm7"
+    ],
+    [
+     "Fm/Ab"
+    ],
+    [
+     "Fm/Ab",
+     "Fm"
+    ],
+    [
+     "Cm/G"
+    ],
+    [
+     "Fm/Ab",
+     "Fm"
+    ],
+    [
+     "Cm/G"
+    ]
+   ]
+  },
+  {
+   "name": "C",
+   "tonic": "Am",
+   "bars": "38–40",
+   "repeat": false,
+   "sequence": [
+    [
+     "D7(b9)",
+     "G7"
+    ],
+    [
+     "C"
+    ],
+    [
+     "E7/G#",
+     "E7"
+    ]
+   ]
+  },
+  {
+   "name": "D",
+   "tonic": "C",
+   "bars": "41–73",
+   "repeat": false,
+   "sequence": [
+    [
+     "Am",
+     "E7/B"
+    ],
+    [
+     "A7/C#"
+    ],
+    [
+     "Dm/F"
+    ],
+    [
+     "Dm",
+     "Dm/C"
+    ],
+    [
+     "E7"
+    ],
+    [
+     "E7/G#",
+     "E7"
+    ],
+    [
+     "Am/C"
+    ],
+    [
+     "B7/F#",
+     "E7/G#"
+    ],
+    [
+     "Am"
+    ],
+    [
+     "F#m7b5"
+    ],
+    [
+     "Em/G"
+    ],
+    [
+     "Em"
+    ],
+    [
+     "B7/F#"
+    ],
+    [
+     "B7/D#"
+    ],
+    [
+     "Dm6/F"
+    ],
+    [
+     "E7"
+    ],
+    [
+     "Am"
+    ],
+    [
+     "A/G"
+    ],
+    [
+     "Dm/F",
+     "A7/E"
+    ],
+    [
+     "Dm",
+     "Dm/C"
+    ],
+    [
+     "E7/B"
+    ],
+    [
+     "E7",
+     "E7/G#"
+    ],
+    [
+     "Gm6"
+    ],
+    [
+     "A7"
+    ],
+    [
+     "Dm/F"
+    ],
+    [
+     "Dm6"
+    ],
+    [
+     "Am/C"
+    ],
+    [
+     "Am"
+    ],
+    [
+     "Bb"
+    ],
+    [
+     "E7/G#",
+     "E7"
+    ],
+    [
+     "Am",
+     "Ab7"
+    ],
+    [
+     "G7"
+    ],
+    []
+   ]
+  },
+  {
+   "name": "Coda",
+   "tonic": "C",
+   "bars": "74–76",
+   "repeat": false,
+   "sequence": [
+    [
+     "D7(b9)",
+     "G7"
+    ],
+    [
+     "Cm",
+     "Fm6"
+    ],
+    [
+     "Cm"
+    ]
+   ]
+  }
+ ],
+ "notes": [
+  "Grille générée automatiquement depuis la partition MusicXML : à vérifier.",
+  "Tonalité de la partition source non vérifiée."
+ ],
+ "confidence": "medium",
+ "source": [
+  "mxl/C/Jacob do Bandolim - Nostalgia - Theme - C.mxl"
+ ],
+ "generated": "mxl"
+}

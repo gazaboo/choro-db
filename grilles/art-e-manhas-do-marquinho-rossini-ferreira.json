@@ -1,0 +1,269 @@
+{
+ "song_id": "art-e-manhas-do-marquinho-rossini-ferreira",
+ "title": "Art-e-manhas do Marquinho",
+ "composer": "Rossini Ferreira",
+ "transposition": "c",
+ "meter": "2/4",
+ "form": "A (reprise) — B (reprise) — C (reprise) — D",
+ "parts": [
+  {
+   "name": "A",
+   "tonic": "F",
+   "bars": "0–34",
+   "repeat": true,
+   "sequence": [
+    [
+     "F6"
+    ],
+    [
+     "D7(9)"
+    ],
+    [
+     "Gm7"
+    ],
+    [],
+    [
+     "C7(9)"
+    ],
+    [],
+    [
+     "F6"
+    ],
+    [
+     "C7"
+    ],
+    [
+     "F6"
+    ],
+    [
+     "Bm7b5",
+     "E7"
+    ],
+    [
+     "A6"
+    ],
+    [
+     "A/C#",
+     "F#7"
+    ],
+    [
+     "Bm7"
+    ],
+    [
+     "E7"
+    ],
+    [
+     "A6"
+    ],
+    [
+     "C7(9)"
+    ],
+    [
+     "F6"
+    ],
+    [
+     "D7(9)"
+    ],
+    [
+     "Gm7"
+    ],
+    [],
+    [
+     "C7(9)"
+    ],
+    [],
+    [
+     "F6"
+    ],
+    [
+     "Cm7",
+     "F7(9)"
+    ],
+    [
+     "Bb6"
+    ],
+    [
+     "E7/G#"
+    ],
+    [
+     "A7"
+    ],
+    [
+     "D7/F#"
+    ],
+    [
+     "G7(9)"
+    ],
+    [
+     "C7"
+    ],
+    [
+     "A7"
+    ]
+   ],
+   "endings": {
+    "1": [
+     [
+      "F6"
+     ],
+     [
+      "C7(9)"
+     ]
+    ],
+    "2": [
+     [
+      "F6"
+     ]
+    ]
+   }
+  },
+  {
+   "name": "B",
+   "tonic": "F",
+   "bars": "35–68",
+   "repeat": true,
+   "sequence": [
+    [
+     "Dm"
+    ],
+    [],
+    [
+     "Gm7"
+    ],
+    [],
+    [
+     "C7(9)"
+    ],
+    [],
+    [
+     "F6"
+    ],
+    [
+     "A7"
+    ],
+    [
+     "Dm"
+    ],
+    [
+     "Bm7b5",
+     "E7"
+    ],
+    [
+     "A6"
+    ],
+    [
+     "F#7"
+    ],
+    [
+     "B7(9)"
+    ],
+    [
+     "E7"
+    ],
+    [
+     "A7"
+    ],
+    [],
+    [
+     "D"
+    ],
+    [
+     "Bm7"
+    ],
+    [
+     "E7(9)"
+    ],
+    [],
+    [
+     "C#m7b5"
+    ],
+    [
+     "F#7"
+    ],
+    [
+     "B7"
+    ],
+    [],
+    [
+     "G6"
+    ],
+    [
+     "G#dim"
+    ],
+    [
+     "D"
+    ],
+    [
+     "B7"
+    ],
+    [
+     "Em"
+    ],
+    [
+     "A7"
+    ],
+    [
+     "D6"
+    ],
+    [
+     "F6"
+    ]
+   ],
+   "endings": {
+    "1": [
+     [
+      "A7"
+     ]
+    ],
+    "2": [
+     [
+      "C7(9)"
+     ]
+    ]
+   }
+  },
+  {
+   "name": "C",
+   "tonic": "F",
+   "bars": "69–72",
+   "repeat": true,
+   "sequence": [
+    [
+     "Dm7"
+    ],
+    [
+     "G7(9)"
+    ],
+    [
+     "C7"
+    ],
+    [
+     "F6"
+    ]
+   ]
+  },
+  {
+   "name": "D",
+   "tonic": "F",
+   "bars": "73–75",
+   "repeat": false,
+   "sequence": [
+    [
+     "F6"
+    ],
+    [],
+    [
+     "F6"
+    ]
+   ]
+  }
+ ],
+ "notes": [
+  "Grille générée automatiquement depuis la partition MusicXML : à vérifier."
+ ],
+ "confidence": "medium",
+ "source": [
+  "mxl/C/Rossini Ferreira - Art-e-manhas do Marquinho - Theme - C.mxl"
+ ],
+ "generated": "mxl"
+}

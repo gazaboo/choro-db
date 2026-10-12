@@ -1,0 +1,183 @@
+{
+ "song_id": "tres-estrelinhas-anacleto-de-medeiros-e-guimaraes-martins",
+ "title": "Três Estrelinhas",
+ "composer": "Anacleto De Medeiros E Guimarães Martins",
+ "transposition": "c",
+ "meter": "2/4",
+ "form": "A — B — C",
+ "parts": [
+  {
+   "name": "A",
+   "tonic": "C",
+   "bars": "1–15",
+   "sequence": [
+    [
+     "A7/C#",
+     "A7"
+    ],
+    [
+     "Dm"
+    ],
+    [
+     "F7/A",
+     "F7"
+    ],
+    [
+     "Bb"
+    ],
+    [
+     "Gm6/Bb",
+     "A7"
+    ],
+    [
+     "Dm"
+    ],
+    [
+     "Gm6/Bb",
+     "A7"
+    ],
+    [
+     "Dm"
+    ],
+    [
+     "Em7(b5)",
+     "A7/C#",
+     "A7"
+    ],
+    [
+     "D7",
+     "D/C"
+    ],
+    [
+     "Gm/Bb",
+     "D7/A"
+    ],
+    [
+     "Gm"
+    ],
+    [],
+    [
+     "Dm/F"
+    ],
+    [
+     "A7"
+    ]
+   ]
+  },
+  {
+   "name": "B",
+   "tonic": "Am",
+   "bars": "16–25",
+   "sequence": [
+    [
+     "Dm"
+    ],
+    [
+     "Dm"
+    ],
+    [],
+    [],
+    [
+     "Gm"
+    ],
+    [],
+    [
+     "Am"
+    ],
+    [
+     "Bb"
+    ],
+    [
+     "F/C",
+     "D7/A"
+    ],
+    [
+     "G7",
+     "C7"
+    ]
+   ]
+  },
+  {
+   "name": "C",
+   "tonic": "C",
+   "bars": "26–46",
+   "sequence": [
+    [
+     "F",
+     "Cm"
+    ],
+    [
+     "F"
+    ],
+    [
+     "Dm",
+     "F7"
+    ],
+    [],
+    [
+     "Bb",
+     "F7/C"
+    ],
+    [
+     "Bb/D"
+    ],
+    [
+     "G7/B"
+    ],
+    [
+     "Cm"
+    ],
+    [
+     "Eb"
+    ],
+    [
+     "Bb/D"
+    ],
+    [
+     "Cm6",
+     "D7/A"
+    ],
+    [
+     "Gm"
+    ],
+    [
+     "C7"
+    ],
+    [
+     "F7"
+    ],
+    [
+     "Bb7"
+    ],
+    [
+     "Eb"
+    ],
+    [
+     "Eb"
+    ],
+    [
+     "Bb/F",
+     "G7"
+    ],
+    [
+     "C7",
+     "F7",
+     "Bb"
+    ],
+    [],
+    [
+     "Dm"
+    ]
+   ]
+  }
+ ],
+ "notes": [
+  "Grille générée automatiquement depuis le texte du PDF : à vérifier.",
+  "Reprises et fins non détectées : les mesures sont dans l'ordre d'écriture."
+ ],
+ "confidence": "low",
+ "source": [
+  "pdf/Anacleto De Medeiros E Guimarães Martins - Três Estrelinhas - Theme - C.pdf"
+ ],
+ "generated": "pdf"
+}

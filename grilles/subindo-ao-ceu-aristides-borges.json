@@ -1,0 +1,273 @@
+{
+ "song_id": "subindo-ao-ceu-aristides-borges",
+ "title": "Subindo Ao Céu",
+ "composer": "Aristides Borges",
+ "transposition": "c",
+ "meter": "2/4",
+ "form": "A — B — C",
+ "parts": [
+  {
+   "name": "A",
+   "tonic": "Am",
+   "bars": "1–30",
+   "sequence": [
+    [
+     "G"
+    ],
+    [
+     "D7"
+    ],
+    [
+     "G"
+    ],
+    [],
+    [
+     "G/B"
+    ],
+    [
+     "E7/G#"
+    ],
+    [
+     "Am"
+    ],
+    [
+     "G"
+    ],
+    [],
+    [],
+    [
+     "D7"
+    ],
+    [],
+    [],
+    [
+     "D7"
+    ],
+    [],
+    [],
+    [
+     "G"
+    ],
+    [
+     "D7"
+    ],
+    [
+     "G"
+    ],
+    [],
+    [],
+    [
+     "E7/G#"
+    ],
+    [],
+    [
+     "Am"
+    ],
+    [
+     "C"
+    ],
+    [
+     "Cm6"
+    ],
+    [
+     "G/B"
+    ],
+    [],
+    [
+     "A7"
+    ],
+    [
+     "D7"
+    ]
+   ]
+  },
+  {
+   "name": "B",
+   "tonic": "C",
+   "bars": "32–65",
+   "sequence": [
+    [],
+    [],
+    [],
+    [
+     "C6"
+    ],
+    [
+     "Em/B"
+    ],
+    [
+     "Am"
+    ],
+    [
+     "Fm6/Ab"
+    ],
+    [
+     "C/G"
+    ],
+    [],
+    [
+     "Dm/F"
+    ],
+    [
+     "F/Eb"
+    ],
+    [
+     "E7"
+    ],
+    [
+     "E7/G#"
+    ],
+    [
+     "Am"
+    ],
+    [
+     "Am/G"
+    ],
+    [
+     "D7/F#"
+    ],
+    [],
+    [
+     "G7(9)"
+    ],
+    [],
+    [
+     "C"
+    ],
+    [
+     "Em/B"
+    ],
+    [],
+    [
+     "Fm6/Ab"
+    ],
+    [
+     "C/G"
+    ],
+    [
+     "C/Bb"
+    ],
+    [
+     "F/A"
+    ],
+    [],
+    [
+     "F6"
+    ],
+    [],
+    [
+     "C/G"
+    ],
+    [
+     "A7"
+    ],
+    [
+     "D7"
+    ],
+    [
+     "G7"
+    ],
+    [
+     "C"
+    ]
+   ]
+  },
+  {
+   "name": "C",
+   "tonic": "C",
+   "bars": "66–102",
+   "sequence": [
+    [],
+    [],
+    [],
+    [],
+    [
+     "D6"
+    ],
+    [],
+    [],
+    [
+     "E7/G#"
+    ],
+    [
+     "A7"
+    ],
+    [
+     "A7/C#"
+    ],
+    [
+     "D"
+    ],
+    [
+     "A47(9)"
+    ],
+    [
+     "D"
+    ],
+    [
+     "Dm6/F"
+    ],
+    [
+     "A/E"
+    ],
+    [],
+    [
+     "E7/G#"
+    ],
+    [],
+    [
+     "A7"
+    ],
+    [],
+    [
+     "D"
+    ],
+    [],
+    [],
+    [
+     "E7/G#"
+    ],
+    [
+     "A7"
+    ],
+    [
+     "A/G"
+    ],
+    [],
+    [
+     "D/F#"
+    ],
+    [],
+    [],
+    [],
+    [
+     "Gm6"
+    ],
+    [
+     "D"
+    ],
+    [
+     "A7"
+    ],
+    [
+     "D"
+    ],
+    [
+     "D"
+    ],
+    [
+     "D"
+    ]
+   ]
+  }
+ ],
+ "notes": [
+  "Grille générée automatiquement depuis le texte du PDF : à vérifier.",
+  "Reprises et fins non détectées : les mesures sont dans l'ordre d'écriture."
+ ],
+ "confidence": "low",
+ "source": [
+  "pdf/Aristides Borges - Subindo Ao Céu - Theme - C.pdf"
+ ],
+ "generated": "pdf"
+}

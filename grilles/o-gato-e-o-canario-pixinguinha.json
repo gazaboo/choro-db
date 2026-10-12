@@ -1,0 +1,236 @@
+{
+ "song_id": "o-gato-e-o-canario-pixinguinha",
+ "title": "O gato e o canário",
+ "composer": "Pixinguinha",
+ "transposition": "c",
+ "meter": "2/4",
+ "form": "A (reprise) — B (reprise) — C (reprise) — Coda",
+ "parts": [
+  {
+   "name": "A",
+   "tonic": "F",
+   "bars": "5–25",
+   "repeat": true,
+   "sequence": [
+    [
+     "F"
+    ],
+    [],
+    [],
+    [
+     "C7"
+    ],
+    [],
+    [],
+    [],
+    [
+     "G#dim",
+     "F"
+    ],
+    [
+     "F"
+    ],
+    [],
+    [
+     "F7"
+    ],
+    [
+     "Bb"
+    ],
+    [
+     "Bb",
+     "Bdim"
+    ],
+    [
+     "F"
+    ],
+    [
+     "Gm",
+     "C7"
+    ],
+    [
+     "F"
+    ],
+    [
+     "Bb",
+     "Bdim"
+    ],
+    [
+     "F",
+     "Dm"
+    ],
+    [
+     "Gm",
+     "C7"
+    ]
+   ],
+   "endings": {
+    "1": [
+     [
+      "F"
+     ]
+    ],
+    "2": [
+     [
+      "F"
+     ]
+    ]
+   }
+  },
+  {
+   "name": "B",
+   "tonic": "C",
+   "bars": "26–43",
+   "repeat": true,
+   "sequence": [
+    [
+     "G7"
+    ],
+    [
+     "C"
+    ],
+    [
+     "E7"
+    ],
+    [
+     "A7"
+    ],
+    [
+     "Dm",
+     "G7"
+    ],
+    [
+     "C"
+    ],
+    [
+     "G",
+     "D7"
+    ],
+    [
+     "G"
+    ],
+    [
+     "G7"
+    ],
+    [
+     "C"
+    ],
+    [
+     "E7"
+    ],
+    [
+     "Am"
+    ],
+    [
+     "Dm",
+     "Ebdim"
+    ],
+    [
+     "C"
+    ],
+    [
+     "D7",
+     "G7"
+    ],
+    [
+     "F7"
+    ]
+   ],
+   "endings": {
+    "1": [
+     [
+      "C"
+     ]
+    ],
+    "2": [
+     [
+      "C",
+      "C7"
+     ]
+    ]
+   }
+  },
+  {
+   "name": "C",
+   "tonic": "Bb",
+   "bars": "44–X2",
+   "repeat": true,
+   "sequence": [
+    [
+     "Bb"
+    ],
+    [],
+    [],
+    [
+     "F7"
+    ],
+    [
+     "Cm"
+    ],
+    [],
+    [
+     "F7"
+    ],
+    [
+     "Bb"
+    ],
+    [],
+    [
+     "Bb7"
+    ],
+    [],
+    [
+     "Eb"
+    ],
+    [
+     "Eb",
+     "Edim"
+    ],
+    [
+     "Bb"
+    ],
+    [
+     "C7",
+     "F7"
+    ]
+   ],
+   "endings": {
+    "1": [
+     [
+      "Bb"
+     ]
+    ],
+    "2": [
+     [
+      "Bb",
+      "C7"
+     ]
+    ]
+   }
+  },
+  {
+   "name": "Coda",
+   "tonic": "F",
+   "bars": "61–65",
+   "repeat": false,
+   "sequence": [
+    [],
+    [],
+    [],
+    [],
+    [
+     "F"
+    ]
+   ]
+  }
+ ],
+ "notes": [
+  "Grille générée automatiquement depuis la partition MusicXML : à vérifier.",
+  "Coda : première mesure sans accord"
+ ],
+ "confidence": "medium",
+ "source": [
+  "mxl/C/Pixinguinha - O gato e o canário - Theme - C.mxl"
+ ],
+ "generated": "mxl"
+}

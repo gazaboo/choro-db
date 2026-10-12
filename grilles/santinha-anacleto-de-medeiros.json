@@ -1,0 +1,144 @@
+{
+ "song_id": "santinha-anacleto-de-medeiros",
+ "title": "Santinha",
+ "composer": "Anacleto de Medeiros",
+ "transposition": "c",
+ "meter": "2/4",
+ "form": "A — B — C",
+ "parts": [
+  {
+   "name": "A",
+   "tonic": "C",
+   "bars": "1–7",
+   "sequence": [
+    [
+     "D7",
+     "D/C"
+    ],
+    [
+     "G/B",
+     "B7"
+    ],
+    [],
+    [
+     "Cm6",
+     "D7"
+    ],
+    [
+     "D7/A",
+     "D7/F#"
+    ],
+    [
+     "E7"
+    ],
+    [
+     "A7",
+     "D7"
+    ]
+   ]
+  },
+  {
+   "name": "B",
+   "tonic": "C",
+   "bars": "8–17",
+   "sequence": [
+    [
+     "G"
+    ],
+    [
+     "G"
+    ],
+    [],
+    [],
+    [],
+    [
+     "A7",
+     "E7",
+     "A/G"
+    ],
+    [
+     "D/F#",
+     "C7"
+    ],
+    [],
+    [],
+    [
+     "D/A",
+     "A7"
+    ]
+   ]
+  },
+  {
+   "name": "C",
+   "tonic": "C",
+   "bars": "18–37",
+   "sequence": [
+    [],
+    [],
+    [
+     "G"
+    ],
+    [],
+    [
+     "C"
+    ],
+    [
+     "Fm6/C"
+    ],
+    [
+     "C"
+    ],
+    [
+     "Fm6/C"
+    ],
+    [
+     "C",
+     "E7/B"
+    ],
+    [
+     "Am",
+     "Am/G"
+    ],
+    [],
+    [
+     "E"
+    ],
+    [
+     "B7",
+     "B/A"
+    ],
+    [
+     "E/G#"
+    ],
+    [
+     "F#7(9)",
+     "C#m7",
+     "B7"
+    ],
+    [],
+    [
+     "C6"
+    ],
+    [
+     "F"
+    ],
+    [
+     "C/G",
+     "G7"
+    ],
+    [
+     "C"
+    ]
+   ]
+  }
+ ],
+ "notes": [
+  "Grille générée automatiquement depuis le texte du PDF : à vérifier.",
+  "Reprises et fins non détectées : les mesures sont dans l'ordre d'écriture."
+ ],
+ "confidence": "low",
+ "source": [
+  "pdf/Anacleto de Medeiros - Santinha - Theme - C.pdf"
+ ],
+ "generated": "pdf"
+}

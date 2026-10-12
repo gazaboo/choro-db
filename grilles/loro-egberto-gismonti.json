@@ -1,0 +1,129 @@
+{
+ "song_id": "loro-egberto-gismonti",
+ "title": "Loro",
+ "composer": "Egberto Gismonti",
+ "transposition": "c",
+ "meter": "2/4",
+ "form": "A (reprise)",
+ "parts": [
+  {
+   "name": "A",
+   "tonic": "Eb",
+   "bars": "1–40",
+   "repeat": true,
+   "sequence": [
+    [],
+    [],
+    [
+     "Eb/Db"
+    ],
+    [],
+    [
+     "Ab/C"
+    ],
+    [],
+    [
+     "Bdim"
+    ],
+    [],
+    [
+     "Abmaj7/C"
+    ],
+    [
+     "Bb6"
+    ],
+    [
+     "Am7b5"
+    ],
+    [
+     "D7(#9)"
+    ],
+    [
+     "G7(b9)"
+    ],
+    [],
+    [
+     "C7(b9)"
+    ],
+    [],
+    [
+     "F(#5)/C"
+    ],
+    [],
+    [],
+    [],
+    [
+     "Db6"
+    ],
+    [
+     "G7/D"
+    ],
+    [
+     "Eb7(#5)",
+     "Eb7(9)"
+    ],
+    [
+     "Eb/Db"
+    ],
+    [
+     "Ab/C"
+    ],
+    [
+     "Ab(9)"
+    ],
+    [
+     "Eb/G"
+    ],
+    [
+     "F7"
+    ],
+    [],
+    [
+     "Bb7"
+    ],
+    [
+     "Ebmaj7(#5)"
+    ],
+    [
+     "Db7(b5)"
+    ],
+    [
+     "Ab/C"
+    ],
+    [
+     "Ab(9)"
+    ],
+    [
+     "Eb/G"
+    ],
+    [
+     "Eb"
+    ]
+   ],
+   "endings": {
+    "1": [
+     [
+      "F7"
+     ],
+     [],
+     []
+    ],
+    "2": [
+     [
+      "Fm7",
+      "Bb7"
+     ]
+    ]
+   }
+  }
+ ],
+ "notes": [
+  "Grille générée automatiquement depuis la partition MusicXML : à vérifier.",
+  "A : première mesure sans accord"
+ ],
+ "confidence": "medium",
+ "source": [
+  "mxl/C/Egberto Gismonti - Loro - Theme - C.mxl"
+ ],
+ "generated": "mxl"
+}

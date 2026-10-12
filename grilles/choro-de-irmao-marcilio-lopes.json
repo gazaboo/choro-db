@@ -1,0 +1,206 @@
+{
+ "song_id": "choro-de-irmao-marcilio-lopes",
+ "title": "Choro de Irmão",
+ "composer": "Marcílio Lopes",
+ "transposition": "c",
+ "meter": "2/4",
+ "form": "A (reprise) — B (reprise) — Coda",
+ "parts": [
+  {
+   "name": "A",
+   "tonic": "Dm",
+   "bars": "0–17",
+   "repeat": true,
+   "sequence": [
+    [
+     "Gm(maj7)",
+     "Gm6(9)"
+    ],
+    [
+     "A7(b9)",
+     "A7(#9)"
+    ],
+    [
+     "Dm",
+     "Dm(maj7)"
+    ],
+    [
+     "Dm7",
+     "Dm6"
+    ],
+    [
+     "G#dim"
+    ],
+    [],
+    [
+     "Em7b5",
+     "A7(b9)"
+    ],
+    [
+     "Em7b5",
+     "A7(b9)"
+    ],
+    [
+     "C7(9)"
+    ],
+    [
+     "C7(b9,13)"
+    ],
+    [
+     "Fmaj7"
+    ],
+    [
+     "Fmaj7"
+    ],
+    [
+     "Bb/Ab"
+    ],
+    [
+     "Dm/A",
+     "Bbmaj7"
+    ],
+    [
+     "A7(b9,b13)"
+    ]
+   ],
+   "endings": {
+    "1": [
+     [
+      "Dm7(9)"
+     ]
+    ],
+    "2": [
+     [
+      "Dm7"
+     ]
+    ]
+   }
+  },
+  {
+   "name": "B",
+   "tonic": "F",
+   "bars": "18–X1",
+   "repeat": true,
+   "sequence": [
+    [
+     "C7(9)"
+    ],
+    [
+     "F#7(9)"
+    ],
+    [
+     "F6",
+     "Eb7(9)"
+    ],
+    [
+     "F6",
+     "Am7"
+    ],
+    [
+     "F7(9)"
+    ],
+    [
+     "Bbmaj7"
+    ],
+    [
+     "F#dim"
+    ],
+    [
+     "Gm7(9)"
+    ],
+    [
+     "G#dim"
+    ],
+    [
+     "F6/A"
+    ],
+    [
+     "G7(9)"
+    ],
+    [
+     "C7(b9,13)"
+    ],
+    [
+     "F6"
+    ],
+    [
+     "Fmaj7(#5)"
+    ],
+    [
+     "Dm",
+     "Dm6"
+    ],
+    [
+     "Bb7(9,#11)"
+    ],
+    [
+     "Amaj7(9)",
+     "F#m7"
+    ],
+    [
+     "Bm7",
+     "E7(b9)"
+    ],
+    [
+     "Amaj7(9)",
+     "C7(13)"
+    ],
+    [
+     "F6"
+    ],
+    [
+     "Dbmaj7(b5)"
+    ],
+    [
+     "Fmaj7/C"
+    ],
+    [],
+    [
+     "Dm7(9)"
+    ]
+   ],
+   "endings": {
+    "1": [
+     [
+      "F6"
+     ]
+    ],
+    "2": [
+     [
+      "F6",
+      "Eb7(9)"
+     ]
+    ]
+   }
+  },
+  {
+   "name": "Coda",
+   "tonic": "Dm",
+   "bars": "44–47",
+   "repeat": false,
+   "sequence": [
+    [
+     "Dm7(9)"
+    ],
+    [
+     "Gm(maj7)",
+     "Gm6(9)"
+    ],
+    [
+     "A7(b9,b13)",
+     "Dm6(9)"
+    ],
+    []
+   ]
+  }
+ ],
+ "notes": [
+  "Grille générée automatiquement depuis la partition MusicXML : à vérifier.",
+  "Tonalité de la partition source non vérifiée."
+ ],
+ "confidence": "medium",
+ "source": [
+  "mxl/C/Marcílio Lopes - Choro de Irmão - Theme - C.mxl"
+ ],
+ "generated": "mxl"
+}

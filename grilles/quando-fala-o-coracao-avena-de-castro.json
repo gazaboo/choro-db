@@ -1,0 +1,186 @@
+{
+ "song_id": "quando-fala-o-coracao-avena-de-castro",
+ "title": "Quando fala o coração",
+ "composer": "Avena de Castro",
+ "transposition": "c",
+ "meter": "2/4",
+ "form": "A (reprise) — B (reprise) — Coda",
+ "parts": [
+  {
+   "name": "A",
+   "tonic": "F",
+   "bars": "0–17",
+   "repeat": true,
+   "sequence": [
+    [
+     "Dm"
+    ],
+    [
+     "A7"
+    ],
+    [
+     "Cm",
+     "D7"
+    ],
+    [
+     "Gm"
+    ],
+    [
+     "C7"
+    ],
+    [
+     "F"
+    ],
+    [
+     "E7"
+    ],
+    [
+     "Gm",
+     "A7"
+    ],
+    [
+     "Dm"
+    ],
+    [
+     "A7"
+    ],
+    [
+     "Cm",
+     "D7"
+    ],
+    [
+     "Gm"
+    ],
+    [
+     "Gm",
+     "Abdim"
+    ],
+    [
+     "Dm/A",
+     "Bb7"
+    ],
+    [
+     "Eb",
+     "A7"
+    ]
+   ],
+   "endings": {
+    "1": [
+     [
+      "Dm",
+      "A7"
+     ]
+    ],
+    "2": [
+     [
+      "Dm",
+      "C7"
+     ]
+    ]
+   }
+  },
+  {
+   "name": "B",
+   "tonic": "Dm",
+   "bars": "18–35",
+   "repeat": true,
+   "sequence": [
+    [
+     "F",
+     "F#dim"
+    ],
+    [
+     "Gm",
+     "G#dim"
+    ],
+    [
+     "F/A",
+     "F7"
+    ],
+    [
+     "Bb",
+     "Bbm"
+    ],
+    [
+     "F/A",
+     "Abdim"
+    ],
+    [
+     "Gm",
+     "G#dim"
+    ],
+    [
+     "F/A",
+     "D7/A"
+    ],
+    [
+     "Gm",
+     "Abdim"
+    ],
+    [
+     "F",
+     "F#dim"
+    ],
+    [
+     "Gm",
+     "G#dim"
+    ],
+    [
+     "F",
+     "F7"
+    ],
+    [
+     "Bb",
+     "D7"
+    ],
+    [
+     "Gm",
+     "A7"
+    ],
+    [
+     "Dm",
+     "D7"
+    ],
+    [
+     "Gm",
+     "Gb",
+     "C7"
+    ],
+    []
+   ],
+   "endings": {
+    "1": [
+     [
+      "F",
+      "C7"
+     ]
+    ],
+    "2": [
+     [
+      "F",
+      "A7"
+     ]
+    ]
+   }
+  },
+  {
+   "name": "Coda",
+   "tonic": "Dm",
+   "bars": "36–36",
+   "repeat": false,
+   "sequence": [
+    [
+     "Dm"
+    ]
+   ]
+  }
+ ],
+ "notes": [
+  "Grille générée automatiquement depuis la partition MusicXML : à vérifier."
+ ],
+ "confidence": "medium",
+ "source": [
+  "mxl/C/Avena de Castro - Quando fala o coração - Theme - C.mxl"
+ ],
+ "generated": "mxl"
+}

@@ -1,0 +1,177 @@
+{
+ "song_id": "orgulhosa-tico-tico",
+ "title": "Orgulhosa",
+ "composer": "Tico Tico",
+ "transposition": "c",
+ "meter": "2/2",
+ "form": "A (reprise) — B (reprise)",
+ "parts": [
+  {
+   "name": "A",
+   "tonic": "G",
+   "bars": "0–17",
+   "repeat": true,
+   "sequence": [
+    [
+     "Am",
+     "D7"
+    ],
+    [
+     "G",
+     "Bbdim"
+    ],
+    [
+     "Am",
+     "D7"
+    ],
+    [
+     "G"
+    ],
+    [
+     "Am",
+     "Bbdim",
+     "D7"
+    ],
+    [
+     "G",
+     "Em"
+    ],
+    [
+     "D",
+     "A7"
+    ],
+    [
+     "D7"
+    ],
+    [
+     "Am",
+     "D7"
+    ],
+    [
+     "G",
+     "Bbdim"
+    ],
+    [
+     "Am",
+     "D7"
+    ],
+    [
+     "G",
+     "G7"
+    ],
+    [
+     "Eb",
+     "Bb7"
+    ],
+    [
+     "Eb",
+     "C#dim"
+    ],
+    [
+     "G",
+     "D7"
+    ]
+   ],
+   "endings": {
+    "1": [
+     [
+      "G"
+     ]
+    ],
+    "2": [
+     [
+      "G"
+     ]
+    ]
+   }
+  },
+  {
+   "name": "B",
+   "tonic": "D",
+   "bars": "18–35",
+   "repeat": true,
+   "sequence": [
+    [
+     "E7",
+     "A7"
+    ],
+    [
+     "D",
+     "Fdim"
+    ],
+    [
+     "Em",
+     "A7"
+    ],
+    [
+     "D"
+    ],
+    [
+     "C#m7b5",
+     "F#7"
+    ],
+    [
+     "Bm"
+    ],
+    [
+     "F#m",
+     "C#7"
+    ],
+    [
+     "F#m"
+    ],
+    [
+     "E7",
+     "B7",
+     "A7"
+    ],
+    [
+     "D",
+     "Fdim"
+    ],
+    [
+     "Em",
+     "A7"
+    ],
+    [
+     "Am6/C",
+     "B7"
+    ],
+    [
+     "Em",
+     "Gm6"
+    ],
+    [
+     "D",
+     "Fdim"
+    ],
+    [
+     "Em",
+     "A7"
+    ],
+    []
+   ],
+   "endings": {
+    "1": [
+     [
+      "D",
+      "B7"
+     ]
+    ],
+    "2": [
+     [
+      "D"
+     ]
+    ]
+   }
+  }
+ ],
+ "notes": [
+  "Grille générée automatiquement depuis la partition MusicXML : à vérifier."
+ ],
+ "confidence": "medium",
+ "source": [
+  "mxl/C/Tico Tico - Orgulhosa - Theme - C.mxl"
+ ],
+ "generated": "mxl"
+}

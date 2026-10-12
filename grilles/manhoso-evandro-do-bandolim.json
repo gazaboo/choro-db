@@ -1,0 +1,186 @@
+{
+ "song_id": "manhoso-evandro-do-bandolim",
+ "title": "Manhoso",
+ "composer": "Evandro do Bandolim",
+ "transposition": "c",
+ "meter": "2/4",
+ "form": "A (reprise) — B (reprise)",
+ "parts": [
+  {
+   "name": "A",
+   "tonic": "D",
+   "bars": "1–17",
+   "repeat": true,
+   "sequence": [
+    [
+     "Em7",
+     "A7",
+     "A/G"
+    ],
+    [
+     "D/F#",
+     "Fdim"
+    ],
+    [
+     "Em7",
+     "A7"
+    ],
+    [
+     "D6",
+     "B7(9)"
+    ],
+    [
+     "Em7",
+     "A/G"
+    ],
+    [
+     "D/F#",
+     "Fdim"
+    ],
+    [
+     "F#6",
+     "D#7",
+     "G#m7",
+     "C#7"
+    ],
+    [
+     "F#7",
+     "B7",
+     "Em7",
+     "A7"
+    ],
+    [
+     "Em7",
+     "A7",
+     "A/G"
+    ],
+    [
+     "D/F#",
+     "Fdim"
+    ],
+    [
+     "Em7",
+     "A7"
+    ],
+    [
+     "Am6/C",
+     "B7(b9)"
+    ],
+    [
+     "G6",
+     "G#dim"
+    ],
+    [
+     "D/A",
+     "Bm7",
+     "B/A"
+    ],
+    [
+     "E7/G#",
+     "A7"
+    ]
+   ],
+   "endings": {
+    "1": [
+     [
+      "D",
+      "B7"
+     ]
+    ],
+    "2": [
+     [
+      "D",
+      "B7"
+     ]
+    ]
+   }
+  },
+  {
+   "name": "B",
+   "tonic": "D",
+   "bars": "18–35",
+   "repeat": true,
+   "sequence": [
+    [
+     "Em7",
+     "Gm6"
+    ],
+    [
+     "D/F#",
+     "B7"
+    ],
+    [
+     "Em7",
+     "A7"
+    ],
+    [
+     "D6"
+    ],
+    [
+     "Em7",
+     "Gm6"
+    ],
+    [
+     "D/F#"
+    ],
+    [
+     "E7"
+    ],
+    [
+     "A7"
+    ],
+    [
+     "Em7",
+     "Gm6"
+    ],
+    [
+     "D/F#",
+     "B7"
+    ],
+    [
+     "Em7",
+     "A7"
+    ],
+    [
+     "Am6/C",
+     "B7(b9)"
+    ],
+    [
+     "G6",
+     "G#dim"
+    ],
+    [
+     "D/A",
+     "Bm7",
+     "B/A"
+    ],
+    [
+     "E7/G#",
+     "A7"
+    ],
+    []
+   ],
+   "endings": {
+    "1": [
+     [
+      "D",
+      "B7"
+     ]
+    ],
+    "2": [
+     [
+      "D"
+     ]
+    ]
+   }
+  }
+ ],
+ "notes": [
+  "Grille générée automatiquement depuis la partition MusicXML : à vérifier."
+ ],
+ "confidence": "medium",
+ "source": [
+  "mxl/C/Evandro do Bandolim - Manhoso - Theme - C.mxl"
+ ],
+ "generated": "mxl"
+}

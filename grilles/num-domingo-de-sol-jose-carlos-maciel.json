@@ -1,0 +1,189 @@
+{
+ "song_id": "num-domingo-de-sol-jose-carlos-maciel",
+ "title": "Num domingo de sol",
+ "composer": "José Carlos Maciel",
+ "transposition": "c",
+ "meter": "2/4",
+ "form": "A (reprise) — B (reprise)",
+ "parts": [
+  {
+   "name": "A",
+   "tonic": "Dm",
+   "bars": "0–17",
+   "repeat": true,
+   "sequence": [
+    [
+     "Dm",
+     "Dm/F"
+    ],
+    [
+     "A7/E",
+     "A7/C#"
+    ],
+    [
+     "Dm",
+     "Dm/F"
+    ],
+    [
+     "A7/E",
+     "A7/C#"
+    ],
+    [
+     "D7",
+     "D7/F#"
+    ],
+    [
+     "Gm"
+    ],
+    [
+     "E7",
+     "E7/G#"
+    ],
+    [
+     "Gm6",
+     "A7"
+    ],
+    [
+     "Dm",
+     "Dm/F"
+    ],
+    [
+     "A7/E",
+     "A7/C#"
+    ],
+    [
+     "Dm",
+     "Dm/F"
+    ],
+    [
+     "A7/E",
+     "A7/C#"
+    ],
+    [
+     "D7",
+     "D7/F#"
+    ],
+    [
+     "Gm",
+     "Gm/Bb"
+    ],
+    [
+     "Dm/A",
+     "E7",
+     "A7"
+    ]
+   ],
+   "endings": {
+    "1": [
+     [
+      "Dm"
+     ]
+    ],
+    "2": [
+     [
+      "Dm"
+     ]
+    ]
+   }
+  },
+  {
+   "name": "B",
+   "tonic": "D",
+   "bars": "18–39",
+   "repeat": true,
+   "sequence": [
+    [
+     "D6/F#",
+     "Fdim"
+    ],
+    [
+     "Em7"
+    ],
+    [
+     "A7",
+     "A/G"
+    ],
+    [
+     "Dmaj7/F#"
+    ],
+    [
+     "D6",
+     "Fdim"
+    ],
+    [
+     "F#6"
+    ],
+    [
+     "C#7(9)"
+    ],
+    [
+     "F#6",
+     "A7"
+    ],
+    [
+     "D6/F#",
+     "Fdim"
+    ],
+    [
+     "Em7"
+    ],
+    [
+     "A7(9)"
+    ],
+    [
+     "Am6/C",
+     "B7"
+    ],
+    [
+     "Em",
+     "A/G"
+    ],
+    [
+     "D/F#",
+     "Bm7"
+    ],
+    [
+     "Em7",
+     "A7"
+    ],
+    [
+     "Am6/C",
+     "B7"
+    ],
+    [
+     "Em7",
+     "Fdim"
+    ],
+    [
+     "D/F#",
+     "F#7(#5)"
+    ],
+    [
+     "Em7",
+     "A7"
+    ],
+    []
+   ],
+   "endings": {
+    "1": [
+     [
+      "D"
+     ]
+    ],
+    "2": [
+     [
+      "D"
+     ]
+    ]
+   }
+  }
+ ],
+ "notes": [
+  "Grille générée automatiquement depuis la partition MusicXML : à vérifier."
+ ],
+ "confidence": "medium",
+ "source": [
+  "mxl/C/José Carlos Maciel - Num domingo de sol - Theme - C.mxl"
+ ],
+ "generated": "mxl"
+}

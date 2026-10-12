@@ -1,0 +1,162 @@
+{
+ "song_id": "um-chorinho-em-cochabamba-eduardo-neves",
+ "title": "Um chorinho em Cochabamba",
+ "composer": "Eduardo Neves",
+ "transposition": "c",
+ "meter": "2/4",
+ "form": "A — B — C — Coda",
+ "parts": [
+  {
+   "name": "A",
+   "tonic": "C",
+   "bars": "1–19",
+   "sequence": [
+    [
+     "Gm6",
+     "A7"
+    ],
+    [],
+    [
+     "Gm6",
+     "A7"
+    ],
+    [],
+    [],
+    [
+     "C7"
+    ],
+    [
+     "A7/C#"
+    ],
+    [
+     "Dm"
+    ],
+    [],
+    [
+     "C7"
+    ],
+    [
+     "Bb7"
+    ],
+    [
+     "A7"
+    ],
+    [],
+    [],
+    [
+     "A7"
+    ],
+    [
+     "Dm6"
+    ],
+    [
+     "F7(13)"
+    ],
+    [
+     "Bb7(9)"
+    ],
+    [
+     "Eb7(9)"
+    ]
+   ]
+  },
+  {
+   "name": "B",
+   "tonic": "C",
+   "bars": "20–38",
+   "sequence": [
+    [
+     "Dm6"
+    ],
+    [],
+    [
+     "Dm6"
+    ],
+    [],
+    [],
+    [
+     "Bb7"
+    ],
+    [],
+    [],
+    [],
+    [],
+    [
+     "C7(9)"
+    ],
+    [
+     "F6"
+    ],
+    [],
+    [
+     "Em7(b5)"
+    ],
+    [
+     "A7(b9)"
+    ],
+    [],
+    [
+     "F7"
+    ],
+    [
+     "Em7(b5)"
+    ],
+    [
+     "A7"
+    ]
+   ]
+  },
+  {
+   "name": "C",
+   "tonic": "C",
+   "bars": "39–47",
+   "sequence": [
+    [],
+    [],
+    [],
+    [],
+    [],
+    [
+     "Dm"
+    ],
+    [
+     "F7"
+    ],
+    [
+     "Bb7"
+    ],
+    [
+     "Eb7",
+     "A7"
+    ]
+   ]
+  },
+  {
+   "name": "Coda",
+   "tonic": "C",
+   "bars": "48–52",
+   "sequence": [
+    [],
+    [],
+    [
+     "Gm6",
+     "A7"
+    ],
+    [],
+    [
+     "Gm6",
+     "A7"
+    ]
+   ]
+  }
+ ],
+ "notes": [
+  "Grille générée automatiquement depuis le texte du PDF : à vérifier.",
+  "Reprises et fins non détectées : les mesures sont dans l'ordre d'écriture."
+ ],
+ "confidence": "low",
+ "source": [
+  "pdf/Eduardo Neves - Um chorinho em Cochabamba - Theme - C.pdf"
+ ],
+ "generated": "pdf"
+}

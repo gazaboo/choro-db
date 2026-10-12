@@ -1,0 +1,208 @@
+{
+ "song_id": "um-a-zero-pixinguinha",
+ "title": "Um A Zero",
+ "composer": "Pixinguinha",
+ "transposition": "c",
+ "meter": "2/4",
+ "form": "A — B — A — C",
+ "parts": [
+  {
+   "name": "A",
+   "tonic": "C",
+   "bars": "1–15",
+   "sequence": [
+    [
+     "G7"
+    ],
+    [
+     "C"
+    ],
+    [
+     "G7"
+    ],
+    [
+     "C",
+     "C/Bb"
+    ],
+    [],
+    [
+     "C/G"
+    ],
+    [
+     "D7"
+    ],
+    [
+     "G7"
+    ],
+    [],
+    [
+     "C"
+    ],
+    [
+     "G7"
+    ],
+    [
+     "A7/C#"
+    ],
+    [
+     "Dm",
+     "Fm6"
+    ],
+    [
+     "C"
+    ],
+    [
+     "D7",
+     "G7"
+    ]
+   ]
+  },
+  {
+   "name": "B",
+   "tonic": "C",
+   "bars": "16–50",
+   "sequence": [
+    [
+     "C"
+    ],
+    [
+     "C"
+    ],
+    [],
+    [
+     "G"
+    ],
+    [
+     "G/B"
+    ],
+    [
+     "G"
+    ],
+    [
+     "D7"
+    ],
+    [],
+    [
+     "D7"
+    ],
+    [],
+    [
+     "D7"
+    ],
+    [
+     "G"
+    ],
+    [
+     "G"
+    ],
+    [
+     "G7"
+    ],
+    [
+     "C"
+    ],
+    [],
+    [
+     "G/D",
+     "E7"
+    ],
+    [
+     "D7"
+    ],
+    [
+     "G"
+    ],
+    [],
+    [],
+    [],
+    [
+     "Am"
+    ],
+    [],
+    [
+     "D7"
+    ],
+    [
+     "D/C"
+    ],
+    [
+     "G/B"
+    ],
+    [
+     "D7/A"
+    ],
+    [
+     "G7"
+    ],
+    [],
+    [
+     "C"
+    ],
+    [],
+    [
+     "G"
+    ],
+    [
+     "D7"
+    ],
+    [
+     "G"
+    ]
+   ]
+  },
+  {
+   "name": "C",
+   "tonic": "C",
+   "bars": "67–82",
+   "sequence": [
+    [],
+    [
+     "F"
+    ],
+    [],
+    [],
+    [
+     "Gm"
+    ],
+    [],
+    [
+     "C7"
+    ],
+    [],
+    [
+     "F"
+    ],
+    [
+     "F"
+    ],
+    [
+     "D7"
+    ],
+    [
+     "D7/F#"
+    ],
+    [
+     "Gm"
+    ],
+    [],
+    [
+     "F/C",
+     "D7"
+    ],
+    [
+     "Gm",
+     "C7"
+    ]
+   ]
+  }
+ ],
+ "notes": [
+  "Grille générée automatiquement depuis le texte du PDF : à vérifier.",
+  "Reprises et fins non détectées : les mesures sont dans l'ordre d'écriture."
+ ],
+ "confidence": "low",
+ "source": [
+  "pdf/Pixinguinha - Um A Zero - Theme - C - variant 1.pdf"
+ ],
+ "generated": "pdf"
+}

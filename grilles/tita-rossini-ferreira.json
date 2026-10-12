@@ -1,0 +1,178 @@
+{
+ "song_id": "tita-rossini-ferreira",
+ "title": "Tita",
+ "composer": "Rossini Ferreira",
+ "transposition": "c",
+ "meter": "2/4",
+ "form": "A — B",
+ "parts": [
+  {
+   "name": "A",
+   "tonic": "C",
+   "bars": "1–39",
+   "sequence": [
+    [
+     "Dm"
+    ],
+    [
+     "Dm/C"
+    ],
+    [
+     "Bm7(b5)"
+    ],
+    [],
+    [
+     "C7(9)"
+    ],
+    [],
+    [
+     "F6"
+    ],
+    [],
+    [
+     "Dm"
+    ],
+    [],
+    [
+     "Dm/F"
+    ],
+    [
+     "D7/F#"
+    ],
+    [
+     "G7"
+    ],
+    [
+     "G/F"
+    ],
+    [],
+    [],
+    [
+     "Cm6/Eb"
+    ],
+    [],
+    [
+     "Gm"
+    ],
+    [
+     "Gm/F"
+    ],
+    [
+     "E7"
+    ],
+    [],
+    [],
+    [],
+    [
+     "Bb"
+    ],
+    [],
+    [
+     "F/A"
+    ],
+    [],
+    [],
+    [],
+    [],
+    [
+     "Bb"
+    ],
+    [],
+    [],
+    [
+     "F/A"
+    ],
+    [],
+    [
+     "G7(9)"
+    ],
+    [
+     "C7(b9)"
+    ],
+    [
+     "F"
+    ]
+   ]
+  },
+  {
+   "name": "B",
+   "tonic": "Am",
+   "bars": "41–72",
+   "sequence": [
+    [],
+    [
+     "F"
+    ],
+    [
+     "D7/F#"
+    ],
+    [
+     "Gm"
+    ],
+    [
+     "E7/G#"
+    ],
+    [
+     "Am"
+    ],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [
+     "F/A"
+    ],
+    [],
+    [
+     "G7(9)"
+    ],
+    [],
+    [
+     "Bbm6/Db"
+    ],
+    [],
+    [
+     "F"
+    ],
+    [],
+    [
+     "Gm"
+    ],
+    [],
+    [
+     "A7"
+    ],
+    [
+     "A/G"
+    ],
+    [
+     "Dm/F"
+    ],
+    [],
+    [
+     "Bb"
+    ],
+    [],
+    [
+     "F/C"
+    ],
+    [],
+    [],
+    [],
+    [
+     "F"
+    ]
+   ]
+  }
+ ],
+ "notes": [
+  "Grille générée automatiquement depuis le texte du PDF : à vérifier.",
+  "Reprises et fins non détectées : les mesures sont dans l'ordre d'écriture."
+ ],
+ "confidence": "low",
+ "source": [
+  "pdf/Rossini Ferreira - Tita - Theme - C.pdf"
+ ],
+ "generated": "pdf"
+}

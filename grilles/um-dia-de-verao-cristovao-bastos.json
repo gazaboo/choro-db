@@ -1,0 +1,162 @@
+{
+ "song_id": "um-dia-de-verao-cristovao-bastos",
+ "title": "Um dia de verão",
+ "composer": "Cristovão Bastos",
+ "transposition": "c",
+ "meter": "2/4",
+ "form": "A — B",
+ "parts": [
+  {
+   "name": "A",
+   "tonic": "Am",
+   "bars": "1–29",
+   "sequence": [
+    [
+     "C7(9)"
+    ],
+    [
+     "F7(13)"
+    ],
+    [
+     "Bbadd9/D"
+    ],
+    [],
+    [],
+    [
+     "Bbm6"
+    ],
+    [
+     "Am7(b5)"
+    ],
+    [
+     "D7(b9)"
+    ],
+    [],
+    [
+     "A7(b13)"
+    ],
+    [],
+    [
+     "A7(b13)"
+    ],
+    [
+     "G7(b9)"
+    ],
+    [],
+    [],
+    [],
+    [
+     "C7(9)"
+    ],
+    [],
+    [],
+    [],
+    [],
+    [
+     "Bb7(9)"
+    ],
+    [
+     "Eb69"
+    ],
+    [],
+    [],
+    [],
+    [
+     "C7(9)"
+    ],
+    [
+     "F7(13)"
+    ],
+    [
+     "Bb69"
+    ]
+   ]
+  },
+  {
+   "name": "B",
+   "tonic": "Am",
+   "bars": "31–62",
+   "sequence": [
+    [],
+    [
+     "Bbm6"
+    ],
+    [
+     "Am7(b5)"
+    ],
+    [
+     "Ab7(#11)"
+    ],
+    [],
+    [
+     "Bbadd9/F",
+     "E7(b13)"
+    ],
+    [
+     "Eb69"
+    ],
+    [],
+    [
+     "Am7(b5)"
+    ],
+    [
+     "D7(b9)"
+    ],
+    [],
+    [
+     "F#7(b13)"
+    ],
+    [],
+    [],
+    [
+     "E7(13)"
+    ],
+    [],
+    [],
+    [
+     "Bbm7",
+     "Bbm6"
+    ],
+    [
+     "Ab6"
+    ],
+    [],
+    [],
+    [
+     "Bb7(9)"
+    ],
+    [],
+    [],
+    [
+     "Ebm7"
+    ],
+    [
+     "Ab7(9)"
+    ],
+    [],
+    [
+     "G7(9)"
+    ],
+    [
+     "Am7(b5)"
+    ],
+    [
+     "D7(b9)"
+    ],
+    [],
+    [
+     "F47(9)"
+    ]
+   ]
+  }
+ ],
+ "notes": [
+  "Grille générée automatiquement depuis le texte du PDF : à vérifier.",
+  "Reprises et fins non détectées : les mesures sont dans l'ordre d'écriture."
+ ],
+ "confidence": "low",
+ "source": [
+  "pdf/Cristovão Bastos - Um dia de verão - Theme - C.pdf"
+ ],
+ "generated": "pdf"
+}

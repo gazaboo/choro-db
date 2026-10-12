@@ -1,0 +1,194 @@
+{
+ "song_id": "spok-fraseando-joao-lyra",
+ "title": "Spok fraseando",
+ "composer": "João Lyra",
+ "transposition": "c",
+ "meter": "2/4",
+ "form": "A — B — C",
+ "parts": [
+  {
+   "name": "A",
+   "tonic": "Am",
+   "bars": "1–15",
+   "sequence": [
+    [
+     "Dm",
+     "Dm/F"
+    ],
+    [],
+    [
+     "A7",
+     "A7/G"
+    ],
+    [],
+    [
+     "Dm"
+    ],
+    [
+     "Am/C",
+     "Am"
+    ],
+    [
+     "E7/B"
+    ],
+    [
+     "Gm6/Bb",
+     "A7"
+    ],
+    [
+     "Dm",
+     "Dm/F"
+    ],
+    [],
+    [
+     "A/C#",
+     "A/G"
+    ],
+    [],
+    [
+     "Gm"
+    ],
+    [
+     "Dm/F",
+     "Dm"
+    ],
+    [
+     "A7"
+    ]
+   ]
+  },
+  {
+   "name": "B",
+   "tonic": "Am",
+   "bars": "16–26",
+   "sequence": [
+    [
+     "Dm",
+     "A7"
+    ],
+    [
+     "Dm"
+    ],
+    [
+     "C7/Bb"
+    ],
+    [
+     "F/A",
+     "F"
+    ],
+    [],
+    [
+     "Am"
+    ],
+    [
+     "D7/F#"
+    ],
+    [],
+    [
+     "E7"
+    ],
+    [
+     "A7/C#",
+     "A7"
+    ],
+    [
+     "Bb"
+    ]
+   ]
+  },
+  {
+   "name": "C",
+   "tonic": "C",
+   "bars": "27–51",
+   "sequence": [
+    [
+     "F",
+     "D7"
+    ],
+    [
+     "G7"
+    ],
+    [
+     "C7"
+    ],
+    [
+     "F",
+     "D7"
+    ],
+    [
+     "Gm",
+     "C7"
+    ],
+    [
+     "F",
+     "A7"
+    ],
+    [
+     "Dm",
+     "F7"
+    ],
+    [],
+    [
+     "Bb"
+    ],
+    [
+     "F7/A"
+    ],
+    [],
+    [],
+    [],
+    [
+     "Gm",
+     "A7"
+    ],
+    [
+     "Dm",
+     "A7"
+    ],
+    [
+     "Dm",
+     "F7"
+    ],
+    [
+     "Bb"
+    ],
+    [
+     "Fm/Ab"
+    ],
+    [
+     "G7"
+    ],
+    [
+     "Cm"
+    ],
+    [
+     "Ebm6"
+    ],
+    [
+     "G7"
+    ],
+    [
+     "Cm",
+     "F7"
+    ],
+    [
+     "Bb",
+     "F7"
+    ],
+    [
+     "Bb",
+     "A7"
+    ]
+   ]
+  }
+ ],
+ "notes": [
+  "Grille générée automatiquement depuis le texte du PDF : à vérifier.",
+  "Reprises et fins non détectées : les mesures sont dans l'ordre d'écriture."
+ ],
+ "confidence": "low",
+ "source": [
+  "pdf/João Lyra - Spok fraseando - Theme - C.pdf"
+ ],
+ "generated": "pdf"
+}

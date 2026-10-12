@@ -1,0 +1,226 @@
+{
+ "song_id": "polca-em-do-no2-viriato-figueira",
+ "title": "Polca em dó nº2",
+ "composer": "Viriato Figueira",
+ "transposition": "c",
+ "meter": "2/4",
+ "form": "A (reprise) — B (reprise) — C (reprise)",
+ "parts": [
+  {
+   "name": "A",
+   "tonic": "C",
+   "bars": "0–16",
+   "repeat": true,
+   "sequence": [
+    [
+     "G7",
+     "G7/B"
+    ],
+    [
+     "C",
+     "C/E"
+    ],
+    [
+     "G7/D",
+     "G7"
+    ],
+    [
+     "C",
+     "C/E"
+    ],
+    [
+     "G7",
+     "G7/B"
+    ],
+    [
+     "C",
+     "Am"
+    ],
+    [
+     "Em/G",
+     "B7/F#"
+    ],
+    [
+     "Em"
+    ],
+    [
+     "G7",
+     "G7/B"
+    ],
+    [
+     "C",
+     "C/E"
+    ],
+    [
+     "G7/D",
+     "G7"
+    ],
+    [
+     "C",
+     "C/E"
+    ],
+    [
+     "G7",
+     "G7/B"
+    ],
+    [
+     "C",
+     "Dm/F"
+    ],
+    [
+     "C/G",
+     "G7"
+    ],
+    [
+     "C",
+     "G7",
+     "C"
+    ]
+   ]
+  },
+  {
+   "name": "B",
+   "tonic": "Am",
+   "bars": "17–X1",
+   "repeat": true,
+   "sequence": [
+    [
+     "Am",
+     "E7/B",
+     "Am/C",
+     "Dm6"
+    ],
+    [
+     "Am/E",
+     "E/D",
+     "Am/C"
+    ],
+    [
+     "E7/B",
+     "E7(b9)"
+    ],
+    [
+     "Am",
+     "Am/E"
+    ],
+    [
+     "Am",
+     "E7/B",
+     "Am/C",
+     "Dm6"
+    ],
+    [
+     "Am/E",
+     "Am/G"
+    ],
+    [
+     "Dm6/F",
+     "E7"
+    ]
+   ],
+   "endings": {
+    "1": [
+     [
+      "Am",
+      "E7",
+      "Am"
+     ]
+    ],
+    "2": [
+     [
+      "Am"
+     ]
+    ]
+   }
+  },
+  {
+   "name": "C",
+   "tonic": "F",
+   "bars": "26–43",
+   "repeat": true,
+   "sequence": [
+    [
+     "F",
+     "F/A"
+    ],
+    [
+     "Gm",
+     "Gm/F"
+    ],
+    [
+     "C7sus4",
+     "C7"
+    ],
+    [
+     "F",
+     "F/C"
+    ],
+    [
+     "F",
+     "F/A"
+    ],
+    [
+     "Gm/B",
+     "Gm/D"
+    ],
+    [
+     "Gm7b5"
+    ],
+    [
+     "F",
+     "C7"
+    ],
+    [
+     "F",
+     "F/A"
+    ],
+    [
+     "Gm",
+     "Gm/F"
+    ],
+    [
+     "C7sus4",
+     "C7"
+    ],
+    [
+     "F",
+     "F/C"
+    ],
+    [
+     "F",
+     "F/A"
+    ],
+    [
+     "Gm/Bb",
+     "Gm/D"
+    ],
+    [
+     "Gm7b5",
+     "C7"
+    ],
+    []
+   ],
+   "endings": {
+    "1": [
+     [
+      "F",
+      "C7"
+     ]
+    ],
+    "2": [
+     [
+      "F"
+     ]
+    ]
+   }
+  }
+ ],
+ "notes": [
+  "Grille générée automatiquement depuis la partition MusicXML : à vérifier."
+ ],
+ "confidence": "medium",
+ "source": [
+  "mxl/C/Viriato Figueira - Polca em dó nº2 - Theme - C.mxl"
+ ],
+ "generated": "mxl"
+}

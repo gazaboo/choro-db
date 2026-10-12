@@ -1,0 +1,209 @@
+{
+ "song_id": "serpentina-nelson-alves",
+ "title": "Serpentina",
+ "composer": "Nelson Alves",
+ "transposition": "c",
+ "meter": "2/4",
+ "form": "A — B — C — D",
+ "parts": [
+  {
+   "name": "A",
+   "tonic": "C",
+   "bars": "1–4",
+   "sequence": [
+    [
+     "Bb"
+    ],
+    [
+     "F/C",
+     "D7"
+    ],
+    [
+     "G7"
+    ],
+    [
+     "C7"
+    ]
+   ]
+  },
+  {
+   "name": "B",
+   "tonic": "C",
+   "bars": "5–18",
+   "sequence": [
+    [],
+    [
+     "F",
+     "D7/F#"
+    ],
+    [
+     "Gm"
+    ],
+    [],
+    [
+     "F"
+    ],
+    [
+     "F"
+    ],
+    [
+     "C/G",
+     "A7"
+    ],
+    [
+     "D7",
+     "G7"
+    ],
+    [
+     "C7"
+    ],
+    [
+     "F",
+     "D7/F#"
+    ],
+    [
+     "Gm"
+    ],
+    [],
+    [
+     "F"
+    ],
+    [
+     "F7",
+     "F7/Eb"
+    ]
+   ]
+  },
+  {
+   "name": "C",
+   "tonic": "C",
+   "bars": "21–38",
+   "sequence": [
+    [
+     "F",
+     "C7"
+    ],
+    [
+     "F"
+    ],
+    [],
+    [],
+    [
+     "C/E"
+    ],
+    [],
+    [
+     "Dm"
+    ],
+    [
+     "F"
+    ],
+    [
+     "C/G",
+     "A7"
+    ],
+    [
+     "D7",
+     "D7/C"
+    ],
+    [
+     "G7/B"
+    ],
+    [],
+    [
+     "C/E"
+    ],
+    [],
+    [
+     "Dm"
+    ],
+    [
+     "F"
+    ],
+    [
+     "C/G",
+     "A7"
+    ],
+    [
+     "D7",
+     "G7"
+    ]
+   ]
+  },
+  {
+   "name": "D",
+   "tonic": "C",
+   "bars": "39–57",
+   "sequence": [
+    [
+     "C"
+    ],
+    [
+     "C",
+     "C7"
+    ],
+    [
+     "F",
+     "F7"
+    ],
+    [],
+    [
+     "Bb"
+    ],
+    [
+     "F/A"
+    ],
+    [
+     "Bb7/Ab"
+    ],
+    [
+     "Eb/G"
+    ],
+    [
+     "Ebm/Gb"
+    ],
+    [
+     "Bb/F"
+    ],
+    [
+     "C7/E"
+    ],
+    [
+     "F7/Eb"
+    ],
+    [
+     "Bb"
+    ],
+    [
+     "F/A"
+    ],
+    [
+     "Bb7/Ab"
+    ],
+    [
+     "Eb/G"
+    ],
+    [
+     "Ebm/Gb"
+    ],
+    [
+     "Bb/F",
+     "G7"
+    ],
+    [
+     "C7",
+     "F7"
+    ]
+   ]
+  }
+ ],
+ "notes": [
+  "Grille générée automatiquement depuis le texte du PDF : à vérifier.",
+  "Reprises et fins non détectées : les mesures sont dans l'ordre d'écriture."
+ ],
+ "confidence": "low",
+ "source": [
+  "pdf/Nelson Alves - Serpentina - Theme - C.pdf"
+ ],
+ "generated": "pdf"
+}

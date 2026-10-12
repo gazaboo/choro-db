@@ -1,0 +1,178 @@
+{
+ "song_id": "o-coco-do-coco-guinga",
+ "title": "O coco do coco",
+ "composer": "Guinga",
+ "transposition": "c",
+ "meter": "2/4",
+ "form": "A (reprise) — B (reprise) — C",
+ "parts": [
+  {
+   "name": "A",
+   "tonic": "G",
+   "bars": "0–4",
+   "repeat": true,
+   "sequence": [
+    [
+     "Gmaj7"
+    ],
+    [
+     "Bbdim"
+    ],
+    [
+     "Am7",
+     "D7"
+    ],
+    [
+     "G"
+    ]
+   ]
+  },
+  {
+   "name": "B",
+   "tonic": "G",
+   "bars": "5–13",
+   "repeat": true,
+   "sequence": [
+    [
+     "Gmaj7"
+    ],
+    [
+     "Am7"
+    ],
+    [
+     "Bbdim",
+     "Am7"
+    ],
+    [
+     "G(9)"
+    ],
+    [
+     "Gmaj7"
+    ],
+    [
+     "Am7"
+    ],
+    [
+     "Bbdim",
+     "Am7"
+    ]
+   ],
+   "endings": {
+    "1": [
+     [
+      "G(9)"
+     ]
+    ],
+    "2": [
+     [
+      "Gmaj7",
+      "G/B"
+     ]
+    ]
+   }
+  },
+  {
+   "name": "C",
+   "tonic": "G",
+   "bars": "14–36",
+   "repeat": false,
+   "sequence": [
+    [
+     "Am7",
+     "G",
+     "G/B"
+    ],
+    [
+     "Am7",
+     "G",
+     "G/B"
+    ],
+    [
+     "Am7",
+     "G"
+    ],
+    [
+     "Am7(9)",
+     "E7/G#"
+    ],
+    [
+     "Am7(9)",
+     "E7/G#"
+    ],
+    [
+     "Am7(9)",
+     "D7/F#"
+    ],
+    [
+     "Eb7/G"
+    ],
+    [
+     "G(9)",
+     "G/B"
+    ],
+    [
+     "Am7",
+     "G",
+     "G/B"
+    ],
+    [
+     "Am7",
+     "G"
+    ],
+    [
+     "G7"
+    ],
+    [
+     "C"
+    ],
+    [
+     "Cmaj7",
+     "C#dim"
+    ],
+    [
+     "G/D",
+     "E7/G#"
+    ],
+    [
+     "Eb7/G",
+     "D7/F#"
+    ],
+    [
+     "G/F"
+    ],
+    [
+     "Cmaj7",
+     "C#dim"
+    ],
+    [
+     "G/D",
+     "E7/G#"
+    ],
+    [
+     "Eb7/G",
+     "D7/F#"
+    ],
+    [
+     "G",
+     "E7/G#"
+    ],
+    [
+     "Eb7/G",
+     "D7/F#"
+    ],
+    [
+     "G"
+    ],
+    []
+   ]
+  }
+ ],
+ "notes": [
+  "Grille générée automatiquement depuis la partition MusicXML : à vérifier."
+ ],
+ "confidence": "medium",
+ "source": [
+  "mxl/C/Guinga - O coco do coco - Theme - C.mxl"
+ ],
+ "generated": "mxl"
+}

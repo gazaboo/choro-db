@@ -1,0 +1,163 @@
+{
+ "song_id": "urtigao-luciana-rabello",
+ "title": "Urtigão",
+ "composer": "Luciana Rabello",
+ "transposition": "c",
+ "meter": "2/4",
+ "form": "A — B — C",
+ "parts": [
+  {
+   "name": "A",
+   "tonic": "C",
+   "bars": "1–15",
+   "sequence": [
+    [
+     "Bbm6",
+     "A7",
+     "E7(b9)"
+    ],
+    [
+     "Dm",
+     "Fm6"
+    ],
+    [],
+    [
+     "D7"
+    ],
+    [
+     "Gm"
+    ],
+    [],
+    [
+     "Bb7",
+     "A7"
+    ],
+    [],
+    [],
+    [
+     "Dm",
+     "Fm6"
+    ],
+    [],
+    [
+     "Gm",
+     "Bb/Ab"
+    ],
+    [],
+    [],
+    [
+     "Dm"
+    ]
+   ]
+  },
+  {
+   "name": "B",
+   "tonic": "C",
+   "bars": "16–30",
+   "sequence": [
+    [],
+    [
+     "G7"
+    ],
+    [
+     "C7"
+    ],
+    [
+     "F6"
+    ],
+    [],
+    [
+     "Dm"
+    ],
+    [],
+    [
+     "D7"
+    ],
+    [
+     "Gm",
+     "C7"
+    ],
+    [],
+    [],
+    [
+     "D7"
+    ],
+    [
+     "Gm",
+     "Bb/Ab"
+    ],
+    [],
+    [
+     "G7",
+     "C7"
+    ]
+   ]
+  },
+  {
+   "name": "C",
+   "tonic": "C",
+   "bars": "31–49",
+   "sequence": [
+    [
+     "F6"
+    ],
+    [
+     "A7",
+     "Dm"
+    ],
+    [],
+    [
+     "D"
+    ],
+    [
+     "A/C#"
+    ],
+    [
+     "Bm"
+    ],
+    [],
+    [
+     "G6"
+    ],
+    [
+     "D6/A"
+    ],
+    [
+     "E7"
+    ],
+    [
+     "A7"
+    ],
+    [
+     "D"
+    ],
+    [],
+    [],
+    [
+     "F#7"
+    ],
+    [
+     "G6"
+    ],
+    [],
+    [
+     "E7",
+     "A7"
+    ],
+    [
+     "D",
+     "A7"
+    ]
+   ]
+  }
+ ],
+ "notes": [
+  "Grille générée automatiquement depuis le texte du PDF : à vérifier.",
+  "Reprises et fins non détectées : les mesures sont dans l'ordre d'écriture."
+ ],
+ "confidence": "low",
+ "source": [
+  "pdf/Luciana Rabello - Urtigão - Theme - C.pdf"
+ ],
+ "generated": "pdf"
+}

@@ -1,0 +1,209 @@
+{
+ "song_id": "solucos-pixinguinha",
+ "title": "Soluços",
+ "composer": "Pixinguinha",
+ "transposition": "c",
+ "meter": "2/4",
+ "form": "A — B — C — D",
+ "parts": [
+  {
+   "name": "A",
+   "tonic": "C",
+   "bars": "1–14",
+   "sequence": [
+    [
+     "Dm"
+    ],
+    [
+     "Dm/F"
+    ],
+    [
+     "Gm"
+    ],
+    [
+     "Gm/Bb"
+    ],
+    [
+     "Gm6"
+    ],
+    [
+     "Dm/F"
+    ],
+    [],
+    [],
+    [
+     "G/F"
+    ],
+    [
+     "F",
+     "Bb7"
+    ],
+    [
+     "A7"
+    ],
+    [
+     "Dm"
+    ],
+    [
+     "Bb"
+    ],
+    [
+     "Dm",
+     "Dm/C"
+    ]
+   ]
+  },
+  {
+   "name": "B",
+   "tonic": "C",
+   "bars": "16–30",
+   "sequence": [
+    [],
+    [
+     "Dm"
+    ],
+    [
+     "Dm/F"
+    ],
+    [
+     "Gm"
+    ],
+    [
+     "Gm/Bb"
+    ],
+    [
+     "Gm6"
+    ],
+    [
+     "Dm/F"
+    ],
+    [],
+    [
+     "A/G"
+    ],
+    [
+     "G/F"
+    ],
+    [
+     "F",
+     "Bb7"
+    ],
+    [],
+    [
+     "Dm"
+    ],
+    [
+     "Bb"
+    ],
+    [
+     "Dm",
+     "Dm/C"
+    ]
+   ]
+  },
+  {
+   "name": "C",
+   "tonic": "Am",
+   "bars": "32–45",
+   "sequence": [
+    [
+     "Dm"
+    ],
+    [],
+    [],
+    [
+     "F"
+    ],
+    [],
+    [],
+    [
+     "G7/B",
+     "Am"
+    ],
+    [
+     "Dm",
+     "D7/F#"
+    ],
+    [
+     "Gm"
+    ],
+    [],
+    [
+     "F"
+    ],
+    [
+     "Gb"
+    ],
+    [
+     "F",
+     "Db(#5)"
+    ],
+    [
+     "Bb/D"
+    ]
+   ]
+  },
+  {
+   "name": "D",
+   "tonic": "C",
+   "bars": "46–65",
+   "sequence": [
+    [
+     "F"
+    ],
+    [
+     "F"
+    ],
+    [
+     "Dm"
+    ],
+    [],
+    [
+     "D"
+    ],
+    [
+     "D/F#"
+    ],
+    [
+     "B7"
+    ],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [
+     "D"
+    ],
+    [
+     "D/F#"
+    ],
+    [
+     "Bb"
+    ],
+    [
+     "A"
+    ],
+    [
+     "G"
+    ],
+    [
+     "D"
+    ],
+    [],
+    [
+     "Dm"
+    ]
+   ]
+  }
+ ],
+ "notes": [
+  "Grille générée automatiquement depuis le texte du PDF : à vérifier.",
+  "Reprises et fins non détectées : les mesures sont dans l'ordre d'écriture."
+ ],
+ "confidence": "low",
+ "source": [
+  "pdf/Pixinguinha - Soluços - Theme - C - variant 1.pdf"
+ ],
+ "generated": "pdf"
+}

@@ -1,0 +1,208 @@
+{
+ "song_id": "o-cavaco-do-quincas-indio-do-cavaquinho",
+ "title": "O cavaco do Quincas",
+ "composer": "Índio do Cavaquinho",
+ "transposition": "c",
+ "meter": "2/4",
+ "form": "A (reprise) — B (reprise) — Coda — C",
+ "parts": [
+  {
+   "name": "A",
+   "tonic": "D",
+   "bars": "5–21",
+   "repeat": true,
+   "sequence": [
+    [
+     "Em7",
+     "A7"
+    ],
+    [
+     "D6",
+     "Bm7"
+    ],
+    [
+     "Em7",
+     "A7"
+    ],
+    [
+     "Am6",
+     "D7"
+    ],
+    [
+     "Gm7",
+     "C7"
+    ],
+    [
+     "Bb6"
+    ],
+    [
+     "E7"
+    ],
+    [
+     "A7"
+    ],
+    [
+     "Em7",
+     "A7"
+    ],
+    [
+     "D6",
+     "Bm7"
+    ],
+    [
+     "Em7",
+     "A7"
+    ],
+    [
+     "Am6",
+     "D7"
+    ],
+    [
+     "Gm7",
+     "C7"
+    ],
+    [
+     "Bb6"
+    ],
+    [
+     "E7",
+     "A7"
+    ]
+   ],
+   "endings": {
+    "1": [
+     [
+      "D6"
+     ],
+     [
+      "D6",
+      "E7"
+     ]
+    ]
+   }
+  },
+  {
+   "name": "B",
+   "tonic": "G",
+   "bars": "22–39",
+   "repeat": true,
+   "sequence": [
+    [
+     "Am7",
+     "D7"
+    ],
+    [
+     "G6",
+     "Em7"
+    ],
+    [
+     "Am7",
+     "B7"
+    ],
+    [
+     "E7"
+    ],
+    [
+     "Am",
+     "Cm6"
+    ],
+    [
+     "G/B",
+     "G6"
+    ],
+    [
+     "A7",
+     "A/G"
+    ],
+    [
+     "D/F#",
+     "E7"
+    ],
+    [
+     "Am7",
+     "D7"
+    ],
+    [
+     "G6",
+     "Em7"
+    ],
+    [
+     "Am7",
+     "B7"
+    ],
+    [
+     "E7"
+    ],
+    [
+     "Am",
+     "Cm6"
+    ],
+    [
+     "G/B",
+     "Em7"
+    ],
+    [
+     "Am7",
+     "D7"
+    ],
+    []
+   ],
+   "endings": {
+    "1": [
+     [
+      "G",
+      "E7"
+     ]
+    ],
+    "2": [
+     [
+      "G"
+     ]
+    ]
+   }
+  },
+  {
+   "name": "Coda",
+   "tonic": "Bm",
+   "bars": "40–42",
+   "repeat": false,
+   "sequence": [
+    [
+     "D"
+    ],
+    [
+     "Em",
+     "A7"
+    ],
+    [
+     "D6",
+     "Bm7"
+    ]
+   ]
+  },
+  {
+   "name": "C",
+   "tonic": "D",
+   "bars": "43–45",
+   "repeat": false,
+   "sequence": [
+    [
+     "Em",
+     "A7"
+    ],
+    [
+     "D6"
+    ],
+    []
+   ]
+  }
+ ],
+ "notes": [
+  "Grille générée automatiquement depuis la partition MusicXML : à vérifier."
+ ],
+ "confidence": "medium",
+ "source": [
+  "mxl/C/Índio do Cavaquinho - O cavaco do Quincas - Theme - C.mxl"
+ ],
+ "generated": "mxl"
+}

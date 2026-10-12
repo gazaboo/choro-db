@@ -1,0 +1,121 @@
+{
+ "song_id": "so-nos-dois-rossini-ferreira",
+ "title": "Só nós dois",
+ "composer": "Rossini Ferreira",
+ "transposition": "c",
+ "meter": "2/4",
+ "form": "A — B",
+ "parts": [
+  {
+   "name": "A",
+   "tonic": "Am",
+   "bars": "1–15",
+   "sequence": [
+    [
+     "G"
+    ],
+    [],
+    [
+     "D/C"
+    ],
+    [
+     "G/B"
+    ],
+    [
+     "G"
+    ],
+    [
+     "A7"
+    ],
+    [],
+    [
+     "D7"
+    ],
+    [
+     "Eb7"
+    ],
+    [
+     "Ab"
+    ],
+    [
+     "D7"
+    ],
+    [
+     "G"
+    ],
+    [
+     "Am"
+    ],
+    [
+     "G"
+    ],
+    [
+     "A7"
+    ]
+   ]
+  },
+  {
+   "name": "B",
+   "tonic": "C",
+   "bars": "16–33",
+   "sequence": [
+    [
+     "G"
+    ],
+    [
+     "G"
+    ],
+    [],
+    [],
+    [
+     "C6"
+    ],
+    [
+     "G7"
+    ],
+    [],
+    [
+     "F6",
+     "Fm6"
+    ],
+    [
+     "C/E",
+     "Cm6/Eb"
+    ],
+    [
+     "G/D"
+    ],
+    [
+     "G"
+    ],
+    [],
+    [
+     "C6"
+    ],
+    [],
+    [
+     "F6"
+    ],
+    [
+     "Dm6/F"
+    ],
+    [
+     "Am"
+    ],
+    [
+     "Dm",
+     "G7"
+    ]
+   ]
+  }
+ ],
+ "notes": [
+  "Grille générée automatiquement depuis le texte du PDF : à vérifier.",
+  "Reprises et fins non détectées : les mesures sont dans l'ordre d'écriture."
+ ],
+ "confidence": "low",
+ "source": [
+  "pdf/Rossini Ferreira - Só nós dois - Theme - C.pdf"
+ ],
+ "generated": "pdf"
+}

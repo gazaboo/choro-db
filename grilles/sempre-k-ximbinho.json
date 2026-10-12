@@ -1,0 +1,122 @@
+{
+ "song_id": "sempre-k-ximbinho",
+ "title": "Sempre",
+ "composer": "K Ximbinho",
+ "transposition": "c",
+ "meter": "2/4",
+ "form": "A — B",
+ "parts": [
+  {
+   "name": "A",
+   "tonic": "C",
+   "bars": "1–14",
+   "sequence": [
+    [
+     "F",
+     "D7/F#"
+    ],
+    [],
+    [
+     "C7"
+    ],
+    [
+     "F"
+    ],
+    [
+     "F",
+     "G7"
+    ],
+    [
+     "C"
+    ],
+    [
+     "G7"
+    ],
+    [
+     "C7"
+    ],
+    [
+     "F",
+     "D7/F#"
+    ],
+    [],
+    [
+     "C7"
+    ],
+    [],
+    [],
+    [
+     "F",
+     "D7"
+    ]
+   ]
+  },
+  {
+   "name": "B",
+   "tonic": "C",
+   "bars": "16–32",
+   "sequence": [
+    [
+     "F",
+     "C7"
+    ],
+    [
+     "F",
+     "A7"
+    ],
+    [
+     "Dm",
+     "A7/E"
+    ],
+    [
+     "Dm/F"
+    ],
+    [
+     "D7"
+    ],
+    [
+     "Gm"
+    ],
+    [],
+    [],
+    [],
+    [
+     "Dm",
+     "A7"
+    ],
+    [
+     "Dm",
+     "A7/E"
+    ],
+    [
+     "D7/F#"
+    ],
+    [
+     "D7"
+    ],
+    [
+     "Gm"
+    ],
+    [
+     "Em7(b5)"
+    ],
+    [
+     "Dm"
+    ],
+    [
+     "Eb",
+     "A7"
+    ]
+   ]
+  }
+ ],
+ "notes": [
+  "Grille générée automatiquement depuis le texte du PDF : à vérifier.",
+  "Reprises et fins non détectées : les mesures sont dans l'ordre d'écriture."
+ ],
+ "confidence": "low",
+ "source": [
+  "pdf/K Ximbinho - Sempre - Theme - C - variant 1.pdf"
+ ],
+ "generated": "pdf"
+}

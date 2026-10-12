@@ -1,0 +1,225 @@
+{
+ "song_id": "rastape-no-chaparral-eduardo-neves",
+ "title": "Rastapé no Chaparral",
+ "composer": "Eduardo Neves",
+ "transposition": "c",
+ "meter": "2/4",
+ "form": "A — B — C — D — Coda",
+ "parts": [
+  {
+   "name": "A",
+   "tonic": "C",
+   "bars": "1–11",
+   "sequence": [
+    [
+     "Bm7(b5)"
+    ],
+    [
+     "Bb7(#11)"
+    ],
+    [
+     "B7/D#"
+    ],
+    [],
+    [
+     "Dm6"
+    ],
+    [],
+    [
+     "F#7(#11)"
+    ],
+    [
+     "F7(#11)"
+    ],
+    [
+     "F/A"
+    ],
+    [
+     "Bm7(b5)",
+     "E7(b9)"
+    ],
+    [
+     "C/G"
+    ]
+   ]
+  },
+  {
+   "name": "B",
+   "tonic": "Am",
+   "bars": "17–31",
+   "sequence": [
+    [
+     "Am"
+    ],
+    [],
+    [
+     "A7(b9)",
+     "Dm6"
+    ],
+    [],
+    [
+     "Bb7(9)"
+    ],
+    [],
+    [
+     "Gm6"
+    ],
+    [],
+    [
+     "D7/F#",
+     "E7(b9)"
+    ],
+    [
+     "F7"
+    ],
+    [],
+    [
+     "C7(9)"
+    ],
+    [
+     "F7"
+    ],
+    [],
+    [
+     "Am"
+    ]
+   ]
+  },
+  {
+   "name": "C",
+   "tonic": "C",
+   "bars": "32–66",
+   "sequence": [
+    [
+     "E7"
+    ],
+    [
+     "G7"
+    ],
+    [],
+    [
+     "C6"
+    ],
+    [
+     "Bb7(#11)",
+     "F7(13)"
+    ],
+    [
+     "C6",
+     "A7(b13)"
+    ],
+    [
+     "Db7"
+    ],
+    [
+     "C6"
+    ],
+    [
+     "F7(13)"
+    ],
+    [],
+    [],
+    [],
+    [],
+    [
+     "D7(9)"
+    ],
+    [],
+    [
+     "G7(13)"
+    ],
+    [],
+    [
+     "C6"
+    ],
+    [
+     "Db7"
+    ],
+    [
+     "C6"
+    ],
+    [
+     "F7(13)"
+    ],
+    [
+     "C6"
+    ],
+    [
+     "Db7"
+    ],
+    [
+     "B7(b9)",
+     "C6"
+    ],
+    [
+     "C7",
+     "A7(b13)"
+    ],
+    [
+     "F6"
+    ],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [
+     "D7(9)"
+    ],
+    [
+     "Db7(9)"
+    ],
+    [
+     "C6"
+    ],
+    [
+     "G7"
+    ]
+   ]
+  },
+  {
+   "name": "D",
+   "tonic": "Am",
+   "bars": "67–73",
+   "sequence": [
+    [
+     "C6",
+     "E7(b9)"
+    ],
+    [
+     "E7"
+    ],
+    [],
+    [
+     "C7(9)"
+    ],
+    [
+     "F7"
+    ],
+    [],
+    [
+     "Am"
+    ]
+   ]
+  },
+  {
+   "name": "Coda",
+   "tonic": "Am",
+   "bars": "74–74",
+   "sequence": [
+    [
+     "Am6"
+    ]
+   ]
+  }
+ ],
+ "notes": [
+  "Grille générée automatiquement depuis le texte du PDF : à vérifier.",
+  "Reprises et fins non détectées : les mesures sont dans l'ordre d'écriture."
+ ],
+ "confidence": "low",
+ "source": [
+  "pdf/Eduardo Neves - Rastapé no Chaparral - Theme - C.pdf"
+ ],
+ "generated": "pdf"
+}

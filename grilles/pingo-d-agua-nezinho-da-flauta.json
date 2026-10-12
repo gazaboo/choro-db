@@ -1,0 +1,220 @@
+{
+ "song_id": "pingo-d-agua-nezinho-da-flauta",
+ "title": "Pingo D'Agua",
+ "composer": "Nezinho da Flauta",
+ "transposition": "c",
+ "meter": "2/4",
+ "form": "A — B — C",
+ "parts": [
+  {
+   "name": "A",
+   "tonic": "Am",
+   "bars": "1–31",
+   "sequence": [
+    [
+     "Am"
+    ],
+    [
+     "Am/C"
+    ],
+    [],
+    [],
+    [
+     "Am",
+     "Am/G"
+    ],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [
+     "Dm"
+    ],
+    [],
+    [],
+    [
+     "B/A"
+    ],
+    [],
+    [],
+    [
+     "Am"
+    ],
+    [],
+    [
+     "Dm"
+    ],
+    [],
+    [
+     "Am/E"
+    ],
+    [],
+    [],
+    [],
+    [
+     "Dm"
+    ],
+    [
+     "Dm6/F"
+    ],
+    [
+     "Am/E"
+    ],
+    [
+     "Am/G"
+    ],
+    [],
+    [],
+    [
+     "Am"
+    ]
+   ]
+  },
+  {
+   "name": "B",
+   "tonic": "Am",
+   "bars": "33–54",
+   "sequence": [
+    [],
+    [
+     "A"
+    ],
+    [
+     "F#m"
+    ],
+    [
+     "Bm"
+    ],
+    [],
+    [
+     "A",
+     "A/G"
+    ],
+    [
+     "D/F#",
+     "Dm6/F"
+    ],
+    [
+     "A/E"
+    ],
+    [],
+    [
+     "Am"
+    ],
+    [
+     "Am/G"
+    ],
+    [
+     "Dm6/F"
+    ],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [
+     "C"
+    ],
+    [
+     "Am"
+    ],
+    [
+     "Bm7(b5)"
+    ],
+    [],
+    [
+     "Am"
+    ]
+   ]
+  },
+  {
+   "name": "C",
+   "tonic": "C",
+   "bars": "56–87",
+   "sequence": [
+    [],
+    [
+     "A6"
+    ],
+    [],
+    [],
+    [],
+    [
+     "F#7"
+    ],
+    [
+     "Bm"
+    ],
+    [],
+    [
+     "E/D"
+    ],
+    [
+     "A/C#"
+    ],
+    [],
+    [
+     "E/B"
+    ],
+    [],
+    [
+     "G#7"
+    ],
+    [],
+    [
+     "G#m7(b5)"
+    ],
+    [
+     "C#7/E#"
+    ],
+    [
+     "F#m"
+    ],
+    [],
+    [
+     "A"
+    ],
+    [
+     "A/G"
+    ],
+    [],
+    [
+     "C#7/G#"
+    ],
+    [
+     "F#m"
+    ],
+    [
+     "F#7/A#"
+    ],
+    [
+     "Bm"
+    ],
+    [],
+    [
+     "A"
+    ],
+    [
+     "A/G"
+    ],
+    [
+     "D/F#"
+    ],
+    [],
+    [
+     "A"
+    ]
+   ]
+  }
+ ],
+ "notes": [
+  "Grille générée automatiquement depuis le texte du PDF : à vérifier.",
+  "Reprises et fins non détectées : les mesures sont dans l'ordre d'écriture."
+ ],
+ "confidence": "low",
+ "source": [
+  "pdf/Nezinho da Flauta - Pingo D'Agua - Theme - C.pdf"
+ ],
+ "generated": "pdf"
+}

@@ -1,0 +1,219 @@
+{
+ "song_id": "picadinho-a-baiana-luperce-miranda",
+ "title": "Picadinho à baiana",
+ "composer": "Luperce Miranda",
+ "transposition": "c",
+ "meter": "2/4",
+ "form": "A (reprise) — B (reprise) — C (reprise)",
+ "parts": [
+  {
+   "name": "A",
+   "tonic": "Am",
+   "bars": "1–17",
+   "repeat": true,
+   "sequence": [
+    [
+     "C"
+    ],
+    [],
+    [
+     "C",
+     "A7"
+    ],
+    [
+     "Dm"
+    ],
+    [],
+    [
+     "G7"
+    ],
+    [],
+    [
+     "Cdim",
+     "G7"
+    ],
+    [
+     "C"
+    ],
+    [],
+    [
+     "C",
+     "A7"
+    ],
+    [
+     "Dm"
+    ],
+    [
+     "Dm7",
+     "G7"
+    ],
+    [
+     "C",
+     "Am7"
+    ],
+    [
+     "Dm",
+     "G7"
+    ]
+   ],
+   "endings": {
+    "1": [
+     [
+      "C",
+      "G7"
+     ]
+    ],
+    "2": [
+     [
+      "C",
+      "E7"
+     ]
+    ]
+   }
+  },
+  {
+   "name": "B",
+   "tonic": "Am",
+   "bars": "18–X1",
+   "repeat": true,
+   "sequence": [
+    [
+     "Am",
+     "E7/B"
+    ],
+    [
+     "Am/C"
+    ],
+    [
+     "A7"
+    ],
+    [
+     "Dm"
+    ],
+    [
+     "Bm7b5"
+    ],
+    [
+     "Am"
+    ],
+    [
+     "B7"
+    ],
+    [
+     "E7"
+    ],
+    [
+     "Am",
+     "E7/B"
+    ],
+    [
+     "Am/C"
+    ],
+    [
+     "A7"
+    ],
+    [
+     "Dm"
+    ],
+    [
+     "Bm7b5"
+    ],
+    [
+     "Am"
+    ],
+    [
+     "Bb7",
+     "E7"
+    ]
+   ],
+   "endings": {
+    "1": [
+     [
+      "Am",
+      "E7"
+     ]
+    ],
+    "2": [
+     [
+      "Am"
+     ]
+    ]
+   }
+  },
+  {
+   "name": "C",
+   "tonic": "F",
+   "bars": "36–53",
+   "repeat": true,
+   "sequence": [
+    [
+     "F"
+    ],
+    [],
+    [],
+    [
+     "C7"
+    ],
+    [
+     "A7"
+    ],
+    [
+     "Dm"
+    ],
+    [
+     "G7(9)"
+    ],
+    [
+     "C7(9)"
+    ],
+    [
+     "F"
+    ],
+    [],
+    [
+     "F7"
+    ],
+    [],
+    [
+     "Bdim"
+    ],
+    [
+     "F",
+     "Fdim"
+    ],
+    [
+     "Gm7",
+     "C7"
+    ],
+    []
+   ],
+   "endings": {
+    "1": [
+     [
+      "F",
+      "C7"
+     ]
+    ],
+    "2": [
+     [
+      "F"
+     ]
+    ]
+   },
+   "transition_in": [
+    [
+     "C",
+     "C7"
+    ]
+   ]
+  }
+ ],
+ "notes": [
+  "Grille générée automatiquement depuis la partition MusicXML : à vérifier."
+ ],
+ "confidence": "medium",
+ "source": [
+  "mxl/C/Luperce Miranda - Picadinho à baiana - Theme - C.mxl"
+ ],
+ "generated": "mxl"
+}

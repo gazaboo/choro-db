@@ -1,0 +1,201 @@
+{
+ "song_id": "vasconcelos-em-apuros-pixinguinha",
+ "title": "Vasconcelos em apuros",
+ "composer": "Pixinguinha",
+ "transposition": "c",
+ "meter": "2/4",
+ "form": "A — B — C",
+ "parts": [
+  {
+   "name": "A",
+   "tonic": "C",
+   "bars": "1–16",
+   "sequence": [
+    [
+     "F",
+     "D7/A"
+    ],
+    [
+     "G7"
+    ],
+    [
+     "C7"
+    ],
+    [
+     "F"
+    ],
+    [
+     "F/A",
+     "E7/G#"
+    ],
+    [],
+    [
+     "G7"
+    ],
+    [
+     "C7"
+    ],
+    [
+     "F",
+     "D7/A"
+    ],
+    [
+     "G7"
+    ],
+    [
+     "A7"
+    ],
+    [
+     "Dm"
+    ],
+    [
+     "Bb"
+    ],
+    [
+     "F/A",
+     "D7/F#"
+    ],
+    [
+     "G7",
+     "C7"
+    ],
+    [
+     "F"
+    ]
+   ]
+  },
+  {
+   "name": "B",
+   "tonic": "C",
+   "bars": "17–33",
+   "sequence": [
+    [],
+    [
+     "A7"
+    ],
+    [
+     "Dm"
+    ],
+    [
+     "D/C"
+    ],
+    [
+     "Gm/Bb",
+     "D7/A"
+    ],
+    [
+     "Gm",
+     "Gm6"
+    ],
+    [
+     "Dm",
+     "Dm/C"
+    ],
+    [
+     "E7/B",
+     "Bb7"
+    ],
+    [
+     "A7"
+    ],
+    [
+     "A7"
+    ],
+    [
+     "Dm"
+    ],
+    [
+     "D/C"
+    ],
+    [
+     "Gm/Bb",
+     "D7/A"
+    ],
+    [
+     "Gm",
+     "Gm6"
+    ],
+    [
+     "Dm",
+     "Dm/C"
+    ],
+    [
+     "E7/B",
+     "A7"
+    ],
+    [
+     "Dm"
+    ]
+   ]
+  },
+  {
+   "name": "C",
+   "tonic": "C",
+   "bars": "34–50",
+   "sequence": [
+    [],
+    [
+     "F7"
+    ],
+    [
+     "Bb",
+     "Fm6/Ab"
+    ],
+    [
+     "G7",
+     "G7/B"
+    ],
+    [
+     "Cm"
+    ],
+    [
+     "Cm"
+    ],
+    [
+     "Bb",
+     "Bbm6/Db"
+    ],
+    [
+     "F/C"
+    ],
+    [
+     "F7"
+    ],
+    [
+     "F7/A"
+    ],
+    [
+     "Bb7"
+    ],
+    [
+     "Bb7",
+     "Bb/Ab"
+    ],
+    [
+     "Eb/G"
+    ],
+    [],
+    [
+     "Bb/F",
+     "G7"
+    ],
+    [
+     "C7",
+     "F7"
+    ],
+    [
+     "Bb"
+    ]
+   ]
+  }
+ ],
+ "notes": [
+  "Grille générée automatiquement depuis le texte du PDF : à vérifier.",
+  "Reprises et fins non détectées : les mesures sont dans l'ordre d'écriture."
+ ],
+ "confidence": "low",
+ "source": [
+  "pdf/Pixinguinha - Vasconcelos em apuros - Theme - C.pdf"
+ ],
+ "generated": "pdf"
+}

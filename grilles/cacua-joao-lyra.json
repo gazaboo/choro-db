@@ -1,0 +1,168 @@
+{
+ "song_id": "cacua-joao-lyra",
+ "title": "Caçuá",
+ "composer": "João Lyra",
+ "transposition": "c",
+ "meter": "2/4",
+ "form": "A (reprise) — B",
+ "parts": [
+  {
+   "name": "A",
+   "tonic": "Bb",
+   "bars": "0–18",
+   "repeat": true,
+   "sequence": [
+    [
+     "Gm"
+    ],
+    [],
+    [
+     "C/G",
+     "Cm/G"
+    ],
+    [
+     "Gm"
+    ],
+    [],
+    [],
+    [
+     "C/G",
+     "Cm/G"
+    ],
+    [
+     "Gm"
+    ],
+    [
+     "Bb"
+    ],
+    [
+     "A7(b9)"
+    ],
+    [
+     "Fm6/Ab"
+    ],
+    [
+     "G7(b9)"
+    ],
+    [
+     "Ebm6/Gb"
+    ],
+    [
+     "F7(b9)"
+    ],
+    []
+   ],
+   "endings": {
+    "1": [
+     [
+      "Bb6"
+     ],
+     [
+      "Am7(11)",
+      "D7"
+     ]
+    ],
+    "2": [
+     [
+      "Bb6"
+     ]
+    ]
+   }
+  },
+  {
+   "name": "B",
+   "tonic": "Gm",
+   "bars": "19–49",
+   "repeat": false,
+   "sequence": [
+    [
+     "C/Bb"
+    ],
+    [],
+    [
+     "Ebm6/Bb"
+    ],
+    [],
+    [
+     "Fm6/Ab"
+    ],
+    [],
+    [
+     "G7(b9)"
+    ],
+    [],
+    [
+     "Eb/Db"
+    ],
+    [],
+    [
+     "Gm"
+    ],
+    [
+     "Gm/F"
+    ],
+    [
+     "Em7b5"
+    ],
+    [
+     "A7(b13)"
+    ],
+    [
+     "Dmaj7"
+    ],
+    [
+     "D7(b9)"
+    ],
+    [
+     "Ebmaj7"
+    ],
+    [
+     "Em7b5"
+    ],
+    [
+     "Dm/F"
+    ],
+    [
+     "D7/F#"
+    ],
+    [
+     "Eb6/G"
+    ],
+    [
+     "Dm/F"
+    ],
+    [
+     "Eb"
+    ],
+    [
+     "G7/D"
+    ],
+    [
+     "Ab/C"
+    ],
+    [
+     "Gm/Bb"
+    ],
+    [
+     "Am7(11)"
+    ],
+    [
+     "Ab7(9)"
+    ],
+    [
+     "Gm"
+    ],
+    [],
+    []
+   ]
+  }
+ ],
+ "notes": [
+  "Grille générée automatiquement depuis la partition MusicXML : à vérifier."
+ ],
+ "confidence": "medium",
+ "source": [
+  "mxl/C/João Lyra - Caçuá - Theme - C.mxl"
+ ],
+ "generated": "mxl"
+}

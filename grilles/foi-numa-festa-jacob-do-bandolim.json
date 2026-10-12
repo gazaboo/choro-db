@@ -1,0 +1,151 @@
+{
+ "song_id": "foi-numa-festa-jacob-do-bandolim",
+ "title": "Foi Numa Festa",
+ "composer": "Jacob do Bandolim",
+ "transposition": "c",
+ "meter": "2/4",
+ "form": "A — B",
+ "parts": [
+  {
+   "name": "A",
+   "tonic": "D",
+   "bars": "0–16",
+   "repeat": false,
+   "sequence": [
+    [
+     "D6",
+     "B7"
+    ],
+    [
+     "E7"
+    ],
+    [
+     "A7"
+    ],
+    [
+     "D6"
+    ],
+    [
+     "D6/F#",
+     "Dm6/F"
+    ],
+    [
+     "A/E"
+    ],
+    [
+     "G#m7b5",
+     "C#7"
+    ],
+    [
+     "F#m",
+     "A7"
+    ],
+    [
+     "D6",
+     "B7"
+    ],
+    [
+     "E7(9)"
+    ],
+    [
+     "A7"
+    ],
+    [
+     "D6",
+     "D7"
+    ],
+    [
+     "G6",
+     "Gm6"
+    ],
+    [
+     "D6/F#",
+     "B7"
+    ],
+    [
+     "E7",
+     "A7"
+    ],
+    [
+     "D6",
+     "D7"
+    ]
+   ]
+  },
+  {
+   "name": "B",
+   "tonic": "G",
+   "bars": "17–32",
+   "repeat": false,
+   "sequence": [
+    [
+     "G6",
+     "D7"
+    ],
+    [
+     "G6",
+     "C7/G"
+    ],
+    [
+     "B7",
+     "B7/F#"
+    ],
+    [
+     "E7"
+    ],
+    [
+     "C6",
+     "Bbdim"
+    ],
+    [
+     "G/B",
+     "E7"
+    ],
+    [
+     "A7"
+    ],
+    [
+     "D7"
+    ],
+    [
+     "G6",
+     "D7"
+    ],
+    [
+     "G6",
+     "C7/G"
+    ],
+    [
+     "B7",
+     "B7/F#"
+    ],
+    [
+     "E7"
+    ],
+    [
+     "C",
+     "A#dim"
+    ],
+    [
+     "G/B",
+     "E7"
+    ],
+    [
+     "A7",
+     "D7"
+    ],
+    [
+     "G6"
+    ]
+   ]
+  }
+ ],
+ "notes": [
+  "Grille générée automatiquement depuis la partition MusicXML : à vérifier."
+ ],
+ "confidence": "medium",
+ "source": [
+  "mxl/C/Jacob do Bandolim - Foi Numa Festa - Theme - C.mxl"
+ ],
+ "generated": "mxl"
+}

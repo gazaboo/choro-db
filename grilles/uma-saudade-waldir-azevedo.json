@@ -1,0 +1,211 @@
+{
+ "song_id": "uma-saudade-waldir-azevedo",
+ "title": "Uma saudade",
+ "composer": "Waldir Azevedo",
+ "transposition": "c",
+ "meter": "2/4",
+ "form": "A — B — C",
+ "parts": [
+  {
+   "name": "A",
+   "tonic": "C",
+   "bars": "1–6",
+   "sequence": [
+    [
+     "Dm6"
+    ],
+    [],
+    [],
+    [],
+    [
+     "Gm"
+    ],
+    [
+     "A7"
+    ]
+   ]
+  },
+  {
+   "name": "B",
+   "tonic": "C",
+   "bars": "7–36",
+   "sequence": [
+    [
+     "Dm"
+    ],
+    [
+     "A7"
+    ],
+    [
+     "D7"
+    ],
+    [],
+    [
+     "Gm"
+    ],
+    [
+     "D7"
+    ],
+    [
+     "Gm",
+     "D7"
+    ],
+    [
+     "Gm"
+    ],
+    [
+     "A7"
+    ],
+    [],
+    [
+     "Dm"
+    ],
+    [],
+    [
+     "E7"
+    ],
+    [],
+    [
+     "Gm6"
+    ],
+    [
+     "A7"
+    ],
+    [
+     "Dm"
+    ],
+    [
+     "A7"
+    ],
+    [
+     "D7"
+    ],
+    [],
+    [
+     "Gm"
+    ],
+    [
+     "D7"
+    ],
+    [
+     "Gm",
+     "D7"
+    ],
+    [
+     "Gm"
+    ],
+    [],
+    [
+     "A7"
+    ],
+    [
+     "Dm"
+    ],
+    [],
+    [
+     "E7"
+    ],
+    [
+     "A7"
+    ]
+   ]
+  },
+  {
+   "name": "C",
+   "tonic": "C",
+   "bars": "37–72",
+   "sequence": [
+    [
+     "Dm"
+    ],
+    [
+     "Cm6"
+    ],
+    [
+     "D7"
+    ],
+    [],
+    [
+     "Gm"
+    ],
+    [],
+    [
+     "C7"
+    ],
+    [],
+    [
+     "F"
+    ],
+    [],
+    [
+     "A7"
+    ],
+    [],
+    [
+     "Dm"
+    ],
+    [],
+    [],
+    [],
+    [
+     "C7"
+    ],
+    [],
+    [],
+    [
+     "D7"
+    ],
+    [
+     "Gm"
+    ],
+    [],
+    [
+     "C7"
+    ],
+    [],
+    [
+     "F"
+    ],
+    [],
+    [
+     "A7"
+    ],
+    [],
+    [
+     "D7"
+    ],
+    [
+     "Gm"
+    ],
+    [
+     "E7"
+    ],
+    [
+     "A7"
+    ],
+    [
+     "Dm"
+    ],
+    [
+     "A7"
+    ],
+    [
+     "Dm"
+    ],
+    [
+     "Dm",
+     "Dm6"
+    ]
+   ]
+  }
+ ],
+ "notes": [
+  "Grille générée automatiquement depuis le texte du PDF : à vérifier.",
+  "Reprises et fins non détectées : les mesures sont dans l'ordre d'écriture."
+ ],
+ "confidence": "low",
+ "source": [
+  "pdf/Waldir Azevedo - Uma saudade - Theme - C.pdf"
+ ],
+ "generated": "pdf"
+}

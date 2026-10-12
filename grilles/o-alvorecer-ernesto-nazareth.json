@@ -1,0 +1,302 @@
+{
+ "song_id": "o-alvorecer-ernesto-nazareth",
+ "title": "O alvorecer",
+ "composer": "Ernesto Nazareth",
+ "transposition": "c",
+ "meter": "2/4",
+ "form": "A — B (reprise) — C (reprise) — D (reprise) — Coda",
+ "parts": [
+  {
+   "name": "A",
+   "tonic": "C",
+   "bars": "1–8",
+   "repeat": false,
+   "sequence": [
+    [
+     "G7"
+    ],
+    [
+     "C/G"
+    ],
+    [
+     "Cdim/G"
+    ],
+    [
+     "G"
+    ],
+    [
+     "G7"
+    ],
+    [
+     "Gdim"
+    ],
+    [
+     "Cdim/G"
+    ],
+    [
+     "G",
+     "G/F"
+    ]
+   ]
+  },
+  {
+   "name": "B",
+   "tonic": "Am",
+   "bars": "9–25",
+   "repeat": true,
+   "sequence": [
+    [
+     "C/E",
+     "E/D"
+    ],
+    [
+     "Am/C",
+     "Dm/F",
+     "D/F#"
+    ],
+    [
+     "C/G",
+     "G7"
+    ],
+    [
+     "C",
+     "G/F"
+    ],
+    [
+     "C/E",
+     "Gdim"
+    ],
+    [
+     "Dm/F",
+     "Adim"
+    ],
+    [
+     "Em/G",
+     "Bdim"
+    ],
+    [
+     "Am",
+     "Gdim"
+    ],
+    [
+     "Dm/F",
+     "F#dim"
+    ],
+    [
+     "C/G",
+     "Ab/Gb"
+    ],
+    [
+     "Db/F",
+     "G/F"
+    ],
+    [
+     "Edim",
+     "Dm/F",
+     "Ab/Gb"
+    ],
+    [
+     "C/G",
+     "G#dim"
+    ],
+    [
+     "Am",
+     "F#dim"
+    ],
+    [
+     "C/G",
+     "G7"
+    ]
+   ],
+   "endings": {
+    "1": [
+     [
+      "C",
+      "G/F"
+     ]
+    ],
+    "2": [
+     [
+      "C",
+      "Am/C"
+     ]
+    ]
+   }
+  },
+  {
+   "name": "C",
+   "tonic": "Am",
+   "bars": "26–43",
+   "repeat": true,
+   "sequence": [
+    [
+     "G/B",
+     "F/A"
+    ],
+    [
+     "E/G#",
+     "Dm/F"
+    ],
+    [
+     "Am/E",
+     "Ddim"
+    ],
+    [
+     "Am/C"
+    ],
+    [
+     "B7",
+     "E7"
+    ],
+    [
+     "Am"
+    ],
+    [
+     "Dm6",
+     "D#dim"
+    ],
+    [
+     "E7",
+     "Am/C"
+    ],
+    [
+     "G/B",
+     "F/A"
+    ],
+    [
+     "E/G#",
+     "C/E"
+    ],
+    [
+     "Dm6",
+     "Am/C"
+    ],
+    [
+     "G/B",
+     "Dm/F"
+    ],
+    [
+     "Am/E",
+     "E/D"
+    ],
+    [
+     "C#dim",
+     "Dm"
+    ],
+    [
+     "Am/E",
+     "E7"
+    ],
+    [
+     "C"
+    ]
+   ],
+   "endings": {
+    "1": [
+     [
+      "Am",
+      "Am/C"
+     ]
+    ],
+    "2": [
+     [
+      "Am",
+      "G/F"
+     ]
+    ]
+   }
+  },
+  {
+   "name": "D",
+   "tonic": "F",
+   "bars": "44–61",
+   "repeat": true,
+   "sequence": [
+    [
+     "C7/G"
+    ],
+    [
+     "F"
+    ],
+    [
+     "C7/G"
+    ],
+    [
+     "F"
+    ],
+    [
+     "C7/G",
+     "C7",
+     "C#dim"
+    ],
+    [
+     "Dm"
+    ],
+    [
+     "Am/E",
+     "E7"
+    ],
+    [
+     "Am"
+    ],
+    [
+     "C7/G"
+    ],
+    [
+     "F"
+    ],
+    [
+     "C7/G"
+    ],
+    [
+     "F"
+    ],
+    [
+     "C7/G",
+     "A7/E"
+    ],
+    [
+     "Dm",
+     "Bdim"
+    ],
+    [
+     "F/C",
+     "C7"
+    ],
+    []
+   ],
+   "endings": {
+    "1": [
+     [
+      "F"
+     ]
+    ],
+    "2": [
+     [
+      "F",
+      "G/F"
+     ]
+    ]
+   }
+  },
+  {
+   "name": "Coda",
+   "tonic": "C",
+   "bars": "62–62",
+   "repeat": false,
+   "sequence": [
+    [
+     "C"
+    ]
+   ]
+  }
+ ],
+ "notes": [
+  "Grille générée automatiquement depuis la partition MusicXML : à vérifier."
+ ],
+ "confidence": "medium",
+ "source": [
+  "mxl/C/Ernesto Nazareth - O alvorecer - Theme - C.mxl"
+ ],
+ "generated": "mxl"
+}

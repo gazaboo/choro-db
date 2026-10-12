@@ -1,0 +1,269 @@
+{
+ "song_id": "carrilho-assoviando-mauricio-carrilho",
+ "title": "Carrilho Assoviando",
+ "composer": "Maurício Carrilho",
+ "transposition": "c",
+ "meter": "2/4",
+ "form": "A — B (reprise) — C (reprise) — Coda",
+ "parts": [
+  {
+   "name": "A",
+   "tonic": "Dm",
+   "bars": "0–16",
+   "repeat": false,
+   "sequence": [
+    [
+     "Em7b5",
+     "A7(b9)"
+    ],
+    [
+     "Dm7",
+     "Dm/C"
+    ],
+    [
+     "Bdim",
+     "A7(b9)"
+    ],
+    [
+     "Dm",
+     "Dm/C"
+    ],
+    [
+     "Gm6/Bb",
+     "A7"
+    ],
+    [
+     "Dm",
+     "Bm7b5"
+    ],
+    [
+     "Am/C",
+     "E7/B"
+    ],
+    [
+     "Em7b5",
+     "A7"
+    ],
+    [
+     "Em7b5",
+     "A7/C#"
+    ],
+    [
+     "Dm/C",
+     "Bm7b5"
+    ],
+    [
+     "E7(b9)",
+     "A7(b9)"
+    ],
+    [
+     "Am7b5",
+     "D7/F#"
+    ],
+    [
+     "Gm",
+     "Em7b5"
+    ],
+    [
+     "Dm",
+     "Dm/C"
+    ],
+    [
+     "E7/B",
+     "Gm/Bb",
+     "A7"
+    ],
+    [
+     "D6",
+     "A7(9)"
+    ]
+   ]
+  },
+  {
+   "name": "B",
+   "tonic": "D",
+   "bars": "17–34",
+   "repeat": true,
+   "sequence": [
+    [
+     "D6/F#",
+     "Fdim"
+    ],
+    [
+     "Cmaj7/E",
+     "B7(b9)/D#"
+    ],
+    [
+     "E/D",
+     "A/C#"
+    ],
+    [
+     "D6",
+     "A7"
+    ],
+    [
+     "D6/F#",
+     "Fdim"
+    ],
+    [
+     "F#m",
+     "F#m/A"
+    ],
+    [
+     "G#7",
+     "C#7(b9)"
+    ],
+    [
+     "F#7(9)"
+    ],
+    [
+     "Em6/G",
+     "F#7"
+    ],
+    [
+     "F#m6",
+     "B7(b9)"
+    ],
+    [
+     "Em",
+     "Gm6"
+    ],
+    [
+     "D",
+     "D/C"
+    ],
+    [
+     "G/B",
+     "Gm6/Bb"
+    ],
+    [
+     "Am7(9)",
+     "B/A"
+    ],
+    [
+     "E7(9)",
+     "Gm6",
+     "A7"
+    ],
+    [
+     "Dm",
+     "Db7/Ab",
+     "C7/G"
+    ]
+   ],
+   "endings": {
+    "1": [
+     [
+      "D6",
+      "A7"
+     ]
+    ],
+    "2": [
+     [
+      "Dm6"
+     ]
+    ]
+   }
+  },
+  {
+   "name": "C",
+   "tonic": "F",
+   "bars": "35–X2",
+   "repeat": true,
+   "sequence": [
+    [
+     "F",
+     "F(#5)"
+    ],
+    [
+     "Dm/F",
+     "F#dim"
+    ],
+    [
+     "Gm",
+     "Eb6/G"
+    ],
+    [
+     "Gm6",
+     "Gm7"
+    ],
+    [
+     "G7/B",
+     "C/Bb"
+    ],
+    [
+     "F/A"
+    ],
+    [
+     "C/G",
+     "G7(9)"
+    ],
+    [
+     "C7"
+    ],
+    [
+     "F",
+     "F(#5)"
+    ],
+    [
+     "Dm/F",
+     "F7"
+    ],
+    [
+     "Bb6",
+     "D7/F#"
+    ],
+    [
+     "Gm"
+    ],
+    [
+     "G#dim",
+     "E7(b9)"
+    ],
+    [
+     "A7",
+     "D7(b9)"
+    ],
+    [
+     "G7",
+     "Bbm6/Db",
+     "C7(9)"
+    ]
+   ],
+   "endings": {
+    "1": [
+     [
+      "F6"
+     ]
+    ],
+    "2": [
+     [
+      "F6"
+     ]
+    ]
+   }
+  },
+  {
+   "name": "Coda",
+   "tonic": "Dm",
+   "bars": "52–53",
+   "repeat": false,
+   "sequence": [
+    [
+     "Bb/D"
+    ],
+    [
+     "Dm6"
+    ]
+   ]
+  }
+ ],
+ "notes": [
+  "Grille générée automatiquement depuis la partition MusicXML : à vérifier."
+ ],
+ "confidence": "medium",
+ "source": [
+  "mxl/C/Maurício Carrilho - Carrilho Assoviando - Theme - C.mxl"
+ ],
+ "generated": "mxl"
+}

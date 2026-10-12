@@ -1,0 +1,373 @@
+{
+ "song_id": "minha-gente-pixinguinha",
+ "title": "Minha gente",
+ "composer": "Pixinguinha",
+ "transposition": "c",
+ "meter": "2/4",
+ "form": "A — B — C (reprise) — Coda",
+ "parts": [
+  {
+   "name": "A",
+   "tonic": "Am",
+   "bars": "0–32",
+   "repeat": false,
+   "sequence": [
+    [
+     "C",
+     "Em7/B"
+    ],
+    [
+     "Am",
+     "Am/G"
+    ],
+    [
+     "D7/F#"
+    ],
+    [],
+    [
+     "G7/B"
+    ],
+    [
+     "G7"
+    ],
+    [
+     "C"
+    ],
+    [
+     "C/E"
+    ],
+    [
+     "C",
+     "Em7/B"
+    ],
+    [
+     "Am",
+     "F#m7b5"
+    ],
+    [
+     "Em/G"
+    ],
+    [
+     "Em"
+    ],
+    [
+     "B7/F#"
+    ],
+    [
+     "B7"
+    ],
+    [
+     "Em"
+    ],
+    [
+     "G7"
+    ],
+    [
+     "C",
+     "Em7/B"
+    ],
+    [
+     "Am",
+     "Am/G"
+    ],
+    [
+     "D7/F#"
+    ],
+    [],
+    [
+     "Bm7b5"
+    ],
+    [
+     "E7"
+    ],
+    [
+     "Am",
+     "E7/B"
+    ],
+    [
+     "Am/C",
+     "Eb7"
+    ],
+    [
+     "Ab7"
+    ],
+    [
+     "Ab/Gb"
+    ],
+    [
+     "C/G"
+    ],
+    [
+     "A7"
+    ],
+    [
+     "D7"
+    ],
+    [
+     "G7"
+    ],
+    [
+     "C"
+    ],
+    [
+     "C",
+     "E7"
+    ]
+   ]
+  },
+  {
+   "name": "B",
+   "tonic": "C",
+   "bars": "33–65",
+   "repeat": false,
+   "sequence": [
+    [
+     "Am",
+     "E7/B"
+    ],
+    [
+     "Am/C",
+     "A7/C#"
+    ],
+    [
+     "Dm",
+     "A7/E"
+    ],
+    [
+     "Dm/F"
+    ],
+    [
+     "E7/B"
+    ],
+    [
+     "E/D",
+     "E7"
+    ],
+    [
+     "Am",
+     "E7/B"
+    ],
+    [
+     "Am/C"
+    ],
+    [
+     "G7"
+    ],
+    [],
+    [
+     "Cdim"
+    ],
+    [
+     "C"
+    ],
+    [
+     "F7"
+    ],
+    [
+     "F/Eb"
+    ],
+    [
+     "E/D"
+    ],
+    [
+     "E7"
+    ],
+    [
+     "Am",
+     "E7/B"
+    ],
+    [
+     "Am/C",
+     "A7/C#"
+    ],
+    [
+     "Dm",
+     "A7/E"
+    ],
+    [
+     "Dm/F"
+    ],
+    [
+     "E7/B"
+    ],
+    [
+     "E7/G#",
+     "E7"
+    ],
+    [
+     "Am",
+     "E7/B"
+    ],
+    [
+     "Am/C"
+    ],
+    [
+     "A7/C#"
+    ],
+    [
+     "A7",
+     "A/G"
+    ],
+    [
+     "Dm/F"
+    ],
+    [
+     "Dm"
+    ],
+    [
+     "B7"
+    ],
+    [
+     "E7/G#",
+     "E7"
+    ],
+    [
+     "Am"
+    ],
+    [
+     "Am",
+     "G7"
+    ],
+    [
+     "C"
+    ]
+   ]
+  },
+  {
+   "name": "C",
+   "tonic": "F",
+   "bars": "66–X2",
+   "repeat": true,
+   "sequence": [
+    [
+     "Gm",
+     "D7/F#"
+    ],
+    [
+     "Gm",
+     "C7"
+    ],
+    [
+     "F",
+     "Am/E"
+    ],
+    [
+     "F/Eb"
+    ],
+    [
+     "Ddim"
+    ],
+    [
+     "C#dim"
+    ],
+    [
+     "Cdim"
+    ],
+    [
+     "D7/A",
+     "D7"
+    ],
+    [
+     "Gm/Bb"
+    ],
+    [
+     "Bbm6/Db"
+    ],
+    [
+     "F/C"
+    ],
+    [
+     "F/A"
+    ],
+    [
+     "G7/B"
+    ],
+    [
+     "G7"
+    ],
+    [
+     "Bbm6/Db"
+    ],
+    [
+     "C7"
+    ],
+    [
+     "D/C"
+    ],
+    [
+     "D7"
+    ],
+    [
+     "G7/B"
+    ],
+    [
+     "G7"
+    ],
+    [
+     "C7"
+    ],
+    [
+     "C/Bb"
+    ],
+    [
+     "F7/A"
+    ],
+    [
+     "F7"
+    ],
+    [
+     "Db"
+    ],
+    [],
+    [
+     "F/C"
+    ],
+    [
+     "D7"
+    ],
+    [
+     "G7/B"
+    ],
+    [
+     "C7"
+    ],
+    [
+     "F",
+     "G7"
+    ]
+   ],
+   "endings": {
+    "1": [
+     [
+      "F"
+     ],
+     []
+    ],
+    "2": [
+     [
+      "F"
+     ]
+    ]
+   }
+  },
+  {
+   "name": "Coda",
+   "tonic": "C",
+   "bars": "100–100",
+   "repeat": false,
+   "sequence": [
+    [
+     "C"
+    ]
+   ]
+  }
+ ],
+ "notes": [
+  "Grille générée automatiquement depuis la partition MusicXML : à vérifier."
+ ],
+ "confidence": "medium",
+ "source": [
+  "mxl/C/Pixinguinha - Minha gente - Theme - C.mxl"
+ ],
+ "generated": "mxl"
+}

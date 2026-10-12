@@ -1,0 +1,107 @@
+{
+ "song_id": "chorinho-pra-ele-hermeto-pascoal",
+ "title": "Chorinho Pra Ele",
+ "composer": "Hermeto Pascoal",
+ "transposition": "c",
+ "meter": "2/4",
+ "form": "A — B",
+ "parts": [
+  {
+   "name": "A",
+   "tonic": "Am",
+   "bars": "1–18",
+   "sequence": [
+    [
+     "G6",
+     "E7(9)"
+    ],
+    [
+     "Am7(9)"
+    ],
+    [
+     "D7(9)"
+    ],
+    [],
+    [
+     "F7(9)"
+    ],
+    [
+     "Am7(9)",
+     "Bbm7"
+    ],
+    [
+     "D7(9)"
+    ],
+    [],
+    [],
+    [],
+    [
+     "Eb7(9)"
+    ],
+    [],
+    [
+     "G7"
+    ],
+    [
+     "C6",
+     "Ab7"
+    ],
+    [
+     "E7",
+     "Db7"
+    ],
+    [
+     "Am7(9)"
+    ],
+    [
+     "Bb7"
+    ],
+    [
+     "Eb7"
+    ]
+   ]
+  },
+  {
+   "name": "B",
+   "tonic": "C",
+   "bars": "20–30",
+   "sequence": [
+    [
+     "F6"
+    ],
+    [
+     "F6"
+    ],
+    [
+     "Ebm7",
+     "Ab7",
+     "F#m7"
+    ],
+    [],
+    [
+     "Ebm7",
+     "Ab7"
+    ],
+    [],
+    [],
+    [],
+    [],
+    [
+     "Ebm7"
+    ],
+    [
+     "D7(9)"
+    ]
+   ]
+  }
+ ],
+ "notes": [
+  "Grille générée automatiquement depuis le texte du PDF : à vérifier.",
+  "Reprises et fins non détectées : les mesures sont dans l'ordre d'écriture."
+ ],
+ "confidence": "low",
+ "source": [
+  "pdf/Hermeto Pascoal - Chorinho Pra Ele - Theme - C.pdf"
+ ],
+ "generated": "pdf"
+}

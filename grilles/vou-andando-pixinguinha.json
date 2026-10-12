@@ -1,0 +1,272 @@
+{
+ "song_id": "vou-andando-pixinguinha",
+ "title": "Vou andando",
+ "composer": "Pixinguinha",
+ "transposition": "c",
+ "meter": "2/4",
+ "form": "A — B — C — D — Coda",
+ "parts": [
+  {
+   "name": "A",
+   "tonic": "C",
+   "bars": "1–7",
+   "sequence": [
+    [
+     "G"
+    ],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [
+     "Eb7"
+    ]
+   ]
+  },
+  {
+   "name": "B",
+   "tonic": "Am",
+   "bars": "8–24",
+   "sequence": [
+    [],
+    [
+     "G"
+    ],
+    [
+     "Am",
+     "Am/C"
+    ],
+    [
+     "D/C"
+    ],
+    [
+     "G/B"
+    ],
+    [
+     "G",
+     "Em"
+    ],
+    [
+     "Bm/F#"
+    ],
+    [
+     "F#7/C#",
+     "F#7"
+    ],
+    [
+     "Bm"
+    ],
+    [
+     "G"
+    ],
+    [
+     "Am/C",
+     "Am6/C"
+    ],
+    [
+     "B7"
+    ],
+    [
+     "E7",
+     "E/D"
+    ],
+    [
+     "Am/C"
+    ],
+    [
+     "G/B"
+    ],
+    [
+     "A7"
+    ],
+    [
+     "G"
+    ]
+   ]
+  },
+  {
+   "name": "C",
+   "tonic": "C",
+   "bars": "25–42",
+   "sequence": [
+    [
+     "G"
+    ],
+    [],
+    [
+     "A7",
+     "A/G"
+    ],
+    [
+     "D/F#"
+    ],
+    [
+     "B7"
+    ],
+    [
+     "Em"
+    ],
+    [
+     "Em/G"
+    ],
+    [
+     "D/A",
+     "D/F#"
+    ],
+    [
+     "E7"
+    ],
+    [
+     "A7"
+    ],
+    [
+     "A7"
+    ],
+    [
+     "D",
+     "D/C"
+    ],
+    [
+     "B7",
+     "B/A"
+    ],
+    [
+     "Em/G"
+    ],
+    [],
+    [],
+    [
+     "D/A",
+     "A7"
+    ],
+    [
+     "D"
+    ]
+   ]
+  },
+  {
+   "name": "D",
+   "tonic": "C",
+   "bars": "43–69",
+   "sequence": [
+    [
+     "D"
+    ],
+    [
+     "G"
+    ],
+    [],
+    [
+     "G7"
+    ],
+    [
+     "C"
+    ],
+    [
+     "C"
+    ],
+    [
+     "Dm/F"
+    ],
+    [
+     "Dm",
+     "Dm/C"
+    ],
+    [
+     "G7/B"
+    ],
+    [],
+    [
+     "C/E",
+     "C"
+    ],
+    [
+     "G7"
+    ],
+    [
+     "C"
+    ],
+    [
+     "C",
+     "Am6"
+    ],
+    [
+     "Em/B"
+    ],
+    [
+     "Em/G"
+    ],
+    [
+     "B7/F#"
+    ],
+    [
+     "B7"
+    ],
+    [],
+    [
+     "C"
+    ],
+    [
+     "E7/B"
+    ],
+    [
+     "A/G"
+    ],
+    [
+     "Dm/F",
+     "Dm/A"
+    ],
+    [],
+    [
+     "C/G",
+     "C/E",
+     "D7/F#"
+    ],
+    [
+     "G7"
+    ],
+    [
+     "C"
+    ]
+   ]
+  },
+  {
+   "name": "Coda",
+   "tonic": "Am",
+   "bars": "70–75",
+   "sequence": [
+    [
+     "C"
+    ],
+    [
+     "G",
+     "D7/A"
+    ],
+    [
+     "G/B",
+     "Am/C"
+    ],
+    [
+     "G/D",
+     "Am/E"
+    ],
+    [
+     "D7"
+    ],
+    [
+     "G"
+    ]
+   ]
+  }
+ ],
+ "notes": [
+  "Grille générée automatiquement depuis le texte du PDF : à vérifier.",
+  "Reprises et fins non détectées : les mesures sont dans l'ordre d'écriture."
+ ],
+ "confidence": "low",
+ "source": [
+  "pdf/Pixinguinha - Vou andando - Theme - C.pdf"
+ ],
+ "generated": "pdf"
+}

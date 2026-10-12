@@ -1,0 +1,280 @@
+{
+ "song_id": "remexendo-radames-gnattali",
+ "title": "Remexendo",
+ "composer": "Radamés Gnattali",
+ "transposition": "c",
+ "meter": "2/4",
+ "form": "A (reprise) — B (reprise) — C (reprise) — Coda",
+ "parts": [
+  {
+   "name": "A",
+   "tonic": "Bm",
+   "bars": "0–17",
+   "repeat": true,
+   "sequence": [
+    [
+     "D",
+     "Bm7"
+    ],
+    [
+     "Em7",
+     "A7"
+    ],
+    [
+     "D",
+     "Bm7"
+    ],
+    [
+     "Em7",
+     "A7"
+    ],
+    [
+     "F#7"
+    ],
+    [
+     "Bm7"
+    ],
+    [
+     "E7"
+    ],
+    [
+     "A7"
+    ],
+    [
+     "D",
+     "Bm7"
+    ],
+    [
+     "Em7",
+     "A7"
+    ],
+    [
+     "D",
+     "Bm7"
+    ],
+    [
+     "Em7",
+     "A7"
+    ],
+    [
+     "Am7",
+     "D7(9)"
+    ],
+    [
+     "G6",
+     "G#dim"
+    ],
+    [
+     "A7"
+    ]
+   ],
+   "endings": {
+    "1": [
+     [
+      "D6",
+      "A7(9)"
+     ]
+    ],
+    "2": [
+     [
+      "D6",
+      "F#7"
+     ]
+    ]
+   }
+  },
+  {
+   "name": "B",
+   "tonic": "D",
+   "bars": "18–36",
+   "repeat": true,
+   "sequence": [
+    [
+     "Bm"
+    ],
+    [
+     "C#7/G#"
+    ],
+    [
+     "C7/G"
+    ],
+    [
+     "Bm/F#"
+    ],
+    [
+     "Em",
+     "Gm6"
+    ],
+    [
+     "D6/F#"
+    ],
+    [
+     "C#7/G#"
+    ],
+    [
+     "F#7"
+    ],
+    [
+     "B7(b9)"
+    ],
+    [
+     "Em7"
+    ],
+    [
+     "C#7(b9)"
+    ],
+    [
+     "F#m7"
+    ],
+    [
+     "Em7"
+    ],
+    [
+     "Bm7"
+    ],
+    [
+     "C#7/G#",
+     "F#7"
+    ],
+    [],
+    [
+     "D",
+     "F7(13)",
+     "F#7(13)"
+    ]
+   ],
+   "endings": {
+    "1": [
+     [
+      "Bm"
+     ]
+    ],
+    "2": [
+     [
+      "Bm",
+      "A7(9)"
+     ]
+    ]
+   }
+  },
+  {
+   "name": "C",
+   "tonic": "G",
+   "bars": "37–54",
+   "repeat": true,
+   "sequence": [
+    [
+     "Gmaj7",
+     "E7(9)",
+     "A7(9)"
+    ],
+    [
+     "A7(9)"
+    ],
+    [
+     "Ab7(#9)"
+    ],
+    [
+     "G6"
+    ],
+    [
+     "G6",
+     "E7(9)"
+    ],
+    [
+     "A6",
+     "F#7(b9)"
+    ],
+    [
+     "Bm7",
+     "E7"
+    ],
+    [
+     "A7(9)"
+    ],
+    [
+     "Am7",
+     "D7(9)"
+    ],
+    [
+     "G6"
+    ],
+    [
+     "Cm7",
+     "F7(9)"
+    ],
+    [
+     "Bb6"
+    ],
+    [
+     "Bbdim"
+    ],
+    [
+     "G6",
+     "E7(9)"
+    ],
+    [
+     "A7",
+     "D7(b9)"
+    ],
+    []
+   ],
+   "endings": {
+    "1": [
+     [
+      "G6",
+      "F7(13)",
+      "F#7(13)"
+     ]
+    ],
+    "2": [
+     [
+      "G",
+      "A7/E"
+     ]
+    ]
+   }
+  },
+  {
+   "name": "Coda",
+   "tonic": "D",
+   "bars": "55–62",
+   "repeat": false,
+   "sequence": [
+    [
+     "G#m7b5"
+    ],
+    [
+     "Gm7"
+    ],
+    [
+     "F#m7"
+    ],
+    [
+     "Fm7"
+    ],
+    [
+     "Em7"
+    ],
+    [
+     "Eb7(#9)",
+     "A7(9)"
+    ],
+    [
+     "D6"
+    ],
+    [
+     "D6"
+    ]
+   ]
+  }
+ ],
+ "notes": [
+  "Grille générée automatiquement depuis la partition MusicXML : à vérifier."
+ ],
+ "confidence": "medium",
+ "source": [
+  "mxl/C/Radamés Gnattali - Remexendo - Theme - C.mxl"
+ ],
+ "generated": "mxl"
+}

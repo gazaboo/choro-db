@@ -1,0 +1,246 @@
+{
+ "song_id": "no-tempo-do-vovo-toco-preto",
+ "title": "No tempo do vovô",
+ "composer": "Toco Preto",
+ "transposition": "c",
+ "meter": "2/4",
+ "form": "A (reprise) — B (reprise) — C (reprise)",
+ "parts": [
+  {
+   "name": "A",
+   "tonic": "Dm",
+   "bars": "1–17",
+   "repeat": true,
+   "sequence": [
+    [
+     "F",
+     "Abdim"
+    ],
+    [
+     "Gm"
+    ],
+    [
+     "C7"
+    ],
+    [
+     "F",
+     "C7"
+    ],
+    [
+     "F",
+     "Abdim"
+    ],
+    [
+     "Gm"
+    ],
+    [
+     "C7"
+    ],
+    [
+     "F",
+     "C7"
+    ],
+    [
+     "F",
+     "Abdim"
+    ],
+    [
+     "Gm"
+    ],
+    [
+     "C7"
+    ],
+    [
+     "Am7b5",
+     "D7"
+    ],
+    [
+     "Gm",
+     "Bbm6"
+    ],
+    [
+     "F",
+     "Abdim"
+    ],
+    [
+     "Gm",
+     "C7"
+    ]
+   ],
+   "endings": {
+    "1": [
+     [
+      "F"
+     ]
+    ],
+    "2": [
+     [
+      "F",
+      "A7"
+     ]
+    ]
+   }
+  },
+  {
+   "name": "B",
+   "tonic": "F",
+   "bars": "18–X1",
+   "repeat": true,
+   "sequence": [
+    [
+     "Dm"
+    ],
+    [
+     "Bb7"
+    ],
+    [
+     "A7",
+     "A/G"
+    ],
+    [
+     "Dm/F"
+    ],
+    [
+     "Dm",
+     "Bm7b5"
+    ],
+    [
+     "Am/C"
+    ],
+    [
+     "E7"
+    ],
+    [
+     "A7",
+     "Gm6",
+     "A7"
+    ],
+    [
+     "Dm"
+    ],
+    [
+     "Bb7"
+    ],
+    [
+     "A7"
+    ],
+    [
+     "D7"
+    ],
+    [
+     "Gm",
+     "Gm6"
+    ],
+    [
+     "Dm/F",
+     "Gm6/Bb"
+    ],
+    [
+     "A7"
+    ]
+   ],
+   "endings": {
+    "1": [
+     [
+      "Dm",
+      "A7"
+     ]
+    ],
+    "2": [
+     [
+      "Dm",
+      "C7"
+     ]
+    ]
+   }
+  },
+  {
+   "name": "C",
+   "tonic": "Bb",
+   "bars": "36–53",
+   "repeat": true,
+   "sequence": [
+    [
+     "Bb"
+    ],
+    [
+     "Cm"
+    ],
+    [
+     "F7"
+    ],
+    [
+     "Bb",
+     "F7"
+    ],
+    [
+     "Bb"
+    ],
+    [
+     "F/A"
+    ],
+    [
+     "G7",
+     "C7"
+    ],
+    [
+     "F",
+     "F7"
+    ],
+    [
+     "Bb"
+    ],
+    [
+     "Cm"
+    ],
+    [
+     "D7"
+    ],
+    [
+     "G7"
+    ],
+    [
+     "Cm",
+     "Ebm6"
+    ],
+    [
+     "Bb",
+     "G7"
+    ],
+    [
+     "C7",
+     "F7"
+    ],
+    []
+   ],
+   "endings": {
+    "1": [
+     [
+      "Bb",
+      "F7"
+     ]
+    ],
+    "2": [
+     [
+      "Bb",
+      "C7"
+     ]
+    ]
+   },
+   "transition_in": [
+    [
+     "F",
+     "F7"
+    ]
+   ]
+  }
+ ],
+ "notes": [
+  "Grille générée automatiquement depuis la partition MusicXML : à vérifier."
+ ],
+ "confidence": "medium",
+ "source": [
+  "mxl/C/Toco Preto - No tempo do vovô - Theme - C.mxl"
+ ],
+ "generated": "mxl"
+}

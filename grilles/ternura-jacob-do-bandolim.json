@@ -1,0 +1,263 @@
+{
+ "song_id": "ternura-jacob-do-bandolim",
+ "title": "Ternura",
+ "composer": "Jacob do Bandolim",
+ "transposition": "c",
+ "meter": "2/4",
+ "form": "A (reprise) — B (reprise) — C (reprise) — Coda",
+ "parts": [
+  {
+   "name": "A",
+   "tonic": "F",
+   "bars": "0–17",
+   "repeat": true,
+   "sequence": [
+    [
+     "Em7b5",
+     "A7"
+    ],
+    [
+     "Dm"
+    ],
+    [
+     "Cm6/G",
+     "D7/F#"
+    ],
+    [
+     "Gm"
+    ],
+    [
+     "Bbm6",
+     "C7"
+    ],
+    [
+     "F",
+     "E7/G#"
+    ],
+    [
+     "A",
+     "E7"
+    ],
+    [
+     "A"
+    ],
+    [
+     "Gm6",
+     "A7"
+    ],
+    [
+     "Dm"
+    ],
+    [
+     "E7/B",
+     "A7"
+    ],
+    [
+     "D7"
+    ],
+    [
+     "Gm",
+     "G#dim"
+    ],
+    [
+     "Dm/A",
+     "Gm/Bb"
+    ],
+    [
+     "E7",
+     "A7/C#"
+    ]
+   ],
+   "endings": {
+    "1": [
+     [
+      "Dm"
+     ]
+    ],
+    "2": [
+     [
+      "Dm",
+      "C7"
+     ]
+    ]
+   }
+  },
+  {
+   "name": "B",
+   "tonic": "F",
+   "bars": "18–35",
+   "repeat": true,
+   "sequence": [
+    [
+     "F",
+     "D7"
+    ],
+    [
+     "G7"
+    ],
+    [
+     "C7",
+     "C/Bb"
+    ],
+    [
+     "F/A",
+     "C7"
+    ],
+    [
+     "F",
+     "Db7/Ab"
+    ],
+    [
+     "Gm"
+    ],
+    [
+     "Gm",
+     "Eb7"
+    ],
+    [
+     "C7/E"
+    ],
+    [
+     "F",
+     "D7"
+    ],
+    [
+     "Gm",
+     "Bb7"
+    ],
+    [
+     "Em7",
+     "A7"
+    ],
+    [
+     "D7"
+    ],
+    [
+     "Bbm",
+     "C7"
+    ],
+    [
+     "F",
+     "Dm"
+    ],
+    [
+     "Gm",
+     "C7"
+    ],
+    [
+     "Dm"
+    ]
+   ],
+   "endings": {
+    "1": [
+     [
+      "F",
+      "C7"
+     ]
+    ],
+    "2": [
+     [
+      "F"
+     ]
+    ]
+   }
+  },
+  {
+   "name": "C",
+   "tonic": "Bb",
+   "bars": "36–X2",
+   "repeat": true,
+   "sequence": [
+    [
+     "Bb"
+    ],
+    [
+     "Cm",
+     "D7"
+    ],
+    [
+     "Gm",
+     "Gm/F"
+    ],
+    [
+     "Cm6/Eb",
+     "D7"
+    ],
+    [
+     "Eb",
+     "Edim"
+    ],
+    [
+     "Bb/F"
+    ],
+    [
+     "Em7",
+     "A7"
+    ],
+    [
+     "Dm",
+     "F7"
+    ],
+    [
+     "Bb"
+    ],
+    [
+     "D7/A"
+    ],
+    [
+     "Fm6/Ab",
+     "G7"
+    ],
+    [
+     "C7/E"
+    ],
+    [
+     "F/Eb",
+     "F7"
+    ],
+    [
+     "Bb",
+     "Ab7",
+     "G7"
+    ],
+    [
+     "C7",
+     "Gb7",
+     "F7"
+    ]
+   ],
+   "endings": {
+    "1": [
+     [
+      "Bb",
+      "F7"
+     ]
+    ],
+    "2": [
+     [
+      "Bb"
+     ]
+    ]
+   }
+  },
+  {
+   "name": "Coda",
+   "tonic": "Dm",
+   "bars": "53–53",
+   "repeat": false,
+   "sequence": [
+    [
+     "Dm"
+    ]
+   ]
+  }
+ ],
+ "notes": [
+  "Grille générée automatiquement depuis la partition MusicXML : à vérifier."
+ ],
+ "confidence": "medium",
+ "source": [
+  "mxl/C/Jacob do Bandolim - Ternura - Theme - C.mxl"
+ ],
+ "generated": "mxl"
+}

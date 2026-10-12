@@ -1,0 +1,197 @@
+{
+ "song_id": "sugestivo-esmeraldino-sales",
+ "title": "Sugestivo",
+ "composer": "Esmeraldino Sales",
+ "transposition": "c",
+ "meter": "2/4",
+ "form": "A — B — Coda",
+ "parts": [
+  {
+   "name": "A",
+   "tonic": "Am",
+   "bars": "1–29",
+   "sequence": [
+    [
+     "C",
+     "Em/B"
+    ],
+    [
+     "Am",
+     "Am/G"
+    ],
+    [],
+    [],
+    [
+     "Abm6"
+    ],
+    [],
+    [],
+    [
+     "G7(#5)"
+    ],
+    [
+     "C"
+    ],
+    [
+     "Am"
+    ],
+    [
+     "G"
+    ],
+    [],
+    [],
+    [],
+    [
+     "Dm"
+    ],
+    [
+     "Db7(9)"
+    ],
+    [
+     "C",
+     "Em/B"
+    ],
+    [
+     "Am",
+     "Am/G"
+    ],
+    [],
+    [],
+    [
+     "Abm6"
+    ],
+    [],
+    [],
+    [
+     "C7(9)"
+    ],
+    [
+     "F"
+    ],
+    [
+     "Bb7"
+    ],
+    [
+     "C"
+    ],
+    [],
+    [
+     "Dm"
+    ]
+   ]
+  },
+  {
+   "name": "B",
+   "tonic": "C",
+   "bars": "31–66",
+   "sequence": [
+    [
+     "C"
+    ],
+    [],
+    [
+     "C"
+    ],
+    [],
+    [],
+    [
+     "C",
+     "Em/B"
+    ],
+    [
+     "Am",
+     "Am/G"
+    ],
+    [
+     "G7(#5)"
+    ],
+    [],
+    [
+     "Abm6"
+    ],
+    [],
+    [],
+    [],
+    [
+     "C"
+    ],
+    [
+     "Am"
+    ],
+    [
+     "G"
+    ],
+    [],
+    [
+     "Am"
+    ],
+    [],
+    [],
+    [
+     "Db7(9)"
+    ],
+    [
+     "C",
+     "Em/B"
+    ],
+    [
+     "Am",
+     "Am/G"
+    ],
+    [],
+    [],
+    [
+     "Abm6"
+    ],
+    [],
+    [],
+    [
+     "C7(9)"
+    ],
+    [],
+    [],
+    [
+     "C",
+     "G7(#5)"
+    ],
+    [],
+    [],
+    [],
+    [
+     "C"
+    ]
+   ]
+  },
+  {
+   "name": "Coda",
+   "tonic": "C",
+   "bars": "68–74",
+   "sequence": [
+    [
+     "Ab7"
+    ],
+    [],
+    [
+     "Db7(9)"
+    ],
+    [],
+    [
+     "C"
+    ],
+    [],
+    [
+     "C7(#11)"
+    ]
+   ]
+  }
+ ],
+ "notes": [
+  "Grille générée automatiquement depuis le texte du PDF : à vérifier.",
+  "Reprises et fins non détectées : les mesures sont dans l'ordre d'écriture."
+ ],
+ "confidence": "low",
+ "source": [
+  "pdf/Esmeraldino Sales - Sugestivo - Theme - C.pdf"
+ ],
+ "generated": "pdf"
+}

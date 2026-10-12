@@ -1,0 +1,204 @@
+{
+ "song_id": "em-ti-pensando-anacleto-de-medeiros",
+ "title": "Em ti pensando",
+ "composer": "Anacleto de Medeiros",
+ "transposition": "c",
+ "meter": "2/4",
+ "form": "A (reprise) — B (reprise) — C (reprise)",
+ "parts": [
+  {
+   "name": "A",
+   "tonic": "F",
+   "bars": "1–16",
+   "repeat": true,
+   "sequence": [
+    [
+     "F6"
+    ],
+    [
+     "G7",
+     "C7"
+    ],
+    [
+     "F6"
+    ],
+    [
+     "G7",
+     "C7"
+    ],
+    [
+     "A7"
+    ],
+    [
+     "Dm7"
+    ],
+    [
+     "G7"
+    ],
+    [
+     "C7"
+    ],
+    [
+     "F6"
+    ],
+    [
+     "G7",
+     "C7"
+    ],
+    [
+     "F6"
+    ],
+    [
+     "G7",
+     "C7"
+    ],
+    [
+     "F7"
+    ],
+    [
+     "Bb6"
+    ],
+    [
+     "F/C",
+     "G7",
+     "C7"
+    ],
+    [
+     "F",
+     "C7",
+     "F"
+    ]
+   ]
+  },
+  {
+   "name": "B",
+   "tonic": "Dm",
+   "bars": "17–X1",
+   "repeat": true,
+   "sequence": [
+    [
+     "Dm"
+    ],
+    [
+     "A7/C#"
+    ],
+    [
+     "D/C"
+    ],
+    [
+     "Gm/Bb"
+    ],
+    [
+     "Em7b5"
+    ],
+    [
+     "Dm/F"
+    ],
+    [
+     "E7"
+    ],
+    [
+     "A7"
+    ],
+    [
+     "Dm"
+    ],
+    [
+     "A7/C#"
+    ],
+    [
+     "D/C"
+    ],
+    [
+     "Gm/Bb"
+    ],
+    [
+     "Em7b5"
+    ],
+    [
+     "Dm/F"
+    ],
+    [
+     "E7",
+     "A7"
+    ],
+    [
+     "Dm",
+     "A7",
+     "Dm"
+    ]
+   ]
+  },
+  {
+   "name": "C",
+   "tonic": "Bb",
+   "bars": "33–49",
+   "repeat": true,
+   "sequence": [
+    [
+     "Bb6"
+    ],
+    [
+     "F/A"
+    ],
+    [
+     "Bb/Ab"
+    ],
+    [
+     "Eb/G"
+    ],
+    [
+     "Eb/G",
+     "Ebm/Gb"
+    ],
+    [
+     "Bb/F"
+    ],
+    [
+     "C7/E"
+    ],
+    [
+     "F7"
+    ],
+    [
+     "Bb6"
+    ],
+    [
+     "F/A"
+    ],
+    [
+     "Bb/Ab"
+    ],
+    [
+     "Eb/G"
+    ],
+    [
+     "Eb/G",
+     "Ebm/Gb"
+    ],
+    [
+     "Bb/F",
+     "G7"
+    ],
+    [
+     "C7",
+     "F7"
+    ],
+    [
+     "Bb",
+     "F7",
+     "Bb"
+    ],
+    []
+   ]
+  }
+ ],
+ "notes": [
+  "Grille générée automatiquement depuis la partition MusicXML : à vérifier."
+ ],
+ "confidence": "medium",
+ "source": [
+  "mxl/C/Anacleto de Medeiros - Em ti pensando - Theme - C.mxl"
+ ],
+ "generated": "mxl"
+}

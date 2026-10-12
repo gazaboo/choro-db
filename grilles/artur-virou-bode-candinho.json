@@ -1,0 +1,216 @@
+{
+ "song_id": "artur-virou-bode-candinho",
+ "title": "Artur virou bode",
+ "composer": "Candinho",
+ "transposition": "c",
+ "meter": "2/4",
+ "form": "A (reprise) — B (reprise) — C (reprise) — Coda",
+ "parts": [
+  {
+   "name": "A",
+   "tonic": "F",
+   "bars": "0–17",
+   "repeat": true,
+   "sequence": [
+    [
+     "F6",
+     "D7/F#"
+    ],
+    [
+     "Gm7"
+    ],
+    [
+     "C7"
+    ],
+    [
+     "F6"
+    ],
+    [
+     "A7"
+    ],
+    [
+     "Dm"
+    ],
+    [
+     "E7/G#"
+    ],
+    [
+     "Am",
+     "C7"
+    ],
+    [
+     "F6"
+    ],
+    [
+     "D7"
+    ],
+    [
+     "Gm",
+     "D7/A"
+    ],
+    [
+     "Gm/Bb"
+    ],
+    [
+     "Bdim"
+    ],
+    [
+     "F/C"
+    ],
+    [
+     "C7"
+    ]
+   ],
+   "endings": {
+    "1": [
+     [
+      "F"
+     ]
+    ],
+    "2": [
+     [
+      "F"
+     ]
+    ]
+   }
+  },
+  {
+   "name": "B",
+   "tonic": "Dm",
+   "bars": "18–27",
+   "repeat": true,
+   "sequence": [
+    [
+     "Dm",
+     "D/C"
+    ],
+    [
+     "Gm/Bb"
+    ],
+    [
+     "A7/C#"
+    ],
+    [
+     "Dm/F"
+    ],
+    [
+     "D7/F#"
+    ],
+    [
+     "Gm",
+     "Gm6"
+    ],
+    [
+     "Dm/A",
+     "A7"
+    ],
+    [
+     "F"
+    ]
+   ],
+   "endings": {
+    "1": [
+     [
+      "Dm"
+     ]
+    ],
+    "2": [
+     [
+      "Dm"
+     ]
+    ]
+   }
+  },
+  {
+   "name": "C",
+   "tonic": "Bb",
+   "bars": "28–45",
+   "repeat": true,
+   "sequence": [
+    [
+     "Bb6",
+     "G7/B"
+    ],
+    [
+     "Cm7"
+    ],
+    [
+     "F7"
+    ],
+    [
+     "Bb"
+    ],
+    [
+     "D7/F#"
+    ],
+    [
+     "Gm"
+    ],
+    [
+     "C7/E"
+    ],
+    [
+     "F7"
+    ],
+    [
+     "Bb",
+     "G7/B"
+    ],
+    [
+     "Cm7"
+    ],
+    [
+     "F7"
+    ],
+    [
+     "Bb/D"
+    ],
+    [
+     "C7",
+     "F7"
+    ],
+    [
+     "Bb/D",
+     "G7"
+    ],
+    [
+     "Cm7",
+     "F7"
+    ],
+    []
+   ],
+   "endings": {
+    "1": [
+     [
+      "Bb"
+     ]
+    ],
+    "2": [
+     [
+      "Bb"
+     ]
+    ]
+   }
+  },
+  {
+   "name": "Coda",
+   "tonic": "F",
+   "bars": "46–46",
+   "repeat": false,
+   "sequence": [
+    [
+     "F"
+    ]
+   ]
+  }
+ ],
+ "notes": [
+  "Grille générée automatiquement depuis la partition MusicXML : à vérifier.",
+  "Tonalité de la partition source non vérifiée."
+ ],
+ "confidence": "medium",
+ "source": [
+  "mxl/C/Candinho - Artur virou bode - Theme - C.mxl"
+ ],
+ "generated": "mxl"
+}

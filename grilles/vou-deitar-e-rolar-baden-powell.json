@@ -1,0 +1,147 @@
+{
+ "song_id": "vou-deitar-e-rolar-baden-powell",
+ "title": "Vou deitar e rolar",
+ "composer": "Baden Powell",
+ "transposition": "c",
+ "meter": "2/4",
+ "form": "A — B — C — D — Coda",
+ "parts": [
+  {
+   "name": "A",
+   "tonic": "C",
+   "bars": "1–5",
+   "sequence": [
+    [
+     "G#m7(b5)"
+    ],
+    [
+     "A/G"
+    ],
+    [
+     "F#7(b13)"
+    ],
+    [
+     "B7(b9)"
+    ],
+    [
+     "Bm6"
+    ]
+   ]
+  },
+  {
+   "name": "B",
+   "tonic": "C",
+   "bars": "7–32",
+   "sequence": [
+    [],
+    [],
+    [],
+    [],
+    [
+     "D6"
+    ],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [
+     "D6"
+    ],
+    [],
+    [
+     "D6"
+    ],
+    [],
+    [],
+    [],
+    [
+     "B7(#9)"
+    ],
+    [],
+    [],
+    [
+     "D7(13)"
+    ],
+    [],
+    [
+     "D7(b9)"
+    ],
+    [
+     "D/F#",
+     "G#m7(b5)"
+    ],
+    [],
+    [
+     "F#7(b13)"
+    ],
+    [
+     "B7(b9)"
+    ]
+   ]
+  },
+  {
+   "name": "C",
+   "tonic": "C",
+   "bars": "35–40",
+   "sequence": [
+    [],
+    [],
+    [
+     "A/G"
+    ],
+    [],
+    [],
+    [
+     "Bm6"
+    ]
+   ]
+  },
+  {
+   "name": "D",
+   "tonic": "C",
+   "bars": "42–56",
+   "sequence": [
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [
+     "D/A"
+    ]
+   ]
+  },
+  {
+   "name": "Coda",
+   "tonic": "C",
+   "bars": "61–64",
+   "sequence": [
+    [],
+    [],
+    [],
+    [
+     "F#m7"
+    ]
+   ]
+  }
+ ],
+ "notes": [
+  "Grille générée automatiquement depuis le texte du PDF : à vérifier.",
+  "Reprises et fins non détectées : les mesures sont dans l'ordre d'écriture."
+ ],
+ "confidence": "low",
+ "source": [
+  "pdf/Baden Powell - Vou deitar e rolar - Theme - C.pdf"
+ ],
+ "generated": "pdf"
+}

@@ -1,0 +1,262 @@
+{
+ "song_id": "depois-eu-digo-luiz-flavio-alcofra",
+ "title": "Depois eu digo",
+ "composer": "Luiz Flavio Alcofra",
+ "transposition": "c",
+ "meter": "2/4",
+ "form": "A — B (reprise) — C (reprise) — Coda",
+ "parts": [
+  {
+   "name": "A",
+   "tonic": "Em",
+   "bars": "0–16",
+   "repeat": false,
+   "sequence": [
+    [
+     "C6(9)",
+     "C#dim"
+    ],
+    [
+     "Bm7/D",
+     "E7"
+    ],
+    [
+     "Am7",
+     "D7(9)"
+    ],
+    [
+     "G6",
+     "G7",
+     "G"
+    ],
+    [
+     "C6(9)",
+     "C#m7b5"
+    ],
+    [
+     "B6(9)"
+    ],
+    [
+     "F#7(9)"
+    ],
+    [
+     "B6(9)",
+     "G7/B"
+    ],
+    [
+     "C6(9)",
+     "A#dim"
+    ],
+    [
+     "Bm/A",
+     "E7/G#"
+    ],
+    [
+     "Am/G",
+     "D7/F#"
+    ],
+    [
+     "G7(9)"
+    ],
+    [
+     "C6(9)/G",
+     "F#7"
+    ],
+    [
+     "Bm7",
+     "E7"
+    ],
+    [
+     "Am6",
+     "B7"
+    ],
+    [
+     "Em7"
+    ]
+   ]
+  },
+  {
+   "name": "B",
+   "tonic": "Em",
+   "bars": "17–34",
+   "repeat": true,
+   "sequence": [
+    [
+     "Em(maj7)",
+     "Em7"
+    ],
+    [
+     "Am(maj7)",
+     "Am7"
+    ],
+    [
+     "F#m7b5",
+     "B7"
+    ],
+    [
+     "Em7"
+    ],
+    [
+     "A#dim"
+    ],
+    [
+     "B6(9)"
+    ],
+    [
+     "F#7",
+     "B7"
+    ],
+    [
+     "Am6/B",
+     "C/B"
+    ],
+    [
+     "Em(maj7)",
+     "Em7"
+    ],
+    [
+     "Am7/E"
+    ],
+    [
+     "Am6/E",
+     "B7/D#"
+    ],
+    [
+     "E/D",
+     "G7/D"
+    ],
+    [
+     "C6(9)",
+     "Bb7"
+    ],
+    [
+     "Eb7",
+     "Db7"
+    ],
+    [
+     "Gb",
+     "D7/A"
+    ],
+    [
+     "Em7"
+    ]
+   ],
+   "endings": {
+    "1": [
+     [
+      "G6"
+     ]
+    ],
+    "2": [
+     [
+      "G6",
+      "G7(b13)"
+     ]
+    ]
+   }
+  },
+  {
+   "name": "C",
+   "tonic": "Bb",
+   "bars": "35–X2",
+   "repeat": true,
+   "sequence": [
+    [
+     "F#dim"
+    ],
+    [
+     "Gm/F",
+     "Em7b5"
+    ],
+    [
+     "F/Eb",
+     "F7/C"
+    ],
+    [
+     "Bb6"
+    ],
+    [
+     "A/Bb",
+     "A7"
+    ],
+    [
+     "D6/A",
+     "D6"
+    ],
+    [
+     "A7/C#",
+     "A7"
+    ],
+    [
+     "Am7b5",
+     "D7"
+    ],
+    [
+     "G7(b9)"
+    ],
+    [
+     "Cm(maj7)",
+     "Cm7"
+    ],
+    [
+     "F7(b9)"
+    ],
+    [
+     "Bb6"
+    ],
+    [
+     "Ab7(13)",
+     "Db7(9)"
+    ],
+    [
+     "Gb6"
+    ],
+    [
+     "C7(9)",
+     "F7"
+    ]
+   ],
+   "endings": {
+    "1": [
+     [
+      "Bb6",
+      "Eb7/G"
+     ]
+    ],
+    "2": [
+     [
+      "Bb6",
+      "G7/B"
+     ]
+    ]
+   }
+  },
+  {
+   "name": "Coda",
+   "tonic": "Em",
+   "bars": "52–54",
+   "repeat": false,
+   "sequence": [
+    [
+     "C#m7b5",
+     "C7"
+    ],
+    [
+     "B7sus4",
+     "Fmaj7(b5)"
+    ],
+    [
+     "Em7"
+    ]
+   ]
+  }
+ ],
+ "notes": [
+  "Grille générée automatiquement depuis la partition MusicXML : à vérifier."
+ ],
+ "confidence": "medium",
+ "source": [
+  "mxl/C/Luiz Flavio Alcofra - Depois eu digo - Theme - C.mxl"
+ ],
+ "generated": "mxl"
+}

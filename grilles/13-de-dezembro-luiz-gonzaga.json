@@ -1,0 +1,188 @@
+{
+ "song_id": "13-de-dezembro-luiz-gonzaga",
+ "title": "13 de dezembro",
+ "composer": "Luiz Gonzaga",
+ "transposition": "c",
+ "meter": "2/4",
+ "form": "A (reprise) — B (reprise) — C",
+ "parts": [
+  {
+   "name": "A",
+   "tonic": "F",
+   "bars": "0–18",
+   "repeat": true,
+   "sequence": [
+    [
+     "F",
+     "Cm/Eb"
+    ],
+    [
+     "D7",
+     "D/C"
+    ],
+    [
+     "G7/B",
+     "C/Bb"
+    ],
+    [
+     "F/A",
+     "Abdim"
+    ],
+    [
+     "Gm7"
+    ],
+    [
+     "D7"
+    ],
+    [
+     "Gm7"
+    ],
+    [
+     "E7"
+    ],
+    [
+     "A7"
+    ],
+    [
+     "Bb6",
+     "C7"
+    ],
+    [
+     "F7",
+     "Bb7"
+    ],
+    [
+     "Eb7"
+    ],
+    [
+     "D7"
+    ],
+    [
+     "Bb6",
+     "Bdim"
+    ],
+    [
+     "F/C",
+     "Dm7"
+    ],
+    [
+     "G7",
+     "C7"
+    ]
+   ],
+   "endings": {
+    "1": [
+     [
+      "F"
+     ]
+    ],
+    "2": [
+     [
+      "F",
+      "C7"
+     ]
+    ]
+   }
+  },
+  {
+   "name": "B",
+   "tonic": "F",
+   "bars": "19–X1",
+   "repeat": true,
+   "sequence": [
+    [
+     "F"
+    ],
+    [
+     "Gm7"
+    ],
+    [
+     "C7"
+    ],
+    [
+     "F"
+    ],
+    [],
+    [
+     "G7"
+    ],
+    [
+     "C7"
+    ],
+    [
+     "F"
+    ],
+    [],
+    [
+     "G7"
+    ],
+    [
+     "C7"
+    ],
+    [
+     "F7"
+    ],
+    [
+     "Bb6",
+     "G#dim"
+    ],
+    [
+     "Am7",
+     "D7"
+    ],
+    [
+     "G7",
+     "C7"
+    ]
+   ],
+   "endings": {
+    "1": [
+     [
+      "F"
+     ]
+    ],
+    "2": [
+     [
+      "F"
+     ]
+    ]
+   }
+  },
+  {
+   "name": "C",
+   "tonic": "F",
+   "bars": "37–40",
+   "repeat": false,
+   "sequence": [
+    [
+     "F",
+     "D7"
+    ],
+    [
+     "Gm7"
+    ],
+    [
+     "C7",
+     "F6"
+    ],
+    [
+     "F6"
+    ]
+   ],
+   "transition_in": [
+    [
+     "F",
+     "C7"
+    ]
+   ]
+  }
+ ],
+ "notes": [
+  "Grille générée automatiquement depuis la partition MusicXML : à vérifier."
+ ],
+ "confidence": "medium",
+ "source": [
+  "mxl/C/Luiz Gonzaga - 13 de dezembro - Theme - C.mxl"
+ ],
+ "generated": "mxl"
+}

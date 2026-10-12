@@ -1,0 +1,266 @@
+{
+ "song_id": "so-pra-constar-jayme-vignoli",
+ "title": "Só prá constar",
+ "composer": "Jayme Vignoli",
+ "transposition": "c",
+ "meter": "2/4",
+ "form": "A — B — C — D — E — F",
+ "parts": [
+  {
+   "name": "A",
+   "tonic": "C",
+   "bars": "1–14",
+   "sequence": [
+    [
+     "Bb6"
+    ],
+    [],
+    [
+     "D6"
+    ],
+    [],
+    [
+     "Bb6"
+    ],
+    [
+     "Bb/Ab"
+    ],
+    [
+     "D6"
+    ],
+    [
+     "B7(b13)",
+     "D6"
+    ],
+    [
+     "Cm6"
+    ],
+    [
+     "Em7(b5)"
+    ],
+    [
+     "A7(b13)",
+     "E7(9)"
+    ],
+    [],
+    [
+     "Bb6",
+     "Gm6/Bb"
+    ],
+    [
+     "Gm6"
+    ]
+   ]
+  },
+  {
+   "name": "B",
+   "tonic": "Am",
+   "bars": "15–29",
+   "sequence": [
+    [],
+    [
+     "A7(13)"
+    ],
+    [
+     "Bb6"
+    ],
+    [],
+    [
+     "D6"
+    ],
+    [],
+    [
+     "B7(b13)"
+    ],
+    [],
+    [
+     "D4"
+    ],
+    [],
+    [
+     "Am6/E"
+    ],
+    [],
+    [
+     "Em7(9)",
+     "A7(b9)"
+    ],
+    [
+     "C7(9)"
+    ],
+    [
+     "D6"
+    ]
+   ]
+  },
+  {
+   "name": "C",
+   "tonic": "C",
+   "bars": "30–56",
+   "sequence": [
+    [
+     "Fm6"
+    ],
+    [],
+    [],
+    [
+     "Bb7(9)",
+     "G#/A"
+    ],
+    [
+     "Em7(9)",
+     "A/G"
+    ],
+    [
+     "D6/F#",
+     "F#/G",
+     "Dm6/F"
+    ],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [
+     "G#m7(11)"
+    ],
+    [],
+    [
+     "F#m7"
+    ],
+    [],
+    [
+     "Cm/G",
+     "C7(b9)"
+    ],
+    [
+     "Cm/Bb"
+    ],
+    [],
+    [],
+    [],
+    [],
+    [
+     "Fm/Ab"
+    ],
+    [],
+    [
+     "Aadd9/C#",
+     "G7(13)"
+    ],
+    [
+     "F#7(13)"
+    ]
+   ]
+  },
+  {
+   "name": "D",
+   "tonic": "C",
+   "bars": "57–60",
+   "sequence": [
+    [
+     "B7(9)"
+    ],
+    [],
+    [
+     "Bb7(9)"
+    ],
+    [
+     "C#/E"
+    ]
+   ]
+  },
+  {
+   "name": "E",
+   "tonic": "C",
+   "bars": "61–64",
+   "sequence": [
+    [
+     "B7(9)"
+    ],
+    [],
+    [
+     "C7(#9)",
+     "C7(9)",
+     "F#/G",
+     "F#7(#11)"
+    ],
+    [
+     "Bb6"
+    ]
+   ]
+  },
+  {
+   "name": "F",
+   "tonic": "Am",
+   "bars": "65–86",
+   "sequence": [
+    [],
+    [],
+    [],
+    [],
+    [
+     "Bb/Ab"
+    ],
+    [
+     "D6"
+    ],
+    [
+     "D6"
+    ],
+    [
+     "Bb6"
+    ],
+    [
+     "B7(b13)"
+    ],
+    [
+     "D4"
+    ],
+    [],
+    [
+     "Am6/E",
+     "D6"
+    ],
+    [],
+    [
+     "Em7(9)"
+    ],
+    [
+     "C7(9)",
+     "D6"
+    ],
+    [
+     "A6"
+    ],
+    [
+     "Fm6",
+     "Bb7(b9)"
+    ],
+    [
+     "Em7(9)",
+     "A/G"
+    ],
+    [
+     "D6/F#"
+    ],
+    [],
+    [],
+    [
+     "Ab/E"
+    ]
+   ]
+  }
+ ],
+ "notes": [
+  "Grille générée automatiquement depuis le texte du PDF : à vérifier.",
+  "Reprises et fins non détectées : les mesures sont dans l'ordre d'écriture."
+ ],
+ "confidence": "low",
+ "source": [
+  "pdf/Jayme Vignoli - Só prá constar - Theme - C.pdf"
+ ],
+ "generated": "pdf"
+}

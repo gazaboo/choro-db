@@ -1,0 +1,289 @@
+{
+ "song_id": "manga-rosa-jonas-silva",
+ "title": "Manga rosa",
+ "composer": "Jonas Silva",
+ "transposition": "c",
+ "meter": "2/4",
+ "form": "A (reprise) — B (reprise) — C (reprise)",
+ "parts": [
+  {
+   "name": "A",
+   "tonic": "Dm",
+   "bars": "0–21",
+   "repeat": true,
+   "sequence": [
+    [
+     "Dm",
+     "Dm/C"
+    ],
+    [
+     "Gm/Bb",
+     "Gm"
+    ],
+    [
+     "A7",
+     "A7/C#"
+    ],
+    [
+     "Dm"
+    ],
+    [
+     "Dm",
+     "Dm6"
+    ],
+    [
+     "Am/C",
+     "Am"
+    ],
+    [
+     "E7"
+    ],
+    [
+     "A7"
+    ],
+    [
+     "Dm",
+     "Dm/C"
+    ],
+    [
+     "Gm/Bb",
+     "Gm"
+    ],
+    [
+     "A7"
+    ],
+    [
+     "D7",
+     "D/C"
+    ],
+    [
+     "Gm/Bb",
+     "Gm6"
+    ],
+    [
+     "Dm"
+    ],
+    [
+     "E7",
+     "A7"
+    ],
+    [
+     "Am7b5",
+     "D7/F#"
+    ],
+    [
+     "Gm",
+     "Gm6"
+    ],
+    [
+     "Dm/F"
+    ],
+    [
+     "E7",
+     "A7"
+    ]
+   ],
+   "endings": {
+    "1": [
+     [
+      "Dm"
+     ]
+    ],
+    "2": [
+     [
+      "Dm"
+     ]
+    ]
+   }
+  },
+  {
+   "name": "B",
+   "tonic": "Dm",
+   "bars": "22–X1",
+   "repeat": true,
+   "sequence": [
+    [
+     "C7"
+    ],
+    [
+     "F"
+    ],
+    [
+     "C7",
+     "C/Bb"
+    ],
+    [
+     "F/A"
+    ],
+    [
+     "C7"
+    ],
+    [
+     "F",
+     "Dm6"
+    ],
+    [
+     "Am",
+     "E7"
+    ],
+    [
+     "Am"
+    ],
+    [
+     "C7"
+    ],
+    [
+     "F"
+    ],
+    [
+     "C7",
+     "Gm6/Bb"
+    ],
+    [
+     "A7"
+    ],
+    [
+     "Bb6",
+     "Bbm6"
+    ],
+    [
+     "F/A",
+     "G#dim"
+    ],
+    [
+     "C7/G"
+    ],
+    [
+     "D7/F#"
+    ],
+    [
+     "Gm"
+    ],
+    [
+     "F",
+     "Abdim"
+    ],
+    [
+     "Gm7",
+     "C7"
+    ]
+   ],
+   "endings": {
+    "1": [
+     [
+      "F"
+     ]
+    ],
+    "2": [
+     [
+      "F",
+      "A7"
+     ]
+    ]
+   }
+  },
+  {
+   "name": "C",
+   "tonic": "D",
+   "bars": "44–65",
+   "repeat": true,
+   "sequence": [
+    [
+     "D6"
+    ],
+    [
+     "E7(9)"
+    ],
+    [
+     "A7"
+    ],
+    [
+     "Fdim",
+     "D/F#"
+    ],
+    [
+     "D6",
+     "E/D"
+    ],
+    [
+     "A"
+    ],
+    [
+     "Bm7",
+     "E7"
+    ],
+    [
+     "A",
+     "A7"
+    ],
+    [
+     "D6"
+    ],
+    [
+     "E7(9)"
+    ],
+    [
+     "F#7"
+    ],
+    [
+     "B7"
+    ],
+    [
+     "G",
+     "Gm6"
+    ],
+    [
+     "D/F#",
+     "Fdim"
+    ],
+    [
+     "Em7",
+     "A7"
+    ],
+    [
+     "B7(9)"
+    ],
+    [
+     "Em",
+     "Gm6"
+    ],
+    [
+     "D",
+     "Bm7"
+    ],
+    [
+     "Em7",
+     "A7"
+    ],
+    []
+   ],
+   "endings": {
+    "1": [
+     [
+      "D",
+      "A7"
+     ]
+    ],
+    "2": [
+     [
+      "D",
+      "A7"
+     ]
+    ]
+   },
+   "transition_in": [
+    [
+     "Dm"
+    ]
+   ]
+  }
+ ],
+ "notes": [
+  "Grille générée automatiquement depuis la partition MusicXML : à vérifier."
+ ],
+ "confidence": "medium",
+ "source": [
+  "mxl/C/Jonas Silva - Manga rosa - Theme - C.mxl"
+ ],
+ "generated": "mxl"
+}

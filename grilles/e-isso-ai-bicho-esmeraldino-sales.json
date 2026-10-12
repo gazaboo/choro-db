@@ -1,0 +1,156 @@
+{
+ "song_id": "e-isso-ai-bicho-esmeraldino-sales",
+ "title": "É isso aí, bicho",
+ "composer": "Esmeraldino Sales",
+ "transposition": "c",
+ "meter": "2/4",
+ "form": "A — B — C",
+ "parts": [
+  {
+   "name": "A",
+   "tonic": "C",
+   "bars": "1–15",
+   "sequence": [
+    [
+     "C/E"
+    ],
+    [],
+    [
+     "C",
+     "Am"
+    ],
+    [
+     "G/F",
+     "G7(#5)"
+    ],
+    [],
+    [
+     "C"
+    ],
+    [
+     "Ab"
+    ],
+    [],
+    [
+     "C"
+    ],
+    [],
+    [
+     "Bbm7"
+    ],
+    [
+     "G7(#5)"
+    ],
+    [],
+    [
+     "C",
+     "F",
+     "Db7/Ab"
+    ],
+    [
+     "Gm"
+    ]
+   ]
+  },
+  {
+   "name": "B",
+   "tonic": "C",
+   "bars": "16–32",
+   "sequence": [
+    [
+     "C"
+    ],
+    [
+     "C"
+    ],
+    [],
+    [],
+    [],
+    [],
+    [
+     "F"
+    ],
+    [
+     "F/A",
+     "F",
+     "Db7/Ab"
+    ],
+    [
+     "Gm"
+    ],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [
+     "F"
+    ],
+    [
+     "G7(#5)",
+     "Db7"
+    ],
+    [
+     "Gb"
+    ]
+   ]
+  },
+  {
+   "name": "C",
+   "tonic": "C",
+   "bars": "34–50",
+   "sequence": [
+    [
+     "F"
+    ],
+    [
+     "F"
+    ],
+    [
+     "C"
+    ],
+    [],
+    [
+     "C"
+    ],
+    [
+     "Dm"
+    ],
+    [],
+    [],
+    [],
+    [
+     "G/F"
+    ],
+    [
+     "C",
+     "Dm"
+    ],
+    [
+     "Em"
+    ],
+    [
+     "Ab",
+     "Bbm7"
+    ],
+    [],
+    [],
+    [
+     "C"
+    ],
+    [
+     "Dm"
+    ]
+   ]
+  }
+ ],
+ "notes": [
+  "Grille générée automatiquement depuis le texte du PDF : à vérifier.",
+  "Reprises et fins non détectées : les mesures sont dans l'ordre d'écriture."
+ ],
+ "confidence": "low",
+ "source": [
+  "pdf/Esmeraldino Sales - É isso aí, bicho - Theme - C.pdf"
+ ],
+ "generated": "pdf"
+}

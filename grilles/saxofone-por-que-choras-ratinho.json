@@ -1,0 +1,217 @@
+{
+ "song_id": "saxofone-por-que-choras-ratinho",
+ "title": "Saxofone Por Que Choras",
+ "composer": "Ratinho",
+ "transposition": "c",
+ "meter": "2/4",
+ "form": "A — B — C",
+ "parts": [
+  {
+   "name": "A",
+   "tonic": "Am",
+   "bars": "1–30",
+   "sequence": [
+    [
+     "Dm"
+    ],
+    [],
+    [],
+    [],
+    [
+     "A7"
+    ],
+    [],
+    [
+     "Dm"
+    ],
+    [
+     "Dm",
+     "A7"
+    ],
+    [
+     "Dm"
+    ],
+    [
+     "Dm",
+     "Bm7(b5)"
+    ],
+    [
+     "Am"
+    ],
+    [],
+    [
+     "E7"
+    ],
+    [],
+    [
+     "A7"
+    ],
+    [],
+    [
+     "Dm"
+    ],
+    [],
+    [],
+    [],
+    [
+     "A7"
+    ],
+    [],
+    [],
+    [],
+    [
+     "Gm"
+    ],
+    [],
+    [
+     "Dm"
+    ],
+    [
+     "Dm",
+     "Dm/C"
+    ],
+    [
+     "E7/B",
+     "Bb7"
+    ],
+    [
+     "A7"
+    ]
+   ]
+  },
+  {
+   "name": "B",
+   "tonic": "C",
+   "bars": "31–49",
+   "sequence": [
+    [
+     "Dm"
+    ],
+    [],
+    [
+     "Dm"
+    ],
+    [],
+    [],
+    [],
+    [],
+    [
+     "F"
+    ],
+    [],
+    [],
+    [],
+    [
+     "Dm"
+    ],
+    [
+     "D7",
+     "Gm"
+    ],
+    [],
+    [],
+    [
+     "Dm"
+    ],
+    [],
+    [
+     "Em7(b5)"
+    ],
+    [
+     "A7"
+    ]
+   ]
+  },
+  {
+   "name": "C",
+   "tonic": "C",
+   "bars": "50–90",
+   "sequence": [
+    [
+     "Dm"
+    ],
+    [],
+    [],
+    [],
+    [
+     "Dm"
+    ],
+    [],
+    [],
+    [
+     "D"
+    ],
+    [],
+    [],
+    [],
+    [
+     "D"
+    ],
+    [],
+    [],
+    [],
+    [
+     "Em"
+    ],
+    [],
+    [
+     "A7"
+    ],
+    [],
+    [],
+    [],
+    [
+     "D"
+    ],
+    [],
+    [
+     "D"
+    ],
+    [],
+    [],
+    [
+     "D7"
+    ],
+    [
+     "B7"
+    ],
+    [],
+    [
+     "Em"
+    ],
+    [],
+    [
+     "Gm6"
+    ],
+    [],
+    [
+     "D"
+    ],
+    [],
+    [
+     "E7"
+    ],
+    [
+     "A7"
+    ],
+    [
+     "D"
+    ],
+    [],
+    [],
+    [
+     "Dm"
+    ]
+   ]
+  }
+ ],
+ "notes": [
+  "Grille générée automatiquement depuis le texte du PDF : à vérifier.",
+  "Reprises et fins non détectées : les mesures sont dans l'ordre d'écriture."
+ ],
+ "confidence": "low",
+ "source": [
+  "pdf/Ratinho - Saxofone Por Que Choras - Theme - C.pdf"
+ ],
+ "generated": "pdf"
+}

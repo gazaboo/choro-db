@@ -1,0 +1,267 @@
+{
+ "song_id": "maxixe-na-tuba-jacob-do-bandolim",
+ "title": "Maxixe na tuba",
+ "composer": "Jacob do Bandolim",
+ "transposition": "c",
+ "meter": "2/4",
+ "form": "A (reprise) — B (reprise) — C (reprise) — D (reprise)",
+ "parts": [
+  {
+   "name": "A",
+   "tonic": "Em",
+   "bars": "1–18",
+   "repeat": true,
+   "sequence": [
+    [],
+    [
+     "D7/F#"
+    ],
+    [
+     "G/B"
+    ],
+    [
+     "D7/F#"
+    ],
+    [
+     "E7/B",
+     "E7/G#"
+    ],
+    [
+     "Am",
+     "Cm"
+    ],
+    [
+     "G/B",
+     "Em7"
+    ],
+    [
+     "A7",
+     "A7/C#"
+    ],
+    [
+     "D7"
+    ],
+    [
+     "D7/F#"
+    ],
+    [
+     "G/B"
+    ],
+    [
+     "D7/F#"
+    ],
+    [
+     "E7/B",
+     "E7/G#"
+    ],
+    [
+     "Am",
+     "Cm"
+    ],
+    [
+     "G/B",
+     "Em7"
+    ],
+    [
+     "Am",
+     "D7"
+    ]
+   ],
+   "endings": {
+    "1": [
+     [
+      "G"
+     ]
+    ],
+    "2": [
+     [
+      "G",
+      "B7/D#"
+     ]
+    ]
+   }
+  },
+  {
+   "name": "B",
+   "tonic": "Em",
+   "bars": "19–36",
+   "repeat": true,
+   "sequence": [
+    [
+     "Em/G",
+     "B7/F#"
+    ],
+    [
+     "Em",
+     "G7/D"
+    ],
+    [
+     "C",
+     "E7/B"
+    ],
+    [
+     "Am"
+    ],
+    [
+     "B7/D#"
+    ],
+    [
+     "Em",
+     "C#m7b5"
+    ],
+    [
+     "B",
+     "F#7"
+    ],
+    [
+     "B",
+     "B7/D#"
+    ],
+    [
+     "Em/G",
+     "B7/F#"
+    ],
+    [
+     "Em",
+     "G7/D"
+    ],
+    [
+     "C",
+     "E7/B"
+    ],
+    [
+     "Am"
+    ],
+    [
+     "B7/D#"
+    ],
+    [
+     "Em",
+     "C7"
+    ],
+    [
+     "F",
+     "B7/D#"
+    ],
+    [
+     "G",
+     "G7"
+    ]
+   ],
+   "endings": {
+    "1": [
+     [
+      "Em",
+      "B7/D#"
+     ]
+    ],
+    "2": [
+     [
+      "Em"
+     ]
+    ]
+   }
+  },
+  {
+   "name": "C",
+   "tonic": "C",
+   "bars": "37–X2",
+   "repeat": true,
+   "sequence": [
+    [
+     "C"
+    ],
+    [
+     "D7"
+    ],
+    [
+     "G7"
+    ],
+    [
+     "C"
+    ],
+    [
+     "E7",
+     "E7/G#"
+    ],
+    [
+     "Am",
+     "A7/C#"
+    ],
+    [
+     "D7"
+    ],
+    [
+     "G7"
+    ],
+    [
+     "C"
+    ],
+    [
+     "G7/B",
+     "E7/G#"
+    ],
+    [
+     "Am",
+     "F7"
+    ],
+    [
+     "E7"
+    ],
+    [
+     "F",
+     "G7"
+    ],
+    [
+     "C",
+     "Am7"
+    ],
+    [
+     "Dm7",
+     "G7/B"
+    ]
+   ],
+   "endings": {
+    "1": [
+     [
+      "C"
+     ]
+    ],
+    "2": [
+     [
+      "C"
+     ]
+    ]
+   }
+  },
+  {
+   "name": "D",
+   "tonic": "G",
+   "bars": "54–57",
+   "repeat": true,
+   "sequence": [
+    [
+     "G"
+    ],
+    [
+     "D7/F#"
+    ],
+    [
+     "G"
+    ],
+    [
+     "D7/F#"
+    ]
+   ]
+  }
+ ],
+ "notes": [
+  "Grille générée automatiquement depuis la partition MusicXML : à vérifier.",
+  "A : première mesure sans accord"
+ ],
+ "confidence": "medium",
+ "source": [
+  "mxl/C/Jacob do Bandolim - Maxixe na tuba - Theme - C.mxl"
+ ],
+ "generated": "mxl"
+}

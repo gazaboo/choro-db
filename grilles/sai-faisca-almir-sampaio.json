@@ -1,0 +1,179 @@
+{
+ "song_id": "sai-faisca-almir-sampaio",
+ "title": "Sai faísca",
+ "composer": "Almir Sampaio",
+ "transposition": "c",
+ "meter": "2/4",
+ "form": "A — B — C",
+ "parts": [
+  {
+   "name": "A",
+   "tonic": "Am",
+   "bars": "1–15",
+   "sequence": [
+    [
+     "Am"
+    ],
+    [],
+    [
+     "E7"
+    ],
+    [
+     "Am"
+    ],
+    [],
+    [
+     "E7/B"
+    ],
+    [],
+    [
+     "Am"
+    ],
+    [],
+    [],
+    [
+     "E7"
+    ],
+    [
+     "A7"
+    ],
+    [
+     "Dm"
+    ],
+    [
+     "Am"
+    ],
+    [
+     "B7/F#",
+     "E7"
+    ]
+   ]
+  },
+  {
+   "name": "B",
+   "tonic": "C",
+   "bars": "16–32",
+   "sequence": [
+    [
+     "Am"
+    ],
+    [
+     "Am"
+    ],
+    [
+     "G7"
+    ],
+    [
+     "C"
+    ],
+    [
+     "E7"
+    ],
+    [
+     "Am"
+    ],
+    [
+     "F"
+    ],
+    [
+     "C",
+     "A7"
+    ],
+    [
+     "G7"
+    ],
+    [
+     "C"
+    ],
+    [
+     "G7"
+    ],
+    [
+     "C"
+    ],
+    [
+     "E7"
+    ],
+    [
+     "Am"
+    ],
+    [
+     "F"
+    ],
+    [
+     "C",
+     "A7"
+    ],
+    [
+     "G7"
+    ]
+   ]
+  },
+  {
+   "name": "C",
+   "tonic": "C",
+   "bars": "33–52",
+   "sequence": [
+    [
+     "C"
+    ],
+    [
+     "C",
+     "E7"
+    ],
+    [
+     "Am"
+    ],
+    [],
+    [
+     "A"
+    ],
+    [],
+    [],
+    [
+     "Bm"
+    ],
+    [],
+    [
+     "E7"
+    ],
+    [],
+    [
+     "A"
+    ],
+    [],
+    [],
+    [
+     "A",
+     "A7"
+    ],
+    [
+     "D"
+    ],
+    [
+     "D"
+    ],
+    [
+     "A",
+     "F#7"
+    ],
+    [
+     "Bm",
+     "E7"
+    ],
+    [
+     "A"
+    ]
+   ]
+  }
+ ],
+ "notes": [
+  "Grille générée automatiquement depuis le texte du PDF : à vérifier.",
+  "Reprises et fins non détectées : les mesures sont dans l'ordre d'écriture."
+ ],
+ "confidence": "low",
+ "source": [
+  "pdf/Almir Sampaio - Sai faísca - Theme - C.pdf"
+ ],
+ "generated": "pdf"
+}

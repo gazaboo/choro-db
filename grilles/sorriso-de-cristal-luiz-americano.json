@@ -1,0 +1,207 @@
+{
+ "song_id": "sorriso-de-cristal-luiz-americano",
+ "title": "Sorriso de cristal",
+ "composer": "Luiz Americano",
+ "transposition": "c",
+ "meter": "2/4",
+ "form": "A — B — C",
+ "parts": [
+  {
+   "name": "A",
+   "tonic": "Am",
+   "bars": "1–15",
+   "sequence": [
+    [
+     "C"
+    ],
+    [
+     "G7"
+    ],
+    [
+     "Am"
+    ],
+    [
+     "E7"
+    ],
+    [
+     "Em7(b5)",
+     "A7"
+    ],
+    [
+     "Dm",
+     "F#m7(b5)"
+    ],
+    [
+     "B7"
+    ],
+    [
+     "Em",
+     "G7"
+    ],
+    [
+     "C"
+    ],
+    [
+     "G7"
+    ],
+    [
+     "Am"
+    ],
+    [
+     "E7"
+    ],
+    [
+     "Dm"
+    ],
+    [
+     "Am"
+    ],
+    [
+     "F7",
+     "E7"
+    ]
+   ]
+  },
+  {
+   "name": "B",
+   "tonic": "Am",
+   "bars": "16–37",
+   "sequence": [
+    [
+     "Am",
+     "G7"
+    ],
+    [
+     "Am",
+     "E7"
+    ],
+    [],
+    [
+     "Am"
+    ],
+    [
+     "Am",
+     "E7/B"
+    ],
+    [
+     "Am/C"
+    ],
+    [
+     "E7"
+    ],
+    [
+     "Am",
+     "Am6"
+    ],
+    [
+     "Em"
+    ],
+    [],
+    [
+     "Dm"
+    ],
+    [
+     "Fm6",
+     "G7"
+    ],
+    [
+     "C"
+    ],
+    [],
+    [],
+    [
+     "Am"
+    ],
+    [
+     "Am",
+     "E7/B"
+    ],
+    [
+     "Am/C"
+    ],
+    [
+     "E7"
+    ],
+    [
+     "Dm"
+    ],
+    [
+     "Am"
+    ],
+    [
+     "F7",
+     "E7"
+    ]
+   ]
+  },
+  {
+   "name": "C",
+   "tonic": "C",
+   "bars": "38–56",
+   "sequence": [
+    [],
+    [],
+    [],
+    [
+     "C"
+    ],
+    [
+     "G7/B"
+    ],
+    [
+     "F7/A"
+    ],
+    [
+     "E7/G#"
+    ],
+    [
+     "G7"
+    ],
+    [
+     "C"
+    ],
+    [
+     "D7"
+    ],
+    [
+     "G7"
+    ],
+    [
+     "Cm"
+    ],
+    [
+     "G7"
+    ],
+    [
+     "Ab"
+    ],
+    [
+     "Cm"
+    ],
+    [
+     "Fm"
+    ],
+    [
+     "C"
+    ],
+    [
+     "D7",
+     "G7"
+    ],
+    [
+     "C",
+     "G7"
+    ]
+   ]
+  }
+ ],
+ "notes": [
+  "Grille générée automatiquement depuis le texte du PDF : à vérifier.",
+  "Reprises et fins non détectées : les mesures sont dans l'ordre d'écriture."
+ ],
+ "confidence": "low",
+ "source": [
+  "pdf/Luiz Americano - Sorriso de cristal - Theme - C.pdf"
+ ],
+ "generated": "pdf"
+}

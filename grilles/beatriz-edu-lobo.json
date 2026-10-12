@@ -1,0 +1,173 @@
+{
+ "song_id": "beatriz-edu-lobo",
+ "title": "Beatriz",
+ "composer": "Edu Lobo",
+ "transposition": "c",
+ "meter": "3/4",
+ "form": "A — B (reprise) — C — D — A",
+ "parts": [
+  {
+   "name": "A",
+   "tonic": "G",
+   "bars": "1–8",
+   "repeat": false,
+   "sequence": [
+    [
+     "Cmaj7(9)"
+    ],
+    [
+     "G6/B"
+    ],
+    [
+     "Am7(9)"
+    ],
+    [
+     "Gmaj7"
+    ],
+    [
+     "Cmaj7(9)"
+    ],
+    [
+     "G6/B"
+    ],
+    [
+     "Am7(9)"
+    ],
+    [
+     "Gmaj7"
+    ]
+   ]
+  },
+  {
+   "name": "B",
+   "tonic": "G",
+   "bars": "9–28",
+   "repeat": true,
+   "sequence": [
+    [
+     "F#dim/G",
+     "Gmaj7"
+    ],
+    [
+     "Gmaj7"
+    ],
+    [
+     "Am7(9)"
+    ],
+    [],
+    [
+     "Gmaj7/B"
+    ],
+    [],
+    [
+     "Cmaj7(9)"
+    ],
+    [],
+    [],
+    [],
+    [
+     "Gmaj7/D"
+    ],
+    [
+     "B7(b13)/D#"
+    ],
+    [
+     "Em7(9)"
+    ],
+    [
+     "G/F"
+    ],
+    [
+     "Dmaj7/F#"
+    ],
+    [],
+    [
+     "D7(9)",
+     "Fm6"
+    ],
+    [
+     "Em6",
+     "Cm(maj7)/Eb"
+    ],
+    [
+     "D7(b9,b13)"
+    ],
+    [
+     "D7(b9,13)"
+    ]
+   ]
+  },
+  {
+   "name": "C",
+   "tonic": "Ab",
+   "bars": "29–34",
+   "repeat": false,
+   "sequence": [
+    [
+     "Eb6(9)"
+    ],
+    [],
+    [
+     "Abmaj7(9)"
+    ],
+    [],
+    [
+     "Eb6(9)",
+     "Bb7/D"
+    ],
+    [
+     "Cm",
+     "Cm/Bb"
+    ]
+   ]
+  },
+  {
+   "name": "D",
+   "tonic": "Ab",
+   "bars": "35–X1",
+   "repeat": false,
+   "sequence": [
+    [
+     "A7(9)"
+    ],
+    [
+     "Abmaj7(9)"
+    ],
+    [
+     "Db7(13)"
+    ],
+    [
+     "Gbmaj7(9)"
+    ],
+    [
+     "E7(9,#11)"
+    ],
+    [
+     "Fm7(9)"
+    ],
+    [
+     "Bb7(#9,#11)"
+    ],
+    [
+     "Ebmaj7(9)"
+    ],
+    [
+     "Db7(9,#11)"
+    ],
+    [],
+    [
+     "D7(b9,#11)",
+     "D7(13)"
+    ]
+   ]
+  }
+ ],
+ "notes": [
+  "Grille générée automatiquement depuis la partition MusicXML : à vérifier."
+ ],
+ "confidence": "medium",
+ "source": [
+  "mxl/C/Edu Lobo - Beatriz - Theme - C.mxl"
+ ],
+ "generated": "mxl"
+}

@@ -1,0 +1,309 @@
+{
+ "song_id": "j-da-gema-joao-lyra",
+ "title": "J. da Gema",
+ "composer": "João Lyra",
+ "transposition": "c",
+ "meter": "2/4",
+ "form": "A (reprise) — B (reprise) — C — D (reprise) — E — F",
+ "parts": [
+  {
+   "name": "A",
+   "tonic": "Am",
+   "bars": "0–17",
+   "repeat": true,
+   "sequence": [
+    [
+     "Am"
+    ],
+    [
+     "Dm"
+    ],
+    [
+     "Bm7b5",
+     "E7"
+    ],
+    [
+     "Am",
+     "E7"
+    ],
+    [
+     "Am",
+     "B7"
+    ],
+    [
+     "Em",
+     "Em/G"
+    ],
+    [
+     "B7/F#"
+    ],
+    [
+     "Bm7b5",
+     "E7"
+    ],
+    [
+     "Am"
+    ],
+    [
+     "Dm"
+    ],
+    [
+     "Bm7b5",
+     "E7"
+    ],
+    [
+     "Gm6/Bb",
+     "A7"
+    ],
+    [
+     "Dm",
+     "Bm7b5"
+    ],
+    [
+     "Am",
+     "Am/G"
+    ],
+    [
+     "B7/F#",
+     "E7"
+    ]
+   ],
+   "endings": {
+    "1": [
+     [
+      "Am",
+      "E7"
+     ]
+    ],
+    "2": [
+     [
+      "Am"
+     ]
+    ]
+   }
+  },
+  {
+   "name": "B",
+   "tonic": "Am",
+   "bars": "18–34",
+   "repeat": true,
+   "sequence": [
+    [
+     "Bm7b5"
+    ],
+    [
+     "E/D"
+    ],
+    [
+     "Am/C"
+    ],
+    [
+     "Am6"
+    ],
+    [
+     "Gm6/Bb"
+    ],
+    [
+     "A7"
+    ],
+    [
+     "Dm7"
+    ],
+    [
+     "Dm6"
+    ],
+    [
+     "Dm"
+    ],
+    [
+     "Dm/F"
+    ],
+    [
+     "Am"
+    ]
+   ],
+   "endings": {
+    "1": [
+     [
+      "Am",
+      "Am/G"
+     ],
+     [
+      "B7"
+     ],
+     [
+      "B7/F#"
+     ],
+     [
+      "E7"
+     ],
+     [
+      "E7/G#"
+     ]
+    ],
+    "2": [
+     [
+      "Am"
+     ]
+    ]
+   }
+  },
+  {
+   "name": "C",
+   "tonic": "C",
+   "bars": "35–39",
+   "repeat": false,
+   "sequence": [
+    [
+     "F"
+    ],
+    [
+     "E"
+    ],
+    [
+     "Am"
+    ],
+    [
+     "E7"
+    ],
+    [
+     "Am",
+     "G7"
+    ]
+   ]
+  },
+  {
+   "name": "D",
+   "tonic": "C",
+   "bars": "40–56",
+   "repeat": true,
+   "sequence": [
+    [
+     "C6"
+    ],
+    [
+     "A7"
+    ],
+    [
+     "Dm"
+    ],
+    [
+     "Dm(maj7)"
+    ],
+    [
+     "G7sus4"
+    ],
+    [
+     "G7(9)"
+    ],
+    [
+     "Cmaj7"
+    ]
+   ],
+   "endings": {
+    "1": [
+     [
+      "C6"
+     ],
+     [
+      "E/G#"
+     ],
+     [
+      "E7"
+     ],
+     [
+      "Am"
+     ],
+     [
+      "Am7"
+     ],
+     [
+      "D7(9)"
+     ],
+     [
+      "D7"
+     ],
+     [
+      "Fm6"
+     ],
+     [
+      "G7"
+     ]
+    ],
+    "2": [
+     [
+      "Cmaj7"
+     ]
+    ]
+   }
+  },
+  {
+   "name": "E",
+   "tonic": "C",
+   "bars": "57–63",
+   "repeat": false,
+   "sequence": [
+    [
+     "Ab7"
+    ],
+    [
+     "Fm6"
+    ],
+    [
+     "C6"
+    ],
+    [
+     "A7"
+    ],
+    [
+     "D7(9)"
+    ],
+    [
+     "Ab7",
+     "G7"
+    ],
+    [
+     "C6"
+    ]
+   ]
+  },
+  {
+   "name": "F",
+   "tonic": "Am",
+   "bars": "64–70",
+   "repeat": false,
+   "sequence": [
+    [
+     "Am"
+    ],
+    [
+     "G7"
+    ],
+    [
+     "C7(9)"
+    ],
+    [
+     "Bb7(9)"
+    ],
+    [
+     "Am7"
+    ],
+    [],
+    [
+     "Am7(9)"
+    ]
+   ],
+   "transition_in": [
+    []
+   ]
+  }
+ ],
+ "notes": [
+  "Grille générée automatiquement depuis la partition MusicXML : à vérifier."
+ ],
+ "confidence": "medium",
+ "source": [
+  "mxl/C/João Lyra - J. da Gema - Theme - C.mxl"
+ ],
+ "generated": "mxl"
+}

@@ -1,0 +1,190 @@
+{
+ "song_id": "joaquim-virou-padre-pixinguinha",
+ "title": "Joaquim virou padre",
+ "composer": "Pixinguinha",
+ "transposition": "c",
+ "meter": "2/4",
+ "form": "A (reprise) — B (reprise) — C (reprise)",
+ "parts": [
+  {
+   "name": "A",
+   "tonic": "G",
+   "bars": "1–16",
+   "repeat": true,
+   "sequence": [
+    [
+     "G"
+    ],
+    [
+     "F#"
+    ],
+    [
+     "F"
+    ],
+    [
+     "E"
+    ],
+    [
+     "Eb"
+    ],
+    [
+     "G/D"
+    ],
+    [
+     "A7"
+    ],
+    [
+     "D7"
+    ],
+    [
+     "G"
+    ],
+    [
+     "F#"
+    ],
+    [
+     "F"
+    ],
+    [
+     "E"
+    ],
+    [
+     "Eb"
+    ],
+    [
+     "G/D"
+    ],
+    [
+     "Am7",
+     "D7"
+    ],
+    [
+     "G"
+    ]
+   ]
+  },
+  {
+   "name": "B",
+   "tonic": "D",
+   "bars": "17–X1",
+   "repeat": true,
+   "sequence": [
+    [
+     "D"
+    ],
+    [
+     "Eb"
+    ],
+    [
+     "A7"
+    ],
+    [
+     "D"
+    ],
+    [
+     "D"
+    ],
+    [
+     "A/C#"
+    ],
+    [
+     "E7"
+    ],
+    [
+     "A7"
+    ],
+    [
+     "Eb"
+    ],
+    [
+     "E"
+    ],
+    [
+     "F"
+    ],
+    [
+     "F#"
+    ],
+    [
+     "G",
+     "Gm6"
+    ],
+    [
+     "D/F#"
+    ],
+    [
+     "Em7",
+     "A7"
+    ],
+    [
+     "D"
+    ]
+   ]
+  },
+  {
+   "name": "C",
+   "tonic": "C",
+   "bars": "33–49",
+   "repeat": true,
+   "sequence": [
+    [
+     "C"
+    ],
+    [
+     "Ebdim"
+    ],
+    [
+     "Dm7",
+     "G7"
+    ],
+    [
+     "C"
+    ],
+    [],
+    [
+     "G"
+    ],
+    [
+     "D7"
+    ],
+    [
+     "G7"
+    ],
+    [
+     "C"
+    ],
+    [
+     "B7"
+    ],
+    [
+     "Bb7"
+    ],
+    [
+     "A7"
+    ],
+    [
+     "Ab7"
+    ],
+    [
+     "C"
+    ],
+    [
+     "Dm7",
+     "G7"
+    ],
+    [
+     "C"
+    ],
+    []
+   ]
+  }
+ ],
+ "notes": [
+  "Grille générée automatiquement depuis la partition MusicXML : à vérifier."
+ ],
+ "confidence": "medium",
+ "source": [
+  "mxl/C/Pixinguinha - Joaquim virou padre - Theme - C.mxl"
+ ],
+ "generated": "mxl"
+}

@@ -1,0 +1,146 @@
+{
+ "song_id": "valsa-do-realejo-guinga",
+ "title": "Valsa do realejo",
+ "composer": "Guinga",
+ "transposition": "c",
+ "meter": "2/4",
+ "form": "A — B — C",
+ "parts": [
+  {
+   "name": "A",
+   "tonic": "Am",
+   "bars": "1–6",
+   "sequence": [
+    [
+     "Bm7(b5)"
+    ],
+    [
+     "D#m7(b5)"
+    ],
+    [
+     "Dm6",
+     "C#7/B"
+    ],
+    [
+     "E7(b13)/D"
+    ],
+    [],
+    [
+     "E7(b9)/B"
+    ]
+   ]
+  },
+  {
+   "name": "B",
+   "tonic": "C",
+   "bars": "12–27",
+   "sequence": [
+    [
+     "D#m7(b5)"
+    ],
+    [],
+    [
+     "F#m"
+    ],
+    [],
+    [
+     "E/D"
+    ],
+    [
+     "C#m7(b5)"
+    ],
+    [],
+    [],
+    [],
+    [],
+    [
+     "A/C#"
+    ],
+    [],
+    [
+     "C#m7"
+    ],
+    [],
+    [
+     "G#m7(b5)"
+    ],
+    [
+     "C#7/G#"
+    ]
+   ]
+  },
+  {
+   "name": "C",
+   "tonic": "C",
+   "bars": "28–51",
+   "sequence": [
+    [
+     "F#m",
+     "C#7/B"
+    ],
+    [
+     "Bm7(9)"
+    ],
+    [],
+    [
+     "A"
+    ],
+    [],
+    [
+     "A"
+    ],
+    [],
+    [
+     "A"
+    ],
+    [],
+    [],
+    [
+     "F#m"
+    ],
+    [],
+    [
+     "A/C#"
+    ],
+    [],
+    [
+     "A"
+    ],
+    [
+     "G#m7(b5)"
+    ],
+    [
+     "C#7/G#"
+    ],
+    [
+     "F#m"
+    ],
+    [],
+    [
+     "G#m7(b5)"
+    ],
+    [
+     "C#7"
+    ],
+    [
+     "D"
+    ],
+    [
+     "Bm"
+    ],
+    [
+     "F#m"
+    ]
+   ]
+  }
+ ],
+ "notes": [
+  "Grille générée automatiquement depuis le texte du PDF : à vérifier.",
+  "Reprises et fins non détectées : les mesures sont dans l'ordre d'écriture."
+ ],
+ "confidence": "low",
+ "source": [
+  "pdf/Guinga - Valsa do realejo - Theme - C.pdf"
+ ],
+ "generated": "pdf"
+}

@@ -1,0 +1,572 @@
+{
+ "song_id": "ermelinda-joaquim-callado",
+ "title": "Ermelinda",
+ "composer": "Joaquim Callado",
+ "transposition": "c",
+ "meter": "6/8",
+ "form": "A — B — C — D — E — F — G — H — H — H — H — H",
+ "parts": [
+  {
+   "name": "A",
+   "tonic": "Em",
+   "bars": "1–8",
+   "repeat": false,
+   "sequence": [
+    [
+     "Em"
+    ],
+    [
+     "B7/D#"
+    ],
+    [
+     "E/D"
+    ],
+    [
+     "Am/C"
+    ],
+    [
+     "Am",
+     "Am6/C"
+    ],
+    [
+     "Em/B"
+    ],
+    [
+     "Em/G",
+     "B7/F#"
+    ],
+    [
+     "Em"
+    ]
+   ]
+  },
+  {
+   "name": "B",
+   "tonic": "E",
+   "bars": "9–16",
+   "repeat": false,
+   "sequence": [
+    [
+     "E/G#"
+    ],
+    [
+     "F#7"
+    ],
+    [
+     "B7"
+    ],
+    [
+     "Edim",
+     "E"
+    ],
+    [
+     "E",
+     "E/D"
+    ],
+    [
+     "A/C#",
+     "Am6/C"
+    ],
+    [
+     "E/B",
+     "B7"
+    ],
+    [
+     "E"
+    ]
+   ]
+  },
+  {
+   "name": "C",
+   "tonic": "E",
+   "bars": "X1–X3",
+   "repeat": false,
+   "sequence": [
+    [
+     "D7"
+    ],
+    [
+     "F#dim",
+     "G"
+    ],
+    [
+     "E7"
+    ],
+    [
+     "G#dim",
+     "Am"
+    ],
+    [
+     "F#m7b5"
+    ],
+    [
+     "Em",
+     "Gdim"
+    ],
+    [
+     "Em/G",
+     "D7"
+    ],
+    [
+     "G",
+     "B7/F#"
+    ]
+   ]
+  },
+  {
+   "name": "D",
+   "tonic": "D",
+   "bars": "X4–31",
+   "repeat": false,
+   "sequence": [
+    [
+     "Gm6/Bb"
+    ],
+    [
+     "D/A"
+    ],
+    [
+     "F#7"
+    ],
+    [
+     "Bm"
+    ],
+    [
+     "Gm6"
+    ],
+    [
+     "D/F#"
+    ],
+    [
+     "E7",
+     "A7"
+    ],
+    [
+     "D"
+    ]
+   ]
+  },
+  {
+   "name": "E",
+   "tonic": "D",
+   "bars": "32–X6",
+   "repeat": false,
+   "sequence": [
+    [
+     "D/F#",
+     "Fdim"
+    ],
+    [
+     "D/F#"
+    ],
+    [
+     "D"
+    ],
+    [
+     "Em"
+    ],
+    [
+     "E7/G#"
+    ],
+    [
+     "A7",
+     "A/G"
+    ],
+    [
+     "D/F#",
+     "A7/E"
+    ],
+    [
+     "D"
+    ],
+    [
+     "D/F#",
+     "Fdim"
+    ],
+    [
+     "D/F#"
+    ],
+    [
+     "Bm"
+    ],
+    [
+     "C#7"
+    ],
+    [
+     "C#7/G#"
+    ],
+    [
+     "F#m"
+    ],
+    [
+     "A7",
+     "A7/C#"
+    ],
+    [
+     "D"
+    ]
+   ]
+  },
+  {
+   "name": "F",
+   "tonic": "D",
+   "bars": "X7–62",
+   "repeat": false,
+   "sequence": [
+    [
+     "Em7"
+    ],
+    [
+     "A7",
+     "A/G"
+    ],
+    [
+     "D/F#"
+    ],
+    [
+     "D/F#",
+     "Dm6/F"
+    ],
+    [
+     "A/E"
+    ],
+    [
+     "E7"
+    ],
+    [
+     "A",
+     "E7"
+    ],
+    [
+     "A7"
+    ],
+    [
+     "Gm7"
+    ],
+    [
+     "C7",
+     "C/Bb"
+    ],
+    [
+     "F/A"
+    ],
+    [
+     "F",
+     "F/Eb"
+    ],
+    [
+     "A/E",
+     "A/C#"
+    ],
+    [
+     "E7/B"
+    ],
+    [
+     "Bb7"
+    ],
+    [
+     "A7"
+    ]
+   ]
+  },
+  {
+   "name": "G",
+   "tonic": "D",
+   "bars": "63–70",
+   "repeat": false,
+   "sequence": [
+    [
+     "Em7"
+    ],
+    [
+     "A7",
+     "A/G"
+    ],
+    [
+     "D/F#"
+    ],
+    [
+     "D/F#"
+    ],
+    [
+     "Eb"
+    ],
+    [
+     "Eb/G"
+    ],
+    [
+     "D/F#",
+     "A7"
+    ],
+    [
+     "D"
+    ]
+   ]
+  },
+  {
+   "name": "H",
+   "tonic": "G",
+   "bars": "71–78",
+   "repeat": false,
+   "sequence": [
+    [
+     "G",
+     "E7/G#"
+    ],
+    [
+     "Am",
+     "A7/C#"
+    ],
+    [
+     "D7",
+     "D/C"
+    ],
+    [
+     "G/B"
+    ],
+    [
+     "Bm7b5",
+     "E7/G#"
+    ],
+    [
+     "Am",
+     "A7/C#"
+    ],
+    [
+     "G/D",
+     "D7"
+    ],
+    [
+     "G"
+    ]
+   ]
+  },
+  {
+   "name": "H",
+   "tonic": "G",
+   "bars": "X8–85",
+   "repeat": false,
+   "sequence": [
+    [
+     "B/A",
+     "E7/G#"
+    ],
+    [
+     "A/G",
+     "D7/F#"
+    ],
+    [
+     "G#7",
+     "C#7"
+    ],
+    [
+     "F#7",
+     "B7"
+    ],
+    [
+     "E7",
+     "D7/F#"
+    ],
+    [
+     "G",
+     "E7"
+    ],
+    [
+     "Am",
+     "D7"
+    ],
+    [
+     "G"
+    ]
+   ]
+  },
+  {
+   "name": "H",
+   "tonic": "G",
+   "bars": "86–X10",
+   "repeat": false,
+   "sequence": [
+    [
+     "G"
+    ],
+    [
+     "A7"
+    ],
+    [
+     "D7"
+    ],
+    [
+     "G"
+    ],
+    [
+     "E7"
+    ],
+    [
+     "A7"
+    ],
+    [
+     "D7"
+    ],
+    [
+     "G"
+    ],
+    [
+     "G",
+     "G7"
+    ],
+    [
+     "Bm",
+     "Bm/A"
+    ],
+    [
+     "C#7/G#",
+     "F#7"
+    ],
+    [
+     "Bm"
+    ],
+    [
+     "Fdim"
+    ],
+    [
+     "D/F#"
+    ],
+    [
+     "A7"
+    ],
+    [
+     "D",
+     "D7"
+    ]
+   ]
+  },
+  {
+   "name": "H",
+   "tonic": "Em",
+   "bars": "X11–116",
+   "repeat": false,
+   "sequence": [
+    [
+     "Em"
+    ],
+    [
+     "F#m7b5"
+    ],
+    [
+     "B7",
+     "B/A"
+    ],
+    [
+     "Em/G"
+    ],
+    [
+     "Em",
+     "Em6/G"
+    ],
+    [
+     "Bm/F#"
+    ],
+    [
+     "F#7"
+    ],
+    [
+     "B7"
+    ],
+    [
+     "Em"
+    ],
+    [
+     "F#m7b5"
+    ],
+    [
+     "B7",
+     "B/A"
+    ],
+    [
+     "Em/G"
+    ],
+    [
+     "Em"
+    ],
+    [
+     "F#m7b5"
+    ],
+    [
+     "B7"
+    ],
+    [
+     "Em"
+    ]
+   ]
+  },
+  {
+   "name": "H",
+   "tonic": "E",
+   "bars": "117–133",
+   "repeat": false,
+   "sequence": [
+    [
+     "E"
+    ],
+    [
+     "E/G#"
+    ],
+    [
+     "B7/F#"
+    ],
+    [],
+    [
+     "E",
+     "G#7/B#"
+    ],
+    [
+     "C#m",
+     "F#m/A"
+    ],
+    [
+     "F#7/A#"
+    ],
+    [
+     "B7",
+     "B/A"
+    ],
+    [
+     "E/G#"
+    ],
+    [
+     "C#7/E#"
+    ],
+    [
+     "F#m"
+    ],
+    [
+     "F#7/A#"
+    ],
+    [
+     "E/B",
+     "C#7/G#"
+    ],
+    [
+     "F#m",
+     "C7/G"
+    ],
+    [
+     "B7/F#",
+     "B7"
+    ],
+    [
+     "E"
+    ],
+    []
+   ]
+  }
+ ],
+ "notes": [
+  "Grille générée automatiquement depuis la partition MusicXML : à vérifier."
+ ],
+ "confidence": "medium",
+ "source": [
+  "mxl/C/Joaquim Callado - Ermelinda - Theme - C.mxl"
+ ],
+ "generated": "mxl"
+}

@@ -1,0 +1,310 @@
+{
+ "song_id": "carioca-ernesto-nazareth",
+ "title": "Carioca",
+ "composer": "Ernesto Nazareth",
+ "transposition": "c",
+ "meter": "2/4",
+ "form": "A (reprise) — B (reprise) — C (reprise) — D — Coda",
+ "parts": [
+  {
+   "name": "A",
+   "tonic": "Dm",
+   "bars": "0–17",
+   "repeat": true,
+   "sequence": [
+    [
+     "Dm"
+    ],
+    [
+     "A7"
+    ],
+    [
+     "Dm"
+    ],
+    [
+     "A7"
+    ],
+    [
+     "D7"
+    ],
+    [
+     "Gm"
+    ],
+    [
+     "Bb7"
+    ],
+    [
+     "A7"
+    ],
+    [
+     "Dm"
+    ],
+    [
+     "A7"
+    ],
+    [
+     "Dm"
+    ],
+    [
+     "A7"
+    ],
+    [
+     "D7"
+    ],
+    [
+     "Gm",
+     "Bb7"
+    ],
+    [
+     "Eb",
+     "A7"
+    ]
+   ],
+   "endings": {
+    "1": [
+     [
+      "Dm"
+     ]
+    ],
+    "2": [
+     [
+      "Dm"
+     ]
+    ]
+   }
+  },
+  {
+   "name": "B",
+   "tonic": "F",
+   "bars": "18–50",
+   "repeat": true,
+   "sequence": [
+    [
+     "C7"
+    ],
+    [
+     "C#dim"
+    ],
+    [
+     "F"
+    ],
+    [],
+    [
+     "G7"
+    ],
+    [
+     "C7"
+    ],
+    [
+     "F"
+    ],
+    [],
+    [
+     "C7"
+    ],
+    [
+     "C#dim"
+    ],
+    [
+     "Dm"
+    ],
+    [],
+    [
+     "C/E"
+    ],
+    [
+     "Dm",
+     "G7"
+    ],
+    [
+     "C"
+    ],
+    [
+     "C7"
+    ],
+    [
+     "C#dim"
+    ],
+    [
+     "F"
+    ],
+    [],
+    [
+     "G7"
+    ],
+    [
+     "C7"
+    ],
+    [
+     "F"
+    ],
+    [],
+    [
+     "D7"
+    ],
+    [
+     "Ebdim"
+    ],
+    [
+     "Gm"
+    ],
+    [
+     "Gm",
+     "Bdim"
+    ],
+    [
+     "F/C",
+     "D7"
+    ],
+    [
+     "Gm",
+     "C7"
+    ],
+    [
+     "F",
+     "C7"
+    ],
+    [
+     "Dm"
+    ]
+   ],
+   "endings": {
+    "1": [
+     [
+      "F"
+     ]
+    ],
+    "2": [
+     [
+      "F"
+     ]
+    ]
+   }
+  },
+  {
+   "name": "C",
+   "tonic": "Bb",
+   "bars": "51–67",
+   "repeat": true,
+   "sequence": [
+    [
+     "F7"
+    ],
+    [
+     "Bb"
+    ],
+    [
+     "C7",
+     "F7"
+    ],
+    [
+     "Bb"
+    ],
+    [
+     "F7",
+     "F#dim"
+    ],
+    [
+     "Gm",
+     "Bdim"
+    ],
+    [
+     "F/C",
+     "C7"
+    ],
+    [
+     "F"
+    ],
+    [
+     "F7"
+    ],
+    [
+     "Bb"
+    ],
+    [
+     "C7",
+     "F7"
+    ],
+    [
+     "Bb"
+    ],
+    [
+     "Bb",
+     "Bb7"
+    ],
+    [
+     "Eb",
+     "Edim"
+    ],
+    [
+     "Bb/F",
+     "F7"
+    ]
+   ],
+   "endings": {
+    "1": [
+     [
+      "Bb"
+     ]
+    ],
+    "2": [
+     [
+      "Bb"
+     ]
+    ]
+   }
+  },
+  {
+   "name": "D",
+   "tonic": "Dm",
+   "bars": "68–76",
+   "repeat": false,
+   "sequence": [
+    [
+     "A7"
+    ],
+    [
+     "Dm"
+    ],
+    [
+     "E7"
+    ],
+    [
+     "A7"
+    ],
+    [],
+    [
+     "Dm",
+     "G#dim"
+    ],
+    [
+     "Dm",
+     "Em7b5"
+    ],
+    [
+     "A7"
+    ],
+    []
+   ]
+  },
+  {
+   "name": "Coda",
+   "tonic": "Dm",
+   "bars": "77–77",
+   "repeat": false,
+   "sequence": [
+    [
+     "Dm"
+    ]
+   ]
+  }
+ ],
+ "notes": [
+  "Grille générée automatiquement depuis la partition MusicXML : à vérifier."
+ ],
+ "confidence": "medium",
+ "source": [
+  "mxl/C/Ernesto Nazareth - Carioca - Theme - C.mxl"
+ ],
+ "generated": "mxl"
+}

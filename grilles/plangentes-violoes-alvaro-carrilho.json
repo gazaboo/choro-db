@@ -1,0 +1,178 @@
+{
+ "song_id": "plangentes-violoes-alvaro-carrilho",
+ "title": "Plangentes violões",
+ "composer": "Álvaro Carrilho",
+ "transposition": "c",
+ "meter": "2/4",
+ "form": "A (reprise) — B (reprise) — C",
+ "parts": [
+  {
+   "name": "A",
+   "tonic": "Am",
+   "bars": "1–18",
+   "repeat": true,
+   "sequence": [
+    [],
+    [
+     "Am"
+    ],
+    [
+     "E7"
+    ],
+    [
+     "Am"
+    ],
+    [
+     "E7"
+    ],
+    [
+     "G"
+    ],
+    [
+     "G7"
+    ],
+    [
+     "C/G"
+    ],
+    [
+     "G7"
+    ],
+    [
+     "Am"
+    ],
+    [
+     "E7"
+    ],
+    [
+     "Am"
+    ],
+    [
+     "E7"
+    ],
+    [
+     "C",
+     "Fm"
+    ],
+    [
+     "G",
+     "F"
+    ],
+    [
+     "C/E",
+     "B7",
+     "E7"
+    ]
+   ],
+   "endings": {
+    "1": [
+     [
+      "Am"
+     ]
+    ],
+    "2": [
+     [
+      "Am",
+      "Ab7"
+     ]
+    ]
+   }
+  },
+  {
+   "name": "B",
+   "tonic": "Am",
+   "bars": "19–35",
+   "repeat": true,
+   "sequence": [
+    [
+     "G7"
+    ],
+    [
+     "C"
+    ],
+    [
+     "A7"
+    ],
+    [
+     "Dm7"
+    ],
+    [
+     "F/A",
+     "Fm/Ab"
+    ],
+    [
+     "C/G"
+    ],
+    [
+     "D7/A"
+    ],
+    [
+     "G7"
+    ],
+    [
+     "G/F"
+    ],
+    [
+     "C/E"
+    ],
+    [
+     "A7"
+    ],
+    [
+     "Dm7"
+    ],
+    [
+     "F/A",
+     "Fm/Ab"
+    ],
+    [
+     "C/G"
+    ],
+    [
+     "D7/A",
+     "G7"
+    ]
+   ],
+   "endings": {
+    "1": [
+     [
+      "C",
+      "Ab7"
+     ]
+    ],
+    "2": [
+     [
+      "C",
+      "E7"
+     ]
+    ]
+   }
+  },
+  {
+   "name": "C",
+   "tonic": "Am",
+   "bars": "37–39",
+   "repeat": false,
+   "sequence": [
+    [
+     "Am"
+    ],
+    [],
+    [
+     "Am"
+    ]
+   ],
+   "transition_in": [
+    []
+   ]
+  }
+ ],
+ "notes": [
+  "Grille générée automatiquement depuis la partition MusicXML : à vérifier.",
+  "A : première mesure sans accord"
+ ],
+ "confidence": "medium",
+ "source": [
+  "mxl/C/Álvaro Carrilho - Plangentes violões - Theme - C.mxl"
+ ],
+ "generated": "mxl"
+}

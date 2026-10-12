@@ -1,0 +1,212 @@
+{
+ "song_id": "choro-do-nezinho-nezinho-da-flauta",
+ "title": "Choro do Nezinho",
+ "composer": "Nezinho da Flauta",
+ "transposition": "c",
+ "meter": "2/4",
+ "form": "A (reprise) — B (reprise) — C (reprise)",
+ "parts": [
+  {
+   "name": "A",
+   "tonic": "Dm",
+   "bars": "1–16",
+   "repeat": true,
+   "sequence": [
+    [
+     "Dm"
+    ],
+    [
+     "A7"
+    ],
+    [
+     "A/G"
+    ],
+    [
+     "Dm/F"
+    ],
+    [
+     "Dm",
+     "Dm6"
+    ],
+    [
+     "Am/C"
+    ],
+    [
+     "E7/G#"
+    ],
+    [
+     "Gm6",
+     "A7"
+    ],
+    [
+     "Dm"
+    ],
+    [
+     "A7"
+    ],
+    [
+     "A/G"
+    ],
+    [
+     "Eb7/G",
+     "D7/F#"
+    ],
+    [
+     "Gm",
+     "Em7b5"
+    ],
+    [
+     "Dm",
+     "Dm/F"
+    ],
+    [
+     "Eb/G",
+     "A7"
+    ],
+    [
+     "Dm"
+    ]
+   ]
+  },
+  {
+   "name": "B",
+   "tonic": "F",
+   "bars": "17–X1",
+   "repeat": true,
+   "sequence": [
+    [
+     "C7"
+    ],
+    [
+     "F"
+    ],
+    [
+     "Cm6",
+     "D7"
+    ],
+    [
+     "Gm"
+    ],
+    [
+     "Bb",
+     "Bdim"
+    ],
+    [
+     "F/C",
+     "D7"
+    ],
+    [
+     "G7"
+    ],
+    [
+     "C7"
+    ],
+    [
+     "Cm6",
+     "D7/F#"
+    ],
+    [
+     "Gm"
+    ],
+    [
+     "Bm7b5",
+     "E7"
+    ],
+    [
+     "Am"
+    ],
+    [
+     "Gm",
+     "G#dim"
+    ],
+    [
+     "F/A",
+     "Dm"
+    ],
+    [
+     "Gm",
+     "C7"
+    ],
+    [
+     "F"
+    ]
+   ]
+  },
+  {
+   "name": "C",
+   "tonic": "D",
+   "bars": "33–49",
+   "repeat": true,
+   "sequence": [
+    [
+     "D",
+     "Bm7"
+    ],
+    [
+     "Em",
+     "A7"
+    ],
+    [
+     "D",
+     "Fdim"
+    ],
+    [
+     "A7/E"
+    ],
+    [
+     "A#dim"
+    ],
+    [
+     "Bm",
+     "G#m7b5"
+    ],
+    [
+     "F#",
+     "C#7/E#"
+    ],
+    [
+     "F#",
+     "A7"
+    ],
+    [
+     "D",
+     "Bm7"
+    ],
+    [
+     "Em",
+     "A7"
+    ],
+    [
+     "D"
+    ],
+    [
+     "B7/D#"
+    ],
+    [
+     "Em",
+     "Gm6"
+    ],
+    [
+     "D/F#",
+     "B7"
+    ],
+    [
+     "Em",
+     "A7"
+    ],
+    [
+     "D"
+    ],
+    []
+   ]
+  }
+ ],
+ "notes": [
+  "Grille générée automatiquement depuis la partition MusicXML : à vérifier."
+ ],
+ "confidence": "medium",
+ "source": [
+  "mxl/C/Nezinho da Flauta - Choro do Nezinho - Theme - C.mxl"
+ ],
+ "generated": "mxl"
+}

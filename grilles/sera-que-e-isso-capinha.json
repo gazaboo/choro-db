@@ -1,0 +1,203 @@
+{
+ "song_id": "sera-que-e-isso-capinha",
+ "title": "Será Que É Isso",
+ "composer": "Capinha",
+ "transposition": "c",
+ "meter": "2/4",
+ "form": "A — B — C — D — Coda",
+ "parts": [
+  {
+   "name": "A",
+   "tonic": "C",
+   "bars": "1–13",
+   "sequence": [
+    [
+     "G7"
+    ],
+    [
+     "C7",
+     "F7"
+    ],
+    [
+     "Bb",
+     "D7/A"
+    ],
+    [
+     "Gm"
+    ],
+    [
+     "Gm",
+     "Em7(b5)"
+    ],
+    [
+     "D"
+    ],
+    [
+     "A7"
+    ],
+    [
+     "D7",
+     "G7"
+    ],
+    [
+     "G7"
+    ],
+    [
+     "C7",
+     "F7"
+    ],
+    [
+     "Bb",
+     "D7/A"
+    ],
+    [
+     "Gm",
+     "G7/B"
+    ],
+    [
+     "Cm"
+    ]
+   ]
+  },
+  {
+   "name": "B",
+   "tonic": "Am",
+   "bars": "14–31",
+   "sequence": [
+    [
+     "Gm",
+     "A7"
+    ],
+    [],
+    [
+     "Gm",
+     "D7"
+    ],
+    [
+     "Gm",
+     "Ab7"
+    ],
+    [
+     "Gm",
+     "D7"
+    ],
+    [
+     "Gm"
+    ],
+    [],
+    [
+     "Em",
+     "B7/D#"
+    ],
+    [
+     "Em",
+     "E/D"
+    ],
+    [
+     "E7"
+    ],
+    [],
+    [
+     "Am",
+     "E7"
+    ],
+    [
+     "Am",
+     "D7"
+    ],
+    [
+     "D7"
+    ],
+    [
+     "G",
+     "B7"
+    ],
+    [
+     "Em",
+     "B7/D#"
+    ],
+    [
+     "Em",
+     "B7/F#"
+    ],
+    [
+     "Dm6/F",
+     "E7"
+    ]
+   ]
+  },
+  {
+   "name": "C",
+   "tonic": "Am",
+   "bars": "32–35",
+   "sequence": [
+    [
+     "Am",
+     "A7/C#"
+    ],
+    [
+     "G7"
+    ],
+    [
+     "Cm6",
+     "D7/F#"
+    ],
+    [
+     "G"
+    ]
+   ]
+  },
+  {
+   "name": "D",
+   "tonic": "C",
+   "bars": "37–41",
+   "sequence": [
+    [
+     "Am",
+     "D7(b9)"
+    ],
+    [
+     "Gm",
+     "Gm/F"
+    ],
+    [],
+    [],
+    [
+     "G7"
+    ]
+   ]
+  },
+  {
+   "name": "Coda",
+   "tonic": "C",
+   "bars": "42–45",
+   "sequence": [
+    [
+     "Gm",
+     "Ab7"
+    ],
+    [
+     "Gm",
+     "D7"
+    ],
+    [
+     "Gm",
+     "A7"
+    ],
+    [
+     "D7",
+     "Gm"
+    ]
+   ]
+  }
+ ],
+ "notes": [
+  "Grille générée automatiquement depuis le texte du PDF : à vérifier.",
+  "Reprises et fins non détectées : les mesures sont dans l'ordre d'écriture."
+ ],
+ "confidence": "low",
+ "source": [
+  "pdf/Capinha - Será Que É Isso - Theme - C.pdf"
+ ],
+ "generated": "pdf"
+}

@@ -1,0 +1,215 @@
+{
+ "song_id": "lela-benedito-lacerda",
+ "title": "Lela",
+ "composer": "Benedito Lacerda",
+ "transposition": "c",
+ "meter": "3/4",
+ "form": "A — B",
+ "parts": [
+  {
+   "name": "A",
+   "tonic": "Dm",
+   "bars": "1–32",
+   "repeat": false,
+   "sequence": [
+    [
+     "Dm"
+    ],
+    [
+     "Dm/F"
+    ],
+    [
+     "Gm"
+    ],
+    [],
+    [
+     "Em7b5"
+    ],
+    [
+     "A7"
+    ],
+    [
+     "Dm"
+    ],
+    [],
+    [
+     "Dm"
+    ],
+    [
+     "Bm7b5"
+    ],
+    [
+     "Am"
+    ],
+    [
+     "Am/C"
+    ],
+    [
+     "Bm7b5"
+    ],
+    [
+     "E7"
+    ],
+    [
+     "A7"
+    ],
+    [],
+    [
+     "Dm"
+    ],
+    [
+     "Dm/F"
+    ],
+    [
+     "Gm"
+    ],
+    [],
+    [
+     "Em7b5"
+    ],
+    [
+     "A7"
+    ],
+    [
+     "Cm6"
+    ],
+    [
+     "D7"
+    ],
+    [
+     "Gm"
+    ],
+    [
+     "Gm6/Bb"
+    ],
+    [
+     "Dm/A"
+    ],
+    [
+     "Bb/Ab"
+    ],
+    [
+     "A7"
+    ],
+    [
+     "A7/C#"
+    ],
+    [
+     "Dm"
+    ],
+    []
+   ]
+  },
+  {
+   "name": "B",
+   "tonic": "Dm",
+   "bars": "33–65",
+   "repeat": false,
+   "sequence": [
+    [
+     "Dm"
+    ],
+    [
+     "Dm/C"
+    ],
+    [
+     "E7/B"
+    ],
+    [
+     "Bb7"
+    ],
+    [
+     "A7"
+    ],
+    [
+     "A/G"
+    ],
+    [
+     "Dm/F"
+    ],
+    [
+     "Gm6"
+    ],
+    [
+     "Dm/F"
+    ],
+    [
+     "Bm7b5"
+    ],
+    [
+     "Am/C"
+    ],
+    [
+     "Am"
+    ],
+    [
+     "E7/G#"
+    ],
+    [
+     "E7"
+    ],
+    [
+     "A7"
+    ],
+    [
+     "A7/C#"
+    ],
+    [
+     "Dm"
+    ],
+    [
+     "Dm/C"
+    ],
+    [
+     "E7/B"
+    ],
+    [
+     "Bb7"
+    ],
+    [
+     "A7"
+    ],
+    [
+     "A/G"
+    ],
+    [
+     "D7/F#"
+    ],
+    [
+     "D7"
+    ],
+    [
+     "Gm"
+    ],
+    [
+     "A7/C#"
+    ],
+    [
+     "Dm"
+    ],
+    [
+     "Dm/F"
+    ],
+    [
+     "Em7b5"
+    ],
+    [
+     "A7"
+    ],
+    [
+     "Dm"
+    ],
+    [],
+    []
+   ]
+  }
+ ],
+ "notes": [
+  "Grille générée automatiquement depuis la partition MusicXML : à vérifier."
+ ],
+ "confidence": "medium",
+ "source": [
+  "mxl/C/Benedito Lacerda - Lela - Theme - C.mxl"
+ ],
+ "generated": "mxl"
+}

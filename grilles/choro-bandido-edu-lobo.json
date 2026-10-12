@@ -1,0 +1,190 @@
+{
+ "song_id": "choro-bandido-edu-lobo",
+ "title": "Choro bandido",
+ "composer": "Edu Lobo",
+ "transposition": "c",
+ "meter": "2/2",
+ "form": "A — B — C (reprise) — D — E",
+ "parts": [
+  {
+   "name": "A",
+   "tonic": "C",
+   "bars": "1–6",
+   "repeat": false,
+   "sequence": [
+    [],
+    [
+     "Dm7"
+    ],
+    [
+     "Fm(maj7)/Ab",
+     "Fm7/Ab"
+    ],
+    [
+     "Fm6/Ab"
+    ],
+    [
+     "Fm(maj7)",
+     "Fm7"
+    ],
+    [
+     "A7(b9)"
+    ]
+   ]
+  },
+  {
+   "name": "B",
+   "tonic": "C",
+   "bars": "7–14",
+   "repeat": false,
+   "sequence": [
+    [
+     "Dm(maj7)(9)",
+     "Dm7(9)"
+    ],
+    [
+     "G7(b9,#11)",
+     "G7(9,13)"
+    ],
+    [
+     "Cmaj7(9)",
+     "G7(#9,b13)",
+     "E7(b9)"
+    ],
+    [
+     "Am7(11)",
+     "D7(9,#11)"
+    ],
+    [
+     "Dm(maj7)(9)",
+     "Dm7(9)"
+    ],
+    [
+     "G7(9)"
+    ],
+    [
+     "Cmaj7(#5)"
+    ],
+    [
+     "Cmaj7"
+    ]
+   ]
+  },
+  {
+   "name": "C",
+   "tonic": "C",
+   "bars": "15–30",
+   "repeat": true,
+   "sequence": [
+    [
+     "F#m7(9)"
+    ],
+    [
+     "B7(b9,13)"
+    ],
+    [],
+    [
+     "Emaj7(9)"
+    ],
+    [
+     "A#m7b5"
+    ],
+    [
+     "D#7",
+     "A7(9)"
+    ],
+    [
+     "G#maj7",
+     "G#7(#5)"
+    ],
+    [
+     "F#7(#11)",
+     "F7(#11)"
+    ],
+    [
+     "Emaj7(9)"
+    ],
+    [
+     "C#m(maj7)(9)",
+     "C#m7(9)"
+    ],
+    [
+     "Amaj7"
+    ],
+    [
+     "G#7(9)"
+    ],
+    [
+     "C#m7b5"
+    ],
+    [
+     "F#7"
+    ],
+    [
+     "Bm7b5"
+    ],
+    []
+   ]
+  },
+  {
+   "name": "D",
+   "tonic": "C",
+   "bars": "31–36",
+   "repeat": false,
+   "sequence": [
+    [
+     "Dm(maj7)(9)",
+     "Dm7(9)"
+    ],
+    [
+     "G7(b9,#11)",
+     "G7(9,13)"
+    ],
+    [
+     "Cmaj7(9)",
+     "G7(#9,b13)",
+     "E7(b9)"
+    ],
+    [
+     "Am7(11)",
+     "D7(9,#11)"
+    ],
+    [],
+    []
+   ]
+  },
+  {
+   "name": "E",
+   "tonic": "C",
+   "bars": "37–42",
+   "repeat": false,
+   "sequence": [
+    [
+     "Fmaj7"
+    ],
+    [
+     "C/E"
+    ],
+    [
+     "Dm7(9)"
+    ],
+    [
+     "Dbmaj7"
+    ],
+    [
+     "C6/G"
+    ],
+    []
+   ]
+  }
+ ],
+ "notes": [
+  "Grille générée automatiquement depuis la partition MusicXML : à vérifier.",
+  "A : première mesure sans accord"
+ ],
+ "confidence": "medium",
+ "source": [
+  "mxl/C/Edu Lobo - Choro bandido - Theme - C.mxl"
+ ],
+ "generated": "mxl"
+}

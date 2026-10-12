@@ -1,0 +1,170 @@
+{
+ "song_id": "flor-de-jacaranda-luciana-rabello",
+ "title": "Flor de Jacarandá",
+ "composer": "Luciana Rabello",
+ "transposition": "c",
+ "meter": "3/4",
+ "form": "A — B (reprise) — A",
+ "parts": [
+  {
+   "name": "A",
+   "tonic": "Dm",
+   "bars": "1–4",
+   "repeat": false,
+   "sequence": [
+    [],
+    [
+     "A7(#9,b13)"
+    ],
+    [],
+    [
+     "A7(#9,b13)"
+    ]
+   ]
+  },
+  {
+   "name": "B",
+   "tonic": "Dm",
+   "bars": "5–44",
+   "repeat": true,
+   "sequence": [
+    [
+     "Dm7"
+    ],
+    [
+     "Gm7"
+    ],
+    [
+     "Eb/G"
+    ],
+    [
+     "Dm/F"
+    ],
+    [
+     "Em7b5"
+    ],
+    [
+     "A7(b9)"
+    ],
+    [
+     "Gm7"
+    ],
+    [
+     "F",
+     "F(#5)",
+     "F6"
+    ],
+    [
+     "Am7b5"
+    ],
+    [
+     "D7(b9,#11)"
+    ],
+    [
+     "F#6/C#"
+    ],
+    [
+     "E(9)"
+    ],
+    [
+     "Eb(9)"
+    ],
+    [
+     "D7(b9)"
+    ],
+    [
+     "Ebm7"
+    ],
+    [
+     "Bb/D",
+     "Cm",
+     "Bb6"
+    ],
+    [
+     "A7(#11)"
+    ],
+    [
+     "Abmaj7"
+    ],
+    [
+     "Emaj7",
+     "Bb7"
+    ],
+    [
+     "Amaj7"
+    ],
+    [
+     "Eb7(9)"
+    ],
+    [
+     "Dm7"
+    ],
+    [
+     "Gm7"
+    ],
+    [
+     "Eb/G"
+    ],
+    [
+     "Dm/F"
+    ],
+    [
+     "Em7b5"
+    ],
+    [
+     "A7(b9)"
+    ],
+    [
+     "Gm"
+    ],
+    [
+     "F",
+     "F(#5)",
+     "F6"
+    ],
+    [
+     "Am7b5"
+    ],
+    [
+     "D7(b9)"
+    ],
+    [
+     "F#6/C#"
+    ],
+    [
+     "E(9)"
+    ],
+    [
+     "Eb(9)"
+    ],
+    [
+     "Am7b5"
+    ],
+    [
+     "D7(b9)"
+    ],
+    [
+     "Bbm6/Db"
+    ],
+    [
+     "C7(b9)"
+    ],
+    [
+     "Bbm7"
+    ],
+    [
+     "A7(b9)"
+    ]
+   ]
+  }
+ ],
+ "notes": [
+  "Grille générée automatiquement depuis la partition MusicXML : à vérifier.",
+  "A : première mesure sans accord"
+ ],
+ "confidence": "medium",
+ "source": [
+  "mxl/C/Luciana Rabello - Flor de Jacarandá - Theme - C.mxl"
+ ],
+ "generated": "mxl"
+}

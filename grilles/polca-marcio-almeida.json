@@ -1,0 +1,205 @@
+{
+ "song_id": "polca-marcio-almeida",
+ "title": "Polca",
+ "composer": "Márcio Almeida",
+ "transposition": "c",
+ "meter": "2/4",
+ "form": "A (reprise) — B (reprise) — C (reprise)",
+ "parts": [
+  {
+   "name": "A",
+   "tonic": "A",
+   "bars": "1–16",
+   "repeat": true,
+   "sequence": [
+    [
+     "A",
+     "F#m7"
+    ],
+    [
+     "Bm7"
+    ],
+    [
+     "E7"
+    ],
+    [
+     "A"
+    ],
+    [],
+    [
+     "E"
+    ],
+    [
+     "B7"
+    ],
+    [
+     "E",
+     "E7"
+    ],
+    [
+     "A",
+     "F#m7"
+    ],
+    [
+     "Bm7"
+    ],
+    [
+     "E7"
+    ],
+    [
+     "F#7"
+    ],
+    [
+     "Bm",
+     "Cdim"
+    ],
+    [
+     "A/C#",
+     "F#7"
+    ],
+    [
+     "Bm7",
+     "E7"
+    ],
+    [
+     "A"
+    ]
+   ]
+  },
+  {
+   "name": "B",
+   "tonic": "E",
+   "bars": "17–X1",
+   "repeat": true,
+   "sequence": [
+    [
+     "E"
+    ],
+    [
+     "F#m7"
+    ],
+    [
+     "B7"
+    ],
+    [
+     "E"
+    ],
+    [],
+    [
+     "G#m7"
+    ],
+    [
+     "A#m7b5",
+     "D#7"
+    ],
+    [
+     "G#m",
+     "B7"
+    ],
+    [
+     "E"
+    ],
+    [
+     "F#m7"
+    ],
+    [
+     "B7"
+    ],
+    [
+     "E"
+    ],
+    [
+     "A"
+    ],
+    [
+     "E"
+    ],
+    [
+     "B7"
+    ],
+    [
+     "E"
+    ]
+   ]
+  },
+  {
+   "name": "C",
+   "tonic": "D",
+   "bars": "33–50",
+   "repeat": true,
+   "sequence": [
+    [
+     "D"
+    ],
+    [
+     "Em"
+    ],
+    [
+     "A7"
+    ],
+    [
+     "D"
+    ],
+    [],
+    [
+     "A"
+    ],
+    [
+     "E7"
+    ],
+    [
+     "Em7",
+     "A7"
+    ],
+    [
+     "D"
+    ],
+    [
+     "Em"
+    ],
+    [
+     "A7"
+    ],
+    [
+     "D",
+     "D/C"
+    ],
+    [
+     "G",
+     "A7"
+    ],
+    [
+     "D",
+     "B7"
+    ],
+    [
+     "Em7",
+     "A7"
+    ],
+    []
+   ],
+   "endings": {
+    "1": [
+     [
+      "D"
+     ]
+    ],
+    "2": [
+     [
+      "D",
+      "D#",
+      "E7"
+     ]
+    ]
+   }
+  }
+ ],
+ "notes": [
+  "Grille générée automatiquement depuis la partition MusicXML : à vérifier."
+ ],
+ "confidence": "medium",
+ "source": [
+  "mxl/C/Márcio Almeida - Polca - Theme - C.mxl"
+ ],
+ "generated": "mxl"
+}

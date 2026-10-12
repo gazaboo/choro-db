@@ -1,0 +1,302 @@
+{
+ "song_id": "capricho-luperce-miranda",
+ "title": "Capricho",
+ "composer": "Luperce Miranda",
+ "transposition": "c",
+ "meter": "4/4",
+ "form": "A — B — C (reprise) — D — E — B",
+ "parts": [
+  {
+   "name": "A",
+   "tonic": "D",
+   "bars": "1–6",
+   "repeat": false,
+   "sequence": [
+    [],
+    [],
+    [
+     "C7"
+    ],
+    [
+     "B7"
+    ],
+    [
+     "Bb7"
+    ],
+    [
+     "A7"
+    ]
+   ]
+  },
+  {
+   "name": "B",
+   "tonic": "Bm",
+   "bars": "7–38",
+   "repeat": false,
+   "sequence": [
+    [
+     "D"
+    ],
+    [
+     "D/F#"
+    ],
+    [
+     "E7"
+    ],
+    [
+     "F#7"
+    ],
+    [
+     "Bm"
+    ],
+    [
+     "Bm/A"
+    ],
+    [
+     "G#dim"
+    ],
+    [
+     "Gdim"
+    ],
+    [
+     "F#dim"
+    ],
+    [
+     "B7"
+    ],
+    [
+     "E7"
+    ],
+    [],
+    [
+     "Gm6"
+    ],
+    [
+     "A7"
+    ],
+    [
+     "D"
+    ],
+    [],
+    [],
+    [
+     "D/F#"
+    ],
+    [
+     "E7"
+    ],
+    [
+     "F#7"
+    ],
+    [
+     "Bm"
+    ],
+    [
+     "Bm/A"
+    ],
+    [
+     "G#dim"
+    ],
+    [
+     "Gdim"
+    ],
+    [
+     "F#dim"
+    ],
+    [
+     "B7"
+    ],
+    [
+     "E7"
+    ],
+    [
+     "Gm6"
+    ],
+    [
+     "D"
+    ],
+    [
+     "A7/E"
+    ],
+    [
+     "D"
+    ],
+    [
+     "F#7"
+    ]
+   ]
+  },
+  {
+   "name": "C",
+   "tonic": "Bm",
+   "bars": "39–55",
+   "repeat": true,
+   "sequence": [
+    [
+     "Bm"
+    ],
+    [],
+    [
+     "F#7/A#"
+    ],
+    [],
+    [
+     "B7"
+    ],
+    [],
+    [
+     "Em"
+    ],
+    [],
+    [
+     "Em"
+    ],
+    [
+     "F#7/A#"
+    ],
+    [
+     "Bm"
+    ],
+    []
+   ],
+   "endings": {
+    "1": [
+     [
+      "Bm"
+     ],
+     [],
+     [
+      "G7"
+     ],
+     [
+      "F#7"
+     ]
+    ],
+    "2": [
+     [
+      "C7"
+     ]
+    ]
+   }
+  },
+  {
+   "name": "D",
+   "tonic": "D",
+   "bars": "56–58",
+   "repeat": false,
+   "sequence": [
+    [
+     "F#7"
+    ],
+    [
+     "Bm",
+     "Bb7"
+    ],
+    [
+     "A7"
+    ]
+   ]
+  },
+  {
+   "name": "E",
+   "tonic": "Dm",
+   "bars": "59–90",
+   "repeat": false,
+   "sequence": [
+    [
+     "Dm"
+    ],
+    [],
+    [
+     "A7/E"
+    ],
+    [
+     "A7/E"
+    ],
+    [
+     "D7"
+    ],
+    [],
+    [
+     "Gm/Bb"
+    ],
+    [],
+    [
+     "Gm"
+    ],
+    [
+     "Em7b5"
+    ],
+    [
+     "Dm"
+    ],
+    [
+     "Dm/F"
+    ],
+    [
+     "Dm"
+    ],
+    [
+     "Dm"
+    ],
+    [
+     "Bb7"
+    ],
+    [
+     "A7"
+    ],
+    [
+     "Dm"
+    ],
+    [
+     "Dm/F"
+    ],
+    [
+     "A7/C#"
+    ],
+    [],
+    [
+     "D7"
+    ],
+    [
+     "D/C"
+    ],
+    [
+     "Gm/Bb"
+    ],
+    [],
+    [
+     "Gm"
+    ],
+    [
+     "Em7b5"
+    ],
+    [
+     "Dm"
+    ],
+    [
+     "Dm/F"
+    ],
+    [
+     "Bb7"
+    ],
+    [
+     "A7"
+    ],
+    [
+     "D"
+    ],
+    []
+   ]
+  }
+ ],
+ "notes": [
+  "Grille générée automatiquement depuis la partition MusicXML : à vérifier.",
+  "A : première mesure sans accord"
+ ],
+ "confidence": "medium",
+ "source": [
+  "mxl/C/Luperce Miranda - Capricho - Theme - C.mxl"
+ ],
+ "generated": "mxl"
+}

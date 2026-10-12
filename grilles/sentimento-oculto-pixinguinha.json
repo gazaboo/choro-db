@@ -1,0 +1,283 @@
+{
+ "song_id": "sentimento-oculto-pixinguinha",
+ "title": "Sentimento oculto",
+ "composer": "Pixinguinha",
+ "transposition": "c",
+ "meter": "2/4",
+ "form": "A — B — C",
+ "parts": [
+  {
+   "name": "A",
+   "tonic": "C",
+   "bars": "1–31",
+   "sequence": [
+    [
+     "Dm/F"
+    ],
+    [
+     "D7/F#",
+     "A7(b13)"
+    ],
+    [
+     "Gm",
+     "Dm/F"
+    ],
+    [],
+    [
+     "A7"
+    ],
+    [],
+    [
+     "Dm"
+    ],
+    [],
+    [],
+    [],
+    [
+     "A7/E"
+    ],
+    [],
+    [
+     "A7"
+    ],
+    [],
+    [
+     "Dm"
+    ],
+    [
+     "A7"
+    ],
+    [
+     "Dm/F"
+    ],
+    [
+     "D7/F#"
+    ],
+    [
+     "Gm"
+    ],
+    [
+     "Em7(b5)"
+    ],
+    [
+     "A7"
+    ],
+    [],
+    [
+     "D7"
+    ],
+    [],
+    [],
+    [],
+    [],
+    [
+     "Dm/C"
+    ],
+    [
+     "E7/G#",
+     "Gm6/Bb"
+    ],
+    [
+     "A7"
+    ],
+    [
+     "Dm"
+    ]
+   ]
+  },
+  {
+   "name": "B",
+   "tonic": "C",
+   "bars": "32–65",
+   "sequence": [
+    [
+     "Dm"
+    ],
+    [
+     "Dm"
+    ],
+    [],
+    [
+     "F/A"
+    ],
+    [
+     "D7/F#"
+    ],
+    [],
+    [],
+    [
+     "C7"
+    ],
+    [
+     "C/Bb"
+    ],
+    [],
+    [
+     "F/A"
+    ],
+    [
+     "F"
+    ],
+    [
+     "D7"
+    ],
+    [
+     "Gm"
+    ],
+    [
+     "C7"
+    ],
+    [],
+    [
+     "C7"
+    ],
+    [
+     "F"
+    ],
+    [
+     "C47(9)"
+    ],
+    [
+     "F"
+    ],
+    [
+     "D7"
+    ],
+    [
+     "Gm"
+    ],
+    [],
+    [
+     "Em7(b5)"
+    ],
+    [
+     "A7"
+    ],
+    [
+     "Dm"
+    ],
+    [
+     "Dm/C"
+    ],
+    [
+     "Bbm6"
+    ],
+    [
+     "Gm7(b5)"
+    ],
+    [
+     "F/A"
+    ],
+    [
+     "D7/F#"
+    ],
+    [],
+    [
+     "C7"
+    ],
+    [
+     "F"
+    ]
+   ]
+  },
+  {
+   "name": "C",
+   "tonic": "C",
+   "bars": "66–102",
+   "sequence": [
+    [
+     "F"
+    ],
+    [
+     "F"
+    ],
+    [
+     "Dm"
+    ],
+    [],
+    [
+     "D"
+    ],
+    [],
+    [
+     "E7(9)"
+    ],
+    [],
+    [
+     "A47(9)"
+    ],
+    [
+     "A7(9)"
+    ],
+    [
+     "D"
+    ],
+    [],
+    [],
+    [],
+    [
+     "Bm"
+    ],
+    [],
+    [
+     "E7(9)"
+    ],
+    [],
+    [
+     "A7"
+    ],
+    [],
+    [
+     "D"
+    ],
+    [],
+    [
+     "E7(9)"
+    ],
+    [],
+    [
+     "F#7"
+    ],
+    [],
+    [
+     "C7"
+    ],
+    [
+     "B7"
+    ],
+    [
+     "Gm6"
+    ],
+    [],
+    [
+     "D"
+    ],
+    [],
+    [
+     "Em"
+    ],
+    [
+     "A7"
+    ],
+    [
+     "D"
+    ],
+    [
+     "D"
+    ],
+    [
+     "D"
+    ]
+   ]
+  }
+ ],
+ "notes": [
+  "Grille générée automatiquement depuis le texte du PDF : à vérifier.",
+  "Reprises et fins non détectées : les mesures sont dans l'ordre d'écriture."
+ ],
+ "confidence": "low",
+ "source": [
+  "pdf/Pixinguinha - Sentimento oculto - Theme - C.pdf"
+ ],
+ "generated": "pdf"
+}

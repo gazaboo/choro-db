@@ -1,0 +1,251 @@
+{
+ "song_id": "para-eu-ser-feliz-jacob-do-bandolim",
+ "title": "Para Eu Ser Feliz",
+ "composer": "Jacob do Bandolim",
+ "transposition": "c",
+ "meter": "3/4",
+ "form": "A (reprise) — B (reprise)",
+ "parts": [
+  {
+   "name": "A",
+   "tonic": "Gm",
+   "bars": "1–35",
+   "repeat": true,
+   "sequence": [
+    [],
+    [
+     "A7(b9)"
+    ],
+    [
+     "D7(b9)"
+    ],
+    [
+     "Gm"
+    ],
+    [
+     "G7/B"
+    ],
+    [
+     "Cm"
+    ],
+    [
+     "A7"
+    ],
+    [
+     "D7sus4",
+     "D7"
+    ],
+    [
+     "Gm/Bb"
+    ],
+    [
+     "A7(b9)"
+    ],
+    [
+     "D7(b9)"
+    ],
+    [
+     "Gm"
+    ],
+    [
+     "Em7b5"
+    ],
+    [
+     "Dm/F"
+    ],
+    [
+     "A7(b9)"
+    ],
+    [
+     "D7/F#"
+    ],
+    [
+     "Gm"
+    ],
+    [
+     "A7(b9)"
+    ],
+    [
+     "D7(b9)"
+    ],
+    [
+     "Gm"
+    ],
+    [
+     "G7/B"
+    ],
+    [
+     "Cm"
+    ],
+    [
+     "A7"
+    ],
+    [
+     "D7sus4",
+     "D7"
+    ],
+    [
+     "D/C"
+    ],
+    [
+     "Gm/Bb"
+    ],
+    [
+     "G/F"
+    ],
+    [
+     "Cm/Eb"
+    ],
+    [
+     "Ab"
+    ],
+    [
+     "Gm"
+    ],
+    [
+     "A7",
+     "D7"
+    ],
+    []
+   ],
+   "endings": {
+    "1": [
+     [
+      "Gm"
+     ],
+     []
+    ],
+    "2": [
+     [
+      "Gm"
+     ]
+    ]
+   }
+  },
+  {
+   "name": "B",
+   "tonic": "Gm",
+   "bars": "36–71",
+   "repeat": true,
+   "sequence": [
+    [
+     "Cm",
+     "Cm/Eb"
+    ],
+    [
+     "G7/D"
+    ],
+    [
+     "F7",
+     "Cm"
+    ],
+    [
+     "F7/A"
+    ],
+    [
+     "Bb6",
+     "Bb"
+    ],
+    [
+     "D7/A"
+    ],
+    [
+     "Gm"
+    ],
+    [],
+    [
+     "Ab7"
+    ],
+    [],
+    [
+     "Gm"
+    ],
+    [
+     "Gm/F"
+    ],
+    [
+     "A7/E"
+    ],
+    [
+     "A7"
+    ],
+    [
+     "D7"
+    ],
+    [
+     "G7/B"
+    ],
+    [
+     "C7"
+    ],
+    [
+     "F7"
+    ],
+    [
+     "Bb6"
+    ],
+    [
+     "Ebmaj7"
+    ],
+    [
+     "Am7b5"
+    ],
+    [
+     "D7"
+    ],
+    [
+     "G7"
+    ],
+    [
+     "G/F"
+    ],
+    [
+     "Cm/Eb"
+    ],
+    [
+     "Am7b5"
+    ],
+    [
+     "Gm/Bb"
+    ],
+    [
+     "Cm6"
+    ],
+    [
+     "Gm/Bb"
+    ],
+    [
+     "A7(b9)",
+     "D7(b9)"
+    ],
+    [],
+    [
+     "Gm"
+    ],
+    []
+   ],
+   "endings": {
+    "1": [
+     [
+      "Gm"
+     ],
+     []
+    ],
+    "2": [
+     [
+      "Gm"
+     ]
+    ]
+   }
+  }
+ ],
+ "notes": [
+  "Grille générée automatiquement depuis la partition MusicXML : à vérifier.",
+  "A : première mesure sans accord"
+ ],
+ "confidence": "medium",
+ "source": [
+  "mxl/C/Jacob do Bandolim - Para Eu Ser Feliz - Theme - C.mxl"
+ ],
+ "generated": "mxl"
+}

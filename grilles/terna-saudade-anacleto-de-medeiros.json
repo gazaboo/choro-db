@@ -1,0 +1,264 @@
+{
+ "song_id": "terna-saudade-anacleto-de-medeiros",
+ "title": "Terna saudade",
+ "composer": "Anacleto de Medeiros",
+ "transposition": "c",
+ "meter": "2/4",
+ "form": "A — B — C",
+ "parts": [
+  {
+   "name": "A",
+   "tonic": "C",
+   "bars": "1–31",
+   "sequence": [
+    [
+     "D"
+    ],
+    [
+     "D7"
+    ],
+    [
+     "G"
+    ],
+    [
+     "D"
+    ],
+    [],
+    [
+     "D7(9)"
+    ],
+    [
+     "G",
+     "Gm6/Bb"
+    ],
+    [
+     "D/A"
+    ],
+    [
+     "F/C"
+    ],
+    [
+     "C/Bb"
+    ],
+    [
+     "F/A"
+    ],
+    [],
+    [
+     "A/E"
+    ],
+    [
+     "E7"
+    ],
+    [
+     "A"
+    ],
+    [
+     "A7"
+    ],
+    [
+     "D"
+    ],
+    [
+     "D7"
+    ],
+    [
+     "G"
+    ],
+    [
+     "D"
+    ],
+    [],
+    [
+     "D7"
+    ],
+    [
+     "G",
+     "Gm6/Bb"
+    ],
+    [
+     "D/A"
+    ],
+    [
+     "F#7"
+    ],
+    [
+     "F#7/A#"
+    ],
+    [
+     "Bm"
+    ],
+    [],
+    [
+     "D/F#"
+    ],
+    [
+     "A7"
+    ],
+    [
+     "D"
+    ]
+   ]
+  },
+  {
+   "name": "B",
+   "tonic": "C",
+   "bars": "32–49",
+   "sequence": [
+    [],
+    [],
+    [
+     "Bm"
+    ],
+    [
+     "Em6"
+    ],
+    [
+     "F#7"
+    ],
+    [
+     "Bm"
+    ],
+    [
+     "Em"
+    ],
+    [
+     "Bm"
+    ],
+    [
+     "F#7"
+    ],
+    [
+     "Bm"
+    ],
+    [],
+    [
+     "C"
+    ],
+    [
+     "F#7"
+    ],
+    [],
+    [
+     "Em6"
+    ],
+    [
+     "Bm"
+    ],
+    [
+     "F#7"
+    ],
+    [
+     "Bm"
+    ]
+   ]
+  },
+  {
+   "name": "C",
+   "tonic": "C",
+   "bars": "50–84",
+   "sequence": [
+    [
+     "D"
+    ],
+    [],
+    [
+     "G"
+    ],
+    [],
+    [],
+    [],
+    [
+     "D7"
+    ],
+    [],
+    [
+     "G"
+    ],
+    [
+     "D7"
+    ],
+    [
+     "G"
+    ],
+    [
+     "C#m7(b5)"
+    ],
+    [],
+    [
+     "Bm/A"
+    ],
+    [
+     "C#7/G#"
+    ],
+    [
+     "F#7/A#"
+    ],
+    [
+     "Bm7"
+    ],
+    [
+     "D7"
+    ],
+    [
+     "G"
+    ],
+    [
+     "B7/F#"
+    ],
+    [
+     "Em"
+    ],
+    [
+     "E/D"
+    ],
+    [
+     "Am/C"
+    ],
+    [
+     "C/Bb"
+    ],
+    [
+     "F/A"
+    ],
+    [
+     "F"
+    ],
+    [
+     "B7"
+    ],
+    [],
+    [
+     "Em"
+    ],
+    [],
+    [
+     "G"
+    ],
+    [
+     "D7"
+    ],
+    [
+     "G"
+    ],
+    [
+     "G",
+     "D7"
+    ],
+    [
+     "G",
+     "A7"
+    ]
+   ]
+  }
+ ],
+ "notes": [
+  "Grille générée automatiquement depuis le texte du PDF : à vérifier.",
+  "Reprises et fins non détectées : les mesures sont dans l'ordre d'écriture."
+ ],
+ "confidence": "low",
+ "source": [
+  "pdf/Anacleto de Medeiros - Terna saudade - Theme - C.pdf"
+ ],
+ "generated": "pdf"
+}

@@ -1,0 +1,214 @@
+{
+ "song_id": "sururu-na-cidade-zequinha-abreu",
+ "title": "Sururú Na Cidade",
+ "composer": "Zequinha Abreu",
+ "transposition": "c",
+ "meter": "2/4",
+ "form": "A — B — C — D",
+ "parts": [
+  {
+   "name": "A",
+   "tonic": "C",
+   "bars": "1–3",
+   "sequence": [
+    [
+     "A7"
+    ],
+    [
+     "Dm"
+    ],
+    [
+     "A7"
+    ]
+   ]
+  },
+  {
+   "name": "B",
+   "tonic": "C",
+   "bars": "5–19",
+   "sequence": [
+    [
+     "Dm"
+    ],
+    [
+     "Gm"
+    ],
+    [
+     "A7",
+     "A/G"
+    ],
+    [
+     "Dm/F"
+    ],
+    [
+     "Gm/Bb"
+    ],
+    [
+     "Dm"
+    ],
+    [
+     "E7",
+     "E7/G#"
+    ],
+    [
+     "A7"
+    ],
+    [
+     "Dm"
+    ],
+    [
+     "Gm"
+    ],
+    [],
+    [
+     "Dm/F"
+    ],
+    [
+     "Gm/Bb"
+    ],
+    [
+     "Dm"
+    ],
+    [
+     "A7"
+    ]
+   ]
+  },
+  {
+   "name": "C",
+   "tonic": "C",
+   "bars": "20–35",
+   "sequence": [
+    [
+     "Dm"
+    ],
+    [
+     "C7/G"
+    ],
+    [
+     "C7"
+    ],
+    [
+     "F"
+    ],
+    [
+     "F/A"
+    ],
+    [
+     "C7/G"
+    ],
+    [
+     "C7"
+    ],
+    [
+     "F"
+    ],
+    [
+     "F/A"
+    ],
+    [
+     "C7/G"
+    ],
+    [
+     "C7"
+    ],
+    [
+     "F"
+    ],
+    [
+     "F/A"
+    ],
+    [
+     "Gm/Bb"
+    ],
+    [
+     "F/C"
+    ],
+    [
+     "G7/B",
+     "C7"
+    ]
+   ]
+  },
+  {
+   "name": "D",
+   "tonic": "C",
+   "bars": "36–56",
+   "sequence": [
+    [
+     "F"
+    ],
+    [
+     "F"
+    ],
+    [
+     "Dm"
+    ],
+    [],
+    [
+     "D",
+     "A7/E"
+    ],
+    [
+     "D/F#"
+    ],
+    [],
+    [
+     "Em"
+    ],
+    [
+     "Em",
+     "B7/F#"
+    ],
+    [
+     "Em/G"
+    ],
+    [
+     "E7",
+     "A7"
+    ],
+    [
+     "D"
+    ],
+    [
+     "D",
+     "A7/E"
+    ],
+    [
+     "D/F#"
+    ],
+    [
+     "D7/F#"
+    ],
+    [
+     "G"
+    ],
+    [
+     "Em"
+    ],
+    [
+     "D/F#"
+    ],
+    [
+     "Em",
+     "A7"
+    ],
+    [
+     "D"
+    ],
+    [
+     "D"
+    ]
+   ]
+  }
+ ],
+ "notes": [
+  "Grille générée automatiquement depuis le texte du PDF : à vérifier.",
+  "Reprises et fins non détectées : les mesures sont dans l'ordre d'écriture."
+ ],
+ "confidence": "low",
+ "source": [
+  "pdf/Zequinha Abreu - Sururú Na Cidade - Theme - C - variant 1.pdf"
+ ],
+ "generated": "pdf"
+}

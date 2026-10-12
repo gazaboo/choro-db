@@ -1,0 +1,177 @@
+{
+ "song_id": "um-choro-pro-waldir-cristovao-bastos",
+ "title": "Um choro pro Waldir",
+ "composer": "Cristovão Bastos",
+ "transposition": "c",
+ "meter": "2/4",
+ "form": "A — B",
+ "parts": [
+  {
+   "name": "A",
+   "tonic": "C",
+   "bars": "1–30",
+   "sequence": [
+    [
+     "A6",
+     "C#m7(b5)"
+    ],
+    [
+     "F/Eb",
+     "F#7(b9)"
+    ],
+    [
+     "C#m7"
+    ],
+    [
+     "F#m7",
+     "F#7(b9)"
+    ],
+    [],
+    [],
+    [],
+    [
+     "B7(9)"
+    ],
+    [
+     "Bm7(b5)"
+    ],
+    [
+     "G/F"
+    ],
+    [
+     "A6"
+    ],
+    [
+     "Bb/D"
+    ],
+    [
+     "C#m7"
+    ],
+    [
+     "F#m7"
+    ],
+    [],
+    [],
+    [],
+    [
+     "F/Eb"
+    ],
+    [],
+    [
+     "A/E"
+    ],
+    [
+     "F#m7"
+    ],
+    [],
+    [
+     "F7(9)"
+    ],
+    [
+     "Bb6"
+    ],
+    [
+     "A6"
+    ],
+    [
+     "C#7(b13)"
+    ],
+    [
+     "F#m"
+    ],
+    [],
+    [],
+    [
+     "F#7(b9)",
+     "Dm6/F"
+    ]
+   ]
+  },
+  {
+   "name": "B",
+   "tonic": "C",
+   "bars": "33–64",
+   "sequence": [
+    [
+     "A6"
+    ],
+    [
+     "G#7(#9)"
+    ],
+    [
+     "C#m7"
+    ],
+    [
+     "D#m7(b5)",
+     "G#7"
+    ],
+    [
+     "C#m7(b5)"
+    ],
+    [
+     "F#7(b9)"
+    ],
+    [
+     "Bm7(b5)"
+    ],
+    [],
+    [
+     "G#m7(9)"
+    ],
+    [
+     "C#7(13)"
+    ],
+    [
+     "Em6"
+    ],
+    [
+     "G#7/D#"
+    ],
+    [],
+    [],
+    [],
+    [
+     "G#m7(b5)"
+    ],
+    [
+     "C#7(b13)"
+    ],
+    [
+     "C#m7(b5)"
+    ],
+    [
+     "F#7(b9)"
+    ],
+    [],
+    [
+     "A6/C#",
+     "Dm6/F"
+    ],
+    [],
+    [],
+    [],
+    [
+     "F#m7"
+    ],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [
+     "C#7"
+    ]
+   ]
+  }
+ ],
+ "notes": [
+  "Grille générée automatiquement depuis le texte du PDF : à vérifier.",
+  "Reprises et fins non détectées : les mesures sont dans l'ordre d'écriture."
+ ],
+ "confidence": "low",
+ "source": [
+  "pdf/Cristovão Bastos - Um choro pro Waldir - Theme - C - variant 1.pdf"
+ ],
+ "generated": "pdf"
+}

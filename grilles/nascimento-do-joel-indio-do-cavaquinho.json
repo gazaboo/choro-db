@@ -1,0 +1,257 @@
+{
+ "song_id": "nascimento-do-joel-indio-do-cavaquinho",
+ "title": "Nascimento do Joel",
+ "composer": "Índio do Cavaquinho",
+ "transposition": "c",
+ "meter": "2/4",
+ "form": "A (reprise) — B (reprise) — C (reprise)",
+ "parts": [
+  {
+   "name": "A",
+   "tonic": "G",
+   "bars": "1–19",
+   "repeat": true,
+   "sequence": [
+    [],
+    [
+     "D7(#5)"
+    ],
+    [
+     "G6",
+     "G#dim"
+    ],
+    [
+     "Am7",
+     "Bbdim"
+    ],
+    [
+     "G/B",
+     "B7(b13)"
+    ],
+    [
+     "Cmaj7"
+    ],
+    [
+     "C#m7b5",
+     "F#7(b13)"
+    ],
+    [
+     "Bm7b5",
+     "E7(b9)"
+    ],
+    [
+     "Am",
+     "E7/G#"
+    ],
+    [
+     "Am/G",
+     "F#7(#5)"
+    ],
+    [
+     "G6",
+     "G#dim"
+    ],
+    [
+     "Am7",
+     "Bbdim"
+    ],
+    [
+     "G/B",
+     "B7(b13)"
+    ],
+    [
+     "Cmaj7"
+    ],
+    [
+     "C#m7b5",
+     "F#7(b13)"
+    ],
+    [
+     "Bm7b5",
+     "E7(b9)"
+    ],
+    [
+     "Am",
+     "D7/F#"
+    ]
+   ],
+   "endings": {
+    "1": [
+     [
+      "G6",
+      "D7(#5)"
+     ]
+    ],
+    "2": [
+     [
+      "G6"
+     ]
+    ]
+   }
+  },
+  {
+   "name": "B",
+   "tonic": "G",
+   "bars": "20–37",
+   "repeat": true,
+   "sequence": [
+    [
+     "E7/G#"
+    ],
+    [
+     "A7"
+    ],
+    [
+     "D7/F#"
+    ],
+    [
+     "G6"
+    ],
+    [
+     "Em7"
+    ],
+    [
+     "A7(9)"
+    ],
+    [
+     "A/G"
+    ],
+    [
+     "D7/F#"
+    ],
+    [
+     "E7/G#"
+    ],
+    [
+     "A7"
+    ],
+    [
+     "D7/F#"
+    ],
+    [
+     "G7"
+    ],
+    [
+     "C",
+     "F#7"
+    ],
+    [
+     "Bm7",
+     "E7(b9)"
+    ],
+    [
+     "Am7",
+     "D7"
+    ],
+    [
+     "G6",
+     "D7(b9)"
+    ]
+   ],
+   "endings": {
+    "1": [
+     [
+      "G6"
+     ]
+    ],
+    "2": [
+     [
+      "G6",
+      "D7(#5)"
+     ]
+    ]
+   }
+  },
+  {
+   "name": "C",
+   "tonic": "Gm",
+   "bars": "38–56",
+   "repeat": true,
+   "sequence": [
+    [
+     "Gm"
+    ],
+    [
+     "Eb7/G"
+    ],
+    [
+     "D7/F#"
+    ],
+    [
+     "Gm"
+    ],
+    [
+     "Em7b5",
+     "A7"
+    ],
+    [
+     "Dm",
+     "Bb6"
+    ],
+    [
+     "Em7b5",
+     "A7"
+    ],
+    [
+     "D7"
+    ],
+    [
+     "Gm"
+    ],
+    [
+     "Eb7/G"
+    ],
+    [
+     "D7/F#"
+    ],
+    [
+     "Fm6",
+     "G7"
+    ],
+    [
+     "Cm",
+     "F7"
+    ],
+    [
+     "Bbmaj7",
+     "Eb7"
+    ],
+    [
+     "Ab7",
+     "D7"
+    ],
+    [
+     "G",
+     "G/F"
+    ],
+    [
+     "C/E",
+     "Cm/Eb"
+    ]
+   ],
+   "endings": {
+    "1": [
+     [
+      "Gm",
+      "D7"
+     ]
+    ],
+    "2": [
+     [
+      "Gm",
+      "D7(#5)"
+     ]
+    ]
+   }
+  }
+ ],
+ "notes": [
+  "Grille générée automatiquement depuis la partition MusicXML : à vérifier.",
+  "A : première mesure sans accord"
+ ],
+ "confidence": "medium",
+ "source": [
+  "mxl/C/Índio do Cavaquinho - Nascimento do Joel - Theme - C.mxl"
+ ],
+ "generated": "mxl"
+}

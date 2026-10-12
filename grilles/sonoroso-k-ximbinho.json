@@ -1,0 +1,186 @@
+{
+ "song_id": "sonoroso-k-ximbinho",
+ "title": "Sonoroso",
+ "composer": "K Ximbinho",
+ "transposition": "c",
+ "meter": "2/4",
+ "form": "A — B — C",
+ "parts": [
+  {
+   "name": "A",
+   "tonic": "Am",
+   "bars": "1–14",
+   "sequence": [
+    [
+     "Eb"
+    ],
+    [
+     "A7"
+    ],
+    [
+     "Dm",
+     "A7"
+    ],
+    [
+     "Dm",
+     "Bm7(b5)"
+    ],
+    [
+     "A"
+    ],
+    [
+     "E7"
+    ],
+    [
+     "A7"
+    ],
+    [
+     "Dm"
+    ],
+    [
+     "Eb"
+    ],
+    [
+     "A7"
+    ],
+    [],
+    [
+     "Gm",
+     "Gm6"
+    ],
+    [
+     "Dm"
+    ],
+    [
+     "E7"
+    ]
+   ]
+  },
+  {
+   "name": "B",
+   "tonic": "C",
+   "bars": "15–32",
+   "sequence": [
+    [
+     "Dm"
+    ],
+    [
+     "Dm"
+    ],
+    [],
+    [
+     "C7"
+    ],
+    [
+     "F"
+    ],
+    [],
+    [],
+    [],
+    [
+     "F/A"
+    ],
+    [
+     "G7"
+    ],
+    [
+     "C7"
+    ],
+    [],
+    [
+     "F"
+    ],
+    [
+     "Cm6/G"
+    ],
+    [
+     "D7/F#"
+    ],
+    [
+     "Gm"
+    ],
+    [
+     "F/A",
+     "D7"
+    ],
+    [
+     "Gm",
+     "C7"
+    ]
+   ]
+  },
+  {
+   "name": "C",
+   "tonic": "C",
+   "bars": "33–51",
+   "sequence": [
+    [
+     "F"
+    ],
+    [
+     "F",
+     "A7"
+    ],
+    [
+     "Dm",
+     "A7"
+    ],
+    [],
+    [
+     "D"
+    ],
+    [],
+    [
+     "D/F#"
+    ],
+    [
+     "Em",
+     "C#m7(b5)"
+    ],
+    [
+     "F#7"
+    ],
+    [
+     "Bm",
+     "Bm/A"
+    ],
+    [
+     "E7/G#"
+    ],
+    [
+     "A7"
+    ],
+    [
+     "D"
+    ],
+    [],
+    [
+     "D7"
+    ],
+    [
+     "G"
+    ],
+    [
+     "G",
+     "Gm6"
+    ],
+    [
+     "D/A"
+    ],
+    [
+     "E7",
+     "A7"
+    ]
+   ]
+  }
+ ],
+ "notes": [
+  "Grille générée automatiquement depuis le texte du PDF : à vérifier.",
+  "Reprises et fins non détectées : les mesures sont dans l'ordre d'écriture."
+ ],
+ "confidence": "low",
+ "source": [
+  "pdf/K Ximbinho - Sonoroso - Theme - C - variant 1.pdf"
+ ],
+ "generated": "pdf"
+}

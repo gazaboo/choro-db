@@ -1,0 +1,198 @@
+{
+ "song_id": "choro-negro-paulinho-da-viola",
+ "title": "Choro negro",
+ "composer": "Paulinho da Viola",
+ "transposition": "c",
+ "meter": "2/4",
+ "form": "A (reprise) — B (reprise) — Coda",
+ "parts": [
+  {
+   "name": "A",
+   "tonic": "Bb",
+   "bars": "0–17",
+   "repeat": true,
+   "sequence": [
+    [
+     "Bbm6",
+     "Abm6"
+    ],
+    [
+     "Gm",
+     "Gm6"
+    ],
+    [
+     "Cm7",
+     "F7(9)"
+    ],
+    [
+     "Bbmaj7",
+     "Bb6"
+    ],
+    [
+     "Bbm7",
+     "Eb7(9)"
+    ],
+    [
+     "Abmaj7",
+     "Ab6"
+    ],
+    [
+     "A7"
+    ],
+    [
+     "Cm6",
+     "D7"
+    ],
+    [
+     "Bbm6",
+     "Abm6"
+    ],
+    [
+     "Gm",
+     "Gm6"
+    ],
+    [
+     "Cm7",
+     "F7(9)"
+    ],
+    [
+     "Bbmaj7",
+     "Bb6"
+    ],
+    [
+     "Bbm7",
+     "Eb7(9)"
+    ],
+    [
+     "G6",
+     "E7"
+    ],
+    [
+     "Am7",
+     "D7",
+     "Ab7(b5)"
+    ]
+   ],
+   "endings": {
+    "1": [
+     [
+      "G6"
+     ]
+    ],
+    "2": [
+     [
+      "G6"
+     ]
+    ]
+   }
+  },
+  {
+   "name": "B",
+   "tonic": "G",
+   "bars": "18–X1",
+   "repeat": true,
+   "sequence": [
+    [
+     "Bm7"
+    ],
+    [
+     "Cm6",
+     "F7(9)"
+    ],
+    [
+     "G6",
+     "Dm7",
+     "G7"
+    ],
+    [
+     "Cmaj7"
+    ],
+    [
+     "Cm7",
+     "F7"
+    ],
+    [
+     "Bbmaj7",
+     "Dm/A",
+     "Gm",
+     "Gm/F"
+    ],
+    [
+     "Em7",
+     "A7(9)"
+    ],
+    [
+     "Am7",
+     "Bbdim"
+    ],
+    [
+     "G6/B"
+    ],
+    [
+     "Cm6",
+     "F7(9)"
+    ],
+    [
+     "G6",
+     "G7",
+     "G7(#5)"
+    ],
+    [
+     "Cmaj7",
+     "C6"
+    ],
+    [
+     "Cmaj7",
+     "C#dim"
+    ],
+    [
+     "G/D",
+     "E7"
+    ],
+    [
+     "Am7",
+     "D7",
+     "Ab7(b5)"
+    ]
+   ],
+   "endings": {
+    "1": [
+     [
+      "G6"
+     ]
+    ],
+    "2": [
+     [
+      "G6"
+     ]
+    ]
+   }
+  },
+  {
+   "name": "Coda",
+   "tonic": "Bb",
+   "bars": "35–37",
+   "repeat": false,
+   "sequence": [
+    [
+     "G6"
+    ],
+    [
+     "Bbm6",
+     "Abm6"
+    ],
+    [
+     "Em7b5"
+    ]
+   ]
+  }
+ ],
+ "notes": [
+  "Grille générée automatiquement depuis la partition MusicXML : à vérifier."
+ ],
+ "confidence": "medium",
+ "source": [
+  "mxl/C/Paulinho da Viola - Choro negro - Theme - C.mxl"
+ ],
+ "generated": "mxl"
+}

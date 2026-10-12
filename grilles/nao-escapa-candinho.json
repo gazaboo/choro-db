@@ -1,0 +1,202 @@
+{
+ "song_id": "nao-escapa-candinho",
+ "title": "Não escapa",
+ "composer": "Candinho",
+ "transposition": "c",
+ "meter": "2/4",
+ "form": "A (reprise) — B (reprise) — C (reprise)",
+ "parts": [
+  {
+   "name": "A",
+   "tonic": "C",
+   "bars": "1–16",
+   "repeat": true,
+   "sequence": [
+    [
+     "C"
+    ],
+    [
+     "G7/B"
+    ],
+    [
+     "G7/D"
+    ],
+    [
+     "C"
+    ],
+    [
+     "C/E",
+     "Cm6/Eb"
+    ],
+    [
+     "G/D"
+    ],
+    [
+     "D7"
+    ],
+    [
+     "G7"
+    ],
+    [
+     "C"
+    ],
+    [
+     "G7/B"
+    ],
+    [
+     "G7/D"
+    ],
+    [
+     "C"
+    ],
+    [
+     "Ab",
+     "Eb/G"
+    ],
+    [
+     "Ab",
+     "Ab/Gb"
+    ],
+    [
+     "C/G",
+     "G7"
+    ],
+    [
+     "C"
+    ]
+   ]
+  },
+  {
+   "name": "B",
+   "tonic": "G",
+   "bars": "17–X1",
+   "repeat": true,
+   "sequence": [
+    [
+     "D7/F#"
+    ],
+    [
+     "G",
+     "E7/G#"
+    ],
+    [
+     "Am",
+     "A#dim"
+    ],
+    [
+     "G/B",
+     "Em"
+    ],
+    [
+     "D7/A"
+    ],
+    [
+     "G",
+     "Em7"
+    ],
+    [
+     "Bm/F#",
+     "F#7"
+    ],
+    [
+     "Bm"
+    ],
+    [
+     "E7/G#"
+    ],
+    [
+     "Am"
+    ],
+    [
+     "D7"
+    ],
+    [
+     "G7"
+    ],
+    [
+     "C",
+     "Cm6"
+    ],
+    [
+     "G/B",
+     "Em7"
+    ],
+    [
+     "Am",
+     "D7"
+    ],
+    [
+     "G"
+    ]
+   ]
+  },
+  {
+   "name": "C",
+   "tonic": "F",
+   "bars": "33–49",
+   "repeat": true,
+   "sequence": [
+    [
+     "F"
+    ],
+    [
+     "C7/E"
+    ],
+    [
+     "C7/G"
+    ],
+    [
+     "F"
+    ],
+    [
+     "F/A",
+     "Fm6/Ab"
+    ],
+    [
+     "C/G"
+    ],
+    [
+     "G7"
+    ],
+    [
+     "C7"
+    ],
+    [
+     "F"
+    ],
+    [
+     "C7/E"
+    ],
+    [
+     "C7/G"
+    ],
+    [
+     "F"
+    ],
+    [
+     "D7"
+    ],
+    [
+     "Gm",
+     "G#dim"
+    ],
+    [
+     "F/A",
+     "C7"
+    ],
+    [
+     "F"
+    ],
+    []
+   ]
+  }
+ ],
+ "notes": [
+  "Grille générée automatiquement depuis la partition MusicXML : à vérifier."
+ ],
+ "confidence": "medium",
+ "source": [
+  "mxl/C/Candinho - Não escapa - Theme - C.mxl"
+ ],
+ "generated": "mxl"
+}

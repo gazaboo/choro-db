@@ -1,0 +1,133 @@
+{
+ "song_id": "tua-imagem-canhoto-da-paraiba",
+ "title": "Tua Imagem",
+ "composer": "Canhoto Da Paraíba",
+ "transposition": "c",
+ "meter": "2/4",
+ "form": "A — B",
+ "parts": [
+  {
+   "name": "A",
+   "tonic": "Am",
+   "bars": "1–15",
+   "sequence": [
+    [
+     "Am",
+     "A/G"
+    ],
+    [
+     "Dm/F"
+    ],
+    [
+     "E7"
+    ],
+    [],
+    [
+     "Am"
+    ],
+    [
+     "Em"
+    ],
+    [],
+    [
+     "E7"
+    ],
+    [
+     "Am",
+     "A/G"
+    ],
+    [
+     "Dm/F"
+    ],
+    [
+     "E7"
+    ],
+    [
+     "Gm6/Bb",
+     "A7"
+    ],
+    [
+     "Dm"
+    ],
+    [
+     "Am"
+    ],
+    [
+     "B7/F#",
+     "E7"
+    ]
+   ]
+  },
+  {
+   "name": "B",
+   "tonic": "C",
+   "bars": "16–32",
+   "sequence": [
+    [
+     "Am",
+     "E7"
+    ],
+    [
+     "Am"
+    ],
+    [
+     "G7",
+     "G/F"
+    ],
+    [
+     "C/E"
+    ],
+    [
+     "E7"
+    ],
+    [
+     "Gm6/Bb",
+     "A7"
+    ],
+    [
+     "Dm",
+     "G7"
+    ],
+    [
+     "C",
+     "B7"
+    ],
+    [
+     "E7",
+     "B7/F#"
+    ],
+    [
+     "E"
+    ],
+    [
+     "G7",
+     "G/F"
+    ],
+    [
+     "C/E"
+    ],
+    [
+     "C7/E"
+    ],
+    [
+     "F/A"
+    ],
+    [],
+    [],
+    [
+     "Ab",
+     "G7"
+    ]
+   ]
+  }
+ ],
+ "notes": [
+  "Grille générée automatiquement depuis le texte du PDF : à vérifier.",
+  "Reprises et fins non détectées : les mesures sont dans l'ordre d'écriture."
+ ],
+ "confidence": "low",
+ "source": [
+  "pdf/Canhoto Da Paraíba - Tua Imagem - Theme - C.pdf"
+ ],
+ "generated": "pdf"
+}

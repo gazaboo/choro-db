@@ -1,0 +1,198 @@
+{
+ "song_id": "assanhado-jacob-do-bandolim",
+ "title": "Assanhado",
+ "composer": "Jacob do Bandolim",
+ "transposition": "c",
+ "meter": "2/4",
+ "form": "A (reprise) — B — Coda — C (reprise)",
+ "parts": [
+  {
+   "name": "A",
+   "tonic": "A",
+   "bars": "0–40",
+   "repeat": true,
+   "sequence": [
+    [
+     "A6(9)"
+    ],
+    [
+     "A6(9)"
+    ],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [
+     "A6(9)"
+    ],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [
+     "D7(9)"
+    ],
+    [],
+    [
+     "A6(9)"
+    ],
+    [],
+    [
+     "D7(9)"
+    ],
+    [],
+    [
+     "A6(9)"
+    ],
+    [],
+    [
+     "E7(9)"
+    ],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [
+     "A6(9)"
+    ],
+    [],
+    [
+     "E7(9)"
+    ],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [
+     "A6"
+    ],
+    []
+   ]
+  },
+  {
+   "name": "B",
+   "tonic": "A",
+   "bars": "41–X1",
+   "repeat": false,
+   "sequence": [
+    [
+     "A7"
+    ],
+    [],
+    [
+     "D7"
+    ],
+    [],
+    [
+     "G7"
+    ],
+    [],
+    [
+     "C7"
+    ],
+    [],
+    [
+     "F7"
+    ],
+    [],
+    [
+     "Bb7"
+    ],
+    [],
+    [
+     "E7(9)"
+    ],
+    [],
+    [
+     "A6"
+    ],
+    [],
+    [
+     "A7"
+    ],
+    [],
+    [
+     "D7"
+    ],
+    [],
+    [
+     "G7"
+    ],
+    [],
+    [
+     "C7"
+    ],
+    [],
+    [
+     "F7"
+    ],
+    [],
+    [
+     "Bb7"
+    ],
+    [],
+    [
+     "E7(9)"
+    ],
+    [],
+    [
+     "A6"
+    ],
+    []
+   ]
+  },
+  {
+   "name": "Coda",
+   "tonic": "A",
+   "bars": "73–80",
+   "repeat": false,
+   "sequence": [
+    [
+     "A6(9)"
+    ],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    []
+   ]
+  },
+  {
+   "name": "C",
+   "tonic": "A",
+   "bars": "81–88",
+   "repeat": true,
+   "sequence": [
+    [
+     "A6(9)"
+    ],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    []
+   ]
+  }
+ ],
+ "notes": [
+  "Grille générée automatiquement depuis la partition MusicXML : à vérifier.",
+  "60/89 mesures sans accord écrit"
+ ],
+ "confidence": "medium",
+ "source": [
+  "mxl/C/Jacob do Bandolim - Assanhado - Theme - C.mxl"
+ ],
+ "generated": "mxl"
+}

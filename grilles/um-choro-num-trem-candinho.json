@@ -1,0 +1,185 @@
+{
+ "song_id": "um-choro-num-trem-candinho",
+ "title": "Um choro num trem",
+ "composer": "Candinho",
+ "transposition": "c",
+ "meter": "2/4",
+ "form": "A — B — C",
+ "parts": [
+  {
+   "name": "A",
+   "tonic": "C",
+   "bars": "1–14",
+   "sequence": [
+    [
+     "C"
+    ],
+    [],
+    [
+     "A7"
+    ],
+    [
+     "Dm"
+    ],
+    [
+     "C",
+     "A7"
+    ],
+    [
+     "D/C"
+    ],
+    [],
+    [],
+    [
+     "C"
+    ],
+    [
+     "E7/B"
+    ],
+    [
+     "A7",
+     "A/G",
+     "Dm/F"
+    ],
+    [],
+    [
+     "C/G",
+     "C/E"
+    ],
+    [
+     "Dm"
+    ]
+   ]
+  },
+  {
+   "name": "B",
+   "tonic": "Am",
+   "bars": "15–31",
+   "sequence": [
+    [
+     "C"
+    ],
+    [
+     "C",
+     "E7"
+    ],
+    [
+     "Am",
+     "Bm7(b5)",
+     "Am/G"
+    ],
+    [
+     "Am",
+     "Dm/F"
+    ],
+    [
+     "E7"
+    ],
+    [],
+    [
+     "A7/C#"
+    ],
+    [
+     "Dm"
+    ],
+    [],
+    [],
+    [
+     "Am",
+     "Am/G"
+    ],
+    [
+     "Dm/F"
+    ],
+    [
+     "E7",
+     "E7/G#"
+    ],
+    [],
+    [],
+    [
+     "Dm",
+     "Dm6/F"
+    ],
+    [
+     "Am/E",
+     "E7"
+    ]
+   ]
+  },
+  {
+   "name": "C",
+   "tonic": "C",
+   "bars": "32–52",
+   "sequence": [
+    [
+     "Am"
+    ],
+    [
+     "Am"
+    ],
+    [
+     "C"
+    ],
+    [],
+    [
+     "F"
+    ],
+    [
+     "Gm"
+    ],
+    [],
+    [
+     "F/A"
+    ],
+    [
+     "F",
+     "F/Eb"
+    ],
+    [
+     "Am/E"
+    ],
+    [],
+    [
+     "Am"
+    ],
+    [
+     "F"
+    ],
+    [
+     "Gm"
+    ],
+    [],
+    [
+     "F",
+     "A7/C#"
+    ],
+    [
+     "Dm",
+     "Bb"
+    ],
+    [
+     "F/A",
+     "D7/F#"
+    ],
+    [
+     "Gm",
+     "F"
+    ],
+    [],
+    [
+     "C"
+    ]
+   ]
+  }
+ ],
+ "notes": [
+  "Grille générée automatiquement depuis le texte du PDF : à vérifier.",
+  "Reprises et fins non détectées : les mesures sont dans l'ordre d'écriture."
+ ],
+ "confidence": "low",
+ "source": [
+  "pdf/Candinho - Um choro num trem - Theme - C.pdf"
+ ],
+ "generated": "pdf"
+}

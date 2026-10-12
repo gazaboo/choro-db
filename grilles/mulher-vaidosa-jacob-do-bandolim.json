@@ -1,0 +1,314 @@
+{
+ "song_id": "mulher-vaidosa-jacob-do-bandolim",
+ "title": "Mulher vaidosa",
+ "composer": "Jacob do Bandolim",
+ "transposition": "c",
+ "meter": "2/4",
+ "form": "A — B (reprise) — C — D — E — Coda",
+ "parts": [
+  {
+   "name": "A",
+   "tonic": "D",
+   "bars": "1–16",
+   "repeat": false,
+   "sequence": [
+    [
+     "D"
+    ],
+    [],
+    [
+     "D(#5)"
+    ],
+    [],
+    [
+     "D6"
+    ],
+    [],
+    [
+     "D7"
+    ],
+    [
+     "B7",
+     "B/A"
+    ],
+    [
+     "Em/G"
+    ],
+    [
+     "A7"
+    ],
+    [
+     "D/F#",
+     "F#7/C#"
+    ],
+    [
+     "B7"
+    ],
+    [
+     "Em"
+    ],
+    [
+     "E7",
+     "A7"
+    ],
+    [
+     "D",
+     "F#m/C#"
+    ],
+    [
+     "Bm",
+     "A7"
+    ]
+   ]
+  },
+  {
+   "name": "B",
+   "tonic": "D",
+   "bars": "17–33",
+   "repeat": true,
+   "sequence": [
+    [
+     "D"
+    ],
+    [],
+    [
+     "D(#5)"
+    ],
+    [],
+    [
+     "D6"
+    ],
+    [],
+    [
+     "D7"
+    ],
+    []
+   ],
+   "endings": {
+    "1": [
+     [
+      "G"
+     ],
+     [
+      "Gm6"
+     ],
+     [
+      "D"
+     ],
+     [],
+     [
+      "E7(9)"
+     ],
+     [],
+     [
+      "A7"
+     ],
+     [
+      "A7(#5)"
+     ]
+    ],
+    "3": [
+     [
+      "G"
+     ],
+     [
+      "Gm6"
+     ],
+     [
+      "D"
+     ],
+     [],
+     [
+      "E7(9)"
+     ],
+     [],
+     [
+      "A7"
+     ],
+     [
+      "A7(#5)"
+     ]
+    ],
+    "2": [
+     [
+      "B7"
+     ]
+    ],
+    "4": [
+     [
+      "B7"
+     ]
+    ]
+   }
+  },
+  {
+   "name": "C",
+   "tonic": "D",
+   "bars": "34–42",
+   "repeat": false,
+   "sequence": [
+    [],
+    [
+     "Em"
+    ],
+    [
+     "Em",
+     "Em/D"
+    ],
+    [
+     "A7/C#"
+    ],
+    [
+     "A7"
+    ],
+    [
+     "D",
+     "A7/E"
+    ],
+    [
+     "D7/F#",
+     "D7"
+    ],
+    [
+     "G"
+    ],
+    [
+     "B7/F#"
+    ]
+   ]
+  },
+  {
+   "name": "D",
+   "tonic": "G",
+   "bars": "43–56",
+   "repeat": false,
+   "sequence": [
+    [
+     "E7"
+    ],
+    [],
+    [
+     "A7"
+    ],
+    [
+     "D7"
+    ],
+    [
+     "G"
+    ],
+    [
+     "D7/F#"
+    ],
+    [
+     "G"
+    ],
+    [
+     "G#dim"
+    ],
+    [
+     "D/A"
+    ],
+    [],
+    [
+     "Gdim"
+    ],
+    [
+     "C#dim"
+    ],
+    [
+     "G/D",
+     "G#dim"
+    ],
+    [
+     "D7/A",
+     "D7"
+    ]
+   ]
+  },
+  {
+   "name": "E",
+   "tonic": "G",
+   "bars": "57–73",
+   "repeat": false,
+   "sequence": [
+    [
+     "G"
+    ],
+    [
+     "B7/F#"
+    ],
+    [
+     "Em"
+    ],
+    [
+     "B7"
+    ],
+    [
+     "E7"
+    ],
+    [],
+    [
+     "Am"
+    ],
+    [],
+    [
+     "Am"
+    ],
+    [
+     "Cm6"
+    ],
+    [
+     "G"
+    ],
+    [
+     "E7"
+    ],
+    [
+     "A7"
+    ],
+    [
+     "D7"
+    ],
+    [
+     "G",
+     "Bb7"
+    ],
+    [
+     "A7"
+    ],
+    []
+   ]
+  },
+  {
+   "name": "Coda",
+   "tonic": "D",
+   "bars": "74–78",
+   "repeat": false,
+   "sequence": [
+    [
+     "D",
+     "D/C#"
+    ],
+    [
+     "Bm7",
+     "Gm6"
+    ],
+    [],
+    [
+     "D"
+    ],
+    []
+   ]
+  }
+ ],
+ "notes": [
+  "Grille générée automatiquement depuis la partition MusicXML : à vérifier.",
+  "C : première mesure sans accord",
+  "Tonalité de la partition source non vérifiée."
+ ],
+ "confidence": "medium",
+ "source": [
+  "mxl/C/Jacob do Bandolim - Mulher vaidosa - Theme - C.mxl"
+ ],
+ "generated": "mxl"
+}

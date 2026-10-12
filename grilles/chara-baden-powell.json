@@ -1,0 +1,244 @@
+{
+ "song_id": "chara-baden-powell",
+ "title": "Chará",
+ "composer": "Baden Powell",
+ "transposition": "c",
+ "meter": "2/4",
+ "form": "A (reprise) — B (reprise) — C (reprise) — Coda",
+ "parts": [
+  {
+   "name": "A",
+   "tonic": "D",
+   "bars": "0–17",
+   "repeat": true,
+   "sequence": [
+    [
+     "Em7",
+     "A7"
+    ],
+    [
+     "D"
+    ],
+    [
+     "D7(13)"
+    ],
+    [
+     "G6"
+    ],
+    [
+     "G#dim"
+    ],
+    [
+     "Dmaj7"
+    ],
+    [
+     "E7(9)"
+    ],
+    [
+     "A7(9)"
+    ],
+    [
+     "Em7",
+     "A7"
+    ],
+    [
+     "D"
+    ],
+    [
+     "D7(13)"
+    ],
+    [
+     "G6"
+    ],
+    [
+     "G#dim"
+    ],
+    [
+     "Dmaj7"
+    ],
+    [
+     "E7",
+     "A7(13)"
+    ]
+   ],
+   "endings": {
+    "1": [
+     [
+      "D6"
+     ]
+    ],
+    "2": [
+     [
+      "D6"
+     ]
+    ]
+   }
+  },
+  {
+   "name": "B",
+   "tonic": "D",
+   "bars": "18–35",
+   "repeat": true,
+   "sequence": [
+    [
+     "G#m7b5"
+    ],
+    [
+     "F#m7b5",
+     "F7(b5)"
+    ],
+    [
+     "Em7b5"
+    ],
+    [
+     "Dmaj7"
+    ],
+    [
+     "G#m7b5",
+     "G7(b5)"
+    ],
+    [
+     "Dmaj7"
+    ],
+    [
+     "E7(9)"
+    ],
+    [
+     "Em7"
+    ],
+    [
+     "G#m7b5"
+    ],
+    [
+     "F#m7b5",
+     "F7(b5)"
+    ],
+    [
+     "Em7b5"
+    ],
+    [
+     "Dmaj7"
+    ],
+    [
+     "G#m7b5",
+     "G7(b5)"
+    ],
+    [
+     "Dmaj7"
+    ],
+    [
+     "E7(9)",
+     "A7(13)"
+    ],
+    []
+   ],
+   "endings": {
+    "1": [
+     [
+      "D6"
+     ]
+    ],
+    "2": [
+     [
+      "D6"
+     ]
+    ]
+   }
+  },
+  {
+   "name": "C",
+   "tonic": "G",
+   "bars": "36–53",
+   "repeat": true,
+   "sequence": [
+    [
+     "G",
+     "G(#5)"
+    ],
+    [
+     "G6"
+    ],
+    [
+     "G",
+     "G(#5)"
+    ],
+    [
+     "Am"
+    ],
+    [
+     "Am6",
+     "Am7"
+    ],
+    [
+     "Am6"
+    ],
+    [
+     "Am6",
+     "Am7"
+    ],
+    [
+     "G"
+    ],
+    [
+     "G",
+     "G(#5)"
+    ],
+    [
+     "G6"
+    ],
+    [
+     "G7"
+    ],
+    [
+     "C"
+    ],
+    [
+     "C",
+     "Cm6"
+    ],
+    [
+     "G",
+     "E7(b13)"
+    ],
+    [
+     "C#m7b5",
+     "D7"
+    ],
+    []
+   ],
+   "endings": {
+    "1": [
+     [
+      "G"
+     ]
+    ],
+    "2": [
+     [
+      "G"
+     ]
+    ]
+   }
+  },
+  {
+   "name": "Coda",
+   "tonic": "D",
+   "bars": "54–54",
+   "repeat": false,
+   "sequence": [
+    [
+     "E7(9)",
+     "A7(13)",
+     "D6"
+    ]
+   ]
+  }
+ ],
+ "notes": [
+  "Grille générée automatiquement depuis la partition MusicXML : à vérifier."
+ ],
+ "confidence": "medium",
+ "source": [
+  "mxl/C/Baden Powell - Chará - Theme - C.mxl"
+ ],
+ "generated": "mxl"
+}

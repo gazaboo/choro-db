@@ -1,0 +1,270 @@
+{
+ "song_id": "catrapus-ernesto-nazareth",
+ "title": "Catrapus",
+ "composer": "Ernesto Nazareth",
+ "transposition": "c",
+ "meter": "2/4",
+ "form": "A (reprise) — B (reprise) — C — D (reprise)",
+ "parts": [
+  {
+   "name": "A",
+   "tonic": "A",
+   "bars": "1–16",
+   "repeat": true,
+   "sequence": [
+    [
+     "A",
+     "A#dim"
+    ],
+    [
+     "E7/B"
+    ],
+    [
+     "C#m7b5",
+     "F#7"
+    ],
+    [
+     "Bm"
+    ],
+    [
+     "Dm6/F"
+    ],
+    [
+     "A/E"
+    ],
+    [
+     "B7/F#",
+     "E7/G#"
+    ],
+    [
+     "A"
+    ],
+    [
+     "A",
+     "A#dim"
+    ],
+    [
+     "E7/B"
+    ],
+    [
+     "C#m7b5",
+     "F#7"
+    ],
+    [
+     "Bm"
+    ],
+    [
+     "Dm6/F"
+    ],
+    [
+     "A/E"
+    ],
+    [
+     "B7(9)",
+     "E7"
+    ],
+    [
+     "A"
+    ]
+   ]
+  },
+  {
+   "name": "B",
+   "tonic": "A",
+   "bars": "17–32",
+   "repeat": true,
+   "sequence": [
+    [
+     "C#7/G#",
+     "C#7"
+    ],
+    [
+     "F#m"
+    ],
+    [
+     "E7",
+     "E/D"
+    ],
+    [
+     "A/C#"
+    ],
+    [
+     "Bm",
+     "E7/G#"
+    ],
+    [
+     "A"
+    ],
+    [
+     "B7/D#",
+     "E/D"
+    ],
+    [
+     "A/C#"
+    ],
+    [
+     "C#7/G#",
+     "C#7"
+    ],
+    [
+     "F#m"
+    ],
+    [
+     "E7",
+     "E/D"
+    ],
+    [
+     "A/C#"
+    ],
+    [
+     "Bb/D"
+    ],
+    [
+     "A/E"
+    ],
+    [
+     "Bm/D",
+     "E7"
+    ],
+    [
+     "A"
+    ]
+   ]
+  },
+  {
+   "name": "C",
+   "tonic": "A",
+   "bars": "33–X1",
+   "repeat": false,
+   "sequence": [
+    [
+     "A",
+     "Bb/Ab"
+    ],
+    [
+     "Eb/G"
+    ],
+    [
+     "B7/F#",
+     "Dm6/F"
+    ],
+    [
+     "E7",
+     "E7(#5)"
+    ]
+   ]
+  },
+  {
+   "name": "D",
+   "tonic": "D",
+   "bars": "37–69",
+   "repeat": true,
+   "sequence": [
+    [
+     "A7"
+    ],
+    [
+     "A7/C#",
+     "A7"
+    ],
+    [
+     "D"
+    ],
+    [],
+    [
+     "Em7"
+    ],
+    [
+     "A7"
+    ],
+    [
+     "D"
+    ],
+    [],
+    [
+     "A7"
+    ],
+    [
+     "A7/C#",
+     "A7"
+    ],
+    [
+     "D"
+    ],
+    [
+     "D/A",
+     "F#dim"
+    ],
+    [
+     "A/E"
+    ],
+    [
+     "Bm7",
+     "E7"
+    ],
+    [
+     "A7"
+    ],
+    [],
+    [
+     "A7"
+    ],
+    [
+     "A7/C#",
+     "A7"
+    ],
+    [
+     "D"
+    ],
+    [],
+    [
+     "Em"
+    ],
+    [
+     "A7"
+    ],
+    [
+     "D"
+    ],
+    [],
+    [
+     "A7"
+    ],
+    [
+     "A7/C#",
+     "A7"
+    ],
+    [
+     "D"
+    ],
+    [
+     "B7",
+     "B7/D#"
+    ],
+    [
+     "Em",
+     "Gm6"
+    ],
+    [
+     "D/A"
+    ],
+    [
+     "A7/E",
+     "A7"
+    ],
+    [
+     "D"
+    ],
+    []
+   ]
+  }
+ ],
+ "notes": [
+  "Grille générée automatiquement depuis la partition MusicXML : à vérifier."
+ ],
+ "confidence": "medium",
+ "source": [
+  "mxl/C/Ernesto Nazareth - Catrapus - Theme - C.mxl"
+ ],
+ "generated": "mxl"
+}

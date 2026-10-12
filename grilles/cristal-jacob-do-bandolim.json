@@ -1,0 +1,255 @@
+{
+ "song_id": "cristal-jacob-do-bandolim",
+ "title": "Cristal",
+ "composer": "Jacob do Bandolim",
+ "transposition": "c",
+ "meter": "2/4",
+ "form": "A (reprise) — B (reprise) — C (reprise) — Coda",
+ "parts": [
+  {
+   "name": "A",
+   "tonic": "F",
+   "bars": "0–17",
+   "repeat": true,
+   "sequence": [
+    [
+     "Dm"
+    ],
+    [
+     "Gm6/Bb",
+     "A7"
+    ],
+    [
+     "A/G"
+    ],
+    [
+     "Dm/F"
+    ],
+    [
+     "D7/F#"
+    ],
+    [
+     "Gm",
+     "G7/B"
+    ],
+    [
+     "C7",
+     "C/Bb"
+    ],
+    [
+     "F/A"
+    ],
+    [
+     "Dm"
+    ],
+    [
+     "Gm6/Bb",
+     "A7"
+    ],
+    [
+     "A/G"
+    ],
+    [
+     "D7/F#"
+    ],
+    [
+     "Gm",
+     "Em7b5"
+    ],
+    [
+     "Dm/F",
+     "Eb7"
+    ],
+    [
+     "E7",
+     "A7"
+    ]
+   ],
+   "endings": {
+    "1": [
+     [
+      "Dm",
+      "A7"
+     ]
+    ],
+    "2": [
+     [
+      "Dm",
+      "C7"
+     ]
+    ]
+   }
+  },
+  {
+   "name": "B",
+   "tonic": "F",
+   "bars": "18–35",
+   "repeat": true,
+   "sequence": [
+    [
+     "F6",
+     "D7"
+    ],
+    [
+     "Gm"
+    ],
+    [
+     "G7/B"
+    ],
+    [
+     "C7"
+    ],
+    [
+     "F6",
+     "D7/F#"
+    ],
+    [
+     "Gm"
+    ],
+    [
+     "C7",
+     "C/Bb"
+    ],
+    [
+     "F/A"
+    ],
+    [
+     "F/Eb"
+    ],
+    [
+     "Bb/D"
+    ],
+    [
+     "D7/F#",
+     "D7"
+    ],
+    [
+     "Gm"
+    ],
+    [
+     "G#dim"
+    ],
+    [
+     "F/A",
+     "D7"
+    ],
+    [
+     "Gm",
+     "C7"
+    ],
+    [
+     "Dm",
+     "A7"
+    ]
+   ],
+   "endings": {
+    "1": [
+     [
+      "F6"
+     ]
+    ],
+    "2": [
+     [
+      "F6"
+     ]
+    ]
+   }
+  },
+  {
+   "name": "C",
+   "tonic": "D",
+   "bars": "36–X2",
+   "repeat": true,
+   "sequence": [
+    [
+     "D6/F#",
+     "Bm7"
+    ],
+    [
+     "Em7"
+    ],
+    [
+     "A7",
+     "A/G"
+    ],
+    [
+     "D6/F#"
+    ],
+    [
+     "D6",
+     "Bm6"
+    ],
+    [
+     "F#m/C#"
+    ],
+    [
+     "G#7/D#",
+     "C#7/E#"
+    ],
+    [
+     "F#m",
+     "A7/E"
+    ],
+    [
+     "D6",
+     "Bm7"
+    ],
+    [
+     "Em7"
+    ],
+    [
+     "A7"
+    ],
+    [
+     "B7/D#",
+     "B7"
+    ],
+    [
+     "Em",
+     "Gm6/Bb"
+    ],
+    [
+     "D/A",
+     "Bm7"
+    ],
+    [
+     "Em7",
+     "A7"
+    ]
+   ],
+   "endings": {
+    "1": [
+     [
+      "D6",
+      "A7"
+     ]
+    ],
+    "2": [
+     [
+      "D6"
+     ]
+    ]
+   }
+  },
+  {
+   "name": "Coda",
+   "tonic": "Dm",
+   "bars": "53–53",
+   "repeat": false,
+   "sequence": [
+    [
+     "Dm"
+    ]
+   ]
+  }
+ ],
+ "notes": [
+  "Grille générée automatiquement depuis la partition MusicXML : à vérifier.",
+  "Tonalité de la partition source non vérifiée."
+ ],
+ "confidence": "medium",
+ "source": [
+  "mxl/C/Jacob do Bandolim - Cristal - Theme - C.mxl"
+ ],
+ "generated": "mxl"
+}

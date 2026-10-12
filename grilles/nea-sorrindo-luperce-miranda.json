@@ -1,0 +1,116 @@
+{
+ "song_id": "nea-sorrindo-luperce-miranda",
+ "title": "Néa sorrindo",
+ "composer": "Luperce Miranda",
+ "transposition": "c",
+ "meter": "2/4",
+ "form": "A (reprise) — B — B",
+ "parts": [
+  {
+   "name": "A",
+   "tonic": "Dm",
+   "bars": "0–10",
+   "repeat": true,
+   "sequence": [
+    [
+     "A7"
+    ],
+    [
+     "Dm"
+    ],
+    [
+     "A7"
+    ],
+    [
+     "Dm",
+     "D7/F#"
+    ],
+    [
+     "Gm",
+     "Gm6"
+    ],
+    [
+     "Dm/F"
+    ],
+    [
+     "A7"
+    ],
+    []
+   ],
+   "endings": {
+    "1": [
+     [
+      "Dm"
+     ]
+    ],
+    "2": [
+     [
+      "Dm"
+     ]
+    ]
+   }
+  },
+  {
+   "name": "B",
+   "tonic": "Dm",
+   "bars": "11–26",
+   "repeat": false,
+   "sequence": [
+    [
+     "A7/C#"
+    ],
+    [
+     "A7"
+    ],
+    [
+     "Dm"
+    ],
+    [
+     "Dm/F"
+    ],
+    [
+     "A7/E"
+    ],
+    [
+     "A7/C#"
+    ],
+    [
+     "D7"
+    ],
+    [
+     "D7/F#"
+    ],
+    [
+     "Gm"
+    ],
+    [
+     "Em7b5"
+    ],
+    [
+     "Dm"
+    ],
+    [
+     "Dm/F"
+    ],
+    [
+     "Eb/G"
+    ],
+    [
+     "A7"
+    ],
+    [
+     "Dm"
+    ],
+    []
+   ]
+  }
+ ],
+ "notes": [
+  "Grille générée automatiquement depuis la partition MusicXML : à vérifier."
+ ],
+ "confidence": "medium",
+ "source": [
+  "mxl/C/Luperce Miranda - Néa sorrindo - Theme - C.mxl"
+ ],
+ "generated": "mxl"
+}

@@ -1,0 +1,257 @@
+{
+ "song_id": "teclas-pretas-paschoal-de-barros",
+ "title": "Teclas Pretas",
+ "composer": "Paschoal de Barros",
+ "transposition": "c",
+ "meter": "2/4",
+ "form": "A — B — C",
+ "parts": [
+  {
+   "name": "A",
+   "tonic": "C",
+   "bars": "1–32",
+   "sequence": [
+    [
+     "D7"
+    ],
+    [],
+    [
+     "G6"
+    ],
+    [
+     "Em7"
+    ],
+    [
+     "A7"
+    ],
+    [],
+    [
+     "D7"
+    ],
+    [],
+    [
+     "G6",
+     "Em7"
+    ],
+    [
+     "D7"
+    ],
+    [
+     "G6"
+    ],
+    [],
+    [],
+    [
+     "Bm/D"
+    ],
+    [
+     "C#7(b9)"
+    ],
+    [
+     "F#7(b9)"
+    ],
+    [
+     "E7"
+    ],
+    [
+     "D7"
+    ],
+    [
+     "G6"
+    ],
+    [],
+    [
+     "A7"
+    ],
+    [
+     "A7"
+    ],
+    [
+     "D7"
+    ],
+    [],
+    [],
+    [
+     "G7"
+    ],
+    [],
+    [],
+    [
+     "G/D"
+    ],
+    [
+     "E7"
+    ],
+    [
+     "A7"
+    ],
+    [
+     "D7"
+    ]
+   ]
+  },
+  {
+   "name": "B",
+   "tonic": "C",
+   "bars": "33–66",
+   "sequence": [
+    [
+     "G6"
+    ],
+    [
+     "D7"
+    ],
+    [
+     "G6"
+    ],
+    [
+     "D7"
+    ],
+    [],
+    [
+     "G6"
+    ],
+    [],
+    [],
+    [
+     "G7"
+    ],
+    [
+     "C6"
+    ],
+    [],
+    [],
+    [],
+    [
+     "G/D"
+    ],
+    [],
+    [
+     "A7"
+    ],
+    [],
+    [
+     "D7"
+    ],
+    [],
+    [
+     "D7"
+    ],
+    [],
+    [
+     "G6"
+    ],
+    [],
+    [],
+    [
+     "G7"
+    ],
+    [
+     "C6"
+    ],
+    [],
+    [],
+    [],
+    [
+     "G/D"
+    ],
+    [
+     "E7"
+    ],
+    [],
+    [
+     "D7"
+    ],
+    [
+     "G6"
+    ]
+   ]
+  },
+  {
+   "name": "C",
+   "tonic": "C",
+   "bars": "67–100",
+   "sequence": [
+    [],
+    [],
+    [],
+    [
+     "G7"
+    ],
+    [],
+    [
+     "C6"
+    ],
+    [],
+    [
+     "C7"
+    ],
+    [],
+    [
+     "F6"
+    ],
+    [],
+    [],
+    [
+     "C/G"
+    ],
+    [
+     "A7"
+    ],
+    [
+     "D7(9)"
+    ],
+    [],
+    [
+     "G7"
+    ],
+    [],
+    [],
+    [
+     "G7"
+    ],
+    [
+     "C6"
+    ],
+    [],
+    [],
+    [
+     "C7"
+    ],
+    [
+     "F6"
+    ],
+    [],
+    [],
+    [],
+    [
+     "C/G"
+    ],
+    [
+     "A7"
+    ],
+    [
+     "D7"
+    ],
+    [
+     "C7",
+     "C#7",
+     "D7"
+    ],
+    [],
+    [
+     "G6"
+    ]
+   ]
+  }
+ ],
+ "notes": [
+  "Grille générée automatiquement depuis le texte du PDF : à vérifier.",
+  "Reprises et fins non détectées : les mesures sont dans l'ordre d'écriture."
+ ],
+ "confidence": "low",
+ "source": [
+  "pdf/Paschoal de Barros - Teclas Pretas - Theme - C.pdf"
+ ],
+ "generated": "pdf"
+}

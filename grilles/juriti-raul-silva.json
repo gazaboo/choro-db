@@ -1,0 +1,238 @@
+{
+ "song_id": "juriti-raul-silva",
+ "title": "Juriti",
+ "composer": "Raul Silva",
+ "transposition": "c",
+ "meter": "2/4",
+ "form": "A (reprise) — B (reprise) — C (reprise)",
+ "parts": [
+  {
+   "name": "A",
+   "tonic": "Dm",
+   "bars": "1–24",
+   "repeat": true,
+   "sequence": [
+    [
+     "Dm",
+     "Dm/F"
+    ],
+    [
+     "A7/E",
+     "A7"
+    ],
+    [
+     "Dm",
+     "Dm/F"
+    ],
+    [
+     "A7/E",
+     "A7"
+    ],
+    [
+     "Dm",
+     "Dm/F"
+    ],
+    [
+     "A7/E",
+     "A7"
+    ],
+    [
+     "Dm",
+     "Dm/F"
+    ],
+    [
+     "A7/E",
+     "A7"
+    ],
+    [
+     "Dm",
+     "Bb7"
+    ],
+    [
+     "A7"
+    ],
+    [
+     "Dm",
+     "Dm/F"
+    ],
+    [
+     "A7/E",
+     "A7"
+    ],
+    [
+     "Dm",
+     "Dm/F"
+    ],
+    [
+     "A7/E",
+     "A7"
+    ],
+    [
+     "Bb7"
+    ],
+    [
+     "A7"
+    ],
+    [
+     "D7"
+    ],
+    [
+     "Gm"
+    ],
+    [
+     "C7"
+    ],
+    [
+     "F"
+    ],
+    [
+     "Gm"
+    ],
+    [
+     "Dm"
+    ],
+    [
+     "Em7b5",
+     "A7"
+    ],
+    [
+     "Dm"
+    ]
+   ]
+  },
+  {
+   "name": "B",
+   "tonic": "F",
+   "bars": "25–X1",
+   "repeat": true,
+   "sequence": [
+    [
+     "C7"
+    ],
+    [
+     "F"
+    ],
+    [
+     "Gm6"
+    ],
+    [
+     "Dm/F"
+    ],
+    [
+     "C7/E"
+    ],
+    [
+     "F"
+    ],
+    [
+     "G7"
+    ],
+    [
+     "C7"
+    ],
+    [
+     "C7"
+    ],
+    [
+     "F"
+    ],
+    [
+     "Em7b5"
+    ],
+    [
+     "Dm",
+     "D7/F#"
+    ],
+    [
+     "Gm",
+     "C7"
+    ],
+    [
+     "F",
+     "D7"
+    ],
+    [
+     "Gm",
+     "C7"
+    ],
+    [
+     "F"
+    ]
+   ]
+  },
+  {
+   "name": "C",
+   "tonic": "D",
+   "bars": "41–57",
+   "repeat": true,
+   "sequence": [
+    [
+     "D",
+     "B7"
+    ],
+    [
+     "Em"
+    ],
+    [
+     "A7",
+     "A/G"
+    ],
+    [
+     "D/F#"
+    ],
+    [
+     "D",
+     "Cdim"
+    ],
+    [
+     "A/C#"
+    ],
+    [
+     "E7/B"
+    ],
+    [
+     "A7"
+    ],
+    [
+     "D",
+     "B7"
+    ],
+    [
+     "Em",
+     "Em6/G"
+    ],
+    [
+     "F#7"
+    ],
+    [
+     "B7",
+     "B/A"
+    ],
+    [
+     "Em/G",
+     "Gm6/Bb"
+    ],
+    [
+     "D/A",
+     "Bm"
+    ],
+    [
+     "Em",
+     "A7"
+    ],
+    [
+     "D"
+    ],
+    []
+   ]
+  }
+ ],
+ "notes": [
+  "Grille générée automatiquement depuis la partition MusicXML : à vérifier."
+ ],
+ "confidence": "medium",
+ "source": [
+  "mxl/C/Raul Silva - Juriti - Theme - C.mxl"
+ ],
+ "generated": "mxl"
+}

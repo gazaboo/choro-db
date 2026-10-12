@@ -1,0 +1,199 @@
+{
+ "song_id": "recado-rossini-ferreira",
+ "title": "Recado",
+ "composer": "Rossini Ferreira",
+ "transposition": "c",
+ "meter": "2/4",
+ "form": "A — B — Coda",
+ "parts": [
+  {
+   "name": "A",
+   "tonic": "C",
+   "bars": "1–26",
+   "sequence": [
+    [
+     "G"
+    ],
+    [],
+    [
+     "F7"
+    ],
+    [
+     "E7"
+    ],
+    [
+     "Am"
+    ],
+    [
+     "Cm6"
+    ],
+    [
+     "G"
+    ],
+    [
+     "Em6"
+    ],
+    [
+     "B"
+    ],
+    [],
+    [
+     "B"
+    ],
+    [
+     "D7"
+    ],
+    [
+     "G"
+    ],
+    [],
+    [],
+    [],
+    [
+     "G"
+    ],
+    [
+     "G7"
+    ],
+    [
+     "C"
+    ],
+    [],
+    [
+     "Cm6"
+    ],
+    [
+     "F7(9)"
+    ],
+    [
+     "G"
+    ],
+    [
+     "E7"
+    ],
+    [],
+    [
+     "D7"
+    ]
+   ]
+  },
+  {
+   "name": "B",
+   "tonic": "C",
+   "bars": "27–62",
+   "sequence": [
+    [
+     "G"
+    ],
+    [
+     "D7"
+    ],
+    [
+     "G"
+    ],
+    [
+     "G7"
+    ],
+    [],
+    [
+     "C"
+    ],
+    [
+     "A7"
+    ],
+    [
+     "Dm"
+    ],
+    [],
+    [
+     "G7"
+    ],
+    [],
+    [
+     "C"
+    ],
+    [],
+    [
+     "C7"
+    ],
+    [],
+    [
+     "F"
+    ],
+    [],
+    [
+     "D7"
+    ],
+    [],
+    [
+     "Fm6/Ab"
+    ],
+    [
+     "G7"
+    ],
+    [
+     "C"
+    ],
+    [
+     "A7"
+    ],
+    [
+     "D7"
+    ],
+    [],
+    [
+     "G7"
+    ],
+    [],
+    [
+     "A7"
+    ],
+    [],
+    [
+     "Dm"
+    ],
+    [
+     "Bb7(9)"
+    ],
+    [
+     "C",
+     "Bb7"
+    ],
+    [
+     "A7"
+    ],
+    [
+     "Dm"
+    ],
+    [
+     "G7"
+    ],
+    [
+     "C"
+    ]
+   ]
+  },
+  {
+   "name": "Coda",
+   "tonic": "C",
+   "bars": "63–64",
+   "sequence": [
+    [
+     "G7"
+    ],
+    [
+     "D7"
+    ]
+   ]
+  }
+ ],
+ "notes": [
+  "Grille générée automatiquement depuis le texte du PDF : à vérifier.",
+  "Reprises et fins non détectées : les mesures sont dans l'ordre d'écriture."
+ ],
+ "confidence": "low",
+ "source": [
+  "pdf/Rossini Ferreira - Recado - Theme - C.pdf"
+ ],
+ "generated": "pdf"
+}

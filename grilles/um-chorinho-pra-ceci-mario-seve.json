@@ -1,0 +1,99 @@
+{
+ "song_id": "um-chorinho-pra-ceci-mario-seve",
+ "title": "Um chorinho pra Ceci",
+ "composer": "Mário Sève",
+ "transposition": "c",
+ "meter": "2/4",
+ "form": "A — B — C",
+ "parts": [
+  {
+   "name": "A",
+   "tonic": "C",
+   "bars": "1–13",
+   "sequence": [
+    [
+     "Dm"
+    ],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [
+     "F6"
+    ],
+    [],
+    [],
+    [],
+    [
+     "F6"
+    ]
+   ]
+  },
+  {
+   "name": "B",
+   "tonic": "C",
+   "bars": "14–21",
+   "sequence": [
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [
+     "Gm7(9)",
+     "Gm/F"
+    ]
+   ]
+  },
+  {
+   "name": "C",
+   "tonic": "C",
+   "bars": "24–41",
+   "sequence": [
+    [
+     "Bb7(9)"
+    ],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [
+     "D6/A",
+     "A/G"
+    ],
+    [
+     "D6/F#"
+    ],
+    [],
+    [
+     "Bb6"
+    ],
+    [
+     "Fm7(11)"
+    ]
+   ]
+  }
+ ],
+ "notes": [
+  "Grille générée automatiquement depuis le texte du PDF : à vérifier.",
+  "Reprises et fins non détectées : les mesures sont dans l'ordre d'écriture."
+ ],
+ "confidence": "low",
+ "source": [
+  "pdf/Mário Sève - Um chorinho pra Ceci - Theme - C.pdf"
+ ],
+ "generated": "pdf"
+}

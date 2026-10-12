@@ -1,0 +1,221 @@
+{
+ "song_id": "tezinha-luperce-miranda",
+ "title": "Tezinha",
+ "composer": "Luperce Miranda",
+ "transposition": "c",
+ "meter": "2/4",
+ "form": "A — B — C — Coda",
+ "parts": [
+  {
+   "name": "A",
+   "tonic": "C",
+   "bars": "1–7",
+   "sequence": [
+    [
+     "C7"
+    ],
+    [
+     "F6"
+    ],
+    [
+     "Eb7"
+    ],
+    [
+     "Ab"
+    ],
+    [
+     "G7"
+    ],
+    [
+     "C"
+    ],
+    [
+     "C"
+    ]
+   ]
+  },
+  {
+   "name": "B",
+   "tonic": "C",
+   "bars": "8–38",
+   "sequence": [
+    [
+     "C"
+    ],
+    [],
+    [
+     "Gm6/Bb"
+    ],
+    [
+     "A7"
+    ],
+    [],
+    [
+     "G/F"
+    ],
+    [
+     "C/E",
+     "E/G#"
+    ],
+    [
+     "C/Bb"
+    ],
+    [],
+    [],
+    [
+     "C/G"
+    ],
+    [],
+    [],
+    [],
+    [
+     "E"
+    ],
+    [
+     "G7"
+    ],
+    [
+     "C"
+    ],
+    [],
+    [
+     "Gm6/Bb"
+    ],
+    [
+     "A7"
+    ],
+    [
+     "D7/F#"
+    ],
+    [
+     "G/F"
+    ],
+    [
+     "C/E"
+    ],
+    [],
+    [],
+    [
+     "C7(9)"
+    ],
+    [
+     "F6"
+    ],
+    [
+     "Eb7"
+    ],
+    [
+     "Ab"
+    ],
+    [
+     "G7"
+    ],
+    [
+     "C",
+     "G7"
+    ]
+   ]
+  },
+  {
+   "name": "C",
+   "tonic": "Am",
+   "bars": "39–70",
+   "sequence": [
+    [
+     "C"
+    ],
+    [
+     "C"
+    ],
+    [],
+    [
+     "Am"
+    ],
+    [],
+    [
+     "Am/C"
+    ],
+    [],
+    [
+     "F"
+    ],
+    [
+     "A7/E"
+    ],
+    [
+     "Dm"
+    ],
+    [],
+    [
+     "Bm7(b5)"
+    ],
+    [],
+    [
+     "Am"
+    ],
+    [
+     "Am6",
+     "Am"
+    ],
+    [
+     "Em/G"
+    ],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [
+     "Am/C"
+    ],
+    [],
+    [
+     "F"
+    ],
+    [],
+    [
+     "Dm"
+    ],
+    [],
+    [],
+    [],
+    [
+     "Bb"
+    ],
+    [
+     "Bb/D"
+    ],
+    [
+     "Am/E"
+    ]
+   ]
+  },
+  {
+   "name": "Coda",
+   "tonic": "C",
+   "bars": "72–75",
+   "sequence": [
+    [
+     "Am"
+    ],
+    [],
+    [
+     "Am",
+     "Ab7"
+    ],
+    [
+     "G7"
+    ]
+   ]
+  }
+ ],
+ "notes": [
+  "Grille générée automatiquement depuis le texte du PDF : à vérifier.",
+  "Reprises et fins non détectées : les mesures sont dans l'ordre d'écriture."
+ ],
+ "confidence": "low",
+ "source": [
+  "pdf/Luperce Miranda - Tezinha - Theme - C.pdf"
+ ],
+ "generated": "pdf"
+}

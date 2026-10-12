@@ -1,0 +1,290 @@
+{
+ "song_id": "do-jeito-que-veio-voltou-andre-bellieny",
+ "title": "Do jeito que veio, voltou",
+ "composer": "André Bellieny",
+ "transposition": "c",
+ "meter": "2/4",
+ "form": "A — B (reprise) — C — Coda",
+ "parts": [
+  {
+   "name": "A",
+   "tonic": "C",
+   "bars": "1–5",
+   "repeat": false,
+   "sequence": [
+    [
+     "Eb7(9)"
+    ],
+    [
+     "D7(9)"
+    ],
+    [
+     "G7(13)",
+     "Db7(#9)"
+    ],
+    [
+     "C6(9)"
+    ],
+    []
+   ]
+  },
+  {
+   "name": "B",
+   "tonic": "C",
+   "bars": "6–37",
+   "repeat": true,
+   "sequence": [
+    [
+     "D7(9)"
+    ],
+    [
+     "G7",
+     "Cmaj7"
+    ],
+    [
+     "Dm7",
+     "Em7"
+    ],
+    [
+     "Eb7(9)"
+    ],
+    [
+     "Dm7"
+    ],
+    [
+     "G7(13)"
+    ],
+    [
+     "Gm7"
+    ],
+    [
+     "C7(b9)"
+    ],
+    [
+     "F#m7b5"
+    ],
+    [
+     "B7(b9)"
+    ],
+    [
+     "Emaj7(9)"
+    ],
+    [
+     "C#7(b9)"
+    ],
+    [
+     "F#m7"
+    ],
+    [
+     "B7(9)"
+    ],
+    [
+     "Bm7"
+    ],
+    [
+     "Bb7(9)"
+    ],
+    [
+     "Am7(9)"
+    ],
+    [
+     "Am(maj7)(9)"
+    ],
+    [
+     "Fm7"
+    ],
+    [
+     "Bb7(13)"
+    ],
+    [
+     "Em7"
+    ],
+    [
+     "A7(b9)"
+    ],
+    [
+     "Em7b5"
+    ],
+    [
+     "Dm(maj7)(9)",
+     "Dm7"
+    ],
+    [
+     "Dm7b5",
+     "G7"
+    ],
+    [
+     "C6(9)"
+    ],
+    [
+     "D7(9)"
+    ],
+    [
+     "G7(13)",
+     "Db7(#9)",
+     "C6(9)"
+    ],
+    []
+   ],
+   "endings": {
+    "1": [
+     [],
+     []
+    ],
+    "2": [
+     []
+    ]
+   }
+  },
+  {
+   "name": "C",
+   "tonic": "Cm",
+   "bars": "38–76",
+   "repeat": false,
+   "sequence": [
+    [
+     "Cm7(9)"
+    ],
+    [
+     "Cm7(9)"
+    ],
+    [
+     "Fm7"
+    ],
+    [
+     "Fm7",
+     "Fm/Eb"
+    ],
+    [
+     "Dm7b5"
+    ],
+    [
+     "G7(b13)"
+    ],
+    [
+     "Cm(maj7)(9)"
+    ],
+    [
+     "F7(13)"
+    ],
+    [
+     "Bbm(maj7)"
+    ],
+    [
+     "Bbm7"
+    ],
+    [
+     "Gbmaj7"
+    ],
+    [
+     "F7(#9)"
+    ],
+    [],
+    [
+     "Bb7(b9)"
+    ],
+    [
+     "Ebm7(9)"
+    ],
+    [
+     "Ab7(13)"
+    ],
+    [
+     "Dbmaj7(9)"
+    ],
+    [
+     "Gbmaj7"
+    ],
+    [
+     "Gm7"
+    ],
+    [
+     "C7(9)"
+    ],
+    [
+     "Dmaj7(9)"
+    ],
+    [
+     "Em7",
+     "F#m7"
+    ],
+    [
+     "Cm7(9)/G"
+    ],
+    [
+     "Cm7(9)/G"
+    ],
+    [
+     "Fm7"
+    ],
+    [
+     "Fm7",
+     "Fm/Eb"
+    ],
+    [
+     "Dm7b5"
+    ],
+    [
+     "G7(b13)"
+    ],
+    [
+     "Cm(maj7)(9)"
+    ],
+    [
+     "F7(13)"
+    ],
+    [
+     "Bbm7"
+    ],
+    [
+     "Eb7(9)"
+    ],
+    [
+     "Abmaj7"
+    ],
+    [
+     "Ab6"
+    ],
+    [
+     "Gm7b5"
+    ],
+    [
+     "C7"
+    ],
+    [
+     "F6"
+    ],
+    [
+     "F#m7",
+     "Abm6",
+     "Am6"
+    ],
+    []
+   ]
+  },
+  {
+   "name": "Coda",
+   "tonic": "C",
+   "bars": "77–79",
+   "repeat": false,
+   "sequence": [
+    [],
+    [
+     "D6(9)",
+     "Db6(9)",
+     "C6(9)"
+    ],
+    []
+   ]
+  }
+ ],
+ "notes": [
+  "Grille générée automatiquement depuis la partition MusicXML : à vérifier.",
+  "Coda : première mesure sans accord"
+ ],
+ "confidence": "medium",
+ "source": [
+  "mxl/C/André Bellieny - Do jeito que veio, voltou - Theme - C.mxl"
+ ],
+ "generated": "mxl"
+}

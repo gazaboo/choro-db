@@ -1,0 +1,179 @@
+{
+ "song_id": "concordiando-rossini-ferreira",
+ "title": "Concordiando",
+ "composer": "Rossini Ferreira",
+ "transposition": "c",
+ "meter": "2/4",
+ "form": "A (reprise) — B (reprise) — Coda",
+ "parts": [
+  {
+   "name": "A",
+   "tonic": "G",
+   "bars": "1–17",
+   "repeat": true,
+   "sequence": [
+    [
+     "G6",
+     "Cm6"
+    ],
+    [
+     "G/B"
+    ],
+    [
+     "G6",
+     "G7(#5)"
+    ],
+    [
+     "C"
+    ],
+    [
+     "C",
+     "Bbdim"
+    ],
+    [
+     "G/B"
+    ],
+    [
+     "A7(9)"
+    ],
+    [
+     "D7"
+    ],
+    [
+     "G7"
+    ],
+    [
+     "C"
+    ],
+    [
+     "F7"
+    ],
+    [
+     "Bb"
+    ],
+    [
+     "Am7",
+     "D7/F#"
+    ],
+    [
+     "G",
+     "E7/G#"
+    ],
+    [
+     "Am7",
+     "D7"
+    ]
+   ],
+   "endings": {
+    "1": [
+     [
+      "G6"
+     ]
+    ],
+    "2": [
+     [
+      "G6"
+     ]
+    ]
+   }
+  },
+  {
+   "name": "B",
+   "tonic": "G",
+   "bars": "18–X1",
+   "repeat": true,
+   "sequence": [
+    [
+     "B7"
+    ],
+    [
+     "Em"
+    ],
+    [
+     "D7/F#",
+     "C7/E"
+    ],
+    [
+     "B7/D#"
+    ],
+    [
+     "D7"
+    ],
+    [
+     "G"
+    ],
+    [
+     "F#7/A#",
+     "F#7"
+    ],
+    [
+     "Bm"
+    ],
+    [
+     "C",
+     "Bbdim"
+    ],
+    [
+     "G/B",
+     "E7/G#"
+    ],
+    [
+     "Am7",
+     "D7"
+    ],
+    [
+     "Dm6/F",
+     "E7"
+    ],
+    [
+     "Am",
+     "D7"
+    ],
+    [
+     "G6",
+     "E7"
+    ],
+    [
+     "A7(9)",
+     "D7"
+    ]
+   ],
+   "endings": {
+    "1": [
+     [
+      "G6"
+     ]
+    ],
+    "2": [
+     [
+      "G6",
+      "D7(9)"
+     ]
+    ]
+   }
+  },
+  {
+   "name": "Coda",
+   "tonic": "G",
+   "bars": "35–36",
+   "repeat": false,
+   "sequence": [
+    [
+     "G6",
+     "Cm6"
+    ],
+    [
+     "G6"
+    ]
+   ]
+  }
+ ],
+ "notes": [
+  "Grille générée automatiquement depuis la partition MusicXML : à vérifier."
+ ],
+ "confidence": "medium",
+ "source": [
+  "mxl/C/Rossini Ferreira - Concordiando - Theme - C.mxl"
+ ],
+ "generated": "mxl"
+}

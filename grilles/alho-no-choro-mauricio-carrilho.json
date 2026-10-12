@@ -1,0 +1,207 @@
+{
+ "song_id": "alho-no-choro-mauricio-carrilho",
+ "title": "Alho no choro",
+ "composer": "Maurício Carrilho",
+ "transposition": "c",
+ "meter": "2/4",
+ "form": "A (reprise) — B (reprise) — C (reprise)",
+ "parts": [
+  {
+   "name": "A",
+   "tonic": "Dm",
+   "bars": "1–16",
+   "repeat": true,
+   "sequence": [
+    [
+     "Dm",
+     "Em7b5"
+    ],
+    [
+     "Dm/F"
+    ],
+    [
+     "E7",
+     "A7"
+    ],
+    [
+     "Dm"
+    ],
+    [
+     "F7"
+    ],
+    [
+     "Bb7"
+    ],
+    [
+     "Eb7"
+    ],
+    [
+     "A7"
+    ],
+    [
+     "D7(b9)"
+    ],
+    [
+     "G7"
+    ],
+    [
+     "C7(b9)"
+    ],
+    [
+     "F7"
+    ],
+    [
+     "Bb7",
+     "Eb7"
+    ],
+    [
+     "Ab7"
+    ],
+    [
+     "G7",
+     "C7"
+    ],
+    [
+     "F6",
+     "A7"
+    ]
+   ]
+  },
+  {
+   "name": "B",
+   "tonic": "Dm",
+   "bars": "17–X1",
+   "repeat": true,
+   "sequence": [
+    [
+     "Dm"
+    ],
+    [
+     "A7"
+    ],
+    [
+     "Dm"
+    ],
+    [
+     "Fm6"
+    ],
+    [
+     "Eb6",
+     "A7(b5)"
+    ],
+    [
+     "Dm"
+    ],
+    [
+     "E7"
+    ],
+    [
+     "A7"
+    ],
+    [
+     "Dm7"
+    ],
+    [
+     "Cm7",
+     "F7"
+    ],
+    [
+     "Bb7"
+    ],
+    [
+     "Eb"
+    ],
+    [
+     "Gdim"
+    ],
+    [
+     "Bb6",
+     "G7(b9)"
+    ],
+    [
+     "C7",
+     "F7"
+    ],
+    [
+     "Bb6",
+     "A7"
+    ]
+   ]
+  },
+  {
+   "name": "C",
+   "tonic": "D",
+   "bars": "33–49",
+   "repeat": true,
+   "sequence": [
+    [
+     "D6"
+    ],
+    [
+     "C#m7b5",
+     "F#7"
+    ],
+    [
+     "Bm7"
+    ],
+    [
+     "Am7",
+     "D7"
+    ],
+    [
+     "Gmaj7"
+    ],
+    [
+     "Gm6"
+    ],
+    [
+     "D6/F#",
+     "Fdim"
+    ],
+    [
+     "Em7",
+     "A7"
+    ],
+    [
+     "D6"
+    ],
+    [
+     "C#m7b5",
+     "F#7"
+    ],
+    [
+     "Bm"
+    ],
+    [
+     "Am7",
+     "D7"
+    ],
+    [
+     "G6",
+     "Gm6"
+    ],
+    [
+     "D6/F#",
+     "Fdim"
+    ],
+    [
+     "Em7",
+     "A7"
+    ],
+    [
+     "D6",
+     "A7"
+    ],
+    []
+   ]
+  }
+ ],
+ "notes": [
+  "Grille générée automatiquement depuis la partition MusicXML : à vérifier."
+ ],
+ "confidence": "medium",
+ "source": [
+  "mxl/C/Maurício Carrilho - Alho no choro - Theme - C.mxl"
+ ],
+ "generated": "mxl"
+}

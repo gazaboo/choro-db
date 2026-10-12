@@ -1,0 +1,216 @@
+{
+ "song_id": "romanceando-paulinho-da-viola",
+ "title": "Romanceando",
+ "composer": "Paulinho da Viola",
+ "transposition": "c",
+ "meter": "2/4",
+ "form": "A — B — Coda",
+ "parts": [
+  {
+   "name": "A",
+   "tonic": "C",
+   "bars": "1–31",
+   "sequence": [
+    [
+     "A"
+    ],
+    [
+     "A6",
+     "A"
+    ],
+    [
+     "B7/D#"
+    ],
+    [
+     "B7"
+    ],
+    [
+     "E47(9)"
+    ],
+    [
+     "E7(9)"
+    ],
+    [],
+    [
+     "E7"
+    ],
+    [
+     "A6"
+    ],
+    [
+     "G#7"
+    ],
+    [
+     "C#m7"
+    ],
+    [
+     "C#m7"
+    ],
+    [
+     "A7"
+    ],
+    [
+     "G#7"
+    ],
+    [
+     "C#m7",
+     "F#7"
+    ],
+    [
+     "E7"
+    ],
+    [
+     "A"
+    ],
+    [
+     "A6",
+     "A"
+    ],
+    [
+     "B7/D#"
+    ],
+    [
+     "B7"
+    ],
+    [
+     "E47(9)"
+    ],
+    [
+     "E7(9)"
+    ],
+    [
+     "Em7(9)"
+    ],
+    [
+     "A7"
+    ],
+    [],
+    [
+     "G#7"
+    ],
+    [
+     "C#7"
+    ],
+    [
+     "F#47",
+     "F#7"
+    ],
+    [
+     "B7/D#"
+    ],
+    [
+     "E/D"
+    ],
+    [
+     "A/C#"
+    ]
+   ]
+  },
+  {
+   "name": "B",
+   "tonic": "Am",
+   "bars": "33–62",
+   "sequence": [
+    [],
+    [
+     "Am",
+     "Am/G#",
+     "C7/G"
+    ],
+    [],
+    [],
+    [
+     "Bb7(9)"
+    ],
+    [
+     "Am"
+    ],
+    [
+     "F7(9)"
+    ],
+    [],
+    [
+     "E7"
+    ],
+    [
+     "Bb7(13)"
+    ],
+    [
+     "A7"
+    ],
+    [
+     "Am6"
+    ],
+    [
+     "Gm6"
+    ],
+    [
+     "Am/C"
+    ],
+    [
+     "G7"
+    ],
+    [],
+    [],
+    [
+     "Am",
+     "Am/G#"
+    ],
+    [],
+    [],
+    [
+     "Bb7(9)"
+    ],
+    [
+     "Am"
+    ],
+    [],
+    [
+     "A7"
+    ],
+    [],
+    [],
+    [
+     "G7(9)"
+    ],
+    [],
+    [
+     "C7(9)"
+    ],
+    [
+     "F7(9)"
+    ]
+   ]
+  },
+  {
+   "name": "Coda",
+   "tonic": "Am",
+   "bars": "63–68",
+   "sequence": [
+    [],
+    [],
+    [
+     "E7(9)"
+    ],
+    [
+     "Am7(9)"
+    ],
+    [
+     "C7(9)"
+    ],
+    [
+     "F7(9)"
+    ]
+   ]
+  }
+ ],
+ "notes": [
+  "Grille générée automatiquement depuis le texte du PDF : à vérifier.",
+  "Reprises et fins non détectées : les mesures sont dans l'ordre d'écriture."
+ ],
+ "confidence": "low",
+ "source": [
+  "pdf/Paulinho da Viola - Romanceando - Theme - C.pdf"
+ ],
+ "generated": "pdf"
+}

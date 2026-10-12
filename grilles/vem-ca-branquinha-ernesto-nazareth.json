@@ -1,0 +1,167 @@
+{
+ "song_id": "vem-ca-branquinha-ernesto-nazareth",
+ "title": "Vem cá Branquinha",
+ "composer": "Ernesto Nazareth",
+ "transposition": "c",
+ "meter": "2/4",
+ "form": "A — B — C",
+ "parts": [
+  {
+   "name": "A",
+   "tonic": "C",
+   "bars": "1–14",
+   "sequence": [
+    [
+     "F"
+    ],
+    [],
+    [
+     "F"
+    ],
+    [
+     "C7"
+    ],
+    [
+     "F"
+    ],
+    [
+     "C/G",
+     "G7"
+    ],
+    [],
+    [],
+    [
+     "F"
+    ],
+    [],
+    [
+     "F",
+     "F/Eb"
+    ],
+    [
+     "Bb/D",
+     "D/C"
+    ],
+    [],
+    [
+     "F/C"
+    ]
+   ]
+  },
+  {
+   "name": "B",
+   "tonic": "Am",
+   "bars": "15–31",
+   "sequence": [
+    [
+     "F"
+    ],
+    [
+     "F"
+    ],
+    [
+     "Dm",
+     "D/C"
+    ],
+    [
+     "Gm/Bb"
+    ],
+    [],
+    [
+     "F",
+     "A7/E"
+    ],
+    [
+     "Dm",
+     "F/Eb"
+    ],
+    [
+     "Am/E"
+    ],
+    [
+     "E7"
+    ],
+    [
+     "A7/C#"
+    ],
+    [
+     "Dm",
+     "D/C"
+    ],
+    [
+     "Gm/Bb"
+    ],
+    [],
+    [
+     "F"
+    ],
+    [
+     "Dm"
+    ],
+    [
+     "Gm",
+     "Bb/Ab"
+    ],
+    [
+     "Dm/A"
+    ]
+   ]
+  },
+  {
+   "name": "C",
+   "tonic": "C",
+   "bars": "32–47",
+   "sequence": [
+    [
+     "Dm"
+    ],
+    [
+     "Dm"
+    ],
+    [
+     "F"
+    ],
+    [],
+    [
+     "Bb"
+    ],
+    [],
+    [
+     "Bb"
+    ],
+    [
+     "Cm"
+    ],
+    [
+     "Bb"
+    ],
+    [],
+    [
+     "Bb"
+    ],
+    [
+     "Bb"
+    ],
+    [
+     "Bb"
+    ],
+    [],
+    [
+     "Bb"
+    ],
+    [
+     "Cm"
+    ]
+   ]
+  }
+ ],
+ "notes": [
+  "Grille générée automatiquement depuis le texte du PDF : à vérifier.",
+  "Reprises et fins non détectées : les mesures sont dans l'ordre d'écriture."
+ ],
+ "confidence": "low",
+ "source": [
+  "pdf/Ernesto Nazareth - Vem cá Branquinha - Theme - C.pdf"
+ ],
+ "generated": "pdf"
+}

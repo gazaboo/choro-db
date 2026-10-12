@@ -1,0 +1,203 @@
+{
+ "song_id": "brincando-ratinho",
+ "title": "Brincando",
+ "composer": "Ratinho",
+ "transposition": "c",
+ "meter": "2/4",
+ "form": "A (reprise) — B (reprise) — C (reprise)",
+ "parts": [
+  {
+   "name": "A",
+   "tonic": "Dm",
+   "bars": "1–17",
+   "repeat": true,
+   "sequence": [
+    [
+     "Dm"
+    ],
+    [
+     "Gm6"
+    ],
+    [
+     "A7",
+     "A/G"
+    ],
+    [
+     "Dm/F"
+    ],
+    [
+     "Dm"
+    ],
+    [
+     "Em7b5"
+    ],
+    [
+     "A7/C#",
+     "A7"
+    ],
+    [
+     "Dm"
+    ],
+    [
+     "Dm/F"
+    ],
+    [
+     "Gm6"
+    ],
+    [
+     "A7"
+    ],
+    [
+     "Dm"
+    ],
+    [
+     "Gm",
+     "Gm6/Bb"
+    ],
+    [
+     "Dm/A"
+    ],
+    [
+     "E7",
+     "A7"
+    ]
+   ],
+   "endings": {
+    "1": [
+     [
+      "Dm"
+     ]
+    ],
+    "2": [
+     [
+      "Dm"
+     ]
+    ]
+   }
+  },
+  {
+   "name": "B",
+   "tonic": "Dm",
+   "bars": "18–27",
+   "repeat": true,
+   "sequence": [
+    [
+     "A7/C#",
+     "A7"
+    ],
+    [
+     "Dm/F"
+    ],
+    [
+     "A7",
+     "A7/C#"
+    ],
+    [
+     "Dm",
+     "D7/F#"
+    ],
+    [
+     "Gm",
+     "Em7b5"
+    ],
+    [
+     "Dm",
+     "Dm/F"
+    ],
+    [
+     "Em7b5",
+     "A7"
+    ],
+    [
+     "Dm"
+    ]
+   ],
+   "endings": {
+    "1": [
+     [
+      "Dm"
+     ]
+    ],
+    "2": [
+     [
+      "Dm"
+     ]
+    ]
+   }
+  },
+  {
+   "name": "C",
+   "tonic": "D",
+   "bars": "28–X2",
+   "repeat": true,
+   "sequence": [
+    [
+     "D"
+    ],
+    [],
+    [
+     "D/F#"
+    ],
+    [
+     "Em"
+    ],
+    [
+     "A7/C#",
+     "A7"
+    ],
+    [
+     "A/G",
+     "A7"
+    ],
+    [
+     "A7/C#",
+     "A7"
+    ],
+    [
+     "D"
+    ],
+    [
+     "D"
+    ],
+    [],
+    [
+     "D7"
+    ],
+    [
+     "G"
+    ],
+    [
+     "Gm/Bb"
+    ],
+    [
+     "D",
+     "B7"
+    ],
+    [
+     "Em",
+     "A7"
+    ]
+   ],
+   "endings": {
+    "1": [
+     [
+      "D"
+     ]
+    ],
+    "2": [
+     [
+      "Dm"
+     ]
+    ]
+   }
+  }
+ ],
+ "notes": [
+  "Grille générée automatiquement depuis la partition MusicXML : à vérifier."
+ ],
+ "confidence": "medium",
+ "source": [
+  "mxl/C/Ratinho - Brincando - Theme - C.mxl"
+ ],
+ "generated": "mxl"
+}

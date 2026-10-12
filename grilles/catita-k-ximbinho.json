@@ -1,0 +1,171 @@
+{
+ "song_id": "catita-k-ximbinho",
+ "title": "Catita",
+ "composer": "K-Ximbinho",
+ "transposition": "c",
+ "meter": "2/4",
+ "form": "A (reprise) — B (reprise)",
+ "parts": [
+  {
+   "name": "A",
+   "tonic": "F",
+   "bars": "0–34",
+   "repeat": true,
+   "sequence": [
+    [
+     "F6"
+    ],
+    [
+     "Dm7"
+    ],
+    [
+     "G7"
+    ],
+    [],
+    [
+     "Gm7"
+    ],
+    [
+     "Gm7",
+     "C7"
+    ],
+    [
+     "F",
+     "Gm7"
+    ],
+    [
+     "Am7",
+     "F7"
+    ],
+    [
+     "Bb",
+     "Gm7"
+    ],
+    [
+     "G#dim"
+    ],
+    [
+     "Am7"
+    ],
+    [
+     "D7",
+     "G7"
+    ],
+    [
+     "C6",
+     "C#dim"
+    ],
+    [
+     "Dm7",
+     "G7"
+    ],
+    [
+     "C"
+    ],
+    [
+     "C7"
+    ],
+    [
+     "F6"
+    ],
+    [
+     "Dm7"
+    ],
+    [
+     "G7"
+    ],
+    [],
+    [
+     "Gm7"
+    ],
+    [
+     "Gm7",
+     "C7"
+    ],
+    [
+     "F6"
+    ],
+    [
+     "F7(13)"
+    ],
+    [
+     "Bb6"
+    ],
+    [
+     "Bbm6"
+    ],
+    [
+     "Am7"
+    ],
+    [
+     "D7"
+    ],
+    [
+     "Gm7"
+    ],
+    [
+     "C7"
+    ],
+    [
+     "F7"
+    ]
+   ],
+   "endings": {
+    "1": [
+     [
+      "Fmaj7"
+     ],
+     [
+      "Gm7",
+      "C7"
+     ]
+    ],
+    "2": [
+     [
+      "Fmaj7"
+     ]
+    ]
+   }
+  },
+  {
+   "name": "B",
+   "tonic": "F",
+   "bars": "35–42",
+   "repeat": true,
+   "sequence": [
+    [
+     "Bm7b5"
+    ],
+    [
+     "Bbm6"
+    ],
+    [
+     "Am7b5"
+    ],
+    [
+     "D7"
+    ],
+    [
+     "Gm7b5"
+    ],
+    [
+     "C7"
+    ],
+    [
+     "Fmaj7"
+    ],
+    [
+     "F7"
+    ]
+   ]
+  }
+ ],
+ "notes": [
+  "Grille générée automatiquement depuis la partition MusicXML : à vérifier."
+ ],
+ "confidence": "medium",
+ "source": [
+  "mxl/C/K-Ximbinho - Catita - Theme - C.mxl"
+ ],
+ "generated": "mxl"
+}

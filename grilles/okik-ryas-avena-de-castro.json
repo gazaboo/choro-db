@@ -1,0 +1,231 @@
+{
+ "song_id": "okik-ryas-avena-de-castro",
+ "title": "Okik-Ryas",
+ "composer": "Avena de Castro",
+ "transposition": "c",
+ "meter": "2/4",
+ "form": "A (reprise) — B — C — D — E",
+ "parts": [
+  {
+   "name": "A",
+   "tonic": "G",
+   "bars": "0–17",
+   "repeat": true,
+   "sequence": [
+    [
+     "A7(9)"
+    ],
+    [
+     "Cm6",
+     "D7(9)"
+    ],
+    [
+     "G6"
+    ],
+    [
+     "Bbdim"
+    ],
+    [
+     "Am7"
+    ],
+    [
+     "D7(9)"
+    ],
+    [
+     "Gmaj7"
+    ],
+    [],
+    [
+     "A7(9)"
+    ],
+    [
+     "Cm6",
+     "D7(9)"
+    ],
+    [
+     "G6"
+    ],
+    [
+     "Bbdim"
+    ],
+    [
+     "Am7"
+    ],
+    [
+     "A7(9)",
+     "D7"
+    ],
+    [
+     "G",
+     "C7(9)"
+    ]
+   ],
+   "endings": {
+    "1": [
+     [
+      "G6"
+     ]
+    ],
+    "2": [
+     [
+      "G6"
+     ]
+    ]
+   }
+  },
+  {
+   "name": "B",
+   "tonic": "C",
+   "bars": "18–26",
+   "repeat": false,
+   "sequence": [
+    [
+     "G7(9)"
+    ],
+    [],
+    [
+     "C6"
+    ],
+    [],
+    [
+     "A7(9)"
+    ],
+    [],
+    [
+     "D7(9)"
+    ],
+    [],
+    [
+     "G6"
+    ]
+   ]
+  },
+  {
+   "name": "C",
+   "tonic": "Bb",
+   "bars": "27–43",
+   "repeat": false,
+   "sequence": [
+    [
+     "F7(9)"
+    ],
+    [],
+    [
+     "Bb6"
+    ],
+    [],
+    [
+     "F7(9)"
+    ],
+    [],
+    [
+     "Bb6"
+    ],
+    [],
+    [
+     "G7(9)"
+    ],
+    [],
+    [
+     "C6"
+    ],
+    [],
+    [
+     "G7(9)"
+    ],
+    [],
+    [
+     "C6"
+    ],
+    [
+     "Am7",
+     "D7"
+    ],
+    [
+     "G6"
+    ]
+   ]
+  },
+  {
+   "name": "D",
+   "tonic": "G",
+   "bars": "44–53",
+   "repeat": false,
+   "sequence": [
+    [
+     "A7(9)"
+    ],
+    [
+     "Gdim"
+    ],
+    [
+     "D7(9)"
+    ],
+    [
+     "G6"
+    ],
+    [
+     "Gdim"
+    ],
+    [
+     "D7(9)"
+    ],
+    [
+     "Am7"
+    ],
+    [
+     "D7(9)"
+    ],
+    [
+     "Gmaj7"
+    ],
+    [
+     "Gmaj7"
+    ]
+   ]
+  },
+  {
+   "name": "E",
+   "tonic": "G",
+   "bars": "54–61",
+   "repeat": false,
+   "sequence": [
+    [
+     "A7(9)"
+    ],
+    [
+     "Cm6",
+     "D7(9)"
+    ],
+    [
+     "G6"
+    ],
+    [
+     "Bbdim"
+    ],
+    [
+     "Am7"
+    ],
+    [
+     "Am7",
+     "D7(9)"
+    ],
+    [
+     "G6",
+     "C7(9)"
+    ],
+    [
+     "Gmaj7"
+    ]
+   ]
+  }
+ ],
+ "notes": [
+  "Grille générée automatiquement depuis la partition MusicXML : à vérifier."
+ ],
+ "confidence": "medium",
+ "source": [
+  "mxl/C/Avena de Castro - Okik-Ryas - Theme - C.mxl"
+ ],
+ "generated": "mxl"
+}

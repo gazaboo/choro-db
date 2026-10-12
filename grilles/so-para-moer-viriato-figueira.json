@@ -1,0 +1,148 @@
+{
+ "song_id": "so-para-moer-viriato-figueira",
+ "title": "Só Para Moer",
+ "composer": "Viriato Figueira",
+ "transposition": "c",
+ "meter": "2/4",
+ "form": "A — B — C",
+ "parts": [
+  {
+   "name": "A",
+   "tonic": "C",
+   "bars": "1–7",
+   "sequence": [
+    [
+     "Dm7(b5)"
+    ],
+    [
+     "Cm",
+     "Cm/Bb"
+    ],
+    [
+     "Fm6/Ab",
+     "G7"
+    ],
+    [
+     "Cm",
+     "Dm7(b5)"
+    ],
+    [
+     "G7/B"
+    ],
+    [
+     "Cm",
+     "Cm/Bb"
+    ],
+    [
+     "Fm6/Ab",
+     "G7"
+    ]
+   ]
+  },
+  {
+   "name": "B",
+   "tonic": "C",
+   "bars": "8–15",
+   "sequence": [
+    [
+     "Cm"
+    ],
+    [
+     "Cm"
+    ],
+    [
+     "Fm6",
+     "G/F"
+    ],
+    [
+     "Cm/Eb"
+    ],
+    [
+     "G7"
+    ],
+    [
+     "Cm"
+    ],
+    [
+     "Fm",
+     "Fm6"
+    ],
+    [
+     "Cm",
+     "Cm/Bb"
+    ]
+   ]
+  },
+  {
+   "name": "C",
+   "tonic": "C",
+   "bars": "17–36",
+   "sequence": [
+    [
+     "G7"
+    ],
+    [
+     "G7"
+    ],
+    [
+     "Cm"
+    ],
+    [],
+    [],
+    [
+     "Bb7",
+     "Bb/Ab"
+    ],
+    [
+     "Eb/G"
+    ],
+    [
+     "Eb",
+     "Cm6"
+    ],
+    [
+     "Gm"
+    ],
+    [],
+    [
+     "Gm"
+    ],
+    [],
+    [],
+    [
+     "Bb7",
+     "Bb/Ab"
+    ],
+    [
+     "Eb"
+    ],
+    [
+     "Eb",
+     "Eb7"
+    ],
+    [
+     "Ab"
+    ],
+    [
+     "Eb/Bb",
+     "Bb7"
+    ],
+    [
+     "Eb"
+    ],
+    [
+     "Eb"
+    ]
+   ]
+  }
+ ],
+ "notes": [
+  "Grille générée automatiquement depuis le texte du PDF : à vérifier.",
+  "Reprises et fins non détectées : les mesures sont dans l'ordre d'écriture."
+ ],
+ "confidence": "low",
+ "source": [
+  "pdf/Viriato Figueira - Só Para Moer - Theme - C.pdf"
+ ],
+ "generated": "pdf"
+}

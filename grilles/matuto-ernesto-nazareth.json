@@ -1,0 +1,255 @@
+{
+ "song_id": "matuto-ernesto-nazareth",
+ "title": "Matuto",
+ "composer": "Ernesto Nazareth",
+ "transposition": "c",
+ "meter": "2/4",
+ "form": "A (reprise) — B (reprise) — C (reprise) — D",
+ "parts": [
+  {
+   "name": "A",
+   "tonic": "G",
+   "bars": "0–17",
+   "repeat": true,
+   "sequence": [
+    [
+     "G6"
+    ],
+    [
+     "D7(9)"
+    ],
+    [
+     "Am7/D",
+     "D7(9)"
+    ],
+    [
+     "G6"
+    ],
+    [
+     "G6",
+     "Bb/Ab"
+    ],
+    [
+     "D/A"
+    ],
+    [
+     "E/D",
+     "A7/C#",
+     "D7(9)"
+    ],
+    [],
+    [
+     "G6"
+    ],
+    [
+     "D7(9)"
+    ],
+    [
+     "Am7/D",
+     "D7(9)"
+    ],
+    [
+     "G6"
+    ],
+    [
+     "Bm7b5",
+     "E7"
+    ],
+    [
+     "Am",
+     "A#dim"
+    ],
+    [
+     "G/B",
+     "Cm6",
+     "D7"
+    ]
+   ],
+   "endings": {
+    "1": [
+     [
+      "G"
+     ]
+    ],
+    "2": [
+     [
+      "G"
+     ]
+    ]
+   }
+  },
+  {
+   "name": "B",
+   "tonic": "Em",
+   "bars": "18–35",
+   "repeat": true,
+   "sequence": [
+    [
+     "B7/F#"
+    ],
+    [
+     "Em",
+     "Em/D"
+    ],
+    [
+     "C#m7b5",
+     "D7/F#"
+    ],
+    [
+     "G"
+    ],
+    [
+     "F#m7b5",
+     "B7"
+    ],
+    [
+     "Em"
+    ],
+    [
+     "F#7/C#",
+     "F#7/A#"
+    ],
+    [
+     "B/A"
+    ],
+    [
+     "B7/F#"
+    ],
+    [
+     "Em",
+     "Em/D"
+    ],
+    [
+     "C#m7b5",
+     "D7/F#"
+    ],
+    [
+     "G"
+    ],
+    [
+     "B7"
+    ],
+    [
+     "Em"
+    ],
+    [
+     "Em/G",
+     "F#7",
+     "B7"
+    ],
+    [
+     "G6"
+    ]
+   ],
+   "endings": {
+    "1": [
+     [
+      "Em"
+     ]
+    ],
+    "2": [
+     [
+      "Em"
+     ]
+    ]
+   }
+  },
+  {
+   "name": "C",
+   "tonic": "C",
+   "bars": "36–52",
+   "repeat": true,
+   "sequence": [
+    [],
+    [
+     "G7(9)"
+    ],
+    [
+     "C"
+    ],
+    [],
+    [
+     "D/C"
+    ],
+    [
+     "G7/B"
+    ],
+    [
+     "C",
+     "Cdim"
+    ],
+    [
+     "C",
+     "C7"
+    ],
+    [
+     "F6"
+    ],
+    [
+     "G/F"
+    ],
+    [
+     "C/E"
+    ]
+   ],
+   "endings": {
+    "1": [
+     [
+      "Am7",
+      "Bbdim"
+     ],
+     [
+      "G/B"
+     ],
+     [
+      "A7/C#",
+      "D/C"
+     ],
+     [
+      "G/B"
+     ],
+     []
+    ],
+    "2": [
+     [
+      "C",
+      "Gm6/Bb"
+     ]
+    ]
+   }
+  },
+  {
+   "name": "D",
+   "tonic": "C",
+   "bars": "53–57",
+   "repeat": false,
+   "sequence": [
+    [
+     "A7",
+     "A7/C#"
+    ],
+    [
+     "Dm",
+     "F#dim"
+    ],
+    [
+     "C/G",
+     "G7"
+    ],
+    [
+     "C"
+    ],
+    []
+   ]
+  }
+ ],
+ "notes": [
+  "Grille générée automatiquement depuis la partition MusicXML : à vérifier.",
+  "C : première mesure sans accord"
+ ],
+ "confidence": "medium",
+ "source": [
+  "mxl/C/Ernesto Nazareth - Matuto - Theme - C.mxl"
+ ],
+ "generated": "mxl"
+}

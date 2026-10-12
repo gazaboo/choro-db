@@ -1,0 +1,234 @@
+{
+ "song_id": "acariciando-abel-ferreira",
+ "title": "Acariciando",
+ "composer": "Abel Ferreira",
+ "transposition": "c",
+ "meter": "2/4",
+ "form": "A — B (reprise) — C (reprise) — D — Coda",
+ "parts": [
+  {
+   "name": "A",
+   "tonic": "F",
+   "bars": "1–21",
+   "repeat": false,
+   "sequence": [
+    [
+     "F6"
+    ],
+    [
+     "Fdim"
+    ],
+    [
+     "F6",
+     "Am7"
+    ],
+    [
+     "Gm7",
+     "C7"
+    ],
+    [
+     "F6"
+    ],
+    [
+     "Bb7(9)"
+    ],
+    [
+     "Am7",
+     "Abdim"
+    ],
+    [
+     "Gm7",
+     "C7"
+    ],
+    [
+     "F6"
+    ],
+    [
+     "E7"
+    ],
+    [
+     "Am",
+     "E7/B"
+    ],
+    [
+     "Am/C"
+    ],
+    [
+     "Bm7b5"
+    ],
+    [
+     "E7"
+    ],
+    [
+     "Am7"
+    ],
+    [
+     "C7"
+    ],
+    [
+     "F6"
+    ],
+    [
+     "Fdim"
+    ],
+    [
+     "F6"
+    ],
+    [
+     "Bb7"
+    ],
+    [
+     "F6"
+    ]
+   ]
+  },
+  {
+   "name": "B",
+   "tonic": "F",
+   "bars": "22–26",
+   "repeat": true,
+   "sequence": [
+    [
+     "Db7",
+     "C7"
+    ],
+    [
+     "Eb7(9)"
+    ]
+   ],
+   "endings": {
+    "1": [
+     [
+      "F6"
+     ],
+     [
+      "C7"
+     ]
+    ],
+    "2": [
+     [
+      "F6"
+     ]
+    ]
+   }
+  },
+  {
+   "name": "C",
+   "tonic": "Dm",
+   "bars": "27–43",
+   "repeat": true,
+   "sequence": [
+    [
+     "Dm",
+     "Gm6"
+    ],
+    [
+     "Dm"
+    ],
+    [
+     "Bb7"
+    ],
+    [
+     "A7"
+    ],
+    [
+     "Dm",
+     "Dm/C"
+    ],
+    [
+     "Bm7b5"
+    ],
+    [
+     "Bb7"
+    ],
+    [
+     "A7"
+    ],
+    [
+     "Cm6/Eb"
+    ],
+    [
+     "D7"
+    ],
+    [
+     "Gm"
+    ],
+    [
+     "Em7b5"
+    ]
+   ],
+   "endings": {
+    "1": [
+     [
+      "Dm"
+     ],
+     [
+      "Bb7"
+     ],
+     [
+      "Gm6"
+     ],
+     [
+      "A7"
+     ]
+    ],
+    "2": [
+     [
+      "Dm",
+      "Dm/C"
+     ]
+    ]
+   }
+  },
+  {
+   "name": "D",
+   "tonic": "F",
+   "bars": "44–X1",
+   "repeat": false,
+   "sequence": [
+    [
+     "E7/B",
+     "A7"
+    ],
+    [
+     "Dm"
+    ],
+    [
+     "C7"
+    ]
+   ]
+  },
+  {
+   "name": "Coda",
+   "tonic": "F",
+   "bars": "47–51",
+   "repeat": false,
+   "sequence": [
+    [
+     "Db7",
+     "C7"
+    ],
+    [
+     "F6"
+    ],
+    [
+     "Eb7(9)"
+    ],
+    [
+     "Db7(9)"
+    ],
+    [
+     "F6"
+    ]
+   ]
+  }
+ ],
+ "notes": [
+  "Grille générée automatiquement depuis la partition MusicXML : à vérifier."
+ ],
+ "confidence": "medium",
+ "source": [
+  "mxl/C/Abel Ferreira - Acariciando - Theme - C.mxl"
+ ],
+ "generated": "mxl"
+}

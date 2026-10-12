@@ -1,0 +1,223 @@
+{
+ "song_id": "tocando-pra-voce-luiz-americano",
+ "title": "Tocando prá você",
+ "composer": "Luiz Americano",
+ "transposition": "c",
+ "meter": "2/4",
+ "form": "A — B — C",
+ "parts": [
+  {
+   "name": "A",
+   "tonic": "Am",
+   "bars": "1–31",
+   "sequence": [
+    [
+     "Gm"
+    ],
+    [],
+    [
+     "Cm/Eb"
+    ],
+    [
+     "D7/F#"
+    ],
+    [
+     "Gm"
+    ],
+    [
+     "Gm/F"
+    ],
+    [
+     "Cm6/Eb"
+    ],
+    [
+     "D7"
+    ],
+    [
+     "G7"
+    ],
+    [
+     "G/F"
+    ],
+    [
+     "Cm/Eb"
+    ],
+    [],
+    [
+     "A7"
+    ],
+    [
+     "A/G",
+     "D7/F#"
+    ],
+    [],
+    [],
+    [
+     "Gm"
+    ],
+    [],
+    [
+     "Cm/Eb"
+    ],
+    [
+     "D7/F#"
+    ],
+    [
+     "Gm"
+    ],
+    [
+     "Gm/F"
+    ],
+    [
+     "Cm6/Eb"
+    ],
+    [
+     "D7"
+    ],
+    [
+     "Fm6"
+    ],
+    [
+     "G7"
+    ],
+    [
+     "Cm"
+    ],
+    [
+     "Am7(b5)"
+    ],
+    [
+     "Gm"
+    ],
+    [
+     "A7",
+     "D7"
+    ],
+    [
+     "Gm"
+    ]
+   ]
+  },
+  {
+   "name": "B",
+   "tonic": "C",
+   "bars": "32–48",
+   "sequence": [
+    [],
+    [],
+    [
+     "D7/F#"
+    ],
+    [
+     "Gm"
+    ],
+    [
+     "D7/A"
+    ],
+    [
+     "G7/B"
+    ],
+    [
+     "Cm"
+    ],
+    [
+     "Gm"
+    ],
+    [
+     "Eb7"
+    ],
+    [
+     "D7"
+    ],
+    [
+     "D7/F#"
+    ],
+    [
+     "Gm"
+    ],
+    [
+     "D7/A"
+    ],
+    [
+     "G7/B"
+    ],
+    [
+     "Cm6"
+    ],
+    [],
+    [
+     "A7/E",
+     "D7"
+    ]
+   ]
+  },
+  {
+   "name": "C",
+   "tonic": "Am",
+   "bars": "49–67",
+   "sequence": [
+    [
+     "Gm"
+    ],
+    [
+     "Gm"
+    ],
+    [
+     "Gm",
+     "D7"
+    ],
+    [],
+    [
+     "G"
+    ],
+    [],
+    [
+     "Am"
+    ],
+    [],
+    [
+     "A7"
+    ],
+    [
+     "A7/C#"
+    ],
+    [],
+    [
+     "D7"
+    ],
+    [
+     "G"
+    ],
+    [],
+    [
+     "E7",
+     "E/D"
+    ],
+    [
+     "Am/C"
+    ],
+    [
+     "C/E"
+    ],
+    [
+     "G/D",
+     "E7/B"
+    ],
+    [
+     "A7",
+     "D7",
+     "G"
+    ]
+   ]
+  }
+ ],
+ "notes": [
+  "Grille générée automatiquement depuis le texte du PDF : à vérifier.",
+  "Reprises et fins non détectées : les mesures sont dans l'ordre d'écriture."
+ ],
+ "confidence": "low",
+ "source": [
+  "pdf/Luiz Americano - Tocando prá você - Theme - C.pdf"
+ ],
+ "generated": "pdf"
+}

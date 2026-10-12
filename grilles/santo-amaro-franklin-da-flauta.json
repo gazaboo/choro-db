@@ -1,0 +1,109 @@
+{
+ "song_id": "santo-amaro-franklin-da-flauta",
+ "title": "Santo Amaro",
+ "composer": "Franklin da Flauta",
+ "transposition": "c",
+ "meter": "2/4",
+ "form": "A — B — C",
+ "parts": [
+  {
+   "name": "A",
+   "tonic": "C",
+   "bars": "1–7",
+   "sequence": [
+    [
+     "D"
+    ],
+    [],
+    [
+     "D/C"
+    ],
+    [],
+    [
+     "Gm/Bb"
+    ],
+    [
+     "D/A"
+    ],
+    [
+     "Em/G"
+    ]
+   ]
+  },
+  {
+   "name": "B",
+   "tonic": "C",
+   "bars": "8–9",
+   "sequence": [
+    [
+     "D"
+    ],
+    [
+     "D"
+    ]
+   ]
+  },
+  {
+   "name": "C",
+   "tonic": "C",
+   "bars": "18–34",
+   "sequence": [
+    [
+     "D/F#"
+    ],
+    [
+     "D/F#"
+    ],
+    [
+     "A/G"
+    ],
+    [
+     "D/F#",
+     "G/F"
+    ],
+    [
+     "C/E",
+     "F/Eb"
+    ],
+    [],
+    [
+     "Cm6"
+    ],
+    [],
+    [],
+    [],
+    [
+     "A/G"
+    ],
+    [
+     "G/F"
+    ],
+    [
+     "F/Eb",
+     "Bb7/D"
+    ],
+    [
+     "Eb/Db"
+    ],
+    [
+     "G7/B",
+     "Bbm6"
+    ],
+    [],
+    [
+     "Gm6",
+     "Dm/F"
+    ]
+   ]
+  }
+ ],
+ "notes": [
+  "Grille générée automatiquement depuis le texte du PDF : à vérifier.",
+  "Reprises et fins non détectées : les mesures sont dans l'ordre d'écriture."
+ ],
+ "confidence": "low",
+ "source": [
+  "pdf/Franklin da Flauta - Santo Amaro - Theme - C.pdf"
+ ],
+ "generated": "pdf"
+}

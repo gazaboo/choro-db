@@ -1,0 +1,322 @@
+{
+ "song_id": "confidencias-ernesto-nazareth",
+ "title": "Confidências",
+ "composer": "Ernesto Nazareth",
+ "transposition": "c",
+ "meter": "3/4",
+ "form": "A (reprise) — B (reprise) — C — D — D — E (reprise)",
+ "parts": [
+  {
+   "name": "A",
+   "tonic": "Gm",
+   "bars": "1–32",
+   "repeat": true,
+   "sequence": [
+    [
+     "Gm"
+    ],
+    [],
+    [
+     "A7/E"
+    ],
+    [],
+    [
+     "Cm6/Eb"
+    ],
+    [
+     "D7",
+     "D/C"
+    ],
+    [
+     "Gm/Bb"
+    ],
+    [
+     "Gm/D"
+    ],
+    [],
+    [
+     "Bbm6/Db"
+    ],
+    [
+     "F/C"
+    ],
+    [
+     "F/A"
+    ],
+    [
+     "G7/B"
+    ],
+    [
+     "C/Bb"
+    ],
+    [
+     "F/A"
+    ],
+    [
+     "D7"
+    ],
+    [
+     "Gm"
+    ],
+    [],
+    [
+     "A7/E"
+    ],
+    [],
+    [
+     "F/Eb"
+    ],
+    [
+     "F7"
+    ],
+    [
+     "Bb"
+    ],
+    [
+     "Bb/D"
+    ],
+    [
+     "D7/A"
+    ],
+    [
+     "D7"
+    ],
+    [],
+    [
+     "Cm6"
+    ],
+    [
+     "Gm/D"
+    ],
+    [
+     "D7"
+    ],
+    [
+     "Gm"
+    ],
+    []
+   ]
+  },
+  {
+   "name": "B",
+   "tonic": "Gm",
+   "bars": "33–49",
+   "repeat": true,
+   "sequence": [
+    [
+     "F7/C"
+    ],
+    [
+     "F7"
+    ],
+    [
+     "Bb"
+    ],
+    [
+     "Bb/F"
+    ],
+    [
+     "C7/G"
+    ],
+    [
+     "F7"
+    ],
+    [
+     "Bb"
+    ],
+    [
+     "Bb/F"
+    ],
+    [
+     "D7/F#"
+    ],
+    [
+     "D7"
+    ]
+   ],
+   "endings": {
+    "1": [
+     [
+      "Gm"
+     ],
+     [
+      "Em7b5"
+     ],
+     [
+      "Dm/A"
+     ],
+     [
+      "A7"
+     ],
+     [
+      "Dm"
+     ],
+     []
+    ],
+    "2": [
+     [
+      "Gm"
+     ]
+    ]
+   }
+  },
+  {
+   "name": "C",
+   "tonic": "Gm",
+   "bars": "50–X1",
+   "repeat": false,
+   "sequence": [
+    [
+     "Eb"
+    ],
+    [
+     "Bb/F"
+    ],
+    [
+     "F7/C"
+    ],
+    [
+     "Bb"
+    ],
+    [
+     "D7"
+    ]
+   ]
+  },
+  {
+   "name": "D",
+   "tonic": "G",
+   "bars": "55–86",
+   "repeat": false,
+   "sequence": [
+    [
+     "G"
+    ],
+    [
+     "G/D"
+    ],
+    [
+     "G"
+    ],
+    [
+     "G/D"
+    ],
+    [
+     "G/B"
+    ],
+    [
+     "G/D"
+    ],
+    [
+     "D7/A"
+    ],
+    [
+     "D7"
+    ],
+    [
+     "D7/A"
+    ],
+    [
+     "D7"
+    ],
+    [
+     "D7/A"
+    ],
+    [
+     "D7"
+    ],
+    [
+     "D7/A"
+    ],
+    [
+     "D7"
+    ],
+    [
+     "Gdim"
+    ],
+    [
+     "G/D"
+    ],
+    [
+     "G"
+    ],
+    [
+     "G/D"
+    ],
+    [
+     "G/F"
+    ],
+    [],
+    [
+     "E7"
+    ],
+    [],
+    [
+     "Am"
+    ],
+    [],
+    [
+     "Eb/Db"
+    ],
+    [],
+    [
+     "G/D"
+    ],
+    [],
+    [
+     "A7/D"
+    ],
+    [],
+    [
+     "D7"
+    ],
+    []
+   ]
+  },
+  {
+   "name": "E",
+   "tonic": "Em",
+   "bars": "119–129",
+   "repeat": true,
+   "sequence": [
+    [
+     "B7"
+    ],
+    [],
+    [
+     "Em/B"
+    ],
+    [],
+    [
+     "F#7/B"
+    ],
+    [],
+    [
+     "D7"
+    ],
+    []
+   ],
+   "endings": {
+    "1": [
+     [
+      "B7"
+     ],
+     []
+    ],
+    "2": [
+     [
+      "B7"
+     ]
+    ]
+   }
+  }
+ ],
+ "notes": [
+  "Grille générée automatiquement depuis la partition MusicXML : à vérifier."
+ ],
+ "confidence": "medium",
+ "source": [
+  "mxl/C/Ernesto Nazareth - Confidências - Theme - C.mxl"
+ ],
+ "generated": "mxl"
+}

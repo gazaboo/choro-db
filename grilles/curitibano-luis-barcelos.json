@@ -1,0 +1,201 @@
+{
+ "song_id": "curitibano-luis-barcelos",
+ "title": "Curitibano",
+ "composer": "Luis Barcelos",
+ "transposition": "c",
+ "meter": "2/4",
+ "form": "A (reprise) — B (reprise) — Coda",
+ "parts": [
+  {
+   "name": "A",
+   "tonic": "Em",
+   "bars": "0–17",
+   "repeat": true,
+   "sequence": [
+    [
+     "Em"
+    ],
+    [
+     "F"
+    ],
+    [
+     "F#m7b5",
+     "B7"
+    ],
+    [
+     "Em",
+     "B7"
+    ],
+    [
+     "Em",
+     "C#m7b5"
+    ],
+    [
+     "Bm"
+    ],
+    [
+     "C#m7b5",
+     "F#7"
+    ],
+    [
+     "F#m7b5",
+     "F7(#11)"
+    ],
+    [
+     "Em(maj7)",
+     "Em6"
+    ],
+    [
+     "Am(maj7)",
+     "Am6"
+    ],
+    [
+     "Cm6"
+    ],
+    [
+     "Bm7b5",
+     "E7"
+    ],
+    [
+     "Am7",
+     "D7(9,#11)"
+    ],
+    [
+     "Gm7",
+     "C7(9,#11)"
+    ],
+    [
+     "F",
+     "F#m7b5",
+     "B7"
+    ]
+   ],
+   "endings": {
+    "1": [
+     [
+      "Em",
+      "F#m7b5"
+     ]
+    ],
+    "2": [
+     [
+      "Em",
+      "Eb7"
+     ]
+    ]
+   }
+  },
+  {
+   "name": "B",
+   "tonic": "Em",
+   "bars": "18–35",
+   "repeat": true,
+   "sequence": [
+    [
+     "D7(9)",
+     "D7(b9)"
+    ],
+    [
+     "G6",
+     "Bbdim"
+    ],
+    [
+     "Am7",
+     "D7"
+    ],
+    [
+     "Gmaj7",
+     "G6"
+    ],
+    [
+     "D7",
+     "C7"
+    ],
+    [
+     "B7",
+     "Em"
+    ],
+    [
+     "A7",
+     "Eb7"
+    ],
+    [
+     "Am7",
+     "D7"
+    ],
+    [
+     "D7(9)",
+     "D7(b9)"
+    ],
+    [
+     "G6",
+     "Bbdim"
+    ],
+    [
+     "Am7",
+     "D7"
+    ],
+    [
+     "Dm7",
+     "G7"
+    ],
+    [
+     "Cmaj7",
+     "F7"
+    ],
+    [
+     "Bm",
+     "Eb7/Bb"
+    ],
+    [
+     "Am7",
+     "D7(b9)"
+    ],
+    []
+   ],
+   "endings": {
+    "1": [
+     [
+      "G",
+      "F7(13)",
+      "E7(13)",
+      "Eb7(13)"
+     ]
+    ],
+    "2": [
+     [
+      "G6",
+      "F#m7b5",
+      "B7"
+     ]
+    ]
+   }
+  },
+  {
+   "name": "Coda",
+   "tonic": "Em",
+   "bars": "36–38",
+   "repeat": false,
+   "sequence": [
+    [
+     "Em"
+    ],
+    [
+     "F#m7b5",
+     "F7(#11)"
+    ],
+    [
+     "Em6(9)"
+    ]
+   ]
+  }
+ ],
+ "notes": [
+  "Grille générée automatiquement depuis la partition MusicXML : à vérifier."
+ ],
+ "confidence": "medium",
+ "source": [
+  "mxl/C/Luis Barcelos - Curitibano - Theme - C.mxl"
+ ],
+ "generated": "mxl"
+}

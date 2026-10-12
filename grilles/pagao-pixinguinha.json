@@ -1,0 +1,233 @@
+{
+ "song_id": "pagao-pixinguinha",
+ "title": "Pagão",
+ "composer": "Pixinguinha",
+ "transposition": "c",
+ "meter": "2/4",
+ "form": "A (reprise) — B (reprise) — C — C — Coda",
+ "parts": [
+  {
+   "name": "A",
+   "tonic": "F",
+   "bars": "0–17",
+   "repeat": true,
+   "sequence": [
+    [
+     "Dm"
+    ],
+    [
+     "Gm"
+    ],
+    [
+     "A7"
+    ],
+    [
+     "Dm"
+    ],
+    [
+     "Dm",
+     "Bm7b5"
+    ],
+    [
+     "Am/C",
+     "E7/B"
+    ],
+    [
+     "Am",
+     "E7/G#"
+    ],
+    [
+     "A7"
+    ],
+    [
+     "Dm"
+    ],
+    [
+     "Gm"
+    ],
+    [
+     "A7"
+    ],
+    [
+     "D7"
+    ],
+    [
+     "Gm"
+    ],
+    [
+     "Dm"
+    ],
+    [
+     "Eb",
+     "A7"
+    ]
+   ],
+   "endings": {
+    "1": [
+     [
+      "Dm"
+     ]
+    ],
+    "2": [
+     [
+      "Dm",
+      "C7"
+     ]
+    ]
+   }
+  },
+  {
+   "name": "B",
+   "tonic": "Dm",
+   "bars": "18–35",
+   "repeat": true,
+   "sequence": [
+    [
+     "F"
+    ],
+    [
+     "G7"
+    ],
+    [
+     "C7"
+    ],
+    [
+     "F"
+    ],
+    [
+     "F/A",
+     "Fm/Ab"
+    ],
+    [
+     "C/G"
+    ],
+    [
+     "G7"
+    ],
+    [
+     "C7"
+    ],
+    [
+     "F"
+    ],
+    [
+     "G7"
+    ],
+    [
+     "A7"
+    ],
+    [
+     "Dm"
+    ],
+    [
+     "G#dim"
+    ],
+    [
+     "F/A",
+     "D7"
+    ],
+    [
+     "Gm",
+     "C7"
+    ],
+    [
+     "Dm"
+    ]
+   ],
+   "endings": {
+    "1": [
+     [
+      "F",
+      "Gm",
+      "G#dim"
+     ]
+    ],
+    "2": [
+     [
+      "F",
+      "A7"
+     ]
+    ]
+   }
+  },
+  {
+   "name": "C",
+   "tonic": "D",
+   "bars": "36–51",
+   "repeat": false,
+   "sequence": [
+    [
+     "D"
+    ],
+    [],
+    [],
+    [
+     "Em"
+    ],
+    [
+     "F#7"
+    ],
+    [
+     "Bm"
+    ],
+    [
+     "E7"
+    ],
+    [
+     "A7"
+    ],
+    [
+     "D"
+    ],
+    [
+     "D",
+     "Am6/C"
+    ],
+    [
+     "B7",
+     "B7/D#"
+    ],
+    [
+     "Em"
+    ],
+    [
+     "Gm6"
+    ],
+    [
+     "D/A",
+     "B7"
+    ],
+    [
+     "E7",
+     "A7"
+    ],
+    [
+     "D"
+    ]
+   ]
+  },
+  {
+   "name": "Coda",
+   "tonic": "Dm",
+   "bars": "69–71",
+   "repeat": false,
+   "sequence": [
+    [
+     "Dm"
+    ],
+    [],
+    [
+     "Dm"
+    ]
+   ]
+  }
+ ],
+ "notes": [
+  "Grille générée automatiquement depuis la partition MusicXML : à vérifier."
+ ],
+ "confidence": "medium",
+ "source": [
+  "mxl/C/Pixinguinha - Pagão - Theme - C.mxl"
+ ],
+ "generated": "mxl"
+}

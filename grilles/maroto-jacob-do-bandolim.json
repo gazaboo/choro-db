@@ -1,0 +1,251 @@
+{
+ "song_id": "maroto-jacob-do-bandolim",
+ "title": "Maroto",
+ "composer": "Jacob do Bandolim",
+ "transposition": "c",
+ "meter": "2/4",
+ "form": "A (reprise) — B (reprise) — C (reprise) — Coda",
+ "parts": [
+  {
+   "name": "A",
+   "tonic": "F",
+   "bars": "0–17",
+   "repeat": true,
+   "sequence": [
+    [
+     "Dm",
+     "Em7b5"
+    ],
+    [
+     "Dm/F",
+     "A/G"
+    ],
+    [
+     "Dm/F",
+     "D7/F#"
+    ],
+    [
+     "Gm",
+     "Gm/F"
+    ],
+    [
+     "Gm/E",
+     "Gm/D"
+    ],
+    [
+     "A7/C#"
+    ],
+    [
+     "Em7b5",
+     "Eb7(9)"
+    ],
+    [
+     "Dm",
+     "A7"
+    ],
+    [
+     "Dm",
+     "Em7b5"
+    ],
+    [
+     "Dm/F",
+     "A7"
+    ],
+    [
+     "D7"
+    ],
+    [
+     "Gm7"
+    ],
+    [
+     "Em7b5",
+     "Eb7(9)"
+    ],
+    [
+     "Dm",
+     "Dm/C"
+    ],
+    [
+     "Bdim",
+     "Bb7",
+     "A7"
+    ]
+   ],
+   "endings": {
+    "1": [
+     [
+      "Dm",
+      "A7"
+     ]
+    ],
+    "2": [
+     [
+      "Dm",
+      "C7(9)"
+     ]
+    ]
+   }
+  },
+  {
+   "name": "B",
+   "tonic": "Dm",
+   "bars": "18–35",
+   "repeat": true,
+   "sequence": [
+    [
+     "F6/A",
+     "Ab7(9)"
+    ],
+    [
+     "Gm7"
+    ],
+    [
+     "G7/B",
+     "C7"
+    ],
+    [
+     "F6",
+     "C/Bb"
+    ],
+    [
+     "F6/A",
+     "F7"
+    ],
+    [
+     "A/E"
+    ],
+    [
+     "B7/D#",
+     "E/D"
+    ],
+    [
+     "A/C#"
+    ],
+    [
+     "F6",
+     "D7/F#"
+    ],
+    [
+     "Gm"
+    ],
+    [
+     "A7",
+     "A7/C#"
+    ],
+    [
+     "Dm",
+     "D/C"
+    ],
+    [
+     "G7/B",
+     "Bbm6"
+    ],
+    [
+     "F6/A",
+     "Abdim"
+    ],
+    [
+     "Gm7",
+     "C7(9)"
+    ],
+    [
+     "Dm7"
+    ]
+   ],
+   "endings": {
+    "1": [
+     [
+      "F6",
+      "C7(9)"
+     ]
+    ],
+    "2": [
+     [
+      "F6",
+      "A7(b9)"
+     ]
+    ]
+   }
+  },
+  {
+   "name": "C",
+   "tonic": "D",
+   "bars": "36–X2",
+   "repeat": true,
+   "sequence": [
+    [
+     "D6(9)"
+    ],
+    [],
+    [
+     "D6(9)",
+     "B7(b9)"
+    ],
+    [
+     "E7(9)"
+    ],
+    [],
+    [
+     "A7(9)"
+    ],
+    [],
+    [
+     "D6(9)"
+    ],
+    [],
+    [],
+    [
+     "F#m7b5",
+     "B7(9)"
+    ],
+    [
+     "Em7"
+    ],
+    [
+     "Gm6"
+    ],
+    [
+     "D6/F#",
+     "Fdim"
+    ],
+    [
+     "Em7",
+     "E7",
+     "A7"
+    ]
+   ],
+   "endings": {
+    "1": [
+     [
+      "D6(9)"
+     ]
+    ],
+    "2": [
+     [
+      "D6(9)",
+      "A7"
+     ]
+    ]
+   }
+  },
+  {
+   "name": "Coda",
+   "tonic": "Dm",
+   "bars": "53–53",
+   "repeat": false,
+   "sequence": [
+    [
+     "Dm"
+    ]
+   ]
+  }
+ ],
+ "notes": [
+  "Grille générée automatiquement depuis la partition MusicXML : à vérifier."
+ ],
+ "confidence": "medium",
+ "source": [
+  "mxl/C/Jacob do Bandolim - Maroto - Theme - C.mxl"
+ ],
+ "generated": "mxl"
+}

@@ -1,0 +1,190 @@
+{
+ "song_id": "vamos-dar-o-fora-luiz-otavio-braga",
+ "title": "Vamos dar o fora",
+ "composer": "Luiz Otávio Braga",
+ "transposition": "c",
+ "meter": "2/4",
+ "form": "A — B — C — Coda",
+ "parts": [
+  {
+   "name": "A",
+   "tonic": "C",
+   "bars": "1–15",
+   "sequence": [
+    [
+     "G/B",
+     "Eb7/Bb"
+    ],
+    [],
+    [
+     "A7",
+     "D7"
+    ],
+    [
+     "G/B"
+    ],
+    [
+     "F#7",
+     "B7"
+    ],
+    [
+     "E7/G#"
+    ],
+    [
+     "A7"
+    ],
+    [
+     "D7"
+    ],
+    [
+     "F7"
+    ],
+    [
+     "Bb6"
+    ],
+    [
+     "D7/F#"
+    ],
+    [
+     "Gm",
+     "Bb7/F"
+    ],
+    [],
+    [
+     "Em"
+    ],
+    [
+     "G/B"
+    ]
+   ]
+  },
+  {
+   "name": "B",
+   "tonic": "Am",
+   "bars": "16–31",
+   "sequence": [
+    [
+     "G"
+    ],
+    [
+     "G",
+     "B7"
+    ],
+    [],
+    [
+     "Em"
+    ],
+    [
+     "Am"
+    ],
+    [
+     "B7/D#"
+    ],
+    [
+     "Em"
+    ],
+    [
+     "D7/F#"
+    ],
+    [
+     "G"
+    ],
+    [],
+    [
+     "B7"
+    ],
+    [
+     "F7/A"
+    ],
+    [
+     "Eb7/G"
+    ],
+    [
+     "C#7"
+    ],
+    [],
+    [
+     "D7"
+    ]
+   ]
+  },
+  {
+   "name": "C",
+   "tonic": "C",
+   "bars": "34–51",
+   "sequence": [
+    [
+     "Em"
+    ],
+    [
+     "Em"
+    ],
+    [
+     "G"
+    ],
+    [],
+    [],
+    [
+     "C",
+     "G/B"
+    ],
+    [
+     "Fm/Ab"
+    ],
+    [],
+    [],
+    [],
+    [
+     "E/B",
+     "G7/B"
+    ],
+    [],
+    [
+     "C/G"
+    ],
+    [],
+    [],
+    [],
+    [
+     "E/C"
+    ],
+    [
+     "E/B"
+    ]
+   ]
+  },
+  {
+   "name": "Coda",
+   "tonic": "C",
+   "bars": "52–56",
+   "sequence": [
+    [
+     "A7",
+     "D7"
+    ],
+    [
+     "G7(b5)"
+    ],
+    [
+     "A7",
+     "G7"
+    ],
+    [
+     "C"
+    ],
+    [
+     "G"
+    ]
+   ]
+  }
+ ],
+ "notes": [
+  "Grille générée automatiquement depuis le texte du PDF : à vérifier.",
+  "Reprises et fins non détectées : les mesures sont dans l'ordre d'écriture."
+ ],
+ "confidence": "low",
+ "source": [
+  "pdf/Luiz Otávio Braga - Vamos dar o fora - Theme - C.pdf"
+ ],
+ "generated": "pdf"
+}

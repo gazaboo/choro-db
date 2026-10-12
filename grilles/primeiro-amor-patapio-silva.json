@@ -1,0 +1,195 @@
+{
+ "song_id": "primeiro-amor-patapio-silva",
+ "title": "Primeiro amor",
+ "composer": "Patápio Silva",
+ "transposition": "c",
+ "meter": "3/4",
+ "form": "A (reprise) — B (reprise) — C (reprise)",
+ "parts": [
+  {
+   "name": "A",
+   "tonic": "G",
+   "bars": "0–17",
+   "repeat": true,
+   "sequence": [
+    [
+     "G"
+    ],
+    [],
+    [
+     "D7/F#"
+    ],
+    [
+     "D7"
+    ],
+    [],
+    [
+     "D/C"
+    ],
+    [
+     "G/B"
+    ],
+    [],
+    [
+     "G"
+    ],
+    [],
+    [
+     "D7/F#"
+    ],
+    [
+     "D7"
+    ],
+    [],
+    [
+     "D7"
+    ],
+    [
+     "G"
+    ]
+   ],
+   "endings": {
+    "1": [
+     [
+      "G"
+     ]
+    ],
+    "2": [
+     [
+      "G"
+     ]
+    ]
+   }
+  },
+  {
+   "name": "B",
+   "tonic": "Em",
+   "bars": "18–X1",
+   "repeat": true,
+   "sequence": [
+    [
+     "B7"
+    ],
+    [],
+    [
+     "Em"
+    ],
+    [],
+    [
+     "F#m7b5"
+    ],
+    [
+     "B7"
+    ],
+    [
+     "Em"
+    ],
+    [],
+    [
+     "B7"
+    ],
+    [],
+    [
+     "Em"
+    ],
+    [],
+    [
+     "F#m7b5"
+    ],
+    [
+     "B7"
+    ],
+    [
+     "Em"
+    ]
+   ],
+   "endings": {
+    "1": [
+     [
+      "Em"
+     ]
+    ],
+    "2": [
+     [
+      "Em"
+     ]
+    ]
+   }
+  },
+  {
+   "name": "C",
+   "tonic": "C",
+   "bars": "36–53",
+   "repeat": true,
+   "sequence": [
+    [
+     "C"
+    ],
+    [
+     "C/E"
+    ],
+    [
+     "G7/D"
+    ],
+    [
+     "G7"
+    ],
+    [],
+    [
+     "G/F"
+    ],
+    [
+     "C/E"
+    ],
+    [
+     "C"
+    ],
+    [
+     "C/E"
+    ],
+    [
+     "C"
+    ],
+    [
+     "G7/D"
+    ],
+    [
+     "G7/B"
+    ],
+    [
+     "G7"
+    ],
+    [],
+    [
+     "C"
+    ],
+    []
+   ],
+   "endings": {
+    "1": [
+     [
+      "C"
+     ]
+    ],
+    "2": [
+     [
+      "C"
+     ]
+    ]
+   },
+   "transition_in": [
+    [
+     "G"
+    ]
+   ]
+  }
+ ],
+ "notes": [
+  "Grille générée automatiquement depuis la partition MusicXML : à vérifier."
+ ],
+ "confidence": "medium",
+ "source": [
+  "mxl/C/Patápio Silva - Primeiro amor - Theme - C.mxl"
+ ],
+ "generated": "mxl"
+}

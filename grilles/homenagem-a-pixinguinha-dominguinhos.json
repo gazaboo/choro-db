@@ -1,0 +1,178 @@
+{
+ "song_id": "homenagem-a-pixinguinha-dominguinhos",
+ "title": "Homenagem a Pixinguinha",
+ "composer": "Dominguinhos",
+ "transposition": "c",
+ "meter": "2/4",
+ "form": "A (reprise) — B — Coda",
+ "parts": [
+  {
+   "name": "A",
+   "tonic": "D",
+   "bars": "0–17",
+   "repeat": true,
+   "sequence": [
+    [
+     "E7/G#",
+     "A/G"
+    ],
+    [
+     "D/F#"
+    ],
+    [
+     "Gm7",
+     "C7"
+    ],
+    [
+     "F6"
+    ],
+    [
+     "Em7b5",
+     "A7"
+    ],
+    [
+     "Dm",
+     "Dm/F"
+    ],
+    [
+     "A/E",
+     "E7"
+    ],
+    [
+     "A7"
+    ],
+    [
+     "E7/G#",
+     "A/G"
+    ],
+    [
+     "D/F#"
+    ],
+    [
+     "Gm7",
+     "C7"
+    ],
+    [
+     "F6"
+    ],
+    [
+     "Em7b5",
+     "A7"
+    ],
+    [
+     "D6",
+     "B7"
+    ],
+    [
+     "E7",
+     "A7"
+    ]
+   ],
+   "endings": {
+    "1": [
+     [
+      "D"
+     ]
+    ],
+    "2": [
+     [
+      "D"
+     ]
+    ]
+   }
+  },
+  {
+   "name": "B",
+   "tonic": "F",
+   "bars": "18–34",
+   "repeat": false,
+   "sequence": [
+    [
+     "Bb6",
+     "C7"
+    ],
+    [
+     "Fmaj7",
+     "F6"
+    ],
+    [
+     "Gm7",
+     "C7"
+    ],
+    [
+     "F"
+    ],
+    [
+     "Bbm7",
+     "Eb7"
+    ],
+    [
+     "Abmaj7",
+     "Ab6"
+    ],
+    [
+     "Bbm7",
+     "C7"
+    ],
+    [
+     "Gm7"
+    ],
+    [
+     "Gm7",
+     "C7"
+    ],
+    [
+     "Fmaj7",
+     "F6"
+    ],
+    [
+     "Gm7",
+     "C7"
+    ],
+    [
+     "Cm6/Eb",
+     "D7"
+    ],
+    [
+     "Bm7b5",
+     "Bbm6"
+    ],
+    [
+     "Am7b5",
+     "D7"
+    ],
+    [
+     "Gm7",
+     "A7(9)"
+    ],
+    [
+     "D"
+    ],
+    []
+   ]
+  },
+  {
+   "name": "Coda",
+   "tonic": "D",
+   "bars": "35–36",
+   "repeat": false,
+   "sequence": [
+    [
+     "E7",
+     "A7"
+    ],
+    [
+     "D"
+    ]
+   ]
+  }
+ ],
+ "notes": [
+  "Grille générée automatiquement depuis la partition MusicXML : à vérifier."
+ ],
+ "confidence": "medium",
+ "source": [
+  "mxl/C/Dominguinhos - Homenagem a Pixinguinha - Theme - C.mxl"
+ ],
+ "generated": "mxl"
+}

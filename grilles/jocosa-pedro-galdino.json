@@ -1,0 +1,223 @@
+{
+ "song_id": "jocosa-pedro-galdino",
+ "title": "Jocosa",
+ "composer": "Pedro Galdino",
+ "transposition": "c",
+ "meter": "2/4",
+ "form": "A (reprise) — B (reprise) — C (reprise)",
+ "parts": [
+  {
+   "name": "A",
+   "tonic": "Dm",
+   "bars": "0–17",
+   "repeat": true,
+   "sequence": [
+    [
+     "F"
+    ],
+    [
+     "F/A"
+    ],
+    [
+     "F"
+    ],
+    [
+     "C7/G"
+    ],
+    [
+     "Gm",
+     "Gm/F"
+    ],
+    [
+     "C7/E"
+    ],
+    [
+     "C7"
+    ],
+    [
+     "F"
+    ],
+    [
+     "F",
+     "F/A"
+    ],
+    [],
+    [
+     "F7"
+    ],
+    [
+     "Bb"
+    ],
+    [
+     "Bb",
+     "C/Bb"
+    ],
+    [
+     "F/A"
+    ],
+    [
+     "Gm",
+     "C7"
+    ]
+   ],
+   "endings": {
+    "1": [
+     [
+      "F"
+     ]
+    ],
+    "2": [
+     [
+      "F",
+      "A7/E"
+     ]
+    ]
+   }
+  },
+  {
+   "name": "B",
+   "tonic": "Dm",
+   "bars": "18–X1",
+   "repeat": true,
+   "sequence": [
+    [
+     "Dm/F"
+    ],
+    [
+     "D7/F#"
+    ],
+    [
+     "Gm"
+    ],
+    [
+     "Gm6/Bb"
+    ],
+    [
+     "A7"
+    ],
+    [
+     "A7/C#"
+    ],
+    [
+     "Dm"
+    ],
+    [
+     "Dm",
+     "A7/E"
+    ],
+    [
+     "Dm/F"
+    ],
+    [
+     "D7/F#"
+    ],
+    [
+     "Gm"
+    ],
+    [
+     "Gm6/Bb"
+    ],
+    [
+     "Dm/A"
+    ],
+    [
+     "Em7b5",
+     "A7"
+    ],
+    [
+     "Dm",
+     "A7"
+    ]
+   ],
+   "endings": {
+    "1": [
+     [
+      "Dm",
+      "A7/E"
+     ]
+    ],
+    "2": [
+     [
+      "Dm"
+     ]
+    ]
+   }
+  },
+  {
+   "name": "C",
+   "tonic": "Bb",
+   "bars": "36–53",
+   "repeat": true,
+   "sequence": [
+    [
+     "Bb"
+    ],
+    [],
+    [],
+    [
+     "F7/A"
+    ],
+    [
+     "D7/F#"
+    ],
+    [
+     "Gm"
+    ],
+    [
+     "Ebm6/Gb"
+    ],
+    [
+     "F7"
+    ],
+    [
+     "Bb"
+    ],
+    [],
+    [
+     "G7"
+    ],
+    [
+     "Cm"
+    ],
+    [
+     "Ebm/Gb"
+    ],
+    [
+     "Bb/F"
+    ],
+    [
+     "C7",
+     "F7"
+    ],
+    []
+   ],
+   "endings": {
+    "1": [
+     [
+      "Bb"
+     ]
+    ],
+    "2": [
+     [
+      "Bb",
+      "C7"
+     ]
+    ]
+   },
+   "transition_in": [
+    [
+     "F",
+     "F7"
+    ]
+   ]
+  }
+ ],
+ "notes": [
+  "Grille générée automatiquement depuis la partition MusicXML : à vérifier."
+ ],
+ "confidence": "medium",
+ "source": [
+  "mxl/C/Pedro Galdino - Jocosa - Theme - C.mxl"
+ ],
+ "generated": "mxl"
+}

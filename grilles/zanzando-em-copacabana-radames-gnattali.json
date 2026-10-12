@@ -1,0 +1,226 @@
+{
+ "song_id": "zanzando-em-copacabana-radames-gnattali",
+ "title": "Zanzando em Copacabana",
+ "composer": "Radamés Gnattali",
+ "transposition": "c",
+ "meter": "2/4",
+ "form": "A — B — C — D — Coda",
+ "parts": [
+  {
+   "name": "A",
+   "tonic": "Am",
+   "bars": "1–15",
+   "sequence": [
+    [
+     "G7(b9)"
+    ],
+    [],
+    [],
+    [
+     "G7(b9)"
+    ],
+    [],
+    [],
+    [
+     "Am6",
+     "D7(9)"
+    ],
+    [
+     "G6"
+    ],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [
+     "Am6"
+    ]
+   ]
+  },
+  {
+   "name": "B",
+   "tonic": "C",
+   "bars": "16–32",
+   "sequence": [
+    [
+     "G6"
+    ],
+    [],
+    [
+     "Bb7"
+    ],
+    [
+     "Eb6/Bb"
+    ],
+    [
+     "Bb7"
+    ],
+    [
+     "Eb6"
+    ],
+    [
+     "Bb7"
+    ],
+    [
+     "Eb6/Bb"
+    ],
+    [
+     "G6",
+     "D7(9)"
+    ],
+    [
+     "G6"
+    ],
+    [
+     "Bb7"
+    ],
+    [
+     "Eb6"
+    ],
+    [
+     "Bb7"
+    ],
+    [],
+    [
+     "Fm"
+    ],
+    [
+     "Cm"
+    ],
+    [
+     "Fm",
+     "Bb7(13)"
+    ]
+   ]
+  },
+  {
+   "name": "C",
+   "tonic": "C",
+   "bars": "33–59",
+   "sequence": [
+    [
+     "Eb6"
+    ],
+    [
+     "Eb6"
+    ],
+    [
+     "G6"
+    ],
+    [],
+    [],
+    [],
+    [],
+    [
+     "Eb7(9)"
+    ],
+    [
+     "Ab6"
+    ],
+    [
+     "C6"
+    ],
+    [
+     "C6"
+    ],
+    [
+     "Bbm7",
+     "Eb7(9)"
+    ],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [
+     "Ab"
+    ],
+    [],
+    [],
+    [
+     "Eb6"
+    ]
+   ]
+  },
+  {
+   "name": "D",
+   "tonic": "C",
+   "bars": "60–80",
+   "sequence": [
+    [
+     "Fm"
+    ],
+    [],
+    [
+     "Fb7"
+    ],
+    [
+     "Eb6"
+    ],
+    [
+     "Eb7(9)"
+    ],
+    [
+     "Ab6"
+    ],
+    [
+     "C6"
+    ],
+    [
+     "C6"
+    ],
+    [
+     "Bbm7",
+     "Eb7(9)"
+    ],
+    [],
+    [],
+    [],
+    [],
+    [
+     "Ab7",
+     "G7(b9)"
+    ],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [
+     "Ab"
+    ]
+   ]
+  },
+  {
+   "name": "Coda",
+   "tonic": "C",
+   "bars": "83–84",
+   "sequence": [
+    [
+     "Eb6"
+    ],
+    [
+     "G6"
+    ]
+   ]
+  }
+ ],
+ "notes": [
+  "Grille générée automatiquement depuis le texte du PDF : à vérifier.",
+  "Reprises et fins non détectées : les mesures sont dans l'ordre d'écriture."
+ ],
+ "confidence": "low",
+ "source": [
+  "pdf/Radamés Gnattali - Zanzando em Copacabana - Theme - C.pdf"
+ ],
+ "generated": "pdf"
+}

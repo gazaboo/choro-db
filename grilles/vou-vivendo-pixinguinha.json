@@ -1,0 +1,185 @@
+{
+ "song_id": "vou-vivendo-pixinguinha",
+ "title": "Vou Vivendo",
+ "composer": "Pixinguinha",
+ "transposition": "c",
+ "meter": "2/4",
+ "form": "A — B — C",
+ "parts": [
+  {
+   "name": "A",
+   "tonic": "C",
+   "bars": "1–15",
+   "sequence": [
+    [
+     "F"
+    ],
+    [
+     "Gm",
+     "C7"
+    ],
+    [
+     "Dm"
+    ],
+    [
+     "A7"
+    ],
+    [
+     "Bb"
+    ],
+    [
+     "F/A"
+    ],
+    [
+     "G7"
+    ],
+    [
+     "C7"
+    ],
+    [
+     "Fm"
+    ],
+    [
+     "C7"
+    ],
+    [],
+    [
+     "Ab"
+    ],
+    [
+     "Bbm"
+    ],
+    [
+     "F/C",
+     "Dm"
+    ],
+    [
+     "C7"
+    ]
+   ]
+  },
+  {
+   "name": "B",
+   "tonic": "C",
+   "bars": "16–32",
+   "sequence": [
+    [
+     "F"
+    ],
+    [
+     "Em7(b5)",
+     "F"
+    ],
+    [
+     "Dm"
+    ],
+    [
+     "A7/E"
+    ],
+    [
+     "D7/F#"
+    ],
+    [
+     "Dm",
+     "Gm"
+    ],
+    [],
+    [
+     "Dm"
+    ],
+    [
+     "E7/G#"
+    ],
+    [
+     "A7",
+     "Em7(b5)"
+    ],
+    [],
+    [
+     "A7/C#"
+    ],
+    [],
+    [
+     "Gm/Bb"
+    ],
+    [],
+    [
+     "Dm"
+    ],
+    [
+     "Gm/Bb",
+     "A7"
+    ]
+   ]
+  },
+  {
+   "name": "C",
+   "tonic": "C",
+   "bars": "33–52",
+   "sequence": [
+    [
+     "Dm"
+    ],
+    [
+     "Dm",
+     "C7"
+    ],
+    [
+     "F"
+    ],
+    [],
+    [
+     "Bb",
+     "D7/A"
+    ],
+    [],
+    [
+     "G7"
+    ],
+    [
+     "Cm"
+    ],
+    [
+     "Cm"
+    ],
+    [
+     "F7"
+    ],
+    [
+     "F7"
+    ],
+    [
+     "Bb"
+    ],
+    [
+     "Bb",
+     "D7/A"
+    ],
+    [],
+    [],
+    [
+     "Cm"
+    ],
+    [
+     "Eb"
+    ],
+    [],
+    [
+     "F7"
+    ],
+    [
+     "Bb"
+    ]
+   ]
+  }
+ ],
+ "notes": [
+  "Grille générée automatiquement depuis le texte du PDF : à vérifier.",
+  "Reprises et fins non détectées : les mesures sont dans l'ordre d'écriture."
+ ],
+ "confidence": "low",
+ "source": [
+  "pdf/Pixinguinha - Vou Vivendo - Theme - C - variant 1.pdf"
+ ],
+ "generated": "pdf"
+}

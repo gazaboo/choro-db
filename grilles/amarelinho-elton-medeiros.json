@@ -1,0 +1,255 @@
+{
+ "song_id": "amarelinho-elton-medeiros",
+ "title": "Amarelinho",
+ "composer": "Elton Medeiros",
+ "transposition": "c",
+ "meter": "2/4",
+ "form": "A — B — C — D (reprise) — E (reprise) — A",
+ "parts": [
+  {
+   "name": "A",
+   "tonic": "C",
+   "bars": "0–9",
+   "repeat": false,
+   "sequence": [
+    [],
+    [],
+    [
+     "Gm(maj7)/E"
+    ],
+    [],
+    [
+     "Dm7"
+    ],
+    [],
+    [
+     "Cm6"
+    ],
+    [
+     "Bb7(9)"
+    ],
+    []
+   ]
+  },
+  {
+   "name": "B",
+   "tonic": "Am",
+   "bars": "10–25",
+   "repeat": false,
+   "sequence": [
+    [
+     "Am",
+     "Am(maj7)"
+    ],
+    [
+     "Am7"
+    ],
+    [
+     "Cm6"
+    ],
+    [
+     "B7"
+    ],
+    [
+     "Am7"
+    ],
+    [
+     "C7"
+    ],
+    [
+     "F7"
+    ],
+    [
+     "E7"
+    ],
+    [
+     "Gm6"
+    ],
+    [
+     "A7(#5)",
+     "Eb7(9)"
+    ],
+    [
+     "Dm7"
+    ],
+    [],
+    [
+     "B7"
+    ],
+    [],
+    [
+     "E7"
+    ],
+    []
+   ]
+  },
+  {
+   "name": "C",
+   "tonic": "Am",
+   "bars": "26–39",
+   "repeat": false,
+   "sequence": [
+    [
+     "Am",
+     "Am(maj7)"
+    ],
+    [
+     "Am7"
+    ],
+    [
+     "Cm6"
+    ],
+    [
+     "B7"
+    ],
+    [
+     "Dm7"
+    ],
+    [
+     "E7"
+    ],
+    [
+     "Gm7"
+    ],
+    [
+     "C7(9)"
+    ],
+    [
+     "F7"
+    ],
+    [],
+    [
+     "Ab7"
+    ],
+    [],
+    [
+     "Dm6"
+    ],
+    [
+     "E7"
+    ]
+   ]
+  },
+  {
+   "name": "D",
+   "tonic": "Am",
+   "bars": "40–42",
+   "repeat": true,
+   "sequence": [
+    [
+     "Am7"
+    ]
+   ],
+   "endings": {
+    "1": [
+     []
+    ],
+    "2": [
+     []
+    ]
+   }
+  },
+  {
+   "name": "E",
+   "tonic": "Am",
+   "bars": "43–X1",
+   "repeat": true,
+   "sequence": [
+    [
+     "G7"
+    ],
+    [],
+    [
+     "D7(9)"
+    ],
+    [],
+    [
+     "G7"
+    ],
+    [],
+    [
+     "C6"
+    ],
+    [],
+    [
+     "Cm7"
+    ],
+    [],
+    [
+     "Bbm6"
+    ],
+    [
+     "C7"
+    ],
+    [
+     "Abm6"
+    ],
+    [
+     "Bb7"
+    ],
+    [
+     "Ebmaj7"
+    ],
+    [
+     "Abmaj7"
+    ],
+    [
+     "Cm"
+    ],
+    [
+     "D7"
+    ],
+    [
+     "Gm7"
+    ],
+    [],
+    [
+     "Bbm7"
+    ],
+    [
+     "C7"
+    ],
+    [
+     "Gdim"
+    ],
+    [
+     "Fm7"
+    ],
+    [
+     "Ebdim"
+    ],
+    [],
+    [
+     "F#dim"
+    ],
+    [],
+    [
+     "Dm"
+    ],
+    [
+     "E7"
+    ],
+    [
+     "Am"
+    ]
+   ],
+   "endings": {
+    "1": [
+     []
+    ],
+    "2": [
+     []
+    ]
+   }
+  }
+ ],
+ "notes": [
+  "Grille générée automatiquement depuis la partition MusicXML : à vérifier.",
+  "A : première mesure sans accord"
+ ],
+ "confidence": "medium",
+ "source": [
+  "mxl/C/Elton Medeiros - Amarelinho - Theme - C.mxl"
+ ],
+ "generated": "mxl"
+}

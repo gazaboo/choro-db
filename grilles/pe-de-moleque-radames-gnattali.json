@@ -1,0 +1,215 @@
+{
+ "song_id": "pe-de-moleque-radames-gnattali",
+ "title": "Pé de Moleque",
+ "composer": "Radamés Gnattali",
+ "transposition": "c",
+ "meter": "2/4",
+ "form": "A — B — C — Coda",
+ "parts": [
+  {
+   "name": "A",
+   "tonic": "C",
+   "bars": "1–15",
+   "sequence": [
+    [
+     "B7(b9)"
+    ],
+    [
+     "G"
+    ],
+    [],
+    [
+     "G"
+    ],
+    [],
+    [
+     "Em"
+    ],
+    [],
+    [
+     "A7(9)"
+    ],
+    [],
+    [
+     "G"
+    ],
+    [],
+    [],
+    [
+     "C"
+    ],
+    [
+     "G/D"
+    ],
+    [
+     "A7(9)",
+     "F#7"
+    ]
+   ]
+  },
+  {
+   "name": "B",
+   "tonic": "Am",
+   "bars": "16–39",
+   "sequence": [
+    [
+     "G"
+    ],
+    [
+     "G",
+     "B7(b13)"
+    ],
+    [
+     "Em"
+    ],
+    [],
+    [
+     "C7(#9)"
+    ],
+    [
+     "Em"
+    ],
+    [
+     "Em6"
+    ],
+    [
+     "Bm/D",
+     "F#7(b5)"
+    ],
+    [
+     "E7(b9)"
+    ],
+    [],
+    [
+     "Em"
+    ],
+    [],
+    [
+     "C7(#11)",
+     "B7(b13)"
+    ],
+    [
+     "B7(b13)"
+    ],
+    [
+     "Am"
+    ],
+    [
+     "Em"
+    ],
+    [],
+    [],
+    [
+     "Em"
+    ],
+    [
+     "F#7(b5)"
+    ],
+    [],
+    [],
+    [
+     "Am"
+    ],
+    [
+     "Em/G"
+    ]
+   ]
+  },
+  {
+   "name": "C",
+   "tonic": "C",
+   "bars": "41–62",
+   "sequence": [
+    [
+     "Em"
+    ],
+    [
+     "Em"
+    ],
+    [
+     "G"
+    ],
+    [],
+    [
+     "C"
+    ],
+    [],
+    [],
+    [
+     "F/A"
+    ],
+    [],
+    [],
+    [],
+    [
+     "C/E"
+    ],
+    [
+     "C"
+    ],
+    [
+     "G/D"
+    ],
+    [],
+    [],
+    [
+     "F#7(b5)"
+    ],
+    [
+     "F"
+    ],
+    [
+     "Eb7(b5)"
+    ],
+    [
+     "Dm"
+    ],
+    [
+     "C#7"
+    ],
+    [
+     "F#"
+    ]
+   ]
+  },
+  {
+   "name": "Coda",
+   "tonic": "C",
+   "bars": "64–71",
+   "sequence": [
+    [
+     "C"
+    ],
+    [
+     "C"
+    ],
+    [
+     "A7(b5)",
+     "G"
+    ],
+    [
+     "Db7(b5)"
+    ],
+    [],
+    [
+     "D7(9)"
+    ],
+    [
+     "Ab7(9)"
+    ],
+    [
+     "G"
+    ]
+   ]
+  }
+ ],
+ "notes": [
+  "Grille générée automatiquement depuis le texte du PDF : à vérifier.",
+  "Reprises et fins non détectées : les mesures sont dans l'ordre d'écriture."
+ ],
+ "confidence": "low",
+ "source": [
+  "pdf/Radamés Gnattali - Pé de Moleque - Theme - C.pdf"
+ ],
+ "generated": "pdf"
+}

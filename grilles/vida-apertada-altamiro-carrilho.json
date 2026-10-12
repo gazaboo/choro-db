@@ -1,0 +1,191 @@
+{
+ "song_id": "vida-apertada-altamiro-carrilho",
+ "title": "Vida apertada",
+ "composer": "Altamiro Carrilho",
+ "transposition": "c",
+ "meter": "2/4",
+ "form": "A — B — C",
+ "parts": [
+  {
+   "name": "A",
+   "tonic": "C",
+   "bars": "1–15",
+   "sequence": [
+    [
+     "Bb6"
+    ],
+    [
+     "C7(9)"
+    ],
+    [
+     "F7"
+    ],
+    [
+     "Bb6"
+    ],
+    [],
+    [
+     "Dm"
+    ],
+    [
+     "A7"
+    ],
+    [
+     "Dm",
+     "F7"
+    ],
+    [
+     "Bb6"
+    ],
+    [
+     "C7(9)"
+    ],
+    [
+     "F7"
+    ],
+    [],
+    [],
+    [],
+    [
+     "B"
+    ]
+   ]
+  },
+  {
+   "name": "B",
+   "tonic": "C",
+   "bars": "16–32",
+   "sequence": [
+    [
+     "Bb",
+     "F7"
+    ],
+    [
+     "Bb"
+    ],
+    [
+     "Gm"
+    ],
+    [
+     "D7"
+    ],
+    [
+     "Gm"
+    ],
+    [
+     "D7"
+    ],
+    [
+     "G7"
+    ],
+    [
+     "Cm"
+    ],
+    [
+     "A7"
+    ],
+    [
+     "D7"
+    ],
+    [
+     "Gm"
+    ],
+    [
+     "D7"
+    ],
+    [
+     "Gm"
+    ],
+    [
+     "D7"
+    ],
+    [
+     "G7"
+    ],
+    [
+     "Cm"
+    ],
+    [
+     "Gm"
+    ]
+   ]
+  },
+  {
+   "name": "C",
+   "tonic": "Am",
+   "bars": "33–53",
+   "sequence": [
+    [],
+    [],
+    [
+     "Bb7"
+    ],
+    [],
+    [
+     "Eb6"
+    ],
+    [
+     "Fm"
+    ],
+    [
+     "Bb7(b9)"
+    ],
+    [
+     "Eb6"
+    ],
+    [],
+    [
+     "G6"
+    ],
+    [
+     "Am",
+     "D7"
+    ],
+    [
+     "G6",
+     "Bb7"
+    ],
+    [
+     "Eb6"
+    ],
+    [
+     "Fm"
+    ],
+    [
+     "Bb7(b9)"
+    ],
+    [
+     "Eb7(9)"
+    ],
+    [
+     "Ab6"
+    ],
+    [
+     "Eb/Bb",
+     "B7"
+    ],
+    [
+     "F7",
+     "Bb7",
+     "Eb",
+     "Bb7",
+     "Eb",
+     "F7"
+    ],
+    [],
+    [
+     "Bb6"
+    ]
+   ]
+  }
+ ],
+ "notes": [
+  "Grille générée automatiquement depuis le texte du PDF : à vérifier.",
+  "Reprises et fins non détectées : les mesures sont dans l'ordre d'écriture."
+ ],
+ "confidence": "low",
+ "source": [
+  "pdf/Altamiro Carrilho - Vida apertada - Theme - C.pdf"
+ ],
+ "generated": "pdf"
+}

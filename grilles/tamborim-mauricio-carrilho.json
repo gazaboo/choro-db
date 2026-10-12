@@ -1,0 +1,174 @@
+{
+ "song_id": "tamborim-mauricio-carrilho",
+ "title": "Tamborim",
+ "composer": "Maurício Carrilho",
+ "transposition": "c",
+ "meter": "2/4",
+ "form": "A — B — C",
+ "parts": [
+  {
+   "name": "A",
+   "tonic": "C",
+   "bars": "1–13",
+   "sequence": [
+    [
+     "F#m7(b5)",
+     "B7(b9)"
+    ],
+    [
+     "E7(#5)"
+    ],
+    [],
+    [
+     "F#m7(b5)"
+    ],
+    [
+     "Em/G"
+    ],
+    [],
+    [],
+    [],
+    [],
+    [
+     "Gm6",
+     "A/G"
+    ],
+    [],
+    [
+     "Fm6"
+    ],
+    [
+     "C6/E"
+    ]
+   ]
+  },
+  {
+   "name": "B",
+   "tonic": "C",
+   "bars": "15–31",
+   "sequence": [
+    [
+     "C6",
+     "E7(#5)"
+    ],
+    [
+     "C6",
+     "G7(9)"
+    ],
+    [
+     "C6"
+    ],
+    [],
+    [
+     "G7"
+    ],
+    [
+     "C6"
+    ],
+    [],
+    [],
+    [
+     "D7(9)"
+    ],
+    [
+     "G7(9)"
+    ],
+    [],
+    [
+     "D7(9)"
+    ],
+    [
+     "G7(9)"
+    ],
+    [
+     "C7(9)"
+    ],
+    [
+     "F6",
+     "Fm6"
+    ],
+    [
+     "C6/E"
+    ],
+    [
+     "G7(9)"
+    ]
+   ]
+  },
+  {
+   "name": "C",
+   "tonic": "C",
+   "bars": "32–52",
+   "sequence": [
+    [
+     "C6",
+     "G7(13)"
+    ],
+    [
+     "C6"
+    ],
+    [
+     "C6"
+    ],
+    [],
+    [
+     "F6"
+    ],
+    [
+     "G7(9)"
+    ],
+    [
+     "C7(9)"
+    ],
+    [
+     "F6"
+    ],
+    [],
+    [],
+    [
+     "D7(9)",
+     "D7(b9)"
+    ],
+    [
+     "G7(9)"
+    ],
+    [
+     "Gm6"
+    ],
+    [
+     "F6"
+    ],
+    [],
+    [],
+    [
+     "Bb6",
+     "Bbm6"
+    ],
+    [
+     "F/A",
+     "D7(9)"
+    ],
+    [
+     "C7(9)",
+     "F6",
+     "C7(9)",
+     "F6",
+     "E7"
+    ],
+    [],
+    [
+     "C6"
+    ]
+   ]
+  }
+ ],
+ "notes": [
+  "Grille générée automatiquement depuis le texte du PDF : à vérifier.",
+  "Reprises et fins non détectées : les mesures sont dans l'ordre d'écriture."
+ ],
+ "confidence": "low",
+ "source": [
+  "pdf/Maurício Carrilho - Tamborim - Theme - C.pdf"
+ ],
+ "generated": "pdf"
+}

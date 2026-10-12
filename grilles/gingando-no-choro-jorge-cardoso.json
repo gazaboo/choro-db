@@ -1,0 +1,279 @@
+{
+ "song_id": "gingando-no-choro-jorge-cardoso",
+ "title": "Gingando no choro",
+ "composer": "Jorge Cardoso",
+ "transposition": "c",
+ "meter": "2/4",
+ "form": "A — B (reprise) — C (reprise) — D",
+ "parts": [
+  {
+   "name": "A",
+   "tonic": "G",
+   "bars": "0–30",
+   "repeat": false,
+   "sequence": [
+    [
+     "G6"
+    ],
+    [
+     "Em7"
+    ],
+    [
+     "A7"
+    ],
+    [],
+    [
+     "D7"
+    ],
+    [
+     "D7/F#"
+    ],
+    [
+     "G"
+    ],
+    [
+     "D7"
+    ],
+    [
+     "G"
+    ],
+    [
+     "Em7"
+    ],
+    [
+     "Bm"
+    ],
+    [],
+    [
+     "F#7"
+    ],
+    [],
+    [
+     "Bm",
+     "Bbdim"
+    ],
+    [
+     "Am7",
+     "Ab7(#11)"
+    ],
+    [
+     "G"
+    ],
+    [
+     "Em7"
+    ],
+    [
+     "A7"
+    ],
+    [],
+    [
+     "F#m7b5"
+    ],
+    [
+     "B7"
+    ],
+    [
+     "Em"
+    ],
+    [
+     "G7"
+    ],
+    [
+     "C"
+    ],
+    [
+     "Cm6"
+    ],
+    [
+     "G/B"
+    ],
+    [
+     "E7"
+    ],
+    [
+     "A7"
+    ],
+    [
+     "D7"
+    ]
+   ]
+  },
+  {
+   "name": "B",
+   "tonic": "G",
+   "bars": "31–33",
+   "repeat": true,
+   "sequence": [
+    [
+     "G"
+    ]
+   ],
+   "endings": {
+    "1": [
+     [
+      "D7"
+     ]
+    ],
+    "2": [
+     [
+      "G"
+     ]
+    ]
+   }
+  },
+  {
+   "name": "C",
+   "tonic": "Em",
+   "bars": "34–X1",
+   "repeat": true,
+   "sequence": [
+    [
+     "B7"
+    ],
+    [],
+    [
+     "Em"
+    ],
+    [],
+    [
+     "E7"
+    ],
+    [],
+    [
+     "Am"
+    ],
+    [],
+    [
+     "Am"
+    ],
+    [
+     "D7"
+    ],
+    [
+     "Gmaj7"
+    ],
+    [
+     "G7"
+    ],
+    [
+     "F#7"
+    ],
+    [],
+    [
+     "Am6/C"
+    ],
+    [
+     "B7"
+    ],
+    [
+     "B7/F#"
+    ],
+    [],
+    [
+     "Em"
+    ],
+    [],
+    [
+     "E7"
+    ],
+    [],
+    [
+     "Am"
+    ],
+    [],
+    [
+     "Am"
+    ],
+    [
+     "D7"
+    ],
+    [
+     "Gmaj7"
+    ],
+    [
+     "G7"
+    ],
+    [
+     "F#7"
+    ],
+    [
+     "B7"
+    ],
+    [
+     "D7"
+    ]
+   ],
+   "endings": {
+    "1": [
+     [
+      "Em"
+     ],
+     []
+    ],
+    "2": [
+     [
+      "Em",
+      "Eb7"
+     ]
+    ]
+   }
+  },
+  {
+   "name": "D",
+   "tonic": "G",
+   "bars": "70–79",
+   "repeat": false,
+   "sequence": [
+    [
+     "C"
+    ],
+    [
+     "Cm6"
+    ],
+    [
+     "G/B"
+    ],
+    [
+     "E7"
+    ],
+    [
+     "A7"
+    ],
+    [
+     "D7"
+    ],
+    [
+     "G",
+     "G7"
+    ],
+    [
+     "C",
+     "Cm"
+    ],
+    [
+     "G",
+     "Ab"
+    ],
+    [
+     "G"
+    ]
+   ],
+   "transition_in": [
+    [
+     "G"
+    ],
+    [
+     "G7"
+    ]
+   ]
+  }
+ ],
+ "notes": [
+  "Grille générée automatiquement depuis la partition MusicXML : à vérifier."
+ ],
+ "confidence": "medium",
+ "source": [
+  "mxl/C/Jorge Cardoso - Gingando no choro - Theme - C.mxl"
+ ],
+ "generated": "mxl"
+}

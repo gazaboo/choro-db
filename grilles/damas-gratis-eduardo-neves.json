@@ -1,0 +1,166 @@
+{
+ "song_id": "damas-gratis-eduardo-neves",
+ "title": "Damas grátis",
+ "composer": "Eduardo Neves",
+ "transposition": "c",
+ "meter": "2/4",
+ "form": "A (reprise) — B — C (reprise)",
+ "parts": [
+  {
+   "name": "A",
+   "tonic": "F",
+   "bars": "0–10",
+   "repeat": true,
+   "sequence": [
+    [
+     "Gm"
+    ],
+    [
+     "C7"
+    ],
+    [
+     "F6"
+    ],
+    [
+     "Dm7"
+    ],
+    [
+     "Gm7"
+    ],
+    [
+     "C7"
+    ],
+    [
+     "D7(b13)"
+    ]
+   ],
+   "endings": {
+    "1": [
+     [
+      "F6"
+     ],
+     [
+      "Dm7"
+     ]
+    ],
+    "2": [
+     [
+      "F6"
+     ]
+    ]
+   }
+  },
+  {
+   "name": "B",
+   "tonic": "F",
+   "bars": "11–27",
+   "repeat": false,
+   "sequence": [
+    [
+     "Gm7"
+    ],
+    [
+     "C7(13)"
+    ],
+    [
+     "F6"
+    ],
+    [
+     "F#dim"
+    ],
+    [
+     "Gm7"
+    ],
+    [
+     "C7(9)"
+    ],
+    [
+     "F6"
+    ],
+    [
+     "D7(b13)"
+    ],
+    [
+     "Gm7"
+    ],
+    [
+     "C7(13)"
+    ],
+    [
+     "F6"
+    ],
+    [
+     "Dm7"
+    ],
+    [
+     "Gm7"
+    ],
+    [
+     "C7"
+    ],
+    [
+     "F6"
+    ],
+    [],
+    [
+     "F6"
+    ]
+   ]
+  },
+  {
+   "name": "C",
+   "tonic": "F",
+   "bars": "28–X2",
+   "repeat": true,
+   "sequence": [
+    [
+     "Gm"
+    ],
+    [
+     "C7"
+    ],
+    [
+     "Am7"
+    ],
+    [
+     "D7"
+    ],
+    [
+     "Gm7"
+    ],
+    [
+     "F"
+    ],
+    [
+     "Dm7"
+    ]
+   ],
+   "endings": {
+    "1": [
+     [
+      "C7"
+     ],
+     [
+      "F"
+     ],
+     [
+      "D7"
+     ]
+    ],
+    "2": [
+     [
+      "C7"
+     ]
+    ]
+   }
+  }
+ ],
+ "notes": [
+  "Grille générée automatiquement depuis la partition MusicXML : à vérifier."
+ ],
+ "confidence": "medium",
+ "source": [
+  "mxl/C/Eduardo Neves - Damas grátis - Theme - C.mxl"
+ ],
+ "generated": "mxl"
+}

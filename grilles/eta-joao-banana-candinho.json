@@ -1,0 +1,190 @@
+{
+ "song_id": "eta-joao-banana-candinho",
+ "title": "Êta, João Banana...",
+ "composer": "Candinho",
+ "transposition": "c",
+ "meter": "2/4",
+ "form": "A — B — C",
+ "parts": [
+  {
+   "name": "A",
+   "tonic": "Am",
+   "bars": "1–16",
+   "sequence": [
+    [
+     "F"
+    ],
+    [
+     "Gm"
+    ],
+    [
+     "C7"
+    ],
+    [
+     "F6"
+    ],
+    [
+     "Dm"
+    ],
+    [
+     "Am"
+    ],
+    [
+     "E7"
+    ],
+    [
+     "Am",
+     "C7"
+    ],
+    [
+     "F"
+    ],
+    [
+     "A7"
+    ],
+    [
+     "A7/C#"
+    ],
+    [
+     "Dm"
+    ],
+    [],
+    [
+     "F/C"
+    ],
+    [
+     "C7"
+    ],
+    [
+     "F"
+    ]
+   ]
+  },
+  {
+   "name": "B",
+   "tonic": "C",
+   "bars": "17–33",
+   "sequence": [
+    [],
+    [
+     "G7"
+    ],
+    [
+     "C"
+    ],
+    [
+     "G7"
+    ],
+    [
+     "C"
+    ],
+    [
+     "A7"
+    ],
+    [
+     "Dm"
+    ],
+    [
+     "G7"
+    ],
+    [
+     "C"
+    ],
+    [
+     "G7"
+    ],
+    [
+     "C"
+    ],
+    [
+     "G7"
+    ],
+    [
+     "C"
+    ],
+    [
+     "A7",
+     "A7/C#"
+    ],
+    [
+     "Dm",
+     "Fm6/Ab"
+    ],
+    [
+     "C/G",
+     "G7"
+    ],
+    [
+     "C"
+    ]
+   ]
+  },
+  {
+   "name": "C",
+   "tonic": "C",
+   "bars": "34–50",
+   "sequence": [
+    [],
+    [
+     "Bb6"
+    ],
+    [
+     "Cm"
+    ],
+    [
+     "F7"
+    ],
+    [
+     "Bb6"
+    ],
+    [
+     "Bb6"
+    ],
+    [
+     "F/A"
+    ],
+    [
+     "C7/G"
+    ],
+    [
+     "F7"
+    ],
+    [
+     "F7/A"
+    ],
+    [
+     "Bb6"
+    ],
+    [
+     "D7"
+    ],
+    [
+     "Gm"
+    ],
+    [
+     "Cm"
+    ],
+    [
+     "Bb/D",
+     "G7"
+    ],
+    [
+     "Cm",
+     "F7"
+    ],
+    [
+     "Bb6"
+    ]
+   ]
+  }
+ ],
+ "notes": [
+  "Grille générée automatiquement depuis le texte du PDF : à vérifier.",
+  "Reprises et fins non détectées : les mesures sont dans l'ordre d'écriture."
+ ],
+ "confidence": "low",
+ "source": [
+  "pdf/Candinho - Êta, João Banana... - Theme - C.pdf"
+ ],
+ "generated": "pdf"
+}

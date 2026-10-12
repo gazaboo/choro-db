@@ -1,0 +1,143 @@
+{
+ "song_id": "rebolico-luperce-miranda",
+ "title": "Reboliço",
+ "composer": "Luperce Miranda",
+ "transposition": "c",
+ "meter": "2/4",
+ "form": "A — B",
+ "parts": [
+  {
+   "name": "A",
+   "tonic": "C",
+   "bars": "1–15",
+   "sequence": [
+    [
+     "C"
+    ],
+    [
+     "B7",
+     "Bb7"
+    ],
+    [
+     "A7"
+    ],
+    [
+     "Dm"
+    ],
+    [
+     "E7"
+    ],
+    [
+     "Am"
+    ],
+    [
+     "D7(9)"
+    ],
+    [
+     "G7(9)"
+    ],
+    [
+     "C"
+    ],
+    [
+     "B7",
+     "Bb7"
+    ],
+    [
+     "A7"
+    ],
+    [
+     "Dm"
+    ],
+    [
+     "E7"
+    ],
+    [
+     "Am"
+    ],
+    [
+     "D7"
+    ]
+   ]
+  },
+  {
+   "name": "B",
+   "tonic": "C",
+   "bars": "16–34",
+   "sequence": [
+    [
+     "C",
+     "G7"
+    ],
+    [
+     "C",
+     "E7"
+    ],
+    [
+     "Am"
+    ],
+    [
+     "Dm"
+    ],
+    [
+     "E7"
+    ],
+    [
+     "Am",
+     "Bb7"
+    ],
+    [
+     "Am"
+    ],
+    [
+     "Em"
+    ],
+    [
+     "B7"
+    ],
+    [
+     "E7"
+    ],
+    [
+     "Am"
+    ],
+    [
+     "Dm"
+    ],
+    [
+     "E7"
+    ],
+    [
+     "A7"
+    ],
+    [
+     "Dm"
+    ],
+    [
+     "Am"
+    ],
+    [
+     "B7",
+     "E7"
+    ],
+    [
+     "Am",
+     "E7"
+    ],
+    [
+     "Am",
+     "G7"
+    ]
+   ]
+  }
+ ],
+ "notes": [
+  "Grille générée automatiquement depuis le texte du PDF : à vérifier.",
+  "Reprises et fins non détectées : les mesures sont dans l'ordre d'écriture."
+ ],
+ "confidence": "low",
+ "source": [
+  "pdf/Luperce Miranda - Reboliço - Theme - C - variant 1.pdf"
+ ],
+ "generated": "pdf"
+}

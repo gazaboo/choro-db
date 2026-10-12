@@ -1,0 +1,208 @@
+{
+ "song_id": "os-cinco-camaradas-avena-de-castro",
+ "title": "Os cinco camaradas",
+ "composer": "Avena de Castro",
+ "transposition": "c",
+ "meter": "2/4",
+ "form": "A (reprise) — B (reprise) — C (reprise)",
+ "parts": [
+  {
+   "name": "A",
+   "tonic": "Dm",
+   "bars": "1–16",
+   "repeat": true,
+   "sequence": [
+    [
+     "Dm"
+    ],
+    [
+     "A7"
+    ],
+    [
+     "Cm",
+     "D7"
+    ],
+    [
+     "G7"
+    ],
+    [
+     "C7"
+    ],
+    [
+     "F",
+     "Dm"
+    ],
+    [
+     "A",
+     "E7"
+    ],
+    [
+     "A",
+     "C7"
+    ],
+    [
+     "F",
+     "Dm"
+    ],
+    [
+     "A7"
+    ],
+    [
+     "Eb7",
+     "D7"
+    ],
+    [
+     "Gm"
+    ],
+    [
+     "E7",
+     "A7"
+    ],
+    [
+     "Dm",
+     "F7"
+    ],
+    [
+     "Bb",
+     "A7"
+    ],
+    [
+     "Dm"
+    ]
+   ]
+  },
+  {
+   "name": "B",
+   "tonic": "F",
+   "bars": "17–33",
+   "repeat": true,
+   "sequence": [
+    [
+     "F"
+    ],
+    [
+     "C7"
+    ],
+    [
+     "C7"
+    ],
+    [
+     "F"
+    ],
+    [
+     "A7"
+    ],
+    [
+     "Dm"
+    ],
+    [
+     "G7"
+    ],
+    [
+     "C7"
+    ],
+    [
+     "Eb7",
+     "D7"
+    ],
+    [
+     "Gm"
+    ],
+    [
+     "C7"
+    ],
+    [
+     "F"
+    ],
+    [
+     "Fdim"
+    ],
+    [
+     "F"
+    ],
+    [
+     "Gm",
+     "C7"
+    ],
+    [
+     "F"
+    ],
+    []
+   ]
+  },
+  {
+   "name": "C",
+   "tonic": "Bb",
+   "bars": "35–51",
+   "repeat": true,
+   "sequence": [
+    [
+     "Bb"
+    ],
+    [
+     "F7"
+    ],
+    [
+     "Fm",
+     "Bb7"
+    ],
+    [
+     "Eb"
+    ],
+    [
+     "Gb7"
+    ],
+    [
+     "Bb"
+    ],
+    [
+     "D",
+     "A7"
+    ],
+    [
+     "D",
+     "F7"
+    ],
+    [
+     "Bb"
+    ],
+    [
+     "Bb7"
+    ],
+    [
+     "Bb7"
+    ],
+    [
+     "Eb"
+    ],
+    [
+     "Gb7"
+    ],
+    [
+     "Bb"
+    ],
+    [
+     "C7",
+     "F7"
+    ],
+    [
+     "Bb"
+    ],
+    []
+   ],
+   "transition_in": [
+    [
+     "Dm"
+    ]
+   ]
+  }
+ ],
+ "notes": [
+  "Grille générée automatiquement depuis la partition MusicXML : à vérifier."
+ ],
+ "confidence": "medium",
+ "source": [
+  "mxl/C/Avena de Castro - Os cinco camaradas - Theme - C.mxl"
+ ],
+ "generated": "mxl"
+}

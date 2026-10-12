@@ -1,0 +1,220 @@
+{
+ "song_id": "guaracy-altamiro-carrilho",
+ "title": "Guaracy",
+ "composer": "Altamiro Carrilho",
+ "transposition": "c",
+ "meter": "3/4",
+ "form": "A — B (reprise)",
+ "parts": [
+  {
+   "name": "A",
+   "tonic": "F",
+   "bars": "0–32",
+   "repeat": false,
+   "sequence": [
+    [
+     "F"
+    ],
+    [
+     "Am/E"
+    ],
+    [
+     "Cm6/Eb"
+    ],
+    [
+     "D7"
+    ],
+    [
+     "Gm"
+    ],
+    [
+     "Bbm"
+    ],
+    [
+     "Eb7"
+    ],
+    [],
+    [
+     "Bbm7"
+    ],
+    [
+     "Eb7"
+    ],
+    [
+     "Ab"
+    ],
+    [
+     "Db7"
+    ],
+    [
+     "Gb"
+    ],
+    [
+     "C7"
+    ],
+    [
+     "F"
+    ],
+    [],
+    [
+     "F"
+    ],
+    [
+     "Am/E"
+    ],
+    [
+     "Cm6/Eb"
+    ],
+    [
+     "D7"
+    ],
+    [
+     "Gm"
+    ],
+    [
+     "Bbm"
+    ],
+    [
+     "Eb7"
+    ],
+    [],
+    [
+     "Bbm7"
+    ],
+    [
+     "Eb7"
+    ],
+    [
+     "Ab"
+    ],
+    [
+     "Db7"
+    ],
+    [
+     "Gb"
+    ],
+    [
+     "C7"
+    ],
+    [
+     "F"
+    ],
+    []
+   ]
+  },
+  {
+   "name": "B",
+   "tonic": "F",
+   "bars": "33–66",
+   "repeat": true,
+   "sequence": [
+    [
+     "Gm"
+    ],
+    [
+     "C7"
+    ],
+    [
+     "F/A"
+    ],
+    [
+     "Abdim"
+    ],
+    [
+     "Gm"
+    ],
+    [
+     "C7"
+    ],
+    [
+     "F"
+    ],
+    [],
+    [
+     "Ebm6"
+    ],
+    [
+     "C7"
+    ],
+    [
+     "F"
+    ],
+    [
+     "E7"
+    ],
+    [
+     "Am"
+    ],
+    [
+     "G7"
+    ],
+    [
+     "C7"
+    ],
+    [],
+    [
+     "Gm"
+    ],
+    [
+     "C7"
+    ],
+    [
+     "F/A"
+    ],
+    [
+     "Abdim"
+    ],
+    [
+     "Gm"
+    ],
+    [
+     "C7"
+    ],
+    [
+     "F"
+    ],
+    [
+     "F7"
+    ],
+    [
+     "Bbm"
+    ],
+    [
+     "Eb7"
+    ],
+    [
+     "Ab"
+    ],
+    [
+     "Bbm"
+    ],
+    [
+     "F/A"
+    ],
+    [
+     "C7"
+    ],
+    [
+     "F"
+    ],
+    []
+   ],
+   "endings": {
+    "1": [
+     []
+    ],
+    "2": [
+     []
+    ]
+   }
+  }
+ ],
+ "notes": [
+  "Grille générée automatiquement depuis la partition MusicXML : à vérifier."
+ ],
+ "confidence": "medium",
+ "source": [
+  "mxl/C/Altamiro Carrilho - Guaracy - Theme - C.mxl"
+ ],
+ "generated": "mxl"
+}

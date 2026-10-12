@@ -1,0 +1,215 @@
+{
+ "song_id": "lampiao-do-paraty-gabriel-trucco",
+ "title": "Lampião do Paraty",
+ "composer": "Gabriel Trucco",
+ "transposition": "c",
+ "meter": "2/4",
+ "form": "A (reprise) — B (reprise) — C (reprise)",
+ "parts": [
+  {
+   "name": "A",
+   "tonic": "D",
+   "bars": "1–17",
+   "repeat": true,
+   "sequence": [
+    [
+     "D6"
+    ],
+    [
+     "E/D"
+    ],
+    [
+     "Gm6/D"
+    ],
+    [
+     "D6"
+    ],
+    [
+     "Bm6"
+    ],
+    [
+     "C#/B"
+    ],
+    [
+     "F#7/A#"
+    ],
+    [
+     "B/A"
+    ],
+    [
+     "Em6/G"
+    ],
+    [
+     "A7(9)/G"
+    ],
+    [
+     "D6/F#"
+    ],
+    [
+     "G7(9)/G"
+    ],
+    [
+     "C6/E"
+    ],
+    [
+     "Eb7",
+     "Eb/Db"
+    ],
+    [
+     "Fm/C",
+     "B7"
+    ],
+    [
+     "E7/B",
+     "A7"
+    ],
+    [
+     "D6"
+    ]
+   ]
+  },
+  {
+   "name": "B",
+   "tonic": "Bm",
+   "bars": "18–X1",
+   "repeat": true,
+   "sequence": [
+    [
+     "Bm(maj7)",
+     "Bm7"
+    ],
+    [
+     "C/B"
+    ],
+    [
+     "F#7/B"
+    ],
+    [
+     "Bm6"
+    ],
+    [
+     "Gm7",
+     "C7"
+    ],
+    [
+     "F6"
+    ],
+    [
+     "E7",
+     "Fdim"
+    ],
+    [
+     "F#7"
+    ],
+    [
+     "Bm(maj7)",
+     "Bm7"
+    ],
+    [
+     "C/B"
+    ],
+    [
+     "F#7"
+    ],
+    [
+     "Bm6"
+    ],
+    [
+     "B7"
+    ],
+    [
+     "Em7",
+     "C#7"
+    ],
+    [
+     "F#7(b13)"
+    ],
+    [
+     "Bm6"
+    ]
+   ]
+  },
+  {
+   "name": "C",
+   "tonic": "G",
+   "bars": "34–51",
+   "repeat": true,
+   "sequence": [
+    [
+     "G6"
+    ],
+    [
+     "F#7"
+    ],
+    [
+     "F7"
+    ],
+    [
+     "E7"
+    ],
+    [
+     "Eb7"
+    ],
+    [
+     "Abmaj7"
+    ],
+    [
+     "Am7"
+    ],
+    [
+     "D7"
+    ],
+    [
+     "G6"
+    ],
+    [
+     "F#7"
+    ],
+    [
+     "F7"
+    ],
+    [
+     "E7",
+     "Am"
+    ],
+    [
+     "Bbdim",
+     "C#dim"
+    ],
+    [
+     "G6",
+     "Eb7"
+    ],
+    [
+     "Abmaj7",
+     "D7"
+    ],
+    []
+   ],
+   "endings": {
+    "1": [
+     [
+      "G",
+      "D7",
+      "G"
+     ]
+    ],
+    "2": [
+     [
+      "G",
+      "D7",
+      "G"
+     ]
+    ]
+   }
+  }
+ ],
+ "notes": [
+  "Grille générée automatiquement depuis la partition MusicXML : à vérifier."
+ ],
+ "confidence": "medium",
+ "source": [
+  "mxl/C/Gabriel Trucco - Lampião do Paraty - Theme - C.mxl"
+ ],
+ "generated": "mxl"
+}

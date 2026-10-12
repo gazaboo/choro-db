@@ -1,0 +1,236 @@
+{
+ "song_id": "emotivo-gabriel-trucco",
+ "title": "Emotivo",
+ "composer": "Gabriel Trucco",
+ "transposition": "c",
+ "meter": "2/4",
+ "form": "A (reprise) — B (reprise) — C (reprise) — Coda",
+ "parts": [
+  {
+   "name": "A",
+   "tonic": "G",
+   "bars": "1–17",
+   "repeat": true,
+   "sequence": [
+    [
+     "Em"
+    ],
+    [
+     "Bm7/D"
+    ],
+    [
+     "Am6/C"
+    ],
+    [
+     "E7/B"
+    ],
+    [
+     "Gm6/Bb",
+     "A7(b13)"
+    ],
+    [
+     "Fm6/Ab"
+    ],
+    [
+     "G7"
+    ],
+    [
+     "F#m7/B"
+    ],
+    [
+     "F7(#11)"
+    ],
+    [
+     "Em7"
+    ],
+    [
+     "Eb/Db"
+    ],
+    [
+     "Ab/C"
+    ],
+    [
+     "B6"
+    ],
+    [
+     "E6"
+    ],
+    [
+     "F#m7b5",
+     "B7"
+    ]
+   ],
+   "endings": {
+    "1": [
+     [
+      "Em"
+     ]
+    ],
+    "2": [
+     [
+      "Em",
+      "D7"
+     ]
+    ]
+   }
+  },
+  {
+   "name": "B",
+   "tonic": "Em",
+   "bars": "18–35",
+   "repeat": true,
+   "sequence": [
+    [
+     "G6"
+    ],
+    [
+     "A/G"
+    ],
+    [
+     "Cm6/G"
+    ],
+    [
+     "G6"
+    ],
+    [
+     "Em7"
+    ],
+    [
+     "Bm7"
+    ],
+    [
+     "Bbm7"
+    ],
+    [
+     "Am7",
+     "D7(b9)"
+    ],
+    [
+     "G6"
+    ],
+    [
+     "A/G"
+    ],
+    [
+     "Cm6/G"
+    ],
+    [
+     "G6",
+     "G7"
+    ],
+    [
+     "C",
+     "Eb7"
+    ],
+    [
+     "Abmaj7"
+    ],
+    [
+     "D7"
+    ],
+    [
+     "Em"
+    ]
+   ],
+   "endings": {
+    "1": [
+     [
+      "G6"
+     ]
+    ],
+    "2": [
+     [
+      "G6",
+      "B7"
+     ]
+    ]
+   }
+  },
+  {
+   "name": "C",
+   "tonic": "E",
+   "bars": "36–53",
+   "repeat": true,
+   "sequence": [
+    [
+     "E6"
+    ],
+    [
+     "A6"
+    ],
+    [
+     "Am7"
+    ],
+    [
+     "E6(9)"
+    ],
+    [],
+    [
+     "D#m7b5"
+    ],
+    [
+     "G#7"
+    ],
+    [
+     "C#m7",
+     "C7"
+    ],
+    [
+     "Bm7",
+     "E7"
+    ],
+    [
+     "A6"
+    ],
+    [
+     "C7"
+    ],
+    [
+     "E6"
+    ],
+    [
+     "C#m7"
+    ],
+    [
+     "Am(maj7)"
+    ],
+    [
+     "B7"
+    ],
+    []
+   ],
+   "endings": {
+    "1": [
+     [
+      "E6"
+     ]
+    ],
+    "2": [
+     [
+      "E6",
+      "B7"
+     ]
+    ]
+   }
+  },
+  {
+   "name": "Coda",
+   "tonic": "Em",
+   "bars": "54–54",
+   "repeat": false,
+   "sequence": [
+    [
+     "Em"
+    ]
+   ]
+  }
+ ],
+ "notes": [
+  "Grille générée automatiquement depuis la partition MusicXML : à vérifier."
+ ],
+ "confidence": "medium",
+ "source": [
+  "mxl/C/Gabriel Trucco - Emotivo - Theme - C.mxl"
+ ],
+ "generated": "mxl"
+}

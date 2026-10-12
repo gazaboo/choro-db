@@ -1,0 +1,241 @@
+{
+ "song_id": "puxa-puxa-garoto",
+ "title": "Puxa puxa",
+ "composer": "Garoto",
+ "transposition": "c",
+ "meter": "2/4",
+ "form": "A (reprise) — B (reprise) — C (reprise) — Coda",
+ "parts": [
+  {
+   "name": "A",
+   "tonic": "Am",
+   "bars": "0–17",
+   "repeat": true,
+   "sequence": [
+    [
+     "C6"
+    ],
+    [],
+    [
+     "C6",
+     "A7"
+    ],
+    [
+     "Dm7"
+    ],
+    [
+     "Dm"
+    ],
+    [],
+    [
+     "G7"
+    ],
+    [
+     "C"
+    ],
+    [
+     "C6"
+    ],
+    [],
+    [
+     "Gm7",
+     "C7"
+    ],
+    [
+     "F"
+    ],
+    [
+     "F#dim"
+    ],
+    [
+     "C/G",
+     "A7"
+    ],
+    [
+     "D7",
+     "G7"
+    ]
+   ],
+   "endings": {
+    "1": [
+     [
+      "C"
+     ]
+    ],
+    "2": [
+     [
+      "C",
+      "E7"
+     ]
+    ]
+   }
+  },
+  {
+   "name": "B",
+   "tonic": "Am",
+   "bars": "18–35",
+   "repeat": true,
+   "sequence": [
+    [
+     "Am",
+     "Am/G"
+    ],
+    [
+     "F#dim",
+     "F7"
+    ],
+    [
+     "Am/E",
+     "Ebdim"
+    ],
+    [
+     "Dm7",
+     "Dm6"
+    ],
+    [
+     "Gm6",
+     "A7"
+    ],
+    [
+     "Dm7"
+    ],
+    [
+     "F7"
+    ],
+    [
+     "E7"
+    ],
+    [
+     "Am",
+     "Am/G"
+    ],
+    [
+     "F#dim",
+     "F7"
+    ],
+    [
+     "Am/E",
+     "Ebdim"
+    ],
+    [
+     "Dm7",
+     "Dm6"
+    ],
+    [
+     "Bb7"
+    ],
+    [
+     "Eb"
+    ],
+    [
+     "E7"
+    ],
+    [
+     "C"
+    ]
+   ],
+   "endings": {
+    "1": [
+     [
+      "Am"
+     ]
+    ],
+    "2": [
+     [
+      "Am"
+     ]
+    ]
+   }
+  },
+  {
+   "name": "C",
+   "tonic": "F",
+   "bars": "36–X2",
+   "repeat": true,
+   "sequence": [
+    [
+     "F6"
+    ],
+    [],
+    [],
+    [
+     "Gm7"
+    ],
+    [
+     "C7"
+    ],
+    [],
+    [],
+    [
+     "F6"
+    ],
+    [],
+    [],
+    [
+     "Cm7",
+     "F7"
+    ],
+    [
+     "Bb6"
+    ],
+    [
+     "Eb7"
+    ],
+    [
+     "Ab7",
+     "Db7"
+    ],
+    [
+     "Gb7",
+     "C7"
+    ]
+   ],
+   "endings": {
+    "1": [
+     [
+      "F6",
+      "C7"
+     ]
+    ],
+    "2": [
+     [
+      "F6",
+      "G7"
+     ]
+    ]
+   }
+  },
+  {
+   "name": "Coda",
+   "tonic": "C",
+   "bars": "53–57",
+   "repeat": false,
+   "sequence": [
+    [
+     "C"
+    ],
+    [
+     "F#dim"
+    ],
+    [
+     "D#dim"
+    ],
+    [
+     "Dm7",
+     "G7(13)"
+    ],
+    [
+     "C7(9)"
+    ]
+   ]
+  }
+ ],
+ "notes": [
+  "Grille générée automatiquement depuis la partition MusicXML : à vérifier."
+ ],
+ "confidence": "medium",
+ "source": [
+  "mxl/C/Garoto - Puxa puxa - Theme - C.mxl"
+ ],
+ "generated": "mxl"
+}

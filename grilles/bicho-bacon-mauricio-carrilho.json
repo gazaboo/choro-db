@@ -1,0 +1,203 @@
+{
+ "song_id": "bicho-bacon-mauricio-carrilho",
+ "title": "Bicho bacon",
+ "composer": "Maurício Carrilho",
+ "transposition": "c",
+ "meter": "2/4",
+ "form": "A (reprise) — B (reprise) — C (reprise)",
+ "parts": [
+  {
+   "name": "A",
+   "tonic": "G",
+   "bars": "1–16",
+   "repeat": true,
+   "sequence": [
+    [
+     "G6",
+     "B7"
+    ],
+    [
+     "C",
+     "D7"
+    ],
+    [
+     "G6"
+    ],
+    [
+     "E7"
+    ],
+    [
+     "Am",
+     "B7"
+    ],
+    [
+     "Em",
+     "F#7"
+    ],
+    [
+     "B7",
+     "F#7"
+    ],
+    [
+     "B7",
+     "Am6"
+    ],
+    [
+     "G6",
+     "B7"
+    ],
+    [
+     "C",
+     "D7"
+    ],
+    [
+     "G7"
+    ],
+    [
+     "C6(9)"
+    ],
+    [
+     "Eb/Bb"
+    ],
+    [
+     "G6",
+     "E7"
+    ],
+    [
+     "A7",
+     "D7"
+    ],
+    [
+     "G6"
+    ]
+   ]
+  },
+  {
+   "name": "B",
+   "tonic": "Em",
+   "bars": "17–X1",
+   "repeat": true,
+   "sequence": [
+    [
+     "Em"
+    ],
+    [
+     "B7"
+    ],
+    [
+     "E7"
+    ],
+    [
+     "A7"
+    ],
+    [
+     "F#m7b5",
+     "B7"
+    ],
+    [
+     "Em",
+     "C#m7b5"
+    ],
+    [
+     "Bm",
+     "F#7"
+    ],
+    [
+     "B7"
+    ],
+    [
+     "E7"
+    ],
+    [
+     "A7"
+    ],
+    [
+     "D7(b9)"
+    ],
+    [
+     "G7(9)"
+    ],
+    [
+     "Am/G"
+    ],
+    [
+     "Em7"
+    ],
+    [
+     "Eb7",
+     "B7"
+    ],
+    [
+     "Em"
+    ]
+   ]
+  },
+  {
+   "name": "C",
+   "tonic": "C",
+   "bars": "33–49",
+   "repeat": true,
+   "sequence": [
+    [
+     "C"
+    ],
+    [
+     "G/B"
+    ],
+    [
+     "F/A"
+    ],
+    [
+     "E7"
+    ],
+    [
+     "A7(b9)"
+    ],
+    [
+     "Dm"
+    ],
+    [
+     "D7/F#"
+    ],
+    [
+     "G7(9)"
+    ],
+    [
+     "Cm"
+    ],
+    [
+     "Bb7"
+    ],
+    [
+     "Ab7"
+    ],
+    [
+     "G7"
+    ],
+    [
+     "C7(b9)"
+    ],
+    [
+     "Fm",
+     "Dm7b5"
+    ],
+    [
+     "Cm/G",
+     "G7(b9)"
+    ],
+    [
+     "Cm"
+    ],
+    []
+   ]
+  }
+ ],
+ "notes": [
+  "Grille générée automatiquement depuis la partition MusicXML : à vérifier."
+ ],
+ "confidence": "medium",
+ "source": [
+  "mxl/C/Maurício Carrilho - Bicho bacon - Theme - C.mxl"
+ ],
+ "generated": "mxl"
+}

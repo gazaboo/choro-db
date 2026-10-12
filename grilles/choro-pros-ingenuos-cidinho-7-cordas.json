@@ -1,0 +1,266 @@
+{
+ "song_id": "choro-pros-ingenuos-cidinho-7-cordas",
+ "title": "Choro pros Ingênuos",
+ "composer": "Cidinho 7 Cordas",
+ "transposition": "c",
+ "meter": "2/4",
+ "form": "A (reprise) — B (reprise)",
+ "parts": [
+  {
+   "name": "A",
+   "tonic": "F",
+   "bars": "0–35",
+   "repeat": true,
+   "sequence": [
+    [],
+    [
+     "F",
+     "Am/E"
+    ],
+    [
+     "Dm"
+    ],
+    [
+     "Abm7"
+    ],
+    [
+     "Gm7",
+     "Gb7"
+    ],
+    [
+     "F",
+     "Am/E"
+    ],
+    [
+     "Dm"
+    ],
+    [
+     "Cm6/Eb"
+    ],
+    [
+     "D7"
+    ],
+    [
+     "Gm"
+    ],
+    [
+     "A7/C#"
+    ],
+    [
+     "Dm",
+     "Dm/C"
+    ],
+    [
+     "Bm7b5",
+     "E7/G#"
+    ],
+    [
+     "A",
+     "F#m7"
+    ],
+    [
+     "Bm",
+     "E7"
+    ],
+    [
+     "A",
+     "F#dim"
+    ],
+    [
+     "Gm",
+     "Bbm6"
+    ],
+    [
+     "F",
+     "Am/E"
+    ],
+    [
+     "Dm"
+    ],
+    [
+     "Abm7"
+    ],
+    [
+     "Gm7",
+     "Gb7"
+    ],
+    [
+     "F",
+     "Am/E"
+    ],
+    [
+     "Dm"
+    ],
+    [
+     "Cm6/Eb"
+    ],
+    [
+     "D7"
+    ],
+    [
+     "Gm"
+    ],
+    [
+     "Bbm7"
+    ],
+    [
+     "F/A"
+    ],
+    [
+     "Abm7"
+    ],
+    [
+     "Gm7"
+    ],
+    [
+     "Bbm7",
+     "C7"
+    ],
+    []
+   ],
+   "endings": {
+    "1": [
+     [
+      "F",
+      "Abm7"
+     ],
+     [
+      "Gm7",
+      "Gb7"
+     ]
+    ],
+    "2": [
+     [
+      "F"
+     ]
+    ]
+   }
+  },
+  {
+   "name": "B",
+   "tonic": "Dm",
+   "bars": "36–X1",
+   "repeat": true,
+   "sequence": [
+    [
+     "Dm"
+    ],
+    [
+     "Dm",
+     "Dm/C"
+    ],
+    [
+     "Bdim"
+    ],
+    [
+     "E7/G#"
+    ],
+    [
+     "Gm6"
+    ],
+    [
+     "A7"
+    ],
+    [
+     "Dm"
+    ],
+    [
+     "Dm/F"
+    ],
+    [
+     "D7/F#",
+     "Eb7"
+    ],
+    [
+     "D7"
+    ],
+    [
+     "Gm",
+     "D7/F#"
+    ],
+    [
+     "Gm"
+    ],
+    [
+     "E7/G#"
+    ],
+    [
+     "E7"
+    ],
+    [
+     "Gm6/Bb"
+    ],
+    [
+     "A7"
+    ],
+    [
+     "Dm"
+    ],
+    [
+     "Dm",
+     "Dm/C"
+    ],
+    [
+     "Bdim"
+    ],
+    [
+     "E7/G#"
+    ],
+    [
+     "Gm6"
+    ],
+    [
+     "A7"
+    ],
+    [
+     "Cm6/Eb"
+    ],
+    [
+     "D7/F#"
+    ],
+    [
+     "Gm"
+    ],
+    [
+     "Em7b5"
+    ],
+    [
+     "Dm"
+    ],
+    [
+     "Dm/F"
+    ],
+    [
+     "Gm6"
+    ],
+    [
+     "G#dim",
+     "A7"
+    ],
+    []
+   ],
+   "endings": {
+    "1": [
+     [
+      "Dm"
+     ],
+     []
+    ],
+    "2": [
+     [
+      "Dm"
+     ]
+    ]
+   }
+  }
+ ],
+ "notes": [
+  "Grille générée automatiquement depuis la partition MusicXML : à vérifier.",
+  "A : première mesure sans accord"
+ ],
+ "confidence": "medium",
+ "source": [
+  "mxl/C/Cidinho 7 Cordas - Choro pros Ingênuos - Theme - C.mxl"
+ ],
+ "generated": "mxl"
+}

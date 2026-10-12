@@ -1,0 +1,146 @@
+{
+ "song_id": "sinuosa-mauricio-carrilho",
+ "title": "Sinuosa",
+ "composer": "Maurício Carrilho",
+ "transposition": "c",
+ "meter": "2/4",
+ "form": "A — B — Coda",
+ "parts": [
+  {
+   "name": "A",
+   "tonic": "C",
+   "bars": "1–15",
+   "sequence": [
+    [
+     "G",
+     "G7"
+    ],
+    [
+     "C/G",
+     "Cm6/G"
+    ],
+    [],
+    [
+     "F#47",
+     "F#7"
+    ],
+    [],
+    [
+     "Em6/B"
+    ],
+    [
+     "F#m6/A"
+    ],
+    [
+     "G#4",
+     "Bb7(b9)",
+     "G#7(b9)"
+    ],
+    [
+     "Em6/G",
+     "Ab/Eb"
+    ],
+    [
+     "Eb7/G"
+    ],
+    [
+     "Abm7",
+     "D7(b9)"
+    ],
+    [
+     "Bb4"
+    ],
+    [],
+    [
+     "Abm6/Eb"
+    ],
+    [
+     "D4"
+    ]
+   ]
+  },
+  {
+   "name": "B",
+   "tonic": "C",
+   "bars": "16–32",
+   "sequence": [
+    [],
+    [],
+    [],
+    [
+     "Cm6/G"
+    ],
+    [
+     "Bb/F"
+    ],
+    [
+     "C#4",
+     "A7/E",
+     "C#7(b9)"
+    ],
+    [],
+    [
+     "A7(9)/D"
+    ],
+    [
+     "D6"
+    ],
+    [],
+    [
+     "F#m7"
+    ],
+    [
+     "Dm6/F"
+    ],
+    [
+     "A6/E",
+     "D7(b9)"
+    ],
+    [
+     "Eb7(#9)"
+    ],
+    [
+     "D7(b9)"
+    ],
+    [
+     "C#7(b9)"
+    ],
+    [
+     "F#m7"
+    ]
+   ]
+  },
+  {
+   "name": "Coda",
+   "tonic": "C",
+   "bars": "34–39",
+   "sequence": [
+    [],
+    [
+     "Gm"
+    ],
+    [
+     "Cm6"
+    ],
+    [
+     "Gm"
+    ],
+    [
+     "Cm6"
+    ],
+    [
+     "Gm"
+    ]
+   ]
+  }
+ ],
+ "notes": [
+  "Grille générée automatiquement depuis le texte du PDF : à vérifier.",
+  "Reprises et fins non détectées : les mesures sont dans l'ordre d'écriture."
+ ],
+ "confidence": "low",
+ "source": [
+  "pdf/Maurício Carrilho - Sinuosa - Theme - C.pdf"
+ ],
+ "generated": "pdf"
+}

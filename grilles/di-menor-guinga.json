@@ -1,0 +1,155 @@
+{
+ "song_id": "di-menor-guinga",
+ "title": "Di Menor",
+ "composer": "Guinga",
+ "transposition": "c",
+ "meter": "2/4",
+ "form": "A (reprise) — B",
+ "parts": [
+  {
+   "name": "A",
+   "tonic": "Dm",
+   "bars": "0–21",
+   "repeat": true,
+   "sequence": [
+    [],
+    [
+     "E7/B"
+    ],
+    [
+     "Gm6/Bb"
+    ],
+    [
+     "Dm/A"
+    ],
+    [
+     "Dm7"
+    ],
+    [
+     "E7/B"
+    ],
+    [
+     "Gm6/Bb"
+    ],
+    [
+     "Dm/A"
+    ],
+    [
+     "Dm7"
+    ],
+    [
+     "Cm6"
+    ],
+    [
+     "F#dim"
+    ],
+    [
+     "Gm",
+     "Gm(maj7)"
+    ],
+    [
+     "Gm7",
+     "Gm(maj7)"
+    ],
+    [
+     "Gm"
+    ],
+    [
+     "E7(#5)"
+    ],
+    [
+     "Bm7(11)"
+    ],
+    [
+     "Bb7(#11)"
+    ],
+    [
+     "Gm6/Bb"
+    ],
+    [
+     "A7(b5)",
+     "A7(b9,b13)"
+    ]
+   ],
+   "endings": {
+    "1": [
+     [
+      "Dm7(9)"
+     ]
+    ],
+    "2": [
+     [
+      "Dm7(9)"
+     ]
+    ]
+   }
+  },
+  {
+   "name": "B",
+   "tonic": "F",
+   "bars": "22–44",
+   "repeat": false,
+   "sequence": [
+    [],
+    [
+     "Em7b5"
+    ],
+    [
+     "A7(b9)"
+    ],
+    [
+     "A7(b9)"
+    ],
+    [
+     "A7(#9)"
+    ],
+    [
+     "A7(b9)/D"
+    ],
+    [],
+    [],
+    [],
+    [
+     "A/Bb"
+    ],
+    [],
+    [],
+    [],
+    [
+     "Eb7(9,#11)"
+    ],
+    [],
+    [
+     "C/Db",
+     "B/C",
+     "Bb/Cb"
+    ],
+    [
+     "A/Bb",
+     "Gb/G",
+     "A7(b5)"
+    ],
+    [],
+    [
+     "A7(b5)",
+     "D7(b5)/A",
+     "G7(b5)/A"
+    ],
+    [],
+    [],
+    [],
+    []
+   ]
+  }
+ ],
+ "notes": [
+  "Grille générée automatiquement depuis la partition MusicXML : à vérifier.",
+  "A : première mesure sans accord",
+  "B : première mesure sans accord"
+ ],
+ "confidence": "medium",
+ "source": [
+  "mxl/C/Guinga - Di Menor - Theme - C.mxl"
+ ],
+ "generated": "mxl"
+}

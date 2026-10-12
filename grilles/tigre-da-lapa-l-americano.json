@@ -1,0 +1,162 @@
+{
+ "song_id": "tigre-da-lapa-l-americano",
+ "title": "Tigre Da Lapa",
+ "composer": "L Americano",
+ "transposition": "c",
+ "meter": "2/4",
+ "form": "A — B — C",
+ "parts": [
+  {
+   "name": "A",
+   "tonic": "C",
+   "bars": "1–9",
+   "sequence": [
+    [
+     "F",
+     "D7"
+    ],
+    [
+     "Gm7",
+     "C7"
+    ],
+    [
+     "F"
+    ],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [
+     "F",
+     "D7"
+    ]
+   ]
+  },
+  {
+   "name": "B",
+   "tonic": "C",
+   "bars": "11–27",
+   "sequence": [
+    [
+     "F"
+    ],
+    [
+     "F"
+    ],
+    [
+     "A7"
+    ],
+    [
+     "Dm"
+    ],
+    [
+     "D7"
+    ],
+    [
+     "Gm"
+    ],
+    [
+     "Gm",
+     "A7"
+    ],
+    [
+     "Dm"
+    ],
+    [
+     "E7"
+    ],
+    [
+     "A7"
+    ],
+    [
+     "A7"
+    ],
+    [
+     "Dm"
+    ],
+    [
+     "D7"
+    ],
+    [
+     "Gm"
+    ],
+    [
+     "Gm",
+     "A7"
+    ],
+    [
+     "Dm"
+    ],
+    [
+     "E7",
+     "A7"
+    ]
+   ]
+  },
+  {
+   "name": "C",
+   "tonic": "C",
+   "bars": "28–43",
+   "sequence": [
+    [
+     "Dm"
+    ],
+    [
+     "Dm"
+    ],
+    [],
+    [],
+    [
+     "Bb"
+    ],
+    [
+     "Bb6"
+    ],
+    [
+     "Bb"
+    ],
+    [
+     "Cm"
+    ],
+    [
+     "D7"
+    ],
+    [
+     "Gm"
+    ],
+    [
+     "C7"
+    ],
+    [
+     "F7"
+    ],
+    [
+     "F7"
+    ],
+    [
+     "Bb"
+    ],
+    [
+     "Bb7"
+    ],
+    [
+     "Eb",
+     "Bb/F",
+     "G7",
+     "C7",
+     "F7"
+    ]
+   ]
+  }
+ ],
+ "notes": [
+  "Grille générée automatiquement depuis le texte du PDF : à vérifier.",
+  "Reprises et fins non détectées : les mesures sont dans l'ordre d'écriture."
+ ],
+ "confidence": "low",
+ "source": [
+  "pdf/L Americano - Tigre Da Lapa - Theme - C - variant 1.pdf"
+ ],
+ "generated": "pdf"
+}

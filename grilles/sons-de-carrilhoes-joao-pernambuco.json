@@ -1,0 +1,117 @@
+{
+ "song_id": "sons-de-carrilhoes-joao-pernambuco",
+ "title": "Sons De Carrilhões",
+ "composer": "João Pernambuco",
+ "transposition": "c",
+ "meter": "2/4",
+ "form": "A — B",
+ "parts": [
+  {
+   "name": "A",
+   "tonic": "C",
+   "bars": "1–13",
+   "sequence": [
+    [
+     "A7"
+    ],
+    [
+     "D6"
+    ],
+    [
+     "D"
+    ],
+    [
+     "Em"
+    ],
+    [
+     "A7"
+    ],
+    [
+     "D"
+    ],
+    [],
+    [
+     "Em"
+    ],
+    [
+     "A7"
+    ],
+    [
+     "D"
+    ],
+    [],
+    [
+     "Em",
+     "Gm6"
+    ],
+    [
+     "D"
+    ]
+   ]
+  },
+  {
+   "name": "B",
+   "tonic": "Am",
+   "bars": "14–32",
+   "sequence": [
+    [
+     "D"
+    ],
+    [
+     "D"
+    ],
+    [],
+    [
+     "G"
+    ],
+    [],
+    [
+     "A7"
+    ],
+    [],
+    [],
+    [
+     "D",
+     "Am",
+     "B7"
+    ],
+    [
+     "E7",
+     "D7",
+     "G"
+    ],
+    [
+     "D7"
+    ],
+    [
+     "G"
+    ],
+    [],
+    [],
+    [],
+    [
+     "E7"
+    ],
+    [
+     "Am",
+     "Cm6/Eb"
+    ],
+    [
+     "G/D"
+    ],
+    [
+     "G"
+    ]
+   ]
+  }
+ ],
+ "notes": [
+  "Grille générée automatiquement depuis le texte du PDF : à vérifier.",
+  "Reprises et fins non détectées : les mesures sont dans l'ordre d'écriture."
+ ],
+ "confidence": "low",
+ "source": [
+  "pdf/João Pernambuco - Sons De Carrilhões - Theme - C - variant 1.pdf"
+ ],
+ "generated": "pdf"
+}

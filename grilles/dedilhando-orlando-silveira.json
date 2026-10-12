@@ -1,0 +1,176 @@
+{
+ "song_id": "dedilhando-orlando-silveira",
+ "title": "Dedilhando",
+ "composer": "Orlando Silveira",
+ "transposition": "c",
+ "meter": "2/4",
+ "form": "A (reprise) — B (reprise) — Coda",
+ "parts": [
+  {
+   "name": "A",
+   "tonic": "G",
+   "bars": "0–17",
+   "repeat": true,
+   "sequence": [
+    [
+     "G/B",
+     "Eb7/Bb"
+    ],
+    [
+     "Am",
+     "D7"
+    ],
+    [
+     "G",
+     "E7"
+    ],
+    [
+     "Am"
+    ],
+    [
+     "B7"
+    ],
+    [
+     "Em"
+    ],
+    [
+     "F#7/A#"
+    ],
+    [
+     "Bm",
+     "D7/A"
+    ],
+    [
+     "G",
+     "Eb7/Bb"
+    ],
+    [
+     "Am",
+     "D7"
+    ],
+    [
+     "G",
+     "E7"
+    ],
+    [
+     "Am"
+    ],
+    [
+     "Eb/Bb"
+    ],
+    [
+     "G/B",
+     "E7/G#"
+    ],
+    [
+     "Am",
+     "D7"
+    ]
+   ],
+   "endings": {
+    "1": [
+     [
+      "G",
+      "D7"
+     ]
+    ],
+    "2": [
+     [
+      "G",
+      "G7"
+     ]
+    ]
+   }
+  },
+  {
+   "name": "B",
+   "tonic": "C",
+   "bars": "18–X1",
+   "repeat": true,
+   "sequence": [
+    [
+     "C",
+     "C(#5)"
+    ],
+    [
+     "Dm"
+    ],
+    [
+     "G7"
+    ],
+    [
+     "C"
+    ],
+    [
+     "C7",
+     "C/Bb"
+    ],
+    [
+     "F/A"
+    ],
+    [
+     "D7/F#"
+    ],
+    [
+     "G7"
+    ],
+    [
+     "Cm"
+    ],
+    [
+     "Ab"
+    ],
+    [
+     "Bb7"
+    ],
+    [
+     "Eb"
+    ],
+    [
+     "G7"
+    ],
+    [
+     "C",
+     "A7"
+    ],
+    [
+     "Dm7",
+     "G7"
+    ]
+   ],
+   "endings": {
+    "1": [
+     [
+      "C",
+      "G7"
+     ]
+    ],
+    "2": [
+     [
+      "C",
+      "D7"
+     ]
+    ]
+   }
+  },
+  {
+   "name": "Coda",
+   "tonic": "G",
+   "bars": "35–35",
+   "repeat": false,
+   "sequence": [
+    [
+     "G"
+    ]
+   ]
+  }
+ ],
+ "notes": [
+  "Grille générée automatiquement depuis la partition MusicXML : à vérifier."
+ ],
+ "confidence": "medium",
+ "source": [
+  "mxl/C/Orlando Silveira - Dedilhando - Theme - C.mxl"
+ ],
+ "generated": "mxl"
+}

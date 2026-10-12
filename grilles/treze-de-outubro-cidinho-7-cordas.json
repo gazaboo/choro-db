@@ -1,0 +1,129 @@
+{
+ "song_id": "treze-de-outubro-cidinho-7-cordas",
+ "title": "Treze de outubro",
+ "composer": "Cidinho 7 Cordas",
+ "transposition": "c",
+ "meter": "2/4",
+ "form": "A — B",
+ "parts": [
+  {
+   "name": "A",
+   "tonic": "Am",
+   "bars": "1–16",
+   "sequence": [
+    [
+     "Dm/F"
+    ],
+    [
+     "Dm",
+     "Dm/C"
+    ],
+    [
+     "Gm/Bb",
+     "Gm"
+    ],
+    [],
+    [],
+    [
+     "Dm",
+     "Dm6"
+    ],
+    [
+     "Am",
+     "Am/G"
+    ],
+    [
+     "Dm/F"
+    ],
+    [
+     "Gm6"
+    ],
+    [
+     "Dm",
+     "Dm/C"
+    ],
+    [
+     "Gm/Bb",
+     "Gm"
+    ],
+    [],
+    [
+     "Am7(b5)"
+    ],
+    [
+     "Gm",
+     "Em7(b5)"
+    ],
+    [
+     "Dm/F",
+     "Bb7"
+    ],
+    [
+     "Eb"
+    ]
+   ]
+  },
+  {
+   "name": "B",
+   "tonic": "C",
+   "bars": "17–35",
+   "sequence": [
+    [
+     "Dm"
+    ],
+    [
+     "Dm"
+    ],
+    [],
+    [
+     "F"
+    ],
+    [],
+    [
+     "Dm"
+    ],
+    [
+     "Bbm"
+    ],
+    [
+     "F"
+    ],
+    [
+     "C"
+    ],
+    [],
+    [],
+    [
+     "F"
+    ],
+    [],
+    [
+     "Cm/Eb"
+    ],
+    [
+     "Bbm"
+    ],
+    [
+     "F"
+    ],
+    [
+     "Gm",
+     "F"
+    ],
+    [],
+    [
+     "Dm"
+    ]
+   ]
+  }
+ ],
+ "notes": [
+  "Grille générée automatiquement depuis le texte du PDF : à vérifier.",
+  "Reprises et fins non détectées : les mesures sont dans l'ordre d'écriture."
+ ],
+ "confidence": "low",
+ "source": [
+  "pdf/Cidinho 7 Cordas - Treze de outubro - Theme - C.pdf"
+ ],
+ "generated": "pdf"
+}

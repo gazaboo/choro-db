@@ -1,0 +1,252 @@
+{
+ "song_id": "a-mocada-no-samba-tico-tico",
+ "title": "A moçada no samba",
+ "composer": "Tico Tico",
+ "transposition": "c",
+ "meter": "2/4",
+ "form": "A (reprise) — B (reprise) — Coda",
+ "parts": [
+  {
+   "name": "A",
+   "tonic": "G",
+   "bars": "1–34",
+   "repeat": true,
+   "sequence": [
+    [
+     "G6"
+    ],
+    [
+     "Bbdim"
+    ],
+    [
+     "Am7"
+    ],
+    [
+     "Am7",
+     "Eb7"
+    ],
+    [
+     "D7"
+    ],
+    [
+     "D7"
+    ],
+    [
+     "G6"
+    ],
+    [
+     "G6",
+     "F7"
+    ],
+    [
+     "E7"
+    ],
+    [],
+    [
+     "Am7"
+    ],
+    [],
+    [
+     "A7"
+    ],
+    [],
+    [
+     "Cm6"
+    ],
+    [
+     "D7"
+    ],
+    [
+     "G6"
+    ],
+    [
+     "Bbdim"
+    ],
+    [
+     "Am7"
+    ],
+    [
+     "Am7"
+    ],
+    [
+     "D7"
+    ],
+    [
+     "D7"
+    ],
+    [
+     "G6"
+    ],
+    [],
+    [
+     "E7"
+    ],
+    [],
+    [
+     "Am7"
+    ],
+    [
+     "Bbdim"
+    ],
+    [
+     "G6",
+     "Em7"
+    ],
+    [
+     "Am7",
+     "D7"
+    ],
+    [
+     "F#7",
+     "G7",
+     "Ab7",
+     "A7"
+    ]
+   ],
+   "endings": {
+    "1": [
+     [
+      "G"
+     ],
+     [
+      "D7"
+     ]
+    ],
+    "2": [
+     [
+      "G"
+     ]
+    ]
+   }
+  },
+  {
+   "name": "B",
+   "tonic": "D",
+   "bars": "35–69",
+   "repeat": true,
+   "sequence": [
+    [
+     "A7",
+     "Em7"
+    ],
+    [
+     "A7"
+    ],
+    [
+     "D"
+    ],
+    [
+     "F#m7/C#"
+    ],
+    [
+     "Am6/C"
+    ],
+    [
+     "B7"
+    ],
+    [
+     "Em",
+     "B7/F#"
+    ],
+    [
+     "Em/G"
+    ],
+    [
+     "Em"
+    ],
+    [],
+    [
+     "D"
+    ],
+    [],
+    [
+     "E7"
+    ],
+    [
+     "A(#5)"
+    ],
+    [],
+    [],
+    [
+     "Em7"
+    ],
+    [
+     "A7"
+    ],
+    [
+     "D"
+    ],
+    [
+     "F#m7/C#"
+    ],
+    [
+     "Am6/C"
+    ],
+    [
+     "B7"
+    ],
+    [
+     "Em",
+     "B7/F#"
+    ],
+    [
+     "Em/G"
+    ],
+    [
+     "Em"
+    ],
+    [],
+    [
+     "D"
+    ],
+    [],
+    [
+     "Em7"
+    ],
+    [
+     "A7"
+    ],
+    [
+     "D7"
+    ],
+    []
+   ],
+   "endings": {
+    "1": [
+     [
+      "D"
+     ],
+     [
+      "F#m7",
+      "Fdim"
+     ]
+    ],
+    "2": [
+     [
+      "D"
+     ]
+    ]
+   }
+  },
+  {
+   "name": "Coda",
+   "tonic": "G",
+   "bars": "70–71",
+   "repeat": false,
+   "sequence": [
+    [
+     "G6"
+    ],
+    []
+   ]
+  }
+ ],
+ "notes": [
+  "Grille générée automatiquement depuis la partition MusicXML : à vérifier."
+ ],
+ "confidence": "medium",
+ "source": [
+  "mxl/C/Tico Tico - A moçada no samba - Theme - C.mxl"
+ ],
+ "generated": "mxl"
+}

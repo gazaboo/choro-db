@@ -1,0 +1,84 @@
+{
+ "song_id": "tupinamba-ernesto-nazareth",
+ "title": "Tupinambá",
+ "composer": "Ernesto Nazareth",
+ "transposition": "c",
+ "meter": "2/4",
+ "form": "A — A — B",
+ "parts": [
+  {
+   "name": "A",
+   "tonic": "C",
+   "bars": "1–10",
+   "sequence": [
+    [
+     "C/G"
+    ],
+    [],
+    [
+     "C/E",
+     "C/G"
+    ],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [
+     "C/G"
+    ]
+   ]
+  },
+  {
+   "name": "B",
+   "tonic": "C",
+   "bars": "30–46",
+   "sequence": [
+    [],
+    [],
+    [
+     "C"
+    ],
+    [],
+    [],
+    [
+     "F",
+     "F/A"
+    ],
+    [],
+    [
+     "F",
+     "F/C"
+    ],
+    [],
+    [
+     "F",
+     "F/A"
+    ],
+    [],
+    [
+     "Am"
+    ],
+    [],
+    [
+     "F"
+    ],
+    [],
+    [],
+    [
+     "F/Eb"
+    ]
+   ]
+  }
+ ],
+ "notes": [
+  "Grille générée automatiquement depuis le texte du PDF : à vérifier.",
+  "Reprises et fins non détectées : les mesures sont dans l'ordre d'écriture."
+ ],
+ "confidence": "low",
+ "source": [
+  "pdf/Ernesto Nazareth - Tupinambá - Theme - C.pdf"
+ ],
+ "generated": "pdf"
+}

@@ -1,0 +1,245 @@
+{
+ "song_id": "arranca-trucco-sebastian-luna",
+ "title": "Arranca Trucco",
+ "composer": "Sebastián Luna",
+ "transposition": "c",
+ "meter": "2/4",
+ "form": "A (reprise) — B (reprise) — C (reprise)",
+ "parts": [
+  {
+   "name": "A",
+   "tonic": "Em",
+   "bars": "0–17",
+   "repeat": true,
+   "sequence": [
+    [
+     "Gmaj7"
+    ],
+    [
+     "A7"
+    ],
+    [
+     "Am7",
+     "D7"
+    ],
+    [
+     "Gdim",
+     "Gmaj7"
+    ],
+    [
+     "Em",
+     "C#m7b5"
+    ],
+    [
+     "Bm"
+    ],
+    [
+     "C#7"
+    ],
+    [
+     "F#7(b13)",
+     "D7"
+    ],
+    [
+     "Gmaj7"
+    ],
+    [
+     "A7"
+    ],
+    [
+     "B7"
+    ],
+    [
+     "E7(9)"
+    ],
+    [
+     "Eb6(9)"
+    ],
+    [
+     "G/D",
+     "E/D"
+    ],
+    [
+     "A7/C#",
+     "D/C"
+    ]
+   ],
+   "endings": {
+    "1": [
+     [
+      "G/B",
+      "D7(#5)"
+     ]
+    ],
+    "2": [
+     [
+      "G/B",
+      "B7"
+     ]
+    ]
+   }
+  },
+  {
+   "name": "B",
+   "tonic": "G",
+   "bars": "18–X1",
+   "repeat": true,
+   "sequence": [
+    [
+     "Em"
+    ],
+    [
+     "C7(9)"
+    ],
+    [
+     "F#7"
+    ],
+    [
+     "B7(b9)"
+    ],
+    [
+     "Am7",
+     "D7(9)"
+    ],
+    [
+     "Gmaj7"
+    ],
+    [
+     "F#7"
+    ],
+    [
+     "B7"
+    ],
+    [
+     "E7(9)"
+    ],
+    [
+     "A7(13)"
+    ],
+    [
+     "Am7",
+     "D7"
+    ],
+    [
+     "G7(13)",
+     "Db7(#9)"
+    ],
+    [
+     "C7(9)",
+     "C7(b9)"
+    ],
+    [
+     "Fmaj7"
+    ],
+    [
+     "B7"
+    ]
+   ],
+   "endings": {
+    "1": [
+     [
+      "Em",
+      "B7"
+     ]
+    ],
+    "2": [
+     [
+      "Em",
+      "D7(#5)"
+     ]
+    ]
+   }
+  },
+  {
+   "name": "C",
+   "tonic": "C",
+   "bars": "36–53",
+   "repeat": true,
+   "sequence": [
+    [
+     "Cmaj7"
+    ],
+    [
+     "E7"
+    ],
+    [
+     "Gm6",
+     "A7"
+    ],
+    [
+     "Dm"
+    ],
+    [
+     "Fmaj7",
+     "B7/F#"
+    ],
+    [
+     "Em/G",
+     "E7/G#"
+    ],
+    [
+     "Amaj7",
+     "E7"
+    ],
+    [
+     "Amaj7",
+     "G7"
+    ],
+    [
+     "Cmaj7"
+    ],
+    [
+     "E7"
+    ],
+    [
+     "Gm7",
+     "C7(9)"
+    ],
+    [
+     "Fmaj7"
+    ],
+    [
+     "F#dim"
+    ],
+    [
+     "C/G",
+     "A7(b13)"
+    ],
+    [
+     "D7(9)",
+     "Dm7b5"
+    ],
+    []
+   ],
+   "endings": {
+    "1": [
+     [
+      "Cmaj7",
+      "G7"
+     ]
+    ],
+    "2": [
+     [
+      "Cmaj7",
+      "C#7",
+      "D7"
+     ]
+    ]
+   },
+   "transition_in": [
+    [
+     "G/B",
+     "G7"
+    ]
+   ]
+  }
+ ],
+ "notes": [
+  "Grille générée automatiquement depuis la partition MusicXML : à vérifier."
+ ],
+ "confidence": "medium",
+ "source": [
+  "mxl/C/Sebastián Luna - Arranca Trucco - Theme - C.mxl"
+ ],
+ "generated": "mxl"
+}

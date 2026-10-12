@@ -1,0 +1,307 @@
+{
+ "song_id": "eponina-ernesto-nazareth",
+ "title": "Eponina",
+ "composer": "Ernesto Nazareth",
+ "transposition": "c",
+ "meter": "3/4",
+ "form": "A (reprise) — B — C (reprise) — Coda",
+ "parts": [
+  {
+   "name": "A",
+   "tonic": "G",
+   "bars": "1–17",
+   "repeat": true,
+   "sequence": [
+    [
+     "G"
+    ],
+    [
+     "G/B",
+     "Bbdim"
+    ],
+    [
+     "D7/A"
+    ],
+    [
+     "D7"
+    ],
+    [
+     "Em"
+    ],
+    [
+     "Em/G",
+     "C7/G"
+    ],
+    [
+     "F#m7b5"
+    ],
+    [
+     "B7"
+    ],
+    [
+     "Fdim"
+    ],
+    [
+     "E7"
+    ]
+   ],
+   "endings": {
+    "1": [
+     [
+      "Am/C"
+     ],
+     [
+      "Cm6"
+     ],
+     [
+      "D7/A"
+     ],
+     [
+      "D7"
+     ],
+     [
+      "G"
+     ],
+     [
+      "G/D"
+     ]
+    ],
+    "2": [
+     [
+      "Am/C"
+     ]
+    ]
+   }
+  },
+  {
+   "name": "B",
+   "tonic": "G",
+   "bars": "18–22",
+   "repeat": false,
+   "sequence": [
+    [
+     "Eb/Db"
+    ],
+    [
+     "Ab/C"
+    ],
+    [
+     "D7"
+    ],
+    [
+     "G"
+    ],
+    []
+   ]
+  },
+  {
+   "name": "C",
+   "tonic": "D",
+   "bars": "23–X1",
+   "repeat": true,
+   "sequence": [
+    [
+     "D"
+    ],
+    [
+     "B7"
+    ],
+    [
+     "E7/B"
+    ],
+    [
+     "E7"
+    ],
+    [
+     "A7"
+    ],
+    [],
+    [
+     "D",
+     "D#dim"
+    ],
+    [
+     "A7/E"
+    ],
+    [
+     "D"
+    ],
+    [
+     "D#dim"
+    ],
+    [
+     "A/E"
+    ],
+    [
+     "F#7"
+    ],
+    [
+     "B7"
+    ],
+    [
+     "E7"
+    ],
+    [
+     "A7"
+    ],
+    [],
+    [
+     "D"
+    ],
+    [
+     "B7"
+    ],
+    [
+     "E7/B"
+    ],
+    [
+     "E7"
+    ],
+    [
+     "A#dim"
+    ],
+    [],
+    [
+     "Bm"
+    ],
+    [],
+    [
+     "Em/G"
+    ],
+    [
+     "Em/G",
+     "Gm6"
+    ],
+    [
+     "D/A"
+    ],
+    [
+     "D/F#"
+    ],
+    [
+     "Em7"
+    ],
+    [
+     "A7"
+    ],
+    [
+     "D"
+    ],
+    []
+   ]
+  },
+  {
+   "name": "Coda",
+   "tonic": "C",
+   "bars": "55–87",
+   "repeat": false,
+   "sequence": [
+    [
+     "C"
+    ],
+    [
+     "F#dim"
+    ],
+    [
+     "C/E"
+    ],
+    [
+     "C/E",
+     "Ebdim"
+    ],
+    [
+     "Dm"
+    ],
+    [
+     "G7"
+    ],
+    [
+     "C"
+    ],
+    [
+     "Dm7b5",
+     "G7"
+    ],
+    [
+     "C"
+    ],
+    [
+     "F#dim"
+    ],
+    [
+     "C/E"
+    ],
+    [
+     "C/E",
+     "Eb/Db"
+    ],
+    [
+     "G/D"
+    ],
+    [
+     "D7"
+    ],
+    [
+     "G"
+    ],
+    [],
+    [
+     "C"
+    ],
+    [
+     "F#dim"
+    ],
+    [
+     "C/E"
+    ],
+    [
+     "C/E",
+     "Ebdim"
+    ],
+    [
+     "Dm"
+    ],
+    [
+     "G#dim"
+    ],
+    [
+     "Am"
+    ],
+    [
+     "Am/C"
+    ],
+    [
+     "Dm/F"
+    ],
+    [
+     "F#dim"
+    ],
+    [
+     "C/G"
+    ],
+    [
+     "C/E"
+    ],
+    [
+     "D7"
+    ],
+    [
+     "G7"
+    ],
+    [
+     "C"
+    ],
+    [],
+    []
+   ]
+  }
+ ],
+ "notes": [
+  "Grille générée automatiquement depuis la partition MusicXML : à vérifier."
+ ],
+ "confidence": "medium",
+ "source": [
+  "mxl/C/Ernesto Nazareth - Eponina - Theme - C.mxl"
+ ],
+ "generated": "mxl"
+}

@@ -1,0 +1,291 @@
+{
+ "song_id": "nego-frajola-jacob-do-bandolim",
+ "title": "Nego Frajola",
+ "composer": "Jacob do Bandolim",
+ "transposition": "c",
+ "meter": "2/4",
+ "form": "A — B (reprise) — D.S. — C (reprise) — D (reprise)",
+ "parts": [
+  {
+   "name": "A",
+   "tonic": "A",
+   "bars": "0–4",
+   "repeat": false,
+   "sequence": [
+    [
+     "A",
+     "F#m"
+    ],
+    [
+     "Bm",
+     "E7"
+    ],
+    [
+     "A",
+     "F#m"
+    ],
+    [
+     "Bm",
+     "E7"
+    ]
+   ]
+  },
+  {
+   "name": "B",
+   "tonic": "A",
+   "bars": "5–25",
+   "repeat": true,
+   "sequence": [
+    [
+     "A"
+    ],
+    [
+     "Bm"
+    ],
+    [
+     "E7/G#",
+     "E7"
+    ],
+    [
+     "A"
+    ],
+    [],
+    [
+     "E/B"
+    ],
+    [
+     "B7/F#",
+     "B7"
+    ],
+    [
+     "E7/G#",
+     "E7"
+    ],
+    [
+     "A"
+    ],
+    [
+     "Bm"
+    ],
+    [
+     "E7/G#",
+     "E7"
+    ],
+    [
+     "A7",
+     "A/G"
+    ],
+    [
+     "D/F#",
+     "Dm/F"
+    ],
+    [
+     "A/E",
+     "F#7"
+    ],
+    [
+     "Bm",
+     "E7"
+    ],
+    [
+     "A7",
+     "A/G"
+    ],
+    [
+     "D/F#",
+     "Dm/F"
+    ],
+    [
+     "A/E",
+     "F#7"
+    ],
+    [
+     "Bm",
+     "E7"
+    ]
+   ],
+   "endings": {
+    "1": [
+     [
+      "A"
+     ]
+    ],
+    "2": [
+     [
+      "A"
+     ]
+    ]
+   }
+  },
+  {
+   "name": "C",
+   "tonic": "F#m",
+   "bars": "26–X1",
+   "repeat": true,
+   "sequence": [
+    [
+     "F#m",
+     "C#7/G#"
+    ],
+    [
+     "F#m/A"
+    ],
+    [
+     "F#7/A#",
+     "F#7"
+    ],
+    [
+     "Bm"
+    ],
+    [
+     "Bm",
+     "Bm/A"
+    ],
+    [
+     "G#m7b5"
+    ],
+    [
+     "C#7/E#",
+     "C#7"
+    ],
+    [
+     "F#m",
+     "C#7"
+    ],
+    [
+     "F#m",
+     "C#7/G#"
+    ],
+    [
+     "F#m/A"
+    ],
+    [
+     "F#7/A#",
+     "F#7"
+    ],
+    [
+     "Bm"
+    ],
+    [],
+    [
+     "F#m/A"
+    ],
+    [
+     "C#7/G#"
+    ],
+    [
+     "G7",
+     "F#7"
+    ],
+    [
+     "Bm",
+     "G#m7b5"
+    ],
+    [
+     "F#m/A",
+     "F#m"
+    ],
+    [
+     "C#7/G#",
+     "C#7"
+    ]
+   ],
+   "endings": {
+    "1": [
+     [
+      "F#m"
+     ]
+    ],
+    "2": [
+     [
+      "F#m"
+     ]
+    ]
+   }
+  },
+  {
+   "name": "D",
+   "tonic": "A",
+   "bars": "47–63",
+   "repeat": true,
+   "sequence": [
+    [
+     "A",
+     "A#dim"
+    ],
+    [
+     "E7/B",
+     "E7"
+    ],
+    [
+     "A",
+     "A#dim"
+    ],
+    [
+     "E7/B",
+     "E7"
+    ],
+    [
+     "A",
+     "A#dim"
+    ],
+    [
+     "E7/B",
+     "E7"
+    ],
+    [
+     "A",
+     "A#dim"
+    ],
+    [
+     "E7/B",
+     "E7"
+    ],
+    [
+     "A",
+     "A#dim"
+    ],
+    [
+     "E7/B",
+     "E7"
+    ],
+    [
+     "A",
+     "A#dim"
+    ],
+    [
+     "E7/B",
+     "E7"
+    ],
+    [
+     "A",
+     "A#dim"
+    ],
+    [
+     "E7/B",
+     "E7"
+    ],
+    [
+     "A",
+     "A#dim"
+    ],
+    [
+     "E7/B",
+     "E7"
+    ],
+    [
+     "A",
+     "A#dim"
+    ]
+   ]
+  }
+ ],
+ "notes": [
+  "Grille générée automatiquement depuis la partition MusicXML : à vérifier."
+ ],
+ "confidence": "medium",
+ "source": [
+  "mxl/C/Jacob do Bandolim - Nego Frajola - Theme - C.mxl"
+ ],
+ "generated": "mxl"
+}

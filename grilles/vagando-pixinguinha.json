@@ -1,0 +1,212 @@
+{
+ "song_id": "vagando-pixinguinha",
+ "title": "Vagando",
+ "composer": "Pixinguinha",
+ "transposition": "c",
+ "meter": "2/4",
+ "form": "A — B — C",
+ "parts": [
+  {
+   "name": "A",
+   "tonic": "C",
+   "bars": "1–15",
+   "sequence": [
+    [
+     "C",
+     "A7"
+    ],
+    [
+     "D7"
+    ],
+    [
+     "G7"
+    ],
+    [
+     "C"
+    ],
+    [
+     "C",
+     "C/E"
+    ],
+    [
+     "G/D"
+    ],
+    [
+     "D7"
+    ],
+    [
+     "G7"
+    ],
+    [
+     "C",
+     "A7"
+    ],
+    [
+     "D7"
+    ],
+    [
+     "E7"
+    ],
+    [
+     "A7",
+     "A/G"
+    ],
+    [
+     "Dm/F",
+     "Fm6/Ab",
+     "C/G"
+    ],
+    [
+     "A7"
+    ],
+    [
+     "Dm"
+    ]
+   ]
+  },
+  {
+   "name": "B",
+   "tonic": "C",
+   "bars": "16–33",
+   "sequence": [
+    [
+     "C",
+     "G7"
+    ],
+    [
+     "C"
+    ],
+    [],
+    [
+     "G",
+     "E7"
+    ],
+    [
+     "A7"
+    ],
+    [
+     "D7"
+    ],
+    [
+     "G"
+    ],
+    [
+     "B7"
+    ],
+    [
+     "Em"
+    ],
+    [
+     "Bm/F#",
+     "F#7"
+    ],
+    [
+     "Bm",
+     "D7"
+    ],
+    [
+     "G",
+     "E7"
+    ],
+    [
+     "A7"
+    ],
+    [
+     "G7"
+    ],
+    [
+     "C"
+    ],
+    [
+     "Eb",
+     "G/D"
+    ],
+    [
+     "Em"
+    ],
+    [
+     "A7"
+    ]
+   ]
+  },
+  {
+   "name": "C",
+   "tonic": "C",
+   "bars": "34–52",
+   "sequence": [
+    [
+     "G"
+    ],
+    [
+     "G",
+     "G7"
+    ],
+    [
+     "C",
+     "C7"
+    ],
+    [],
+    [
+     "F",
+     "D7"
+    ],
+    [
+     "Gm"
+    ],
+    [
+     "C7"
+    ],
+    [
+     "F"
+    ],
+    [
+     "F",
+     "F/A"
+    ],
+    [
+     "C/G",
+     "A7"
+    ],
+    [
+     "Dm",
+     "G7"
+    ],
+    [
+     "C7"
+    ],
+    [
+     "F",
+     "D7"
+    ],
+    [
+     "Gm"
+    ],
+    [
+     "A7"
+    ],
+    [
+     "Dm"
+    ],
+    [
+     "Db"
+    ],
+    [
+     "F/C"
+    ],
+    [
+     "Db",
+     "C7"
+    ]
+   ]
+  }
+ ],
+ "notes": [
+  "Grille générée automatiquement depuis le texte du PDF : à vérifier.",
+  "Reprises et fins non détectées : les mesures sont dans l'ordre d'écriture."
+ ],
+ "confidence": "low",
+ "source": [
+  "pdf/Pixinguinha - Vagando - Theme - C.pdf"
+ ],
+ "generated": "pdf"
+}

@@ -1,0 +1,379 @@
+{
+ "song_id": "mimosa-jacob-do-bandolim",
+ "title": "Mimosa",
+ "composer": "Jacob do Bandolim",
+ "transposition": "c",
+ "meter": "3/4",
+ "form": "A — B — C (reprise) — D",
+ "parts": [
+  {
+   "name": "A",
+   "tonic": "C",
+   "bars": "1–32",
+   "repeat": false,
+   "sequence": [
+    [
+     "C"
+    ],
+    [
+     "C(#5)"
+    ],
+    [
+     "Am/C"
+    ],
+    [
+     "Am"
+    ],
+    [
+     "Dm"
+    ],
+    [
+     "Bb/D"
+    ],
+    [
+     "G7"
+    ],
+    [],
+    [
+     "C"
+    ],
+    [
+     "C(#5)"
+    ],
+    [
+     "G#/F#"
+    ],
+    [
+     "A/G"
+    ],
+    [
+     "D7/A"
+    ],
+    [
+     "D7"
+    ],
+    [
+     "A#/G#"
+    ],
+    [
+     "B7"
+    ],
+    [
+     "E"
+    ],
+    [
+     "E7(b9)"
+    ],
+    [
+     "Am"
+    ],
+    [
+     "Am/G"
+    ],
+    [
+     "A7/E"
+    ],
+    [
+     "A7"
+    ],
+    [
+     "Dm"
+    ],
+    [
+     "Dm/F"
+    ],
+    [
+     "Ab/Gb"
+    ],
+    [
+     "Fm6"
+    ],
+    [
+     "Cm/G"
+    ],
+    [
+     "E7/G#"
+    ],
+    [
+     "Am"
+    ],
+    [
+     "G7"
+    ],
+    [
+     "C"
+    ],
+    [
+     "C"
+    ]
+   ]
+  },
+  {
+   "name": "B",
+   "tonic": "Am",
+   "bars": "33–64",
+   "repeat": false,
+   "sequence": [
+    [
+     "Am"
+    ],
+    [
+     "Am/G"
+    ],
+    [
+     "Dm6/F"
+    ],
+    [
+     "E7(b9)"
+    ],
+    [
+     "Am"
+    ],
+    [
+     "Am/G"
+    ],
+    [
+     "Fm6/Ab"
+    ],
+    [
+     "G7(b9)"
+    ],
+    [
+     "C"
+    ],
+    [
+     "E7/B"
+    ],
+    [
+     "Am/C"
+    ],
+    [
+     "Am/G"
+    ],
+    [
+     "F6"
+    ],
+    [
+     "B7(#9)"
+    ],
+    [
+     "E7sus4"
+    ],
+    [
+     "E7(b9)"
+    ],
+    [
+     "Am"
+    ],
+    [
+     "Am/G"
+    ],
+    [
+     "Dm6/F"
+    ],
+    [
+     "E7(b9)"
+    ],
+    [
+     "Am"
+    ],
+    [
+     "Am/G"
+    ],
+    [
+     "Fm6/Ab"
+    ],
+    [
+     "G7(b9)"
+    ],
+    [
+     "C"
+    ],
+    [
+     "E7/B"
+    ],
+    [
+     "Am/C"
+    ],
+    [
+     "Dm/F"
+    ],
+    [
+     "C/G"
+    ],
+    [
+     "E7/G#"
+    ],
+    [
+     "Am"
+    ],
+    [
+     "Am"
+    ]
+   ]
+  },
+  {
+   "name": "C",
+   "tonic": "A",
+   "bars": "65–97",
+   "repeat": true,
+   "sequence": [
+    [
+     "A"
+    ],
+    [
+     "A/E"
+    ],
+    [
+     "A/C#"
+    ],
+    [
+     "A/E"
+    ],
+    [
+     "A"
+    ],
+    [
+     "A/E"
+    ],
+    [
+     "Bm"
+    ],
+    [
+     "Bm/D"
+    ],
+    [
+     "Bm"
+    ],
+    [
+     "Bm/A"
+    ],
+    [
+     "B/A"
+    ],
+    [
+     "B7/F#"
+    ],
+    [
+     "E7/B"
+    ],
+    [
+     "E7"
+    ],
+    [
+     "A"
+    ],
+    [
+     "A/E"
+    ],
+    [
+     "A"
+    ],
+    [
+     "A/E"
+    ],
+    [
+     "A/C#"
+    ],
+    [
+     "A/E"
+    ],
+    [
+     "A"
+    ],
+    [
+     "A/C#"
+    ],
+    [
+     "D"
+    ],
+    [
+     "D/A"
+    ],
+    [
+     "D"
+    ],
+    [
+     "D/A"
+    ],
+    [
+     "A/C#"
+    ],
+    [
+     "A/E"
+    ],
+    [
+     "Bm"
+    ],
+    [
+     "E7"
+    ],
+    [
+     "A"
+    ]
+   ],
+   "endings": {
+    "1": [
+     [
+      "A"
+     ]
+    ],
+    "2": [
+     [
+      "A"
+     ]
+    ]
+   }
+  },
+  {
+   "name": "D",
+   "tonic": "F#m",
+   "bars": "98–110",
+   "repeat": false,
+   "sequence": [
+    [
+     "C#7"
+    ],
+    [
+     "Bdim"
+    ],
+    [
+     "F#m/A"
+    ],
+    [
+     "F#m6/A"
+    ],
+    [
+     "G#7(b9)"
+    ],
+    [
+     "F#dim"
+    ],
+    [
+     "E"
+    ],
+    [],
+    [],
+    [
+     "Em"
+    ],
+    [
+     "Em/G"
+    ],
+    [
+     "G7"
+    ],
+    []
+   ]
+  }
+ ],
+ "notes": [
+  "Grille générée automatiquement depuis la partition MusicXML : à vérifier.",
+  "Tonalité de la partition source non vérifiée."
+ ],
+ "confidence": "medium",
+ "source": [
+  "mxl/C/Jacob do Bandolim - Mimosa - Theme - C.mxl"
+ ],
+ "generated": "mxl"
+}

@@ -1,0 +1,138 @@
+{
+ "song_id": "fogo-na-roupa-altamiro-carrilho-e-ary-duarte",
+ "title": "Fogo Na Roupa",
+ "composer": "Altamiro Carrilho E Ary Duarte",
+ "transposition": "c",
+ "meter": "2/4",
+ "form": "A — B — C",
+ "parts": [
+  {
+   "name": "A",
+   "tonic": "C",
+   "bars": "1–2",
+   "sequence": [
+    [
+     "D7"
+    ],
+    [
+     "G"
+    ]
+   ]
+  },
+  {
+   "name": "B",
+   "tonic": "C",
+   "bars": "9–23",
+   "sequence": [
+    [],
+    [
+     "D7",
+     "D/C"
+    ],
+    [
+     "G/B"
+    ],
+    [
+     "B7",
+     "B7/D#"
+    ],
+    [
+     "Em"
+    ],
+    [],
+    [
+     "G/D"
+    ],
+    [
+     "A7/C#"
+    ],
+    [],
+    [
+     "D7",
+     "D/C"
+    ],
+    [
+     "G/B"
+    ],
+    [
+     "B7",
+     "B7/D#"
+    ],
+    [
+     "Em"
+    ],
+    [],
+    [
+     "G/D"
+    ]
+   ]
+  },
+  {
+   "name": "C",
+   "tonic": "C",
+   "bars": "25–44",
+   "sequence": [
+    [
+     "G"
+    ],
+    [
+     "G"
+    ],
+    [],
+    [],
+    [
+     "C"
+    ],
+    [
+     "E7"
+    ],
+    [
+     "Am"
+    ],
+    [],
+    [
+     "C/G"
+    ],
+    [
+     "Dm/A",
+     "G7"
+    ],
+    [
+     "C"
+    ],
+    [],
+    [
+     "C"
+    ],
+    [
+     "E7"
+    ],
+    [
+     "Am"
+    ],
+    [],
+    [
+     "C/G"
+    ],
+    [
+     "G7"
+    ],
+    [
+     "C"
+    ],
+    [
+     "C"
+    ]
+   ]
+  }
+ ],
+ "notes": [
+  "Grille générée automatiquement depuis le texte du PDF : à vérifier.",
+  "Reprises et fins non détectées : les mesures sont dans l'ordre d'écriture."
+ ],
+ "confidence": "low",
+ "source": [
+  "pdf/Altamiro Carrilho E Ary Duarte - Fogo Na Roupa - Theme - C.pdf"
+ ],
+ "generated": "pdf"
+}

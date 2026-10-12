@@ -1,0 +1,251 @@
+{
+ "song_id": "fascinante-rossini-ferreira",
+ "title": "Fascinante",
+ "composer": "Rossini Ferreira",
+ "transposition": "c",
+ "meter": "2/4",
+ "form": "A (reprise) — B (reprise) — Coda",
+ "parts": [
+  {
+   "name": "A",
+   "tonic": "G",
+   "bars": "0–34",
+   "repeat": true,
+   "sequence": [
+    [
+     "G6"
+    ],
+    [],
+    [
+     "Gdim"
+    ],
+    [],
+    [
+     "G6"
+    ],
+    [
+     "Dm7"
+    ],
+    [
+     "G7(9)"
+    ],
+    [
+     "C",
+     "E7/B"
+    ],
+    [
+     "Am7",
+     "Am/G"
+    ],
+    [
+     "D7/F#"
+    ],
+    [
+     "G6"
+    ],
+    [
+     "Em7"
+    ],
+    [
+     "A7(9)"
+    ],
+    [],
+    [
+     "Am7"
+    ],
+    [
+     "D7(9)"
+    ],
+    [
+     "G6"
+    ],
+    [],
+    [
+     "Gdim"
+    ],
+    [],
+    [
+     "G6"
+    ],
+    [
+     "G7(9)"
+    ],
+    [
+     "C",
+     "Em/B"
+    ],
+    [
+     "Am7",
+     "G7"
+    ],
+    [
+     "C/E"
+    ],
+    [
+     "Cm6/Eb"
+    ],
+    [
+     "G/D"
+    ],
+    [
+     "E7(9)"
+    ],
+    [
+     "Am7"
+    ],
+    [
+     "A7(9)",
+     "D7"
+    ],
+    [
+     "G7"
+    ]
+   ],
+   "endings": {
+    "1": [
+     [
+      "G6"
+     ],
+     []
+    ],
+    "2": [
+     [
+      "G6"
+     ]
+    ]
+   }
+  },
+  {
+   "name": "B",
+   "tonic": "C",
+   "bars": "35–69",
+   "repeat": true,
+   "sequence": [
+    [
+     "C6"
+    ],
+    [],
+    [
+     "Bm7b5"
+    ],
+    [
+     "E7/G#"
+    ],
+    [
+     "Am"
+    ],
+    [],
+    [
+     "Gm7"
+    ],
+    [
+     "C7"
+    ],
+    [
+     "F6"
+    ],
+    [
+     "G7"
+    ],
+    [
+     "C",
+     "E7/G#"
+    ],
+    [
+     "Am7",
+     "Am/G"
+    ],
+    [
+     "D7/F#"
+    ],
+    [],
+    [
+     "Fm6"
+    ],
+    [
+     "G7(9)"
+    ],
+    [
+     "C"
+    ],
+    [],
+    [
+     "Bm7b5"
+    ],
+    [
+     "E7/G#"
+    ],
+    [
+     "Am"
+    ],
+    [
+     "C7/G"
+    ],
+    [
+     "F6",
+     "A7/E"
+    ],
+    [
+     "Dm"
+    ],
+    [
+     "F6"
+    ],
+    [
+     "F#dim"
+    ],
+    [
+     "C/G"
+    ],
+    [
+     "Am7"
+    ],
+    [
+     "D7"
+    ],
+    [
+     "G7(9)"
+    ],
+    [
+     "D7"
+    ],
+    []
+   ],
+   "endings": {
+    "1": [
+     [
+      "C6"
+     ],
+     [
+      "G7"
+     ]
+    ],
+    "2": [
+     [
+      "C6"
+     ]
+    ]
+   }
+  },
+  {
+   "name": "Coda",
+   "tonic": "G",
+   "bars": "70–71",
+   "repeat": false,
+   "sequence": [
+    [
+     "G6"
+    ],
+    []
+   ]
+  }
+ ],
+ "notes": [
+  "Grille générée automatiquement depuis la partition MusicXML : à vérifier."
+ ],
+ "confidence": "medium",
+ "source": [
+  "mxl/C/Rossini Ferreira - Fascinante - Theme - C.mxl"
+ ],
+ "generated": "mxl"
+}

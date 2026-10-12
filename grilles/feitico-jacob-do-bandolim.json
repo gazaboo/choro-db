@@ -1,0 +1,236 @@
+{
+ "song_id": "feitico-jacob-do-bandolim",
+ "title": "Feitiço",
+ "composer": "Jacob do Bandolim",
+ "transposition": "c",
+ "meter": "3/4",
+ "form": "A — B — Coda",
+ "parts": [
+  {
+   "name": "A",
+   "tonic": "C",
+   "bars": "1–32",
+   "repeat": false,
+   "sequence": [
+    [
+     "C"
+    ],
+    [
+     "Ebdim"
+    ],
+    [
+     "G7/D"
+    ],
+    [
+     "G7"
+    ],
+    [
+     "C"
+    ],
+    [
+     "Bb/Ab"
+    ],
+    [
+     "Eb/G"
+    ],
+    [
+     "Eb"
+    ],
+    [
+     "Edim"
+    ],
+    [
+     "C#dim"
+    ],
+    [
+     "Bb/D"
+    ],
+    [
+     "G7"
+    ],
+    [
+     "C7"
+    ],
+    [],
+    [
+     "Ebm6/Gb"
+    ],
+    [
+     "F7"
+    ],
+    [
+     "Bbm"
+    ],
+    [
+     "Gm7b5"
+    ],
+    [
+     "Fm/Ab"
+    ],
+    [
+     "Fm"
+    ],
+    [
+     "Db"
+    ],
+    [
+     "Eb/Db"
+    ],
+    [
+     "Ab/C"
+    ],
+    [
+     "Ab6"
+    ],
+    [
+     "Ddim"
+    ],
+    [
+     "G7"
+    ],
+    [
+     "Cm"
+    ],
+    [
+     "A7"
+    ],
+    [
+     "Dm"
+    ],
+    [
+     "G7"
+    ],
+    [
+     "C"
+    ],
+    []
+   ]
+  },
+  {
+   "name": "B",
+   "tonic": "Cm",
+   "bars": "33–X1",
+   "repeat": false,
+   "sequence": [
+    [
+     "Cm"
+    ],
+    [],
+    [
+     "G7/B"
+    ],
+    [
+     "G7"
+    ],
+    [
+     "Cm"
+    ],
+    [
+     "Am7b5"
+    ],
+    [
+     "Gm"
+    ],
+    [
+     "Gm/Bb"
+    ],
+    [
+     "Eb"
+    ],
+    [
+     "G7/D"
+    ],
+    [
+     "Cm"
+    ],
+    [
+     "Am7b5"
+    ],
+    [
+     "Gm"
+    ],
+    [
+     "D7"
+    ],
+    [
+     "Dm7b5"
+    ],
+    [
+     "G7"
+    ],
+    [
+     "Cm"
+    ],
+    [],
+    [
+     "G7/B"
+    ],
+    [
+     "G7"
+    ],
+    [
+     "Cm"
+    ],
+    [
+     "Am7b5"
+    ],
+    [
+     "Gm"
+    ],
+    [
+     "Gm/Bb"
+    ],
+    [
+     "Eb"
+    ],
+    [
+     "G7/D"
+    ],
+    [
+     "Cm"
+    ],
+    [
+     "G7/B"
+    ],
+    [
+     "Ab7"
+    ],
+    [
+     "D7(b9)",
+     "G7"
+    ],
+    [
+     "Cm"
+    ],
+    [
+     "G7"
+    ]
+   ]
+  },
+  {
+   "name": "Coda",
+   "tonic": "C",
+   "bars": "65–67",
+   "repeat": false,
+   "sequence": [
+    [
+     "Fm6"
+    ],
+    [
+     "Dm7b5"
+    ],
+    [
+     "C"
+    ]
+   ]
+  }
+ ],
+ "notes": [
+  "Grille générée automatiquement depuis la partition MusicXML : à vérifier."
+ ],
+ "confidence": "medium",
+ "source": [
+  "mxl/C/Jacob do Bandolim - Feitiço - Theme - C.mxl"
+ ],
+ "generated": "mxl"
+}

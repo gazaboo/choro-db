@@ -1,0 +1,201 @@
+{
+ "song_id": "delicado-waldir-azevedo",
+ "title": "Delicado",
+ "composer": "Waldir Azevedo",
+ "transposition": "c",
+ "meter": "2/4",
+ "form": "A (reprise) — B — Coda",
+ "parts": [
+  {
+   "name": "A",
+   "tonic": "A",
+   "bars": "1–29",
+   "repeat": true,
+   "sequence": [
+    [
+     "G7"
+    ],
+    [],
+    [
+     "G7"
+    ],
+    [],
+    [],
+    [],
+    [
+     "F#m"
+    ],
+    [],
+    [
+     "E7"
+    ],
+    [],
+    [
+     "E7"
+    ],
+    [],
+    [
+     "A"
+    ],
+    [],
+    [
+     "C#7"
+    ],
+    [],
+    [
+     "F#m"
+    ],
+    [],
+    [
+     "F"
+    ],
+    [],
+    [
+     "Dm"
+    ],
+    [],
+    [
+     "E7"
+    ],
+    [
+     "A"
+    ],
+    []
+   ],
+   "endings": {
+    "1": [
+     [],
+     [],
+     []
+    ],
+    "2": [
+     [
+      "E7"
+     ]
+    ]
+   }
+  },
+  {
+   "name": "B",
+   "tonic": "Am",
+   "bars": "30–X1",
+   "repeat": false,
+   "sequence": [
+    [
+     "Am"
+    ],
+    [],
+    [],
+    [],
+    [
+     "Dm"
+    ],
+    [],
+    [],
+    [],
+    [
+     "E7"
+    ],
+    [],
+    [
+     "Am"
+    ],
+    [],
+    [
+     "A7"
+    ],
+    [],
+    [
+     "Dm"
+    ],
+    [],
+    [
+     "E7"
+    ],
+    [],
+    [
+     "Am"
+    ],
+    [],
+    [
+     "B7"
+    ],
+    [],
+    [
+     "E7"
+    ],
+    [],
+    [
+     "Am"
+    ],
+    [],
+    [],
+    [],
+    [
+     "Dm"
+    ],
+    [],
+    [],
+    [],
+    [
+     "E7"
+    ],
+    [],
+    [
+     "Am"
+    ],
+    [],
+    [
+     "B7"
+    ],
+    [
+     "E7"
+    ],
+    [
+     "Am"
+    ],
+    []
+   ]
+  },
+  {
+   "name": "Coda",
+   "tonic": "A",
+   "bars": "X2–77",
+   "repeat": false,
+   "sequence": [
+    [
+     "E7"
+    ],
+    [
+     "A"
+    ],
+    [],
+    [
+     "F7"
+    ],
+    [
+     "Dm"
+    ],
+    [
+     "E7"
+    ],
+    [],
+    [
+     "A"
+    ],
+    [
+     "A"
+    ]
+   ]
+  }
+ ],
+ "notes": [
+  "Grille générée automatiquement depuis la partition MusicXML : à vérifier.",
+  "38/74 mesures sans accord écrit"
+ ],
+ "confidence": "medium",
+ "source": [
+  "mxl/C/Waldir Azevedo - Delicado - Theme - C.mxl"
+ ],
+ "generated": "mxl"
+}

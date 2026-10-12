@@ -1,0 +1,245 @@
+{
+ "song_id": "flausina-pedro-galdino",
+ "title": "Flausina",
+ "composer": "Pedro Galdino",
+ "transposition": "c",
+ "meter": "2/4",
+ "form": "A (reprise) — B (reprise) — C (reprise)",
+ "parts": [
+  {
+   "name": "A",
+   "tonic": "G",
+   "bars": "1–17",
+   "repeat": true,
+   "sequence": [
+    [
+     "G"
+    ],
+    [
+     "F#m7b5",
+     "B7"
+    ],
+    [
+     "Em"
+    ],
+    [
+     "B7/F#",
+     "B7"
+    ],
+    [
+     "C",
+     "Bbdim"
+    ],
+    [
+     "G/B"
+    ],
+    [
+     "A7",
+     "A/G"
+    ],
+    [
+     "D7/F#"
+    ],
+    [
+     "G"
+    ],
+    [
+     "F#m7b5",
+     "B7"
+    ],
+    [
+     "Em"
+    ],
+    [
+     "B7/F#",
+     "B7"
+    ],
+    [
+     "C",
+     "C#dim"
+    ],
+    [
+     "G/D"
+    ],
+    [
+     "A7",
+     "D7"
+    ]
+   ],
+   "endings": {
+    "1": [
+     [
+      "G"
+     ]
+    ],
+    "2": [
+     [
+      "G"
+     ]
+    ]
+   }
+  },
+  {
+   "name": "B",
+   "tonic": "G",
+   "bars": "18–X1",
+   "repeat": true,
+   "sequence": [
+    [
+     "Em"
+    ],
+    [
+     "B7/D#"
+    ],
+    [
+     "Bm7b5",
+     "E7/G#"
+    ],
+    [
+     "Am7"
+    ],
+    [
+     "B7"
+    ],
+    [
+     "Em"
+    ],
+    [
+     "F#7"
+    ],
+    [
+     "B7"
+    ],
+    [
+     "Em"
+    ],
+    [
+     "B7/D#"
+    ],
+    [
+     "Bm7b5",
+     "E7/G#"
+    ],
+    [
+     "Am7"
+    ],
+    [
+     "B7"
+    ],
+    [
+     "Em"
+    ],
+    [
+     "F#7",
+     "B7"
+    ]
+   ],
+   "endings": {
+    "1": [
+     [
+      "Em"
+     ]
+    ],
+    "2": [
+     [
+      "Em",
+      "D7"
+     ]
+    ]
+   }
+  },
+  {
+   "name": "C",
+   "tonic": "C",
+   "bars": "36–53",
+   "repeat": true,
+   "sequence": [
+    [
+     "C",
+     "E7/B"
+    ],
+    [
+     "Am",
+     "C/Bb"
+    ],
+    [
+     "F/A",
+     "A/G"
+    ],
+    [
+     "Dm/F"
+    ],
+    [
+     "Dm",
+     "D7/F#"
+    ],
+    [
+     "G7"
+    ],
+    [
+     "G/F"
+    ],
+    [
+     "C/E"
+    ],
+    [
+     "C",
+     "E7/B"
+    ],
+    [
+     "Am",
+     "C/Bb"
+    ],
+    [
+     "F/A",
+     "A/G"
+    ],
+    [
+     "Dm/F"
+    ],
+    [
+     "Dm",
+     "F#dim"
+    ],
+    [
+     "C/G",
+     "E7/G#",
+     "Am",
+     "A/G"
+    ],
+    [
+     "D7/F#",
+     "G7"
+    ],
+    []
+   ],
+   "endings": {
+    "1": [
+     [
+      "C"
+     ]
+    ],
+    "2": [
+     [
+      "C",
+      "C#7",
+      "D7"
+     ]
+    ]
+   },
+   "transition_in": [
+    [
+     "G7"
+    ]
+   ]
+  }
+ ],
+ "notes": [
+  "Grille générée automatiquement depuis la partition MusicXML : à vérifier."
+ ],
+ "confidence": "medium",
+ "source": [
+  "mxl/C/Pedro Galdino - Flausina - Theme - C.mxl"
+ ],
+ "generated": "mxl"
+}

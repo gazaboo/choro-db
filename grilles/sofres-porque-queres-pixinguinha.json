@@ -1,0 +1,240 @@
+{
+ "song_id": "sofres-porque-queres-pixinguinha",
+ "title": "Sofres Porque Queres",
+ "composer": "Pixinguinha",
+ "transposition": "c",
+ "meter": "2/4",
+ "form": "A — B — C",
+ "parts": [
+  {
+   "name": "A",
+   "tonic": "C",
+   "bars": "1–23",
+   "sequence": [
+    [
+     "C/Bb"
+    ],
+    [
+     "C7"
+    ],
+    [],
+    [
+     "F/A"
+    ],
+    [
+     "Fm/Ab"
+    ],
+    [
+     "Fm6"
+    ],
+    [
+     "C"
+    ],
+    [],
+    [
+     "C/Bb"
+    ],
+    [
+     "C7"
+    ],
+    [
+     "F"
+    ],
+    [],
+    [
+     "A7"
+    ],
+    [
+     "A7/C#"
+    ],
+    [],
+    [
+     "Dm"
+    ],
+    [
+     "Fm6"
+    ],
+    [],
+    [
+     "C"
+    ],
+    [],
+    [
+     "D7/F#"
+    ],
+    [
+     "G7"
+    ],
+    [
+     "C"
+    ]
+   ]
+  },
+  {
+   "name": "B",
+   "tonic": "C",
+   "bars": "24–55",
+   "sequence": [
+    [
+     "C",
+     "D7"
+    ],
+    [
+     "G"
+    ],
+    [],
+    [
+     "Gm"
+    ],
+    [],
+    [],
+    [
+     "G7"
+    ],
+    [
+     "Cm"
+    ],
+    [],
+    [],
+    [],
+    [
+     "Gm"
+    ],
+    [],
+    [
+     "Eb7"
+    ],
+    [
+     "D7",
+     "A7"
+    ],
+    [
+     "D7"
+    ],
+    [],
+    [
+     "G"
+    ],
+    [],
+    [],
+    [],
+    [
+     "D7"
+    ],
+    [
+     "D/C"
+    ],
+    [],
+    [
+     "G/B"
+    ],
+    [
+     "G7"
+    ],
+    [],
+    [
+     "Cm"
+    ],
+    [],
+    [
+     "G",
+     "G/D"
+    ],
+    [
+     "D/C"
+    ],
+    [
+     "G/B"
+    ]
+   ]
+  },
+  {
+   "name": "C",
+   "tonic": "C",
+   "bars": "56–85",
+   "sequence": [
+    [
+     "C"
+    ],
+    [
+     "Fm"
+    ],
+    [
+     "F7"
+    ],
+    [
+     "Bbm"
+    ],
+    [],
+    [],
+    [],
+    [
+     "F/C"
+    ],
+    [],
+    [
+     "Fm"
+    ],
+    [
+     "Fm/Eb"
+    ],
+    [
+     "Bbm/Db"
+    ],
+    [],
+    [
+     "G7/B"
+    ],
+    [
+     "G7"
+    ],
+    [
+     "C7"
+    ],
+    [
+     "C/Bb"
+    ],
+    [
+     "F/A"
+    ],
+    [
+     "F7"
+    ],
+    [],
+    [
+     "Bb"
+    ],
+    [
+     "D7/F#"
+    ],
+    [],
+    [
+     "Gm"
+    ],
+    [],
+    [
+     "Bb"
+    ],
+    [],
+    [
+     "F/A"
+    ],
+    [
+     "D7"
+    ],
+    [
+     "G7"
+    ]
+   ]
+  }
+ ],
+ "notes": [
+  "Grille générée automatiquement depuis le texte du PDF : à vérifier.",
+  "Reprises et fins non détectées : les mesures sont dans l'ordre d'écriture."
+ ],
+ "confidence": "low",
+ "source": [
+  "pdf/Pixinguinha - Sofres Porque Queres - Theme - C - variant 1.pdf"
+ ],
+ "generated": "pdf"
+}

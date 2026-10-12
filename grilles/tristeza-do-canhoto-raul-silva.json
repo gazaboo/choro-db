@@ -1,0 +1,179 @@
+{
+ "song_id": "tristeza-do-canhoto-raul-silva",
+ "title": "Tristeza do Canhoto",
+ "composer": "Raul Silva",
+ "transposition": "c",
+ "meter": "2/4",
+ "form": "A — B — C",
+ "parts": [
+  {
+   "name": "A",
+   "tonic": "C",
+   "bars": "1–16",
+   "sequence": [
+    [
+     "C"
+    ],
+    [
+     "Am"
+    ],
+    [
+     "G/F"
+    ],
+    [
+     "E/D"
+    ],
+    [
+     "A7/C#",
+     "Cm6"
+    ],
+    [
+     "G/B"
+    ],
+    [
+     "Eb7/Bb"
+    ],
+    [
+     "D7"
+    ],
+    [
+     "G",
+     "E7/G#"
+    ],
+    [
+     "Am"
+    ],
+    [
+     "G/F"
+    ],
+    [
+     "C"
+    ],
+    [],
+    [
+     "G/B"
+    ],
+    [
+     "D7"
+    ],
+    [
+     "G"
+    ]
+   ]
+  },
+  {
+   "name": "B",
+   "tonic": "C",
+   "bars": "17–33",
+   "sequence": [
+    [],
+    [
+     "A/G"
+    ],
+    [
+     "D/F#"
+    ],
+    [
+     "F#7/A#"
+    ],
+    [
+     "B/A"
+    ],
+    [],
+    [
+     "D/F#"
+    ],
+    [],
+    [],
+    [
+     "A7",
+     "A/G"
+    ],
+    [
+     "D/F#"
+    ],
+    [
+     "D7/F#"
+    ],
+    [
+     "G"
+    ],
+    [],
+    [
+     "D/A"
+    ],
+    [
+     "A7"
+    ],
+    [
+     "D"
+    ]
+   ]
+  },
+  {
+   "name": "C",
+   "tonic": "C",
+   "bars": "34–50",
+   "sequence": [
+    [],
+    [
+     "G7"
+    ],
+    [
+     "C",
+     "C/E"
+    ],
+    [],
+    [
+     "Am",
+     "Am/G"
+    ],
+    [
+     "F",
+     "G/F"
+    ],
+    [],
+    [
+     "Em"
+    ],
+    [
+     "Em"
+    ],
+    [
+     "G7/B"
+    ],
+    [
+     "C"
+    ],
+    [
+     "C7/G"
+    ],
+    [
+     "F"
+    ],
+    [
+     "Fm6"
+    ],
+    [
+     "C/E",
+     "A7"
+    ],
+    [
+     "G7"
+    ],
+    [
+     "C"
+    ]
+   ]
+  }
+ ],
+ "notes": [
+  "Grille générée automatiquement depuis le texte du PDF : à vérifier.",
+  "Reprises et fins non détectées : les mesures sont dans l'ordre d'écriture."
+ ],
+ "confidence": "low",
+ "source": [
+  "pdf/Raul Silva - Tristeza do Canhoto - Theme - C.pdf"
+ ],
+ "generated": "pdf"
+}

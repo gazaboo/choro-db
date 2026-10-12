@@ -1,0 +1,268 @@
+{
+ "song_id": "batuque-henrique-alves-de-mesquita",
+ "title": "Batuque",
+ "composer": "Henrique Alves de Mesquita",
+ "transposition": "c",
+ "meter": "2/4",
+ "form": "A — B (reprise) — C — D (reprise) — E — Coda",
+ "parts": [
+  {
+   "name": "A",
+   "tonic": "C",
+   "bars": "11–29",
+   "repeat": false,
+   "sequence": [
+    [
+     "C",
+     "G/B"
+    ],
+    [
+     "F/A",
+     "G/B"
+    ],
+    [
+     "C",
+     "G/B"
+    ],
+    [
+     "F/A",
+     "G/B"
+    ],
+    [
+     "C",
+     "G/B"
+    ],
+    [
+     "F/A",
+     "G/B"
+    ],
+    [
+     "C",
+     "G/B"
+    ],
+    [
+     "F/A",
+     "G/B"
+    ],
+    [
+     "C"
+    ],
+    [
+     "D7/F#"
+    ],
+    [
+     "G/F"
+    ],
+    [
+     "C/E"
+    ],
+    [
+     "Dm6"
+    ],
+    [
+     "E7/B"
+    ],
+    [
+     "Am"
+    ],
+    [
+     "B7/F#"
+    ],
+    [
+     "E7",
+     "A7"
+    ],
+    [
+     "D7",
+     "G7"
+    ],
+    [
+     "C"
+    ]
+   ]
+  },
+  {
+   "name": "B",
+   "tonic": "C",
+   "bars": "30–38",
+   "repeat": true,
+   "sequence": [
+    [
+     "B7"
+    ],
+    [
+     "Em"
+    ],
+    [
+     "D7"
+    ],
+    [
+     "G"
+    ],
+    [
+     "F#7"
+    ],
+    [
+     "Bm",
+     "Em6/G"
+    ],
+    [
+     "F#7"
+    ]
+   ],
+   "endings": {
+    "1": [
+     [
+      "Bm"
+     ]
+    ],
+    "2": [
+     [
+      "Bm"
+     ]
+    ]
+   }
+  },
+  {
+   "name": "C",
+   "tonic": "C",
+   "bars": "39–43",
+   "repeat": false,
+   "sequence": [
+    [
+     "D7"
+    ],
+    [
+     "G7sus4"
+    ],
+    [],
+    [],
+    [
+     "C"
+    ]
+   ]
+  },
+  {
+   "name": "D",
+   "tonic": "F",
+   "bars": "44–60",
+   "repeat": true,
+   "sequence": [
+    [
+     "F"
+    ],
+    [
+     "C7/G"
+    ],
+    [
+     "C7"
+    ],
+    [
+     "F"
+    ],
+    [
+     "F"
+    ],
+    [
+     "C/G"
+    ],
+    [
+     "G7"
+    ],
+    [
+     "C7"
+    ],
+    [
+     "F"
+    ],
+    [
+     "C7/G"
+    ],
+    [
+     "C7"
+    ],
+    [
+     "F"
+    ],
+    [
+     "F",
+     "F7"
+    ],
+    [
+     "Bb",
+     "Bdim"
+    ],
+    [
+     "F/C",
+     "C7"
+    ]
+   ],
+   "endings": {
+    "1": [
+     [
+      "F"
+     ]
+    ],
+    "2": [
+     [
+      "C7",
+      "F"
+     ]
+    ]
+   }
+  },
+  {
+   "name": "E",
+   "tonic": "F",
+   "bars": "61–X2",
+   "repeat": false,
+   "sequence": [
+    [],
+    [],
+    [
+     "G7"
+    ]
+   ]
+  },
+  {
+   "name": "Coda",
+   "tonic": "C",
+   "bars": "64–68",
+   "repeat": false,
+   "sequence": [
+    [
+     "C",
+     "A7"
+    ],
+    [
+     "Dm",
+     "A7",
+     "Dm",
+     "E7"
+    ],
+    [
+     "Am",
+     "E7",
+     "Am",
+     "G7"
+    ],
+    [
+     "C",
+     "G7"
+    ],
+    [
+     "C"
+    ]
+   ]
+  }
+ ],
+ "notes": [
+  "Grille générée automatiquement depuis la partition MusicXML : à vérifier.",
+  "E : première mesure sans accord"
+ ],
+ "confidence": "medium",
+ "source": [
+  "mxl/C/Henrique Alves de Mesquita - Batuque - Theme - C.mxl"
+ ],
+ "generated": "mxl"
+}

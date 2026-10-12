@@ -1,0 +1,149 @@
+{
+ "song_id": "viva-joao-da-baiana-pixinguinha",
+ "title": "Viva João da Baiana",
+ "composer": "Pixinguinha",
+ "transposition": "c",
+ "meter": "2/4",
+ "form": "A — B — Coda",
+ "parts": [
+  {
+   "name": "A",
+   "tonic": "C",
+   "bars": "1–14",
+   "sequence": [
+    [
+     "Gm"
+    ],
+    [
+     "D7"
+    ],
+    [
+     "Gm"
+    ],
+    [
+     "D7"
+    ],
+    [
+     "Gm",
+     "G/F"
+    ],
+    [
+     "Cm/Eb"
+    ],
+    [
+     "A7/C#"
+    ],
+    [
+     "D7"
+    ],
+    [
+     "Gm"
+    ],
+    [
+     "D7"
+    ],
+    [
+     "Gm"
+    ],
+    [],
+    [
+     "G7",
+     "G/F"
+    ],
+    [
+     "Cm/Eb",
+     "Gm/D"
+    ]
+   ]
+  },
+  {
+   "name": "B",
+   "tonic": "C",
+   "bars": "16–32",
+   "sequence": [
+    [],
+    [
+     "Gm"
+    ],
+    [],
+    [
+     "F7/C"
+    ],
+    [
+     "F7"
+    ],
+    [
+     "Bb6"
+    ],
+    [
+     "Bb",
+     "Eb7(b5)"
+    ],
+    [
+     "D7"
+    ],
+    [],
+    [
+     "Abm6"
+    ],
+    [
+     "G7"
+    ],
+    [
+     "Cm",
+     "C7/G"
+    ],
+    [
+     "Gb7"
+    ],
+    [
+     "Bb/F"
+    ],
+    [
+     "Ab7",
+     "G7"
+    ],
+    [],
+    [
+     "F7"
+    ]
+   ]
+  },
+  {
+   "name": "Coda",
+   "tonic": "C",
+   "bars": "33–40",
+   "sequence": [
+    [
+     "Bb6"
+    ],
+    [
+     "Bb6"
+    ],
+    [],
+    [],
+    [
+     "D7/F#"
+    ],
+    [
+     "Gm"
+    ],
+    [
+     "G7/B"
+    ],
+    [
+     "Cm"
+    ]
+   ]
+  }
+ ],
+ "notes": [
+  "Grille générée automatiquement depuis le texte du PDF : à vérifier.",
+  "Reprises et fins non détectées : les mesures sont dans l'ordre d'écriture."
+ ],
+ "confidence": "low",
+ "source": [
+  "pdf/Pixinguinha - Viva João da Baiana - Theme - C.pdf"
+ ],
+ "generated": "pdf"
+}

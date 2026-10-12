@@ -1,0 +1,340 @@
+{
+ "song_id": "este-choro-e-meu-pranto-claudionor-cruz",
+ "title": "Este choro é meu pranto",
+ "composer": "Claudionor Cruz",
+ "transposition": "c",
+ "meter": "2/4",
+ "form": "A (reprise) — B — C — D — Coda",
+ "parts": [
+  {
+   "name": "A",
+   "tonic": "G",
+   "bars": "0–17",
+   "repeat": true,
+   "sequence": [
+    [
+     "G6",
+     "B7/F#"
+    ],
+    [
+     "Em",
+     "G7(9)"
+    ],
+    [
+     "C6(9)",
+     "E7/B"
+    ],
+    [
+     "Am",
+     "Am/G"
+    ],
+    [
+     "F#m7b5",
+     "B7(b13)"
+    ],
+    [
+     "Em7",
+     "F#7(b13)"
+    ],
+    [
+     "B6(9)",
+     "F#7"
+    ],
+    [
+     "B6(9)",
+     "D7(9)"
+    ],
+    [
+     "G6(9)",
+     "F7(#11)"
+    ],
+    [
+     "Em7",
+     "G7(9)"
+    ],
+    [
+     "C6(9)",
+     "Bb7(9,#11)"
+    ],
+    [
+     "Am",
+     "Am/G"
+    ],
+    [
+     "F#m7b5",
+     "B7(b13)"
+    ],
+    [
+     "Em7",
+     "A#dim"
+    ],
+    [
+     "G/B",
+     "Am7",
+     "D7(9)"
+    ]
+   ],
+   "endings": {
+    "1": [
+     [
+      "G6",
+      "D7(9)"
+     ]
+    ],
+    "2": [
+     [
+      "G6"
+     ]
+    ]
+   }
+  },
+  {
+   "name": "B",
+   "tonic": "Am",
+   "bars": "18–36",
+   "repeat": false,
+   "sequence": [
+    [
+     "Dm7(9)",
+     "G7(13)"
+    ],
+    [
+     "C6(9)",
+     "Ebdim"
+    ],
+    [
+     "Dm7",
+     "G7(b9)"
+    ],
+    [
+     "C6(9)",
+     "F7(13)"
+    ],
+    [
+     "Bm7b5",
+     "E7"
+    ],
+    [
+     "Am7",
+     "Am/G"
+    ],
+    [
+     "D7/F#"
+    ],
+    [
+     "Fm6/Ab",
+     "G7"
+    ],
+    [
+     "D7(9)",
+     "G7(9)"
+    ],
+    [
+     "C6(9)",
+     "Ebdim"
+    ],
+    [
+     "Dm7",
+     "G7(9)"
+    ],
+    [
+     "C6(9)",
+     "C7(9)"
+    ],
+    [
+     "F6",
+     "Ab7(9)"
+    ],
+    [
+     "Db6(9)",
+     "G7(9)"
+    ],
+    [
+     "C6(9)",
+     "F",
+     "G"
+    ],
+    [
+     "Ab",
+     "Bb/Ab"
+    ],
+    [
+     "Eb/G",
+     "A7(9)"
+    ],
+    [
+     "D6(9)",
+     "Em7",
+     "A7"
+    ],
+    [
+     "D6(9)",
+     "E7(9)"
+    ]
+   ]
+  },
+  {
+   "name": "C",
+   "tonic": "A",
+   "bars": "37–52",
+   "repeat": false,
+   "sequence": [
+    [
+     "A6",
+     "C#7/G#"
+    ],
+    [
+     "F#m7",
+     "A7(9)"
+    ],
+    [
+     "D6/A",
+     "F#7/A#"
+    ],
+    [
+     "Bm",
+     "Bm/A"
+    ],
+    [
+     "G#m7b5",
+     "C#7"
+    ],
+    [
+     "F#m7",
+     "G7(b13)"
+    ],
+    [
+     "C#6(9)",
+     "G#7(9)"
+    ],
+    [
+     "C#6(9)",
+     "E7(9)"
+    ],
+    [
+     "A6",
+     "G7(#11)"
+    ],
+    [
+     "F#m7",
+     "A7(9)"
+    ],
+    [
+     "D6(9)",
+     "C7(9,#11)"
+    ],
+    [
+     "Bm",
+     "Bm/A"
+    ],
+    [
+     "G#m7b5",
+     "C#7(b13)"
+    ],
+    [
+     "F#m7",
+     "Cdim"
+    ],
+    [
+     "A/C#",
+     "Bm7",
+     "E7(9)"
+    ],
+    [
+     "A6",
+     "A7(9)"
+    ]
+   ]
+  },
+  {
+   "name": "D",
+   "tonic": "D",
+   "bars": "53–69",
+   "repeat": false,
+   "sequence": [
+    [
+     "Em7(9)",
+     "A7(13)"
+    ],
+    [
+     "D6",
+     "C#/D"
+    ],
+    [
+     "Em/D",
+     "A7/C#"
+    ],
+    [
+     "D/C",
+     "G7/B"
+    ],
+    [
+     "Em6/B",
+     "F#7/A#"
+    ],
+    [
+     "Bm/A"
+    ],
+    [
+     "E7/G#"
+    ],
+    [
+     "Gm6",
+     "A/G"
+    ],
+    [
+     "A7(9)"
+    ],
+    [
+     "D6(9)/A",
+     "Fdim/A"
+    ],
+    [
+     "Em7",
+     "A7(b9)"
+    ],
+    [
+     "Am7",
+     "D7(9)"
+    ],
+    [
+     "G6(9)",
+     "Ab7(9)"
+    ],
+    [
+     "C#6(9)",
+     "G7(9)"
+    ],
+    [
+     "C6(9)",
+     "Dm7",
+     "G7(9)"
+    ],
+    [
+     "C6(9)",
+     "D7(9)"
+    ],
+    []
+   ]
+  },
+  {
+   "name": "Coda",
+   "tonic": "D",
+   "bars": "70–70",
+   "repeat": false,
+   "sequence": [
+    [
+     "G6(9)"
+    ]
+   ]
+  }
+ ],
+ "notes": [
+  "Grille générée automatiquement depuis la partition MusicXML : à vérifier."
+ ],
+ "confidence": "medium",
+ "source": [
+  "mxl/C/Claudionor Cruz - Este choro é meu pranto - Theme - C.mxl"
+ ],
+ "generated": "mxl"
+}

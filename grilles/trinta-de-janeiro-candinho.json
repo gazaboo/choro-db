@@ -1,0 +1,224 @@
+{
+ "song_id": "trinta-de-janeiro-candinho",
+ "title": "Trinta de Janeiro",
+ "composer": "Candinho",
+ "transposition": "c",
+ "meter": "2/4",
+ "form": "A — B — C",
+ "parts": [
+  {
+   "name": "A",
+   "tonic": "C",
+   "bars": "1–29",
+   "sequence": [
+    [
+     "E7"
+    ],
+    [],
+    [],
+    [
+     "A/G"
+    ],
+    [
+     "Dm/F"
+    ],
+    [],
+    [
+     "Dm"
+    ],
+    [],
+    [
+     "C"
+    ],
+    [],
+    [],
+    [],
+    [
+     "Bm7(b5)",
+     "G7"
+    ],
+    [],
+    [
+     "Dm"
+    ],
+    [],
+    [],
+    [],
+    [],
+    [
+     "E7/G#"
+    ],
+    [],
+    [
+     "Am"
+    ],
+    [
+     "F"
+    ],
+    [],
+    [
+     "C/G"
+    ],
+    [
+     "A7/C#"
+    ],
+    [
+     "Dm"
+    ],
+    [
+     "G7"
+    ],
+    [
+     "C"
+    ]
+   ]
+  },
+  {
+   "name": "B",
+   "tonic": "Am",
+   "bars": "31–62",
+   "sequence": [
+    [],
+    [
+     "Am"
+    ],
+    [
+     "A7/C#"
+    ],
+    [],
+    [],
+    [
+     "F7(#11)"
+    ],
+    [],
+    [],
+    [
+     "Am/C"
+    ],
+    [
+     "Am"
+    ],
+    [
+     "Am/G"
+    ],
+    [],
+    [],
+    [
+     "Dm6/F"
+    ],
+    [
+     "E7"
+    ],
+    [
+     "Am"
+    ],
+    [],
+    [
+     "A7"
+    ],
+    [],
+    [
+     "Dm"
+    ],
+    [],
+    [
+     "G7"
+    ],
+    [
+     "G7/B"
+    ],
+    [
+     "C"
+    ],
+    [],
+    [],
+    [
+     "E/D"
+    ],
+    [
+     "Am/C"
+    ],
+    [
+     "Am"
+    ],
+    [],
+    [],
+    [
+     "Am"
+    ]
+   ]
+  },
+  {
+   "name": "C",
+   "tonic": "C",
+   "bars": "64–93",
+   "sequence": [
+    [],
+    [
+     "F"
+    ],
+    [],
+    [
+     "D7/F#"
+    ],
+    [
+     "D/C"
+    ],
+    [
+     "Gm/Bb"
+    ],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [
+     "C/Bb"
+    ],
+    [
+     "F/A"
+    ],
+    [],
+    [],
+    [],
+    [
+     "Gm"
+    ],
+    [],
+    [
+     "E7"
+    ],
+    [],
+    [
+     "Am"
+    ],
+    [],
+    [
+     "Bb"
+    ],
+    [],
+    [
+     "F/A"
+    ],
+    [],
+    [
+     "G7"
+    ],
+    [],
+    [
+     "F"
+    ]
+   ]
+  }
+ ],
+ "notes": [
+  "Grille générée automatiquement depuis le texte du PDF : à vérifier.",
+  "Reprises et fins non détectées : les mesures sont dans l'ordre d'écriture."
+ ],
+ "confidence": "low",
+ "source": [
+  "pdf/Candinho - Trinta de Janeiro - Theme - C.pdf"
+ ],
+ "generated": "pdf"
+}

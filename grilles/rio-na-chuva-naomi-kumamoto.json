@@ -1,0 +1,175 @@
+{
+ "song_id": "rio-na-chuva-naomi-kumamoto",
+ "title": "Rio na chuva",
+ "composer": "Naomi Kumamoto",
+ "transposition": "c",
+ "meter": "2/4",
+ "form": "A — B — C",
+ "parts": [
+  {
+   "name": "A",
+   "tonic": "C",
+   "bars": "1–16",
+   "sequence": [
+    [
+     "Bb/D",
+     "Bb7/D"
+    ],
+    [
+     "Dm6",
+     "Bm7(b5)"
+    ],
+    [
+     "E7(b9)"
+    ],
+    [
+     "Dm6"
+    ],
+    [],
+    [],
+    [
+     "Dm/C"
+    ],
+    [],
+    [],
+    [
+     "Dm6"
+    ],
+    [
+     "E7(b9)"
+    ],
+    [
+     "Dm6"
+    ],
+    [],
+    [
+     "C7(b9)"
+    ],
+    [
+     "Bb6"
+    ],
+    [
+     "Em7(b5)",
+     "A7(b9)"
+    ]
+   ]
+  },
+  {
+   "name": "B",
+   "tonic": "C",
+   "bars": "17–32",
+   "sequence": [
+    [],
+    [
+     "Dm"
+    ],
+    [
+     "E7(b9)"
+    ],
+    [
+     "Bb6"
+    ],
+    [],
+    [
+     "C7(b9)"
+    ],
+    [],
+    [
+     "F/A",
+     "Bb6"
+    ],
+    [
+     "Bb7(9)"
+    ],
+    [],
+    [],
+    [],
+    [],
+    [
+     "F/A"
+    ],
+    [
+     "Bb/Ab",
+     "F6/A"
+    ],
+    [
+     "C#/D"
+    ]
+   ]
+  },
+  {
+   "name": "C",
+   "tonic": "C",
+   "bars": "34–54",
+   "sequence": [
+    [
+     "Dm6"
+    ],
+    [],
+    [],
+    [],
+    [
+     "D6"
+    ],
+    [
+     "D6",
+     "A7(9)"
+    ],
+    [
+     "D6",
+     "B/A",
+     "Em/G"
+    ],
+    [
+     "C#/D"
+    ],
+    [
+     "Em"
+    ],
+    [
+     "Em"
+    ],
+    [
+     "A/G",
+     "Bb/F"
+    ],
+    [
+     "Em7(b5)"
+    ],
+    [
+     "D6"
+    ],
+    [
+     "D6",
+     "A7(9)"
+    ],
+    [
+     "D6"
+    ],
+    [
+     "G6"
+    ],
+    [],
+    [
+     "D/F#"
+    ],
+    [
+     "D"
+    ],
+    [],
+    [
+     "Dm6"
+    ]
+   ]
+  }
+ ],
+ "notes": [
+  "Grille générée automatiquement depuis le texte du PDF : à vérifier.",
+  "Reprises et fins non détectées : les mesures sont dans l'ordre d'écriture."
+ ],
+ "confidence": "low",
+ "source": [
+  "pdf/Naomi Kumamoto - Rio na chuva - Theme - C.pdf"
+ ],
+ "generated": "pdf"
+}

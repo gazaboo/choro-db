@@ -1,0 +1,168 @@
+{
+ "song_id": "brejeiro-ernesto-nazareth",
+ "title": "Brejeiro",
+ "composer": "Ernesto Nazareth",
+ "transposition": "c",
+ "meter": "2/4",
+ "form": "A (reprise) — B (reprise)",
+ "parts": [
+  {
+   "name": "A",
+   "tonic": "G",
+   "bars": "1–19",
+   "repeat": true,
+   "sequence": [
+    [
+     "G"
+    ],
+    [
+     "D7"
+    ],
+    [
+     "G"
+    ],
+    [
+     "D7"
+    ],
+    [
+     "G"
+    ],
+    [
+     "D7"
+    ],
+    [
+     "G"
+    ],
+    [
+     "D7"
+    ],
+    [
+     "G"
+    ],
+    [
+     "D7"
+    ],
+    [
+     "B7"
+    ],
+    [
+     "Em"
+    ],
+    [
+     "A7"
+    ],
+    [
+     "D7"
+    ],
+    [
+     "G"
+    ],
+    [
+     "C"
+    ],
+    [
+     "D7"
+    ]
+   ],
+   "endings": {
+    "1": [
+     [
+      "G"
+     ]
+    ],
+    "2": [
+     [
+      "G",
+      "A7"
+     ]
+    ]
+   }
+  },
+  {
+   "name": "B",
+   "tonic": "D",
+   "bars": "20–38",
+   "repeat": true,
+   "sequence": [
+    [
+     "D"
+    ],
+    [
+     "A7"
+    ],
+    [
+     "D",
+     "Fdim"
+    ],
+    [
+     "A7/E"
+    ],
+    [
+     "D"
+    ],
+    [
+     "F#m/C#"
+    ],
+    [
+     "C#7/G#",
+     "C#7"
+    ],
+    [
+     "F#m",
+     "A7"
+    ],
+    [
+     "D"
+    ],
+    [
+     "A7"
+    ],
+    [
+     "D",
+     "Fdim"
+    ],
+    [
+     "A7/E"
+    ],
+    [
+     "D",
+     "F#7/C#"
+    ],
+    [
+     "Bm",
+     "Em/G"
+    ],
+    [
+     "D/A",
+     "A7"
+    ],
+    [
+     "G"
+    ],
+    [
+     "D7"
+    ]
+   ],
+   "endings": {
+    "1": [
+     [
+      "D"
+     ]
+    ],
+    "2": [
+     [
+      "D"
+     ]
+    ]
+   }
+  }
+ ],
+ "notes": [
+  "Grille générée automatiquement depuis la partition MusicXML : à vérifier."
+ ],
+ "confidence": "medium",
+ "source": [
+  "mxl/C/Ernesto Nazareth - Brejeiro - Theme - C.mxl"
+ ],
+ "generated": "mxl"
+}

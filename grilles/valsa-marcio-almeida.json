@@ -1,0 +1,218 @@
+{
+ "song_id": "valsa-marcio-almeida",
+ "title": "Valsa",
+ "composer": "Márcio Almeida",
+ "transposition": "c",
+ "meter": "2/4",
+ "form": "A — B — Coda",
+ "parts": [
+  {
+   "name": "A",
+   "tonic": "Am",
+   "bars": "1–31",
+   "sequence": [
+    [
+     "B7/D#"
+    ],
+    [
+     "E7"
+    ],
+    [
+     "Am"
+    ],
+    [
+     "Am/G"
+    ],
+    [
+     "Dm/F"
+    ],
+    [
+     "E7"
+    ],
+    [
+     "Am"
+    ],
+    [],
+    [
+     "B7/D#"
+    ],
+    [
+     "E7"
+    ],
+    [
+     "Am"
+    ],
+    [],
+    [
+     "Em"
+    ],
+    [
+     "B7"
+    ],
+    [
+     "E7"
+    ],
+    [],
+    [
+     "B7/D#"
+    ],
+    [
+     "E7"
+    ],
+    [
+     "Am"
+    ],
+    [
+     "Am/G"
+    ],
+    [
+     "Dm/F"
+    ],
+    [
+     "E7"
+    ],
+    [
+     "Am"
+    ],
+    [
+     "A7/C#"
+    ],
+    [
+     "Dm"
+    ],
+    [
+     "G7"
+    ],
+    [
+     "C"
+    ],
+    [
+     "F7"
+    ],
+    [
+     "Bb"
+    ],
+    [
+     "E7"
+    ],
+    [
+     "Am"
+    ]
+   ]
+  },
+  {
+   "name": "B",
+   "tonic": "C",
+   "bars": "33–65",
+   "sequence": [
+    [],
+    [],
+    [
+     "A"
+    ],
+    [
+     "F#m7"
+    ],
+    [
+     "B7"
+    ],
+    [],
+    [
+     "E7"
+    ],
+    [],
+    [
+     "A"
+    ],
+    [],
+    [
+     "C#7"
+    ],
+    [],
+    [
+     "F#m"
+    ],
+    [],
+    [
+     "B7"
+    ],
+    [],
+    [
+     "Bm"
+    ],
+    [
+     "E7"
+    ],
+    [
+     "A"
+    ],
+    [
+     "F#m"
+    ],
+    [
+     "B7"
+    ],
+    [],
+    [
+     "E7"
+    ],
+    [],
+    [
+     "A"
+    ],
+    [
+     "A/G"
+    ],
+    [
+     "D"
+    ],
+    [
+     "Dm6"
+    ],
+    [
+     "A"
+    ],
+    [
+     "F#7"
+    ],
+    [
+     "B7"
+    ],
+    [
+     "E7"
+    ],
+    [
+     "A"
+    ]
+   ]
+  },
+  {
+   "name": "Coda",
+   "tonic": "Am",
+   "bars": "66–70",
+   "sequence": [
+    [],
+    [],
+    [
+     "Am6",
+     "F"
+    ],
+    [
+     "E7"
+    ],
+    [
+     "Am"
+    ]
+   ]
+  }
+ ],
+ "notes": [
+  "Grille générée automatiquement depuis le texte du PDF : à vérifier.",
+  "Reprises et fins non détectées : les mesures sont dans l'ordre d'écriture."
+ ],
+ "confidence": "low",
+ "source": [
+  "pdf/Márcio Almeida - Valsa - Theme - C.pdf"
+ ],
+ "generated": "pdf"
+}

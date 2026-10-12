@@ -1,0 +1,209 @@
+{
+ "song_id": "solucando-candinho",
+ "title": "Soluçando",
+ "composer": "Candinho",
+ "transposition": "c",
+ "meter": "2/4",
+ "form": "A — B — C",
+ "parts": [
+  {
+   "name": "A",
+   "tonic": "C",
+   "bars": "1–31",
+   "sequence": [
+    [
+     "C"
+    ],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [
+     "G7"
+    ],
+    [],
+    [
+     "Bm7(b5)"
+    ],
+    [
+     "E7/G#"
+    ],
+    [
+     "Am"
+    ],
+    [
+     "Am",
+     "D7"
+    ],
+    [
+     "G"
+    ],
+    [
+     "D7"
+    ],
+    [
+     "G"
+    ],
+    [
+     "G7"
+    ],
+    [
+     "C"
+    ],
+    [],
+    [],
+    [],
+    [
+     "C7/G"
+    ],
+    [],
+    [
+     "F"
+    ],
+    [
+     "Fm6"
+    ],
+    [],
+    [],
+    [
+     "C"
+    ],
+    [],
+    [
+     "Dm"
+    ],
+    [],
+    [
+     "C"
+    ]
+   ]
+  },
+  {
+   "name": "B",
+   "tonic": "Am",
+   "bars": "32–49",
+   "sequence": [
+    [
+     "C"
+    ],
+    [
+     "C",
+     "E7"
+    ],
+    [],
+    [
+     "Am"
+    ],
+    [
+     "E7"
+    ],
+    [
+     "Am"
+    ],
+    [
+     "Am",
+     "D7"
+    ],
+    [
+     "G"
+    ],
+    [
+     "D7"
+    ],
+    [
+     "G7"
+    ],
+    [],
+    [
+     "C"
+    ],
+    [
+     "D7",
+     "G7"
+    ],
+    [
+     "C"
+    ],
+    [],
+    [
+     "B7"
+    ],
+    [
+     "E7"
+    ],
+    [
+     "Am"
+    ]
+   ]
+  },
+  {
+   "name": "C",
+   "tonic": "C",
+   "bars": "50–70",
+   "sequence": [
+    [
+     "Am"
+    ],
+    [
+     "Am"
+    ],
+    [
+     "C",
+     "C7"
+    ],
+    [],
+    [
+     "F"
+    ],
+    [],
+    [
+     "Gm"
+    ],
+    [],
+    [
+     "C7"
+    ],
+    [],
+    [
+     "F"
+    ],
+    [],
+    [
+     "F"
+    ],
+    [
+     "Cm6",
+     "D7"
+    ],
+    [
+     "Gm"
+    ],
+    [
+     "Gm"
+    ],
+    [
+     "F/A"
+    ],
+    [],
+    [
+     "F"
+    ],
+    [],
+    [
+     "F",
+     "G7"
+    ]
+   ]
+  }
+ ],
+ "notes": [
+  "Grille générée automatiquement depuis le texte du PDF : à vérifier.",
+  "Reprises et fins non détectées : les mesures sont dans l'ordre d'écriture."
+ ],
+ "confidence": "low",
+ "source": [
+  "pdf/Candinho - Soluçando - Theme - C.pdf"
+ ],
+ "generated": "pdf"
+}

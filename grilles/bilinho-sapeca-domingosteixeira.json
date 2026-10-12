@@ -1,0 +1,175 @@
+{
+ "song_id": "bilinho-sapeca-domingosteixeira",
+ "title": "Bilinho - Sapeca",
+ "composer": "DomingosTeixeira",
+ "transposition": "c",
+ "meter": "2/4",
+ "form": "A — B — C",
+ "parts": [
+  {
+   "name": "A",
+   "tonic": "Am",
+   "bars": "1–14",
+   "sequence": [
+    [
+     "Cm6"
+    ],
+    [
+     "Dm7(b5)"
+    ],
+    [],
+    [
+     "Cm6"
+    ],
+    [
+     "Am7(b5)",
+     "D7(b9)"
+    ],
+    [],
+    [
+     "Am7(b5)",
+     "D7(b9)"
+    ],
+    [],
+    [
+     "Cm6"
+    ],
+    [
+     "Dm7(b5)"
+    ],
+    [],
+    [],
+    [
+     "Fm6/Ab"
+    ],
+    [
+     "Am6/C"
+    ]
+   ]
+  },
+  {
+   "name": "B",
+   "tonic": "C",
+   "bars": "16–33",
+   "sequence": [
+    [
+     "Cm"
+    ],
+    [
+     "Cm"
+    ],
+    [],
+    [
+     "Bb7"
+    ],
+    [
+     "Eb6",
+     "Eb/G"
+    ],
+    [
+     "Fm6",
+     "Dm7(b5)"
+    ],
+    [],
+    [
+     "Bbm7"
+    ],
+    [],
+    [],
+    [
+     "Bb7"
+    ],
+    [
+     "Bb7"
+    ],
+    [
+     "Eb6",
+     "Eb/G"
+    ],
+    [
+     "Fm6",
+     "Dm7(b5)"
+    ],
+    [],
+    [
+     "Db7"
+    ],
+    [
+     "Eb7"
+    ],
+    [
+     "Bb7"
+    ]
+   ]
+  },
+  {
+   "name": "C",
+   "tonic": "C",
+   "bars": "34–53",
+   "sequence": [
+    [
+     "Eb"
+    ],
+    [],
+    [
+     "Cm"
+    ],
+    [],
+    [
+     "Bbm7",
+     "Eb7"
+    ],
+    [],
+    [
+     "Bbm7",
+     "Eb7"
+    ],
+    [],
+    [
+     "Gm7(b5)",
+     "C7(b9)"
+    ],
+    [],
+    [
+     "C/G"
+    ],
+    [
+     "C/G"
+    ],
+    [
+     "Bbm7",
+     "Eb7"
+    ],
+    [],
+    [
+     "Bbm7",
+     "Eb7"
+    ],
+    [],
+    [
+     "Dbm7",
+     "Gb7"
+    ],
+    [
+     "B6"
+    ],
+    [
+     "Bbm7",
+     "Eb7"
+    ],
+    [
+     "Ab6"
+    ]
+   ]
+  }
+ ],
+ "notes": [
+  "Grille générée automatiquement depuis le texte du PDF : à vérifier.",
+  "Reprises et fins non détectées : les mesures sont dans l'ordre d'écriture."
+ ],
+ "confidence": "low",
+ "source": [
+  "pdf/DomingosTeixeira - Bilinho - Sapeca - Theme - C.pdf"
+ ],
+ "generated": "pdf"
+}

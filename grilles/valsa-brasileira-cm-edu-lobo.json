@@ -1,0 +1,188 @@
+{
+ "song_id": "valsa-brasileira-cm-edu-lobo",
+ "title": "Valsa Brasileira Cm",
+ "composer": "Edu Lobo",
+ "transposition": "c",
+ "meter": "2/4",
+ "form": "A — B — C — D — E — Coda",
+ "parts": [
+  {
+   "name": "A",
+   "tonic": "C",
+   "bars": "1–15",
+   "sequence": [
+    [
+     "G7(b9)"
+    ],
+    [
+     "Cm7(9)"
+    ],
+    [],
+    [
+     "Dm7(9)"
+    ],
+    [],
+    [],
+    [
+     "G/F"
+    ],
+    [
+     "C/E"
+    ],
+    [
+     "F/Eb"
+    ],
+    [
+     "Bb/D"
+    ],
+    [
+     "Eb/Db"
+    ],
+    [
+     "Cm"
+    ],
+    [
+     "Am7(b5)"
+    ],
+    [],
+    [
+     "G7(b9)"
+    ]
+   ]
+  },
+  {
+   "name": "B",
+   "tonic": "C",
+   "bars": "16–24",
+   "sequence": [
+    [
+     "Cm7"
+    ],
+    [],
+    [
+     "Cm7"
+    ],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [
+     "Eb7/Bb"
+    ]
+   ]
+  },
+  {
+   "name": "C",
+   "tonic": "C",
+   "bars": "28–36",
+   "sequence": [
+    [],
+    [],
+    [],
+    [
+     "Cm/Bb"
+    ],
+    [
+     "Cm/B"
+    ],
+    [],
+    [
+     "F7(9)"
+    ],
+    [
+     "Cm/G"
+    ],
+    [
+     "Bb7(9)"
+    ]
+   ]
+  },
+  {
+   "name": "D",
+   "tonic": "C",
+   "bars": "37–48",
+   "sequence": [
+    [
+     "Cb/Gb"
+    ],
+    [],
+    [
+     "Fm7(b5)"
+    ],
+    [],
+    [
+     "Dbm6/Fb"
+    ],
+    [
+     "Eb7(b9)"
+    ],
+    [],
+    [
+     "G7(b9)"
+    ],
+    [
+     "Cm7",
+     "Cm/Bb"
+    ],
+    [],
+    [],
+    [
+     "G7(b9)"
+    ]
+   ]
+  },
+  {
+   "name": "E",
+   "tonic": "C",
+   "bars": "49–53",
+   "sequence": [
+    [
+     "Cm/Bb"
+    ],
+    [
+     "Cm/B"
+    ],
+    [],
+    [
+     "F7(9)"
+    ],
+    [
+     "Cm/G"
+    ]
+   ]
+  },
+  {
+   "name": "Coda",
+   "tonic": "C",
+   "bars": "54–59",
+   "sequence": [
+    [
+     "Bb7(9)"
+    ],
+    [
+     "Cb7(13)"
+    ],
+    [
+     "Abm69"
+    ],
+    [
+     "Fm7(9)"
+    ],
+    [],
+    [
+     "Eb"
+    ]
+   ]
+  }
+ ],
+ "notes": [
+  "Grille générée automatiquement depuis le texte du PDF : à vérifier.",
+  "Reprises et fins non détectées : les mesures sont dans l'ordre d'écriture."
+ ],
+ "confidence": "low",
+ "source": [
+  "pdf/Edu Lobo - Valsa Brasileira Cm - Theme - C.pdf"
+ ],
+ "generated": "pdf"
+}

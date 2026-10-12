@@ -1,0 +1,146 @@
+{
+ "song_id": "iara-anacleto-de-medeiros",
+ "title": "Iara",
+ "composer": "Anacleto de Medeiros",
+ "transposition": "c",
+ "meter": "2/2",
+ "form": "A (reprise) — B (reprise) — C (reprise)",
+ "parts": [
+  {
+   "name": "A",
+   "tonic": "Dm",
+   "bars": "1–8",
+   "repeat": true,
+   "sequence": [
+    [
+     "Dm",
+     "Dm/C"
+    ],
+    [
+     "Gm/Bb",
+     "Bb7"
+    ],
+    [
+     "A7",
+     "A/G"
+    ],
+    [
+     "Dm/F",
+     "D7/F#"
+    ],
+    [
+     "Gm6"
+    ],
+    [
+     "Dm/F"
+    ],
+    [
+     "Em7b5",
+     "A7"
+    ],
+    [
+     "Dm"
+    ]
+   ]
+  },
+  {
+   "name": "B",
+   "tonic": "F",
+   "bars": "9–X1",
+   "repeat": true,
+   "sequence": [
+    [
+     "C7(9)"
+    ],
+    [
+     "F6"
+    ],
+    [
+     "A7(b9)"
+    ],
+    [
+     "Dm",
+     "D/C"
+    ],
+    [
+     "Gm/Bb",
+     "Bbm6"
+    ],
+    [
+     "F/A",
+     "Abdim"
+    ],
+    [],
+    [
+     "F6",
+     "C7/E"
+    ]
+   ],
+   "endings": {
+    "1": [
+     [
+      "Gm7",
+      "C7"
+     ],
+     [
+      "F6",
+      "G#dim",
+      "F/A",
+      "F#dim"
+     ]
+    ],
+    "2": [
+     [
+      "F6"
+     ]
+    ]
+   }
+  },
+  {
+   "name": "C",
+   "tonic": "D",
+   "bars": "19–27",
+   "repeat": true,
+   "sequence": [
+    [
+     "G/B",
+     "A7"
+    ],
+    [
+     "Dm/F",
+     "Bb7"
+    ],
+    [
+     "A7",
+     "A7/C#"
+    ],
+    [
+     "D6",
+     "D#dim"
+    ],
+    [
+     "Em"
+    ],
+    [
+     "D/A",
+     "B7",
+     "Em7",
+     "A7"
+    ],
+    [
+     "D6"
+    ],
+    [],
+    []
+   ]
+  }
+ ],
+ "notes": [
+  "Grille générée automatiquement depuis la partition MusicXML : à vérifier."
+ ],
+ "confidence": "medium",
+ "source": [
+  "mxl/C/Anacleto de Medeiros - Iara - Theme - C.mxl"
+ ],
+ "generated": "mxl"
+}

@@ -1,0 +1,183 @@
+{
+ "song_id": "sanfonando-luiz-gonzaga",
+ "title": "Sanfonando",
+ "composer": "Luiz Gonzaga",
+ "transposition": "c",
+ "meter": "2/4",
+ "form": "A — B — C — D",
+ "parts": [
+  {
+   "name": "A",
+   "tonic": "Am",
+   "bars": "1–8",
+   "sequence": [
+    [
+     "Bm7(b5)"
+    ],
+    [
+     "Dm"
+    ],
+    [
+     "Bb7"
+    ],
+    [
+     "A7",
+     "A/G"
+    ],
+    [],
+    [
+     "Dm"
+    ],
+    [
+     "Am"
+    ],
+    [
+     "E7"
+    ]
+   ]
+  },
+  {
+   "name": "B",
+   "tonic": "C",
+   "bars": "9–16",
+   "sequence": [
+    [
+     "Bb7",
+     "Bb/Ab"
+    ],
+    [
+     "Dm/A"
+    ],
+    [
+     "Bb7"
+    ],
+    [
+     "A7",
+     "A/G",
+     "D7/F#"
+    ],
+    [
+     "D/C"
+    ],
+    [],
+    [
+     "Dm"
+    ],
+    [
+     "Bb7"
+    ]
+   ]
+  },
+  {
+   "name": "C",
+   "tonic": "C",
+   "bars": "17–26",
+   "sequence": [
+    [],
+    [
+     "Dm"
+    ],
+    [],
+    [
+     "A7"
+    ],
+    [
+     "Dm"
+    ],
+    [
+     "A7"
+    ],
+    [
+     "Dm"
+    ],
+    [
+     "A7"
+    ],
+    [
+     "Dm"
+    ],
+    [
+     "A7"
+    ]
+   ]
+  },
+  {
+   "name": "D",
+   "tonic": "C",
+   "bars": "27–47",
+   "sequence": [
+    [
+     "Dm"
+    ],
+    [
+     "Dm",
+     "A7"
+    ],
+    [
+     "Dm",
+     "A7"
+    ],
+    [],
+    [
+     "D"
+    ],
+    [],
+    [
+     "D"
+    ],
+    [
+     "Em"
+    ],
+    [],
+    [],
+    [
+     "Em",
+     "A7"
+    ],
+    [
+     "D"
+    ],
+    [
+     "D/F#",
+     "A7/E"
+    ],
+    [
+     "D"
+    ],
+    [
+     "B7"
+    ],
+    [
+     "Em"
+    ],
+    [
+     "G6",
+     "E7/G#"
+    ],
+    [
+     "D/A"
+    ],
+    [
+     "A7",
+     "D",
+     "A7",
+     "D",
+     "A7"
+    ],
+    [],
+    [
+     "Dm"
+    ]
+   ]
+  }
+ ],
+ "notes": [
+  "Grille générée automatiquement depuis le texte du PDF : à vérifier.",
+  "Reprises et fins non détectées : les mesures sont dans l'ordre d'écriture."
+ ],
+ "confidence": "low",
+ "source": [
+  "pdf/Luiz Gonzaga - Sanfonando - Theme - C.pdf"
+ ],
+ "generated": "pdf"
+}

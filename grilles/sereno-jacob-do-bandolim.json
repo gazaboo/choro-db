@@ -1,0 +1,180 @@
+{
+ "song_id": "sereno-jacob-do-bandolim",
+ "title": "Sereno",
+ "composer": "Jacob do Bandolim",
+ "transposition": "c",
+ "meter": "2/4",
+ "form": "A (reprise) — B (reprise) — Coda",
+ "parts": [
+  {
+   "name": "A",
+   "tonic": "C",
+   "bars": "1–17",
+   "repeat": true,
+   "sequence": [
+    [
+     "Am"
+    ],
+    [
+     "Dm",
+     "Dm6"
+    ],
+    [
+     "D#dim",
+     "E7(b9)"
+    ],
+    [
+     "Am7",
+     "Bb7(9)"
+    ],
+    [
+     "Am",
+     "Am6"
+    ],
+    [
+     "Em/G"
+    ],
+    [
+     "F#m7b5",
+     "B7/F#"
+    ],
+    [
+     "E7sus4",
+     "E7(b9)"
+    ],
+    [
+     "Am"
+    ],
+    [
+     "Dm",
+     "Dm6"
+    ],
+    [
+     "D#dim",
+     "E7(b9)"
+    ],
+    [
+     "Gm6",
+     "A7(b9)"
+    ],
+    [
+     "Dm7",
+     "D#dim"
+    ],
+    [
+     "Am/E",
+     "F6"
+    ],
+    [
+     "F#dim",
+     "F7",
+     "E7"
+    ]
+   ],
+   "endings": {
+    "1": [
+     [
+      "Am",
+      "E7"
+     ]
+    ],
+    "2": [
+     [
+      "Am",
+      "G7(9)"
+     ]
+    ]
+   }
+  },
+  {
+   "name": "B",
+   "tonic": "Am",
+   "bars": "18–X1",
+   "repeat": true,
+   "sequence": [
+    [
+     "C6(9)"
+    ],
+    [
+     "Fm6/C"
+    ],
+    [
+     "C6(9)"
+    ],
+    [
+     "Fm6/C"
+    ],
+    [
+     "C6(9)",
+     "E7(b9)"
+    ],
+    [
+     "Am7"
+    ],
+    [
+     "D7(9)"
+    ],
+    [
+     "G7"
+    ],
+    [
+     "Cm"
+    ],
+    [
+     "Ab/C"
+    ],
+    [
+     "Cm6",
+     "C7/E"
+    ],
+    [
+     "Fm7"
+    ],
+    [
+     "D7/F#"
+    ],
+    [
+     "C/G",
+     "C(#5)"
+    ],
+    [
+     "F",
+     "G7"
+    ]
+   ],
+   "endings": {
+    "1": [
+     [
+      "C6",
+      "G7(9)"
+     ]
+    ],
+    "2": [
+     [
+      "C6",
+      "E7"
+     ]
+    ]
+   }
+  },
+  {
+   "name": "Coda",
+   "tonic": "Am",
+   "bars": "35–35",
+   "repeat": false,
+   "sequence": [
+    [
+     "Am"
+    ]
+   ]
+  }
+ ],
+ "notes": [
+  "Grille générée automatiquement depuis la partition MusicXML : à vérifier."
+ ],
+ "confidence": "medium",
+ "source": [
+  "mxl/C/Jacob do Bandolim - Sereno - Theme - C.mxl"
+ ],
+ "generated": "mxl"
+}

@@ -1,0 +1,243 @@
+{
+ "song_id": "proveta-na-madrugada-mauricio-carrilho",
+ "title": "Proveta na madrugada",
+ "composer": "Maurício Carrilho",
+ "transposition": "c",
+ "meter": "2/4",
+ "form": "A (reprise) — B (reprise) — C (reprise)",
+ "parts": [
+  {
+   "name": "A",
+   "tonic": "Am",
+   "bars": "1–17",
+   "repeat": true,
+   "sequence": [
+    [
+     "C",
+     "C6"
+    ],
+    [
+     "G7"
+    ],
+    [
+     "C"
+    ],
+    [
+     "A7/C#"
+    ],
+    [
+     "Dm7",
+     "E7"
+    ],
+    [
+     "Am",
+     "B7"
+    ],
+    [
+     "E6",
+     "B7"
+    ],
+    [
+     "E7",
+     "G7"
+    ],
+    [
+     "C",
+     "B7"
+    ],
+    [
+     "E7(b9)",
+     "A7"
+    ],
+    [
+     "Ab7",
+     "G7"
+    ],
+    [
+     "Gm6"
+    ],
+    [
+     "Fmaj7",
+     "Ab/Gb"
+    ],
+    [
+     "C/G",
+     "Ab7(9)"
+    ],
+    [
+     "Db6",
+     "G7(b9)"
+    ]
+   ],
+   "endings": {
+    "1": [
+     [
+      "C",
+      "G7"
+     ]
+    ],
+    "2": [
+     [
+      "C",
+      "E7"
+     ]
+    ]
+   }
+  },
+  {
+   "name": "B",
+   "tonic": "C",
+   "bars": "18–X1",
+   "repeat": true,
+   "sequence": [
+    [
+     "Am",
+     "B/A"
+    ],
+    [
+     "Am(9)",
+     "Fm/Ab"
+    ],
+    [
+     "C/G"
+    ],
+    [
+     "F#m7b5",
+     "B7"
+    ],
+    [
+     "Bm7b5",
+     "E7(b9)"
+    ],
+    [
+     "Am"
+    ],
+    [
+     "Ab7(b9)"
+    ],
+    [
+     "E7(9)",
+     "C#7(b9)"
+    ],
+    [
+     "F#m",
+     "Bm6/F#"
+    ],
+    [
+     "Em6",
+     "A7"
+    ],
+    [
+     "D7(9)"
+    ],
+    [
+     "G7",
+     "F#7"
+    ],
+    [
+     "Dm6/F",
+     "B7/F#"
+    ],
+    [
+     "A/E",
+     "F7"
+    ],
+    [
+     "Bb6",
+     "E7"
+    ]
+   ],
+   "endings": {
+    "1": [
+     [
+      "Am(9)",
+      "E7(b9)"
+     ]
+    ],
+    "2": [
+     [
+      "Am(9)",
+      "G7"
+     ]
+    ]
+   }
+  },
+  {
+   "name": "C",
+   "tonic": "F",
+   "bars": "36–52",
+   "repeat": true,
+   "sequence": [
+    [
+     "Fmaj7"
+    ],
+    [
+     "Gb7(13)"
+    ],
+    [
+     "Fmaj7"
+    ],
+    [
+     "D7/F#"
+    ],
+    [
+     "Gm",
+     "A7(b9)"
+    ],
+    [
+     "Dm7",
+     "E7(b9)"
+    ],
+    [
+     "A(9)",
+     "Bb7(9)"
+    ],
+    [
+     "A(9)",
+     "C7(9)"
+    ],
+    [
+     "Fmaj7"
+    ],
+    [
+     "Gb7(13)"
+    ],
+    [
+     "Fmaj7"
+    ],
+    [
+     "D7/F#"
+    ],
+    [
+     "Gm7b5"
+    ],
+    [
+     "F6",
+     "Abm6"
+    ],
+    [
+     "Gbmaj7",
+     "C7(b9)"
+    ],
+    [
+     "F6"
+    ],
+    []
+   ],
+   "transition_in": [
+    [
+     "C",
+     "C7"
+    ]
+   ]
+  }
+ ],
+ "notes": [
+  "Grille générée automatiquement depuis la partition MusicXML : à vérifier."
+ ],
+ "confidence": "medium",
+ "source": [
+  "mxl/C/Maurício Carrilho - Proveta na madrugada - Theme - C.mxl"
+ ],
+ "generated": "mxl"
+}

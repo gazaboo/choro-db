@@ -1,0 +1,248 @@
+{
+ "song_id": "flor-do-cerrado-waldir-azevedo",
+ "title": "Flor do Cerrado",
+ "composer": "Waldir Azevedo",
+ "transposition": "c",
+ "meter": "2/4",
+ "form": "A (reprise) — B (reprise) — C — D (reprise)",
+ "parts": [
+  {
+   "name": "A",
+   "tonic": "Dm",
+   "bars": "0–42",
+   "repeat": true,
+   "sequence": [
+    [
+     "Gm"
+    ],
+    [
+     "A7"
+    ],
+    [
+     "Dm"
+    ],
+    [
+     "Cm6/Eb"
+    ],
+    [
+     "D7"
+    ],
+    [],
+    [
+     "Gm",
+     "D7/A"
+    ],
+    [
+     "Gm/Bb"
+    ],
+    [
+     "A7/E"
+    ],
+    [
+     "A7"
+    ],
+    [
+     "Dm/F",
+     "A7/E"
+    ],
+    [
+     "Dm"
+    ],
+    [
+     "E7"
+    ],
+    [],
+    [
+     "Eb"
+    ],
+    [
+     "A7"
+    ],
+    [
+     "Gm"
+    ],
+    [
+     "Em7b5"
+    ],
+    [
+     "Dm/F"
+    ],
+    [
+     "Cm6/Eb"
+    ],
+    [
+     "D7"
+    ],
+    [],
+    [
+     "Gm",
+     "D7/A"
+    ],
+    [
+     "Gm/Bb"
+    ],
+    [],
+    [
+     "C7"
+    ],
+    [
+     "F"
+    ],
+    [
+     "D7"
+    ],
+    [
+     "Gm"
+    ],
+    [
+     "C7"
+    ],
+    [
+     "Cm6/Eb"
+    ],
+    [
+     "D7"
+    ],
+    [
+     "Gm"
+    ],
+    [
+     "C7"
+    ],
+    [
+     "F"
+    ],
+    [
+     "Dm"
+    ],
+    [
+     "Bb7"
+    ],
+    [
+     "A7"
+    ],
+    [
+     "Em7",
+     "A7"
+    ]
+   ],
+   "endings": {
+    "1": [
+     [
+      "Dm"
+     ],
+     [
+      "Dm/F"
+     ]
+    ],
+    "2": [
+     [
+      "Dm"
+     ]
+    ]
+   }
+  },
+  {
+   "name": "B",
+   "tonic": "D",
+   "bars": "43–52",
+   "repeat": true,
+   "sequence": [
+    [
+     "D6"
+    ],
+    [],
+    [
+     "Fdim"
+    ],
+    [],
+    [
+     "Em7"
+    ],
+    [],
+    []
+   ],
+   "endings": {
+    "1": [
+     [
+      "A7"
+     ],
+     []
+    ],
+    "2": [
+     [
+      "A7"
+     ]
+    ]
+   }
+  },
+  {
+   "name": "C",
+   "tonic": "D",
+   "bars": "53–X1",
+   "repeat": false,
+   "sequence": [
+    [
+     "D7"
+    ],
+    [],
+    [
+     "G"
+    ],
+    [],
+    [
+     "E7"
+    ],
+    [],
+    [
+     "Gm6/Bb"
+    ],
+    [
+     "A7"
+    ],
+    [
+     "D6"
+    ],
+    [],
+    [
+     "Fdim"
+    ],
+    [],
+    [
+     "Em7"
+    ],
+    [
+     "A7"
+    ],
+    [
+     "Dm"
+    ],
+    [
+     "D7"
+    ]
+   ]
+  },
+  {
+   "name": "D",
+   "tonic": "Dm",
+   "bars": "69–72",
+   "repeat": true,
+   "sequence": [
+    [
+     "Dm"
+    ],
+    [],
+    [],
+    []
+   ]
+  }
+ ],
+ "notes": [
+  "Grille générée automatiquement depuis la partition MusicXML : à vérifier."
+ ],
+ "confidence": "medium",
+ "source": [
+  "mxl/C/Waldir Azevedo - Flor do Cerrado - Theme - C.mxl"
+ ],
+ "generated": "mxl"
+}

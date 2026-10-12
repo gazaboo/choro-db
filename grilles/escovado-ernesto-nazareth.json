@@ -1,0 +1,264 @@
+{
+ "song_id": "escovado-ernesto-nazareth",
+ "title": "Escovado",
+ "composer": "Ernesto Nazareth",
+ "transposition": "c",
+ "meter": "2/4",
+ "form": "A (reprise) — B (reprise) — C (reprise)",
+ "parts": [
+  {
+   "name": "A",
+   "tonic": "A",
+   "bars": "1–16",
+   "repeat": true,
+   "sequence": [
+    [
+     "A",
+     "A/C#"
+    ],
+    [
+     "E7/B",
+     "E/D"
+    ],
+    [
+     "A",
+     "A/C#"
+    ],
+    [
+     "E7/B",
+     "E7/G#"
+    ],
+    [
+     "A",
+     "A/C#"
+    ],
+    [
+     "C#m/G#"
+    ],
+    [
+     "G#7"
+    ],
+    [
+     "C#m",
+     "E7/B"
+    ],
+    [
+     "A",
+     "A/C#"
+    ],
+    [
+     "E7/B",
+     "E/D"
+    ],
+    [
+     "A",
+     "A/C#"
+    ],
+    [
+     "E7/B",
+     "E7/G#"
+    ],
+    [
+     "A",
+     "A/G"
+    ],
+    [
+     "F#dim",
+     "F7"
+    ],
+    [
+     "E7"
+    ],
+    [
+     "A"
+    ]
+   ]
+  },
+  {
+   "name": "B",
+   "tonic": "F#m",
+   "bars": "17–X1",
+   "repeat": true,
+   "sequence": [
+    [
+     "F#m",
+     "C#7/G#"
+    ],
+    [
+     "F#m/A"
+    ],
+    [
+     "C#7"
+    ],
+    [
+     "F#m"
+    ],
+    [
+     "F#m",
+     "C#7/G#"
+    ],
+    [
+     "F#m/A"
+    ],
+    [
+     "E7"
+    ],
+    [
+     "A",
+     "C#7"
+    ],
+    [
+     "F#m",
+     "C#7/G#"
+    ],
+    [
+     "F#m/A"
+    ],
+    [
+     "C#7"
+    ],
+    [
+     "F#m",
+     "F#7/E"
+    ],
+    [
+     "Bm/D",
+     "F#7/C#"
+    ],
+    [
+     "Bm",
+     "Cdim"
+    ],
+    [
+     "F#m/C#",
+     "C#7"
+    ],
+    [
+     "F#m"
+    ]
+   ]
+  },
+  {
+   "name": "C",
+   "tonic": "D",
+   "bars": "34–67",
+   "repeat": true,
+   "sequence": [
+    [
+     "A7"
+    ],
+    [
+     "A7/C#"
+    ],
+    [
+     "D"
+    ],
+    [],
+    [
+     "F#7/C#"
+    ],
+    [
+     "F#7/A#"
+    ],
+    [
+     "Bm"
+    ],
+    [
+     "Bm",
+     "B/A"
+    ],
+    [
+     "E7/G#"
+    ],
+    [
+     "A/G"
+    ],
+    [
+     "D/F#"
+    ],
+    [
+     "D/F#",
+     "Fdim"
+    ],
+    [
+     "A7/E"
+    ],
+    [
+     "A7(#5)"
+    ],
+    [
+     "D"
+    ],
+    [
+     "D"
+    ],
+    [
+     "A7"
+    ],
+    [
+     "A7/C#"
+    ],
+    [
+     "D"
+    ],
+    [
+     "D"
+    ],
+    [
+     "F#7/C#"
+    ],
+    [],
+    [
+     "Bm"
+    ],
+    [
+     "Bm",
+     "B/A"
+    ],
+    [
+     "E7/G#"
+    ],
+    [
+     "A/G"
+    ],
+    [
+     "D/F#"
+    ],
+    [
+     "Eb/G"
+    ],
+    [
+     "D/A"
+    ],
+    [
+     "A7"
+    ],
+    [
+     "D"
+    ],
+    []
+   ],
+   "endings": {
+    "1": [
+     []
+    ],
+    "2": [
+     []
+    ]
+   },
+   "transition_in": [
+    [
+     "A"
+    ]
+   ]
+  }
+ ],
+ "notes": [
+  "Grille générée automatiquement depuis la partition MusicXML : à vérifier."
+ ],
+ "confidence": "medium",
+ "source": [
+  "mxl/C/Ernesto Nazareth - Escovado - Theme - C.mxl"
+ ],
+ "generated": "mxl"
+}

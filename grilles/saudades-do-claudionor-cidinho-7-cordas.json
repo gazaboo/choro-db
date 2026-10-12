@@ -1,0 +1,133 @@
+{
+ "song_id": "saudades-do-claudionor-cidinho-7-cordas",
+ "title": "Saudades do Claudionor",
+ "composer": "Cidinho 7 Cordas",
+ "transposition": "c",
+ "meter": "2/4",
+ "form": "A — B — Coda",
+ "parts": [
+  {
+   "name": "A",
+   "tonic": "Am",
+   "bars": "1–13",
+   "sequence": [
+    [
+     "D"
+    ],
+    [],
+    [],
+    [
+     "F#7"
+    ],
+    [
+     "G#m7(b5)"
+    ],
+    [
+     "F#m7",
+     "C#7"
+    ],
+    [
+     "F#m7"
+    ],
+    [],
+    [
+     "D"
+    ],
+    [],
+    [
+     "Am"
+    ],
+    [
+     "Gm",
+     "Gm6"
+    ],
+    [
+     "D/F#"
+    ]
+   ]
+  },
+  {
+   "name": "B",
+   "tonic": "C",
+   "bars": "15–31",
+   "sequence": [
+    [
+     "D"
+    ],
+    [
+     "Dm",
+     "Dm/C"
+    ],
+    [],
+    [],
+    [
+     "Dm"
+    ],
+    [
+     "Em7(b5)"
+    ],
+    [
+     "Dm",
+     "Dm/C"
+    ],
+    [],
+    [
+     "Dm",
+     "Dm6"
+    ],
+    [],
+    [
+     "Gm6/Bb"
+    ],
+    [],
+    [
+     "Dm"
+    ],
+    [
+     "Gm6"
+    ],
+    [],
+    [],
+    [
+     "Bb7"
+    ]
+   ]
+  },
+  {
+   "name": "Coda",
+   "tonic": "C",
+   "bars": "33–38",
+   "sequence": [
+    [
+     "Dm",
+     "Dm/C"
+    ],
+    [
+     "D"
+    ],
+    [
+     "D"
+    ],
+    [
+     "G",
+     "Gm"
+    ],
+    [
+     "D/F#"
+    ],
+    [
+     "D"
+    ]
+   ]
+  }
+ ],
+ "notes": [
+  "Grille générée automatiquement depuis le texte du PDF : à vérifier.",
+  "Reprises et fins non détectées : les mesures sont dans l'ordre d'écriture."
+ ],
+ "confidence": "low",
+ "source": [
+  "pdf/Cidinho 7 Cordas - Saudades do Claudionor - Theme - C.pdf"
+ ],
+ "generated": "pdf"
+}

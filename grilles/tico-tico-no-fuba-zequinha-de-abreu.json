@@ -1,0 +1,180 @@
+{
+ "song_id": "tico-tico-no-fuba-zequinha-de-abreu",
+ "title": "Tico Tico No Fuba",
+ "composer": "Zequinha De Abreu",
+ "transposition": "c",
+ "meter": "2/4",
+ "form": "A — B — C — D",
+ "parts": [
+  {
+   "name": "A",
+   "tonic": "Am",
+   "bars": "1–1",
+   "sequence": [
+    [
+     "Am"
+    ]
+   ]
+  },
+  {
+   "name": "B",
+   "tonic": "Am",
+   "bars": "5–19",
+   "sequence": [
+    [],
+    [
+     "Am",
+     "Am/C"
+    ],
+    [],
+    [
+     "E/D"
+    ],
+    [
+     "Am/C"
+    ],
+    [
+     "Dm",
+     "Dm/F"
+    ],
+    [
+     "Am/E"
+    ],
+    [],
+    [],
+    [
+     "Am",
+     "Am/C"
+    ],
+    [],
+    [
+     "E/D"
+    ],
+    [
+     "Am/C"
+    ],
+    [
+     "Dm/F"
+    ],
+    [
+     "Am/E"
+    ]
+   ]
+  },
+  {
+   "name": "C",
+   "tonic": "Am",
+   "bars": "21–38",
+   "sequence": [
+    [
+     "Am"
+    ],
+    [
+     "Am"
+    ],
+    [],
+    [
+     "A"
+    ],
+    [],
+    [
+     "A"
+    ],
+    [],
+    [],
+    [],
+    [],
+    [
+     "A/C#"
+    ],
+    [
+     "A"
+    ],
+    [],
+    [
+     "F#7",
+     "F#7/A#"
+    ],
+    [
+     "Bm/D"
+    ],
+    [
+     "Bm/D"
+    ],
+    [
+     "A/E",
+     "F#m7"
+    ],
+    [
+     "Bm"
+    ]
+   ]
+  },
+  {
+   "name": "D",
+   "tonic": "C",
+   "bars": "39–59",
+   "sequence": [
+    [
+     "A"
+    ],
+    [
+     "A"
+    ],
+    [
+     "Am"
+    ],
+    [],
+    [
+     "C"
+    ],
+    [],
+    [],
+    [
+     "C"
+    ],
+    [
+     "C"
+    ],
+    [],
+    [
+     "G/F"
+    ],
+    [
+     "C/E"
+    ],
+    [
+     "C"
+    ],
+    [],
+    [],
+    [
+     "C",
+     "C/E"
+    ],
+    [
+     "Dm/F"
+    ],
+    [
+     "C/G"
+    ],
+    [],
+    [
+     "C"
+    ],
+    [
+     "C"
+    ]
+   ]
+  }
+ ],
+ "notes": [
+  "Grille générée automatiquement depuis le texte du PDF : à vérifier.",
+  "Reprises et fins non détectées : les mesures sont dans l'ordre d'écriture."
+ ],
+ "confidence": "low",
+ "source": [
+  "pdf/Zequinha De Abreu - Tico Tico No Fuba - Theme - C.pdf"
+ ],
+ "generated": "pdf"
+}

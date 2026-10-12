@@ -1,0 +1,118 @@
+{
+ "song_id": "to-de-volta-rafael-mallmith",
+ "title": "Tô de volta",
+ "composer": "Rafael Mallmith",
+ "transposition": "c",
+ "meter": "2/4",
+ "form": "A — B — Coda",
+ "parts": [
+  {
+   "name": "A",
+   "tonic": "C",
+   "bars": "1–16",
+   "sequence": [
+    [
+     "C/Bb"
+    ],
+    [],
+    [],
+    [
+     "Am"
+    ],
+    [],
+    [
+     "C/G"
+    ],
+    [],
+    [
+     "C"
+    ],
+    [
+     "C/Bb"
+    ],
+    [],
+    [],
+    [
+     "Am"
+    ],
+    [
+     "Bb7(9)"
+    ],
+    [],
+    [],
+    [
+     "C"
+    ]
+   ]
+  },
+  {
+   "name": "B",
+   "tonic": "Am",
+   "bars": "17–34",
+   "sequence": [
+    [
+     "C"
+    ],
+    [],
+    [],
+    [],
+    [],
+    [
+     "Am"
+    ],
+    [
+     "Am",
+     "F#m7(b5)"
+    ],
+    [
+     "Em"
+    ],
+    [],
+    [],
+    [
+     "Am"
+    ],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [
+     "Bb"
+    ],
+    [
+     "Am"
+    ]
+   ]
+  },
+  {
+   "name": "Coda",
+   "tonic": "C",
+   "bars": "35–38",
+   "sequence": [
+    [
+     "Am"
+    ],
+    [
+     "C",
+     "Ab7"
+    ],
+    [
+     "Db"
+    ],
+    [
+     "C"
+    ]
+   ]
+  }
+ ],
+ "notes": [
+  "Grille générée automatiquement depuis le texte du PDF : à vérifier.",
+  "Reprises et fins non détectées : les mesures sont dans l'ordre d'écriture."
+ ],
+ "confidence": "low",
+ "source": [
+  "pdf/Rafael Mallmith - Tô de volta - Theme - C.pdf"
+ ],
+ "generated": "pdf"
+}

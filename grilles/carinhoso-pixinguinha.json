@@ -1,0 +1,241 @@
+{
+ "song_id": "carinhoso-pixinguinha",
+ "title": "Carinhoso",
+ "composer": "Pixinguinha",
+ "transposition": "c",
+ "meter": "2/4",
+ "form": "A — B (reprise) — C — Coda",
+ "parts": [
+  {
+   "name": "A",
+   "tonic": "F",
+   "bars": "0–5",
+   "repeat": false,
+   "sequence": [
+    [
+     "Db7/Ab"
+    ],
+    [
+     "F/A",
+     "D7"
+    ],
+    [
+     "G7",
+     "C7"
+    ],
+    [
+     "F",
+     "Bbm6/Db",
+     "C7"
+    ],
+    [
+     "F"
+    ]
+   ]
+  },
+  {
+   "name": "B",
+   "tonic": "F",
+   "bars": "6–22",
+   "repeat": true,
+   "sequence": [
+    [
+     "F",
+     "F(#5)"
+    ],
+    [
+     "F6",
+     "F(#5)"
+    ],
+    [
+     "F",
+     "F(#5)"
+    ],
+    [
+     "F6",
+     "D#dim"
+    ],
+    [
+     "Am"
+    ],
+    [
+     "Am6"
+    ],
+    [
+     "Am"
+    ],
+    [
+     "Am6",
+     "A7"
+    ],
+    [
+     "Dm",
+     "G7"
+    ],
+    [
+     "C7",
+     "F7"
+    ],
+    [
+     "Bb",
+     "D7"
+    ],
+    [
+     "Gm7"
+    ],
+    [
+     "G7"
+    ],
+    [
+     "Bbm6/Db",
+     "C7"
+    ],
+    [
+     "F",
+     "Bbm6/Db",
+     "C7"
+    ]
+   ],
+   "endings": {
+    "1": [
+     [
+      "F"
+     ]
+    ],
+    "2": [
+     [
+      "F",
+      "E7"
+     ]
+    ]
+   }
+  },
+  {
+   "name": "C",
+   "tonic": "F",
+   "bars": "23–X1",
+   "repeat": false,
+   "sequence": [
+    [
+     "Am"
+    ],
+    [
+     "Bm7b5",
+     "E7"
+    ],
+    [
+     "Am"
+    ],
+    [
+     "Am",
+     "Ab7"
+    ],
+    [
+     "C/G",
+     "Am7"
+    ],
+    [
+     "D7",
+     "G7"
+    ],
+    [
+     "C",
+     "Db7/Ab"
+    ],
+    [
+     "Gm7",
+     "C7"
+    ],
+    [
+     "F"
+    ],
+    [
+     "F"
+    ],
+    [
+     "E7"
+    ],
+    [
+     "E7/G#"
+    ],
+    [
+     "Gm7"
+    ],
+    [
+     "C7"
+    ],
+    [
+     "F"
+    ],
+    [
+     "Em7b5",
+     "A7"
+    ],
+    [
+     "Dm",
+     "A7/C#"
+    ],
+    [
+     "Dm",
+     "F7"
+    ],
+    [
+     "Bb",
+     "D7/F#"
+    ],
+    [
+     "Gm",
+     "Bbm6"
+    ],
+    [
+     "F/A"
+    ],
+    [
+     "C7"
+    ],
+    [
+     "F",
+     "F/Eb"
+    ],
+    [
+     "Bb/D",
+     "Bbm6/Db"
+    ],
+    [
+     "F/C",
+     "F/Eb"
+    ],
+    [
+     "Bb/D",
+     "Bbm6/Db"
+    ]
+   ]
+  },
+  {
+   "name": "Coda",
+   "tonic": "F",
+   "bars": "49–51",
+   "repeat": false,
+   "sequence": [
+    [
+     "Bb/D",
+     "Bbm6/Db"
+    ],
+    [
+     "F"
+    ],
+    [
+     "F"
+    ]
+   ]
+  }
+ ],
+ "notes": [
+  "Grille générée automatiquement depuis la partition MusicXML : à vérifier."
+ ],
+ "confidence": "medium",
+ "source": [
+  "mxl/C/Pixinguinha - Carinhoso - Theme - C.mxl"
+ ],
+ "generated": "mxl"
+}

@@ -1,0 +1,195 @@
+{
+ "song_id": "nao-gostei-dos-seus-modos-aristides-oliveira",
+ "title": "Não gostei dos seus modos",
+ "composer": "Aristides Oliveira",
+ "transposition": "c",
+ "meter": "2/4",
+ "form": "A — B (reprise) — C (reprise)",
+ "parts": [
+  {
+   "name": "A",
+   "tonic": "Dm",
+   "bars": "1–16",
+   "repeat": false,
+   "sequence": [
+    [
+     "Dm"
+    ],
+    [
+     "A7/C#"
+    ],
+    [
+     "Cm6",
+     "D7"
+    ],
+    [
+     "Gm"
+    ],
+    [
+     "A7"
+    ],
+    [
+     "Dm"
+    ],
+    [
+     "E7"
+    ],
+    [
+     "A7"
+    ],
+    [
+     "Dm"
+    ],
+    [
+     "A7/C#"
+    ],
+    [
+     "Cm6",
+     "D7"
+    ],
+    [
+     "Gm"
+    ],
+    [
+     "A7"
+    ],
+    [
+     "Dm"
+    ],
+    [
+     "Bb7",
+     "A7"
+    ],
+    [
+     "Dm"
+    ]
+   ]
+  },
+  {
+   "name": "B",
+   "tonic": "F",
+   "bars": "17–X1",
+   "repeat": true,
+   "sequence": [
+    [
+     "C7"
+    ],
+    [
+     "F"
+    ],
+    [
+     "C7"
+    ],
+    [
+     "F"
+    ],
+    [
+     "A7"
+    ],
+    [
+     "Dm"
+    ],
+    [
+     "G7"
+    ],
+    [
+     "C7"
+    ],
+    [
+     "C7"
+    ],
+    [
+     "F"
+    ],
+    [
+     "C7"
+    ],
+    [
+     "F"
+    ],
+    [
+     "D7/F#"
+    ],
+    [
+     "Gm",
+     "G#dim"
+    ],
+    [
+     "F/A",
+     "G7",
+     "C7"
+    ],
+    [
+     "F"
+    ]
+   ]
+  },
+  {
+   "name": "C",
+   "tonic": "D",
+   "bars": "33–49",
+   "repeat": true,
+   "sequence": [
+    [
+     "D",
+     "A7"
+    ],
+    [
+     "D"
+    ],
+    [],
+    [
+     "Em"
+    ],
+    [
+     "F#7"
+    ],
+    [
+     "Bm"
+    ],
+    [
+     "E7"
+    ],
+    [
+     "A7"
+    ],
+    [
+     "D",
+     "A7"
+    ],
+    [
+     "D"
+    ],
+    [
+     "B7"
+    ],
+    [
+     "Em"
+    ],
+    [
+     "Bb7"
+    ],
+    [
+     "D",
+     "Bm7"
+    ],
+    [
+     "Em",
+     "A7"
+    ],
+    [
+     "D"
+    ],
+    []
+   ]
+  }
+ ],
+ "notes": [
+  "Grille générée automatiquement depuis la partition MusicXML : à vérifier."
+ ],
+ "confidence": "medium",
+ "source": [
+  "mxl/C/Aristides Oliveira - Não gostei dos seus modos - Theme - C.mxl"
+ ],
+ "generated": "mxl"
+}

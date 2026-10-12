@@ -1,0 +1,128 @@
+{
+ "song_id": "vaidoso-moacir-santos",
+ "title": "Vaidoso",
+ "composer": "Moacir Santos",
+ "transposition": "c",
+ "meter": "2/4",
+ "form": "A — B",
+ "parts": [
+  {
+   "name": "A",
+   "tonic": "C",
+   "bars": "1–21",
+   "sequence": [
+    [
+     "Ab7",
+     "G7"
+    ],
+    [
+     "Cm"
+    ],
+    [],
+    [
+     "Bb6"
+    ],
+    [],
+    [],
+    [
+     "Eb6"
+    ],
+    [],
+    [],
+    [
+     "Dm",
+     "Bbadd9"
+    ],
+    [
+     "Bb7(9)"
+    ],
+    [
+     "Eb6"
+    ],
+    [
+     "Ebm6"
+    ],
+    [
+     "Bb6"
+    ],
+    [],
+    [],
+    [],
+    [],
+    [
+     "G7"
+    ],
+    [],
+    [
+     "Eb6"
+    ]
+   ]
+  },
+  {
+   "name": "B",
+   "tonic": "C",
+   "bars": "22–42",
+   "sequence": [
+    [
+     "Ebm6",
+     "Bb6"
+    ],
+    [
+     "Bb6/D"
+    ],
+    [
+     "Bb6"
+    ],
+    [
+     "Bb7(9)"
+    ],
+    [],
+    [],
+    [],
+    [
+     "Bb7"
+    ],
+    [
+     "Bb7"
+    ],
+    [
+     "Eb6"
+    ],
+    [
+     "Ebm6",
+     "Bb6/D"
+    ],
+    [
+     "Bb6"
+    ],
+    [
+     "Fm"
+    ],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [
+     "Bb"
+    ],
+    [
+     "Bb6"
+    ],
+    [
+     "Bb7",
+     "Bb6"
+    ]
+   ]
+  }
+ ],
+ "notes": [
+  "Grille générée automatiquement depuis le texte du PDF : à vérifier.",
+  "Reprises et fins non détectées : les mesures sont dans l'ordre d'écriture."
+ ],
+ "confidence": "low",
+ "source": [
+  "pdf/Moacir Santos - Vaidoso - Theme - C.pdf"
+ ],
+ "generated": "pdf"
+}

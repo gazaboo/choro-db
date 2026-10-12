@@ -1,0 +1,199 @@
+{
+ "song_id": "tempo-de-crianca-dilermando-reis",
+ "title": "Tempo De Criança",
+ "composer": "Dilermando Reis",
+ "transposition": "c",
+ "meter": "2/4",
+ "form": "A — B — Coda",
+ "parts": [
+  {
+   "name": "A",
+   "tonic": "Am",
+   "bars": "1–31",
+   "sequence": [
+    [
+     "Am"
+    ],
+    [
+     "Am",
+     "A/G"
+    ],
+    [
+     "Dm/F"
+    ],
+    [
+     "Dm"
+    ],
+    [
+     "E7"
+    ],
+    [],
+    [
+     "Am"
+    ],
+    [
+     "Am"
+    ],
+    [
+     "Am"
+    ],
+    [
+     "Am"
+    ],
+    [
+     "Em/G"
+    ],
+    [],
+    [
+     "F#7/A#"
+    ],
+    [],
+    [
+     "E7"
+    ],
+    [],
+    [
+     "Am"
+    ],
+    [
+     "Am",
+     "A/G"
+    ],
+    [
+     "Dm/F"
+    ],
+    [
+     "Dm"
+    ],
+    [
+     "E7"
+    ],
+    [
+     "E7/G#"
+    ],
+    [
+     "A7"
+    ],
+    [],
+    [
+     "Dm"
+    ],
+    [
+     "Dm6/F"
+    ],
+    [
+     "Am/E"
+    ],
+    [
+     "Am"
+    ],
+    [],
+    [],
+    [
+     "Am"
+    ]
+   ]
+  },
+  {
+   "name": "B",
+   "tonic": "C",
+   "bars": "32–63",
+   "sequence": [
+    [],
+    [],
+    [
+     "G7"
+    ],
+    [
+     "G/F"
+    ],
+    [
+     "C/E"
+    ],
+    [],
+    [
+     "Bm7(b5)"
+    ],
+    [
+     "E/D"
+    ],
+    [
+     "A7/C#"
+    ],
+    [
+     "A7"
+    ],
+    [
+     "Dm"
+    ],
+    [],
+    [
+     "Am"
+    ],
+    [
+     "Am/G"
+    ],
+    [],
+    [],
+    [
+     "Dm6/F"
+    ],
+    [],
+    [
+     "G/F"
+    ],
+    [
+     "G7",
+     "G/F"
+    ],
+    [
+     "C/E"
+    ],
+    [],
+    [],
+    [],
+    [
+     "F"
+    ],
+    [],
+    [],
+    [],
+    [
+     "C/G"
+    ],
+    [],
+    [],
+    [
+     "G7"
+    ]
+   ]
+  },
+  {
+   "name": "Coda",
+   "tonic": "Am",
+   "bars": "64–68",
+   "sequence": [
+    [
+     "C"
+    ],
+    [],
+    [
+     "C"
+    ],
+    [],
+    [
+     "Am"
+    ]
+   ]
+  }
+ ],
+ "notes": [
+  "Grille générée automatiquement depuis le texte du PDF : à vérifier.",
+  "Reprises et fins non détectées : les mesures sont dans l'ordre d'écriture."
+ ],
+ "confidence": "low",
+ "source": [
+  "pdf/Dilermando Reis - Tempo De Criança - Theme - C.pdf"
+ ],
+ "generated": "pdf"
+}

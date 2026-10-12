@@ -1,0 +1,194 @@
+{
+ "song_id": "um-clarinete-a-jato-k-ximbinho",
+ "title": "Um clarinete a jato",
+ "composer": "K-Ximbinho",
+ "transposition": "c",
+ "meter": "2/4",
+ "form": "A — B — C",
+ "parts": [
+  {
+   "name": "A",
+   "tonic": "C",
+   "bars": "1–16",
+   "sequence": [
+    [
+     "Gm"
+    ],
+    [
+     "Gm",
+     "D7/F#"
+    ],
+    [
+     "Gm",
+     "Gm/F"
+    ],
+    [
+     "Cm/Eb"
+    ],
+    [
+     "Cm6/Eb"
+    ],
+    [
+     "D7"
+    ],
+    [
+     "D7/F#"
+    ],
+    [
+     "Gm"
+    ],
+    [
+     "Gm"
+    ],
+    [
+     "Gm",
+     "D7/F#"
+    ],
+    [
+     "Gm",
+     "G7/B"
+    ],
+    [
+     "Cm"
+    ],
+    [],
+    [
+     "Gm"
+    ],
+    [
+     "Eb7",
+     "D7"
+    ],
+    [
+     "Gm"
+    ]
+   ]
+  },
+  {
+   "name": "B",
+   "tonic": "C",
+   "bars": "17–32",
+   "sequence": [
+    [],
+    [
+     "G6",
+     "D7/A"
+    ],
+    [
+     "G/B",
+     "D/C"
+    ],
+    [
+     "G/B",
+     "E7/G#"
+    ],
+    [
+     "Am6"
+    ],
+    [],
+    [
+     "Em"
+    ],
+    [
+     "A7(9)"
+    ],
+    [
+     "D7",
+     "D7/F#"
+    ],
+    [
+     "G6",
+     "D7/A"
+    ],
+    [
+     "G/B",
+     "D/C"
+    ],
+    [
+     "G/B",
+     "G7"
+    ],
+    [
+     "C"
+    ],
+    [
+     "D7/F#"
+    ],
+    [
+     "Eb7/G"
+    ],
+    [
+     "D7"
+    ]
+   ]
+  },
+  {
+   "name": "C",
+   "tonic": "C",
+   "bars": "34–50",
+   "sequence": [
+    [],
+    [
+     "Bb",
+     "Eb/Bb"
+    ],
+    [
+     "Bb"
+    ],
+    [
+     "Bb",
+     "G7/B"
+    ],
+    [
+     "Cm7(b5)"
+    ],
+    [
+     "Cm6",
+     "D7"
+    ],
+    [
+     "G7",
+     "C7"
+    ],
+    [
+     "F7"
+    ],
+    [
+     "Bb"
+    ],
+    [
+     "G7/B"
+    ],
+    [
+     "Cm",
+     "G7/B"
+    ],
+    [
+     "Cm",
+     "G7/D"
+    ],
+    [
+     "Cm/Eb"
+    ],
+    [],
+    [],
+    [
+     "C7(9)",
+     "F7"
+    ],
+    [
+     "Bb"
+    ]
+   ]
+  }
+ ],
+ "notes": [
+  "Grille générée automatiquement depuis le texte du PDF : à vérifier.",
+  "Reprises et fins non détectées : les mesures sont dans l'ordre d'écriture."
+ ],
+ "confidence": "low",
+ "source": [
+  "pdf/K-Ximbinho - Um clarinete a jato - Theme - C.pdf"
+ ],
+ "generated": "pdf"
+}

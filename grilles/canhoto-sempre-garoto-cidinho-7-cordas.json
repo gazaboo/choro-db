@@ -1,0 +1,193 @@
+{
+ "song_id": "canhoto-sempre-garoto-cidinho-7-cordas",
+ "title": "Canhoto sempre garoto",
+ "composer": "Cidinho 7 Cordas",
+ "transposition": "c",
+ "meter": "2/4",
+ "form": "A (reprise) — B (reprise) — Coda",
+ "parts": [
+  {
+   "name": "A",
+   "tonic": "Am",
+   "bars": "0–17",
+   "repeat": true,
+   "sequence": [
+    [
+     "Ebdim"
+    ],
+    [
+     "Dm",
+     "G7"
+    ],
+    [
+     "C",
+     "Ebdim"
+    ],
+    [
+     "Dm7",
+     "G7"
+    ],
+    [
+     "C",
+     "Ebdim"
+    ],
+    [
+     "Dm7",
+     "G7"
+    ],
+    [
+     "C/E",
+     "Cm6/Eb"
+    ],
+    [
+     "G/D",
+     "D7/F#"
+    ],
+    [
+     "G",
+     "Ebdim"
+    ],
+    [
+     "Dm7",
+     "G7"
+    ],
+    [
+     "C",
+     "Ebdim"
+    ],
+    [
+     "Dm7",
+     "G7"
+    ],
+    [
+     "C7"
+    ],
+    [
+     "Fm",
+     "Bb7"
+    ],
+    [
+     "Ebm",
+     "Abm6"
+    ],
+    [
+     "Eb",
+     "Fm6",
+     "G7"
+    ]
+   ],
+   "endings": {
+    "1": [
+     [
+      "C",
+      "Ebdim"
+     ]
+    ],
+    "2": [
+     [
+      "C",
+      "E7"
+     ]
+    ]
+   }
+  },
+  {
+   "name": "B",
+   "tonic": "Am",
+   "bars": "18–X1",
+   "repeat": true,
+   "sequence": [
+    [
+     "Am"
+    ],
+    [
+     "Dm"
+    ],
+    [
+     "E7/G#"
+    ],
+    [
+     "Am",
+     "E7"
+    ],
+    [
+     "Am",
+     "F#m7b5"
+    ],
+    [
+     "E/G#"
+    ],
+    [
+     "F#7",
+     "B7"
+    ],
+    [
+     "E",
+     "E7"
+    ],
+    [
+     "Am"
+    ],
+    [
+     "Dm"
+    ],
+    [
+     "E7/G#"
+    ],
+    [
+     "Am",
+     "A7/C#"
+    ],
+    [
+     "D7",
+     "G7/B"
+    ],
+    [
+     "C",
+     "F7/A"
+    ],
+    [
+     "Bb",
+     "E7"
+    ]
+   ],
+   "endings": {
+    "1": [
+     [
+      "Am",
+      "E7"
+     ]
+    ],
+    "2": [
+     [
+      "Am",
+      "Ebdim"
+     ]
+    ]
+   }
+  },
+  {
+   "name": "Coda",
+   "tonic": "C",
+   "bars": "35–37",
+   "repeat": false,
+   "sequence": [
+    [
+     "C"
+    ],
+    [],
+    [
+     "C"
+    ]
+   ]
+  }
+ ],
+ "notes": [
+  "Grille générée automatiquement depuis la partition MusicXML : à vérifier."
+ ],
+ "confidence": "medium",
+ "source": [
+  "mxl/C/Cidinho 7 Cordas - Canhoto sempre garoto - Theme - C.mxl"
+ ],
+ "generated": "mxl"
+}

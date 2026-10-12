@@ -1,0 +1,217 @@
+{
+ "song_id": "choro-torto-alvaro-carrilho",
+ "title": "Choro torto",
+ "composer": "Álvaro Carrilho",
+ "transposition": "c",
+ "meter": "2/4",
+ "form": "A — B (reprise) — C — Coda",
+ "parts": [
+  {
+   "name": "A",
+   "tonic": "Am",
+   "bars": "0–32",
+   "repeat": false,
+   "sequence": [
+    [
+     "Am"
+    ],
+    [],
+    [
+     "Adim"
+    ],
+    [],
+    [
+     "Fdim/A"
+    ],
+    [
+     "E7(b9)"
+    ],
+    [
+     "Am",
+     "Am/G"
+    ],
+    [
+     "Dm/F",
+     "E7(b9)"
+    ],
+    [
+     "Am"
+    ],
+    [
+     "F#m7b5"
+    ],
+    [
+     "Em"
+    ],
+    [
+     "Em/D"
+    ],
+    [
+     "F#7/C#"
+    ],
+    [
+     "B7(b9)"
+    ],
+    [
+     "E7sus4"
+    ],
+    [
+     "E7(b9)"
+    ],
+    [
+     "Am"
+    ],
+    [],
+    [
+     "Adim"
+    ],
+    [],
+    [
+     "Fdim/A"
+    ],
+    [
+     "E7(b9)"
+    ],
+    [
+     "Gm6"
+    ],
+    [
+     "A/G"
+    ],
+    [
+     "Dm/F"
+    ],
+    [
+     "E7"
+    ],
+    [
+     "Am"
+    ],
+    [
+     "F7"
+    ],
+    [
+     "Bbm6"
+    ],
+    [
+     "E7(b9)"
+    ],
+    [
+     "Am"
+    ],
+    [
+     "B7(b9)"
+    ]
+   ]
+  },
+  {
+   "name": "B",
+   "tonic": "Em",
+   "bars": "33–49",
+   "repeat": true,
+   "sequence": [
+    [
+     "Em7"
+    ],
+    [
+     "Cmaj7(9)"
+    ],
+    [
+     "F#7(b13)"
+    ],
+    [
+     "G6"
+    ],
+    [
+     "Em(maj7)"
+    ],
+    [
+     "C6(9)/E"
+    ],
+    [
+     "F#7(b13)"
+    ],
+    [
+     "Em/G"
+    ],
+    [
+     "Dm6/F"
+    ],
+    [
+     "Fm6"
+    ],
+    [
+     "E7(b13)"
+    ],
+    [
+     "Am7(9)"
+    ],
+    [
+     "Gm6"
+    ]
+   ],
+   "endings": {
+    "1": [
+     [
+      "B7(b9)"
+     ],
+     [
+      "C7/E"
+     ],
+     [
+      "B7/F#"
+     ]
+    ],
+    "2": [
+     [
+      "B7sus4"
+     ]
+    ]
+   }
+  },
+  {
+   "name": "C",
+   "tonic": "G",
+   "bars": "50–X1",
+   "repeat": false,
+   "sequence": [
+    [
+     "B7(b9)"
+    ],
+    [
+     "C/Bb"
+    ],
+    [
+     "Am6",
+     "E7/G#"
+    ]
+   ]
+  },
+  {
+   "name": "Coda",
+   "tonic": "Am",
+   "bars": "53–55",
+   "repeat": false,
+   "sequence": [
+    [
+     "Am"
+    ],
+    [
+     "Am(maj7)",
+     "Am7"
+    ],
+    [
+     "G#7/A"
+    ]
+   ]
+  }
+ ],
+ "notes": [
+  "Grille générée automatiquement depuis la partition MusicXML : à vérifier."
+ ],
+ "confidence": "medium",
+ "source": [
+  "mxl/C/Álvaro Carrilho - Choro torto - Theme - C.mxl"
+ ],
+ "generated": "mxl"
+}

@@ -1,0 +1,107 @@
+{
+ "song_id": "ternura-jose-de-queiroz-baptista",
+ "title": "Ternura",
+ "composer": "José de Queiroz Baptista",
+ "transposition": "c",
+ "meter": "2/4",
+ "form": "A — B — C",
+ "parts": [
+  {
+   "name": "A",
+   "tonic": "C",
+   "bars": "1–8",
+   "sequence": [
+    [
+     "G"
+    ],
+    [
+     "C"
+    ],
+    [],
+    [
+     "G"
+    ],
+    [
+     "G"
+    ],
+    [
+     "Am/G"
+    ],
+    [],
+    [
+     "G"
+    ]
+   ]
+  },
+  {
+   "name": "B",
+   "tonic": "C",
+   "bars": "9–16",
+   "sequence": [
+    [],
+    [
+     "A/G"
+    ],
+    [
+     "D/F#"
+    ],
+    [],
+    [
+     "D6"
+    ],
+    [],
+    [
+     "D/A"
+    ],
+    [
+     "G"
+    ]
+   ]
+  },
+  {
+   "name": "C",
+   "tonic": "C",
+   "bars": "17–27",
+   "sequence": [
+    [
+     "D"
+    ],
+    [
+     "D"
+    ],
+    [],
+    [
+     "C"
+    ],
+    [
+     "G7/D"
+    ],
+    [],
+    [
+     "C"
+    ],
+    [],
+    [
+     "Dm",
+     "Dm/C"
+    ],
+    [
+     "G7/B",
+     "G7"
+    ],
+    [
+     "C"
+    ]
+   ]
+  }
+ ],
+ "notes": [
+  "Grille générée automatiquement depuis le texte du PDF : à vérifier.",
+  "Reprises et fins non détectées : les mesures sont dans l'ordre d'écriture."
+ ],
+ "confidence": "low",
+ "source": [
+  "pdf/José de Queiroz Baptista - Ternura - Theme - C.pdf"
+ ],
+ "generated": "pdf"
+}

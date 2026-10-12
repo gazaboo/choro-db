@@ -1,0 +1,192 @@
+{
+ "song_id": "tamoyo-chiquinha-gonzaga",
+ "title": "Tamoyo",
+ "composer": "Chiquinha Gonzaga",
+ "transposition": "c",
+ "meter": "2/4",
+ "form": "A — B — C — D — E",
+ "parts": [
+  {
+   "name": "A",
+   "tonic": "Am",
+   "bars": "1–2",
+   "sequence": [
+    [
+     "Em"
+    ],
+    [
+     "Am",
+     "B7/F#"
+    ]
+   ]
+  },
+  {
+   "name": "B",
+   "tonic": "Am",
+   "bars": "5–29",
+   "sequence": [
+    [],
+    [],
+    [],
+    [
+     "Em",
+     "E7"
+    ],
+    [
+     "F#m7b5"
+    ],
+    [
+     "Em/G"
+    ],
+    [
+     "F#7"
+    ],
+    [],
+    [],
+    [],
+    [],
+    [
+     "B7"
+    ],
+    [
+     "Em"
+    ],
+    [
+     "Am",
+     "B7/F#"
+    ],
+    [],
+    [
+     "Em",
+     "E7"
+    ],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [
+     "F#m7b5"
+    ],
+    [
+     "Em/G",
+     "F#m7b5"
+    ],
+    [
+     "B7"
+    ],
+    [
+     "Em"
+    ]
+   ]
+  },
+  {
+   "name": "C",
+   "tonic": "Am",
+   "bars": "30–48",
+   "sequence": [
+    [],
+    [],
+    [],
+    [],
+    [
+     "D7/A"
+    ],
+    [
+     "G",
+     "D7/A"
+    ],
+    [],
+    [
+     "G"
+    ],
+    [
+     "B7"
+    ],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [
+     "Em",
+     "C#m5b7"
+    ],
+    [
+     "C7",
+     "F#7"
+    ],
+    [
+     "B7",
+     "Am6/C"
+    ],
+    [
+     "B7"
+    ],
+    [
+     "Em"
+    ]
+   ]
+  },
+  {
+   "name": "D",
+   "tonic": "C",
+   "bars": "52–54",
+   "sequence": [
+    [],
+    [],
+    [
+     "Em"
+    ]
+   ]
+  },
+  {
+   "name": "E",
+   "tonic": "C",
+   "bars": "55–68",
+   "sequence": [
+    [
+     "E",
+     "F#m"
+    ],
+    [],
+    [
+     "B7"
+    ],
+    [
+     "E"
+    ],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [
+     "F#m"
+    ],
+    [],
+    [
+     "E/B",
+     "B7"
+    ],
+    [
+     "C",
+     "E"
+    ],
+    [
+     "C",
+     "E"
+    ]
+   ]
+  }
+ ],
+ "notes": [
+  "Grille générée automatiquement depuis le texte du PDF : à vérifier.",
+  "Reprises et fins non détectées : les mesures sont dans l'ordre d'écriture."
+ ],
+ "confidence": "low",
+ "source": [
+  "pdf/Chiquinha Gonzaga - Tamoyo - Theme - C.pdf"
+ ],
+ "generated": "pdf"
+}

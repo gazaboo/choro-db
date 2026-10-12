@@ -1,0 +1,224 @@
+{
+ "song_id": "raio-de-sol-rossini-ferreira",
+ "title": "Raio de sol",
+ "composer": "Rossini Ferreira",
+ "transposition": "c",
+ "meter": "2/4",
+ "form": "A — B — C — Coda",
+ "parts": [
+  {
+   "name": "A",
+   "tonic": "C",
+   "bars": "1–15",
+   "sequence": [
+    [
+     "G"
+    ],
+    [],
+    [],
+    [],
+    [
+     "Am"
+    ],
+    [],
+    [
+     "G/B"
+    ],
+    [],
+    [],
+    [
+     "G7(#5)"
+    ],
+    [
+     "C6"
+    ],
+    [
+     "Cm6"
+    ],
+    [
+     "G/B"
+    ],
+    [
+     "D7/A"
+    ],
+    [
+     "G"
+    ]
+   ]
+  },
+  {
+   "name": "B",
+   "tonic": "Am",
+   "bars": "16–49",
+   "sequence": [
+    [
+     "G"
+    ],
+    [
+     "G"
+    ],
+    [],
+    [
+     "Gm"
+    ],
+    [
+     "Gm/F"
+    ],
+    [],
+    [
+     "Eb7(b5)"
+    ],
+    [],
+    [
+     "D7"
+    ],
+    [
+     "Gm"
+    ],
+    [
+     "Gm/Bb"
+    ],
+    [
+     "Fm6/Ab"
+    ],
+    [
+     "G7"
+    ],
+    [
+     "C7"
+    ],
+    [],
+    [],
+    [],
+    [
+     "Bb"
+    ],
+    [
+     "Eb7/Bb",
+     "D7/A"
+    ],
+    [
+     "Gm"
+    ],
+    [
+     "Gm/F"
+    ],
+    [],
+    [
+     "Eb7(b5)"
+    ],
+    [],
+    [
+     "D7"
+    ],
+    [
+     "G7"
+    ],
+    [
+     "G7/B"
+    ],
+    [
+     "Cm"
+    ],
+    [
+     "Am7(b5)"
+    ],
+    [
+     "Gm/Bb"
+    ],
+    [
+     "Gm"
+    ],
+    [
+     "A7/C#"
+    ],
+    [],
+    [
+     "Gm"
+    ]
+   ]
+  },
+  {
+   "name": "C",
+   "tonic": "C",
+   "bars": "50–67",
+   "sequence": [
+    [
+     "Gm"
+    ],
+    [
+     "Gm"
+    ],
+    [],
+    [
+     "F"
+    ],
+    [],
+    [],
+    [],
+    [
+     "Gm"
+    ],
+    [],
+    [
+     "F/A"
+    ],
+    [],
+    [],
+    [
+     "F7(#5)"
+    ],
+    [
+     "Bb6"
+    ],
+    [
+     "Bbm6"
+    ],
+    [
+     "F/A"
+    ],
+    [],
+    [
+     "F"
+    ]
+   ]
+  },
+  {
+   "name": "Coda",
+   "tonic": "C",
+   "bars": "69–75",
+   "sequence": [
+    [
+     "G7"
+    ],
+    [
+     "G7(#5)"
+    ],
+    [
+     "C6"
+    ],
+    [
+     "Cm6"
+    ],
+    [
+     "G/B"
+    ],
+    [
+     "D7/A"
+    ],
+    [
+     "G"
+    ]
+   ]
+  }
+ ],
+ "notes": [
+  "Grille générée automatiquement depuis le texte du PDF : à vérifier.",
+  "Reprises et fins non détectées : les mesures sont dans l'ordre d'écriture."
+ ],
+ "confidence": "low",
+ "source": [
+  "pdf/Rossini Ferreira - Raio de sol - Theme - C.pdf"
+ ],
+ "generated": "pdf"
+}

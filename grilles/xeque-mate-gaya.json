@@ -1,0 +1,135 @@
+{
+ "song_id": "xeque-mate-gaya",
+ "title": "Xeque-mate",
+ "composer": "Gaya",
+ "transposition": "c",
+ "meter": "2/4",
+ "form": "A — B",
+ "parts": [
+  {
+   "name": "A",
+   "tonic": "C",
+   "bars": "1–13",
+   "sequence": [
+    [
+     "Eb6",
+     "C7"
+    ],
+    [
+     "F7(9)"
+    ],
+    [
+     "Bb7",
+     "Bb/Ab"
+    ],
+    [
+     "Bb7"
+    ],
+    [],
+    [],
+    [
+     "D7/F#"
+    ],
+    [],
+    [
+     "Eb6",
+     "C7"
+    ],
+    [
+     "F7(9)"
+    ],
+    [
+     "Bb7",
+     "Bb7/D"
+    ],
+    [
+     "Eb",
+     "G7"
+    ],
+    [
+     "Ab",
+     "Db7(9)"
+    ]
+   ]
+  },
+  {
+   "name": "B",
+   "tonic": "C",
+   "bars": "16–33",
+   "sequence": [
+    [
+     "Eb9"
+    ],
+    [
+     "Eb9",
+     "G7"
+    ],
+    [
+     "Cm",
+     "G7/B"
+    ],
+    [
+     "Cm/Bb",
+     "Am7(b5)"
+    ],
+    [
+     "Ab6"
+    ],
+    [
+     "Fm"
+    ],
+    [
+     "Fm6"
+    ],
+    [
+     "Cm7",
+     "Eb7"
+    ],
+    [
+     "G/D",
+     "D7"
+    ],
+    [
+     "G",
+     "G7"
+    ],
+    [
+     "Cm",
+     "G7/D"
+    ],
+    [
+     "Cm/Eb",
+     "Cm6"
+    ],
+    [
+     "Ab6"
+    ],
+    [
+     "Fm"
+    ],
+    [
+     "Dm7(b5)"
+    ],
+    [
+     "Cm7"
+    ],
+    [
+     "Db6"
+    ],
+    [
+     "Cm7",
+     "G7"
+    ]
+   ]
+  }
+ ],
+ "notes": [
+  "Grille générée automatiquement depuis le texte du PDF : à vérifier.",
+  "Reprises et fins non détectées : les mesures sont dans l'ordre d'écriture."
+ ],
+ "confidence": "low",
+ "source": [
+  "pdf/Gaya - Xeque-mate - Theme - C.pdf"
+ ],
+ "generated": "pdf"
+}

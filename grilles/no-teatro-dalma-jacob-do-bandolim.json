@@ -1,0 +1,223 @@
+{
+ "song_id": "no-teatro-dalma-jacob-do-bandolim",
+ "title": "No Teatro DAlma",
+ "composer": "Jacob do Bandolim",
+ "transposition": "c",
+ "meter": "3/4",
+ "form": "A (reprise) — B (reprise)",
+ "parts": [
+  {
+   "name": "A",
+   "tonic": "D",
+   "bars": "1–32",
+   "repeat": true,
+   "sequence": [
+    [
+     "D/F#"
+    ],
+    [
+     "F#dim"
+    ],
+    [
+     "Em/G"
+    ],
+    [
+     "A7",
+     "A/G"
+    ],
+    [
+     "D/F#"
+    ],
+    [
+     "F#dim"
+    ],
+    [
+     "Em/G"
+    ],
+    [
+     "A7"
+    ],
+    [
+     "D/F#"
+    ],
+    [
+     "F#7/A#"
+    ],
+    [
+     "Bm"
+    ],
+    [
+     "D7/A"
+    ],
+    [
+     "G"
+    ],
+    [
+     "B7/F#"
+    ],
+    [
+     "Em"
+    ],
+    [
+     "Em/G"
+    ],
+    [
+     "Bb7"
+    ],
+    [
+     "Bb/Ab"
+    ],
+    [
+     "Eb/G"
+    ],
+    [
+     "Eb"
+    ],
+    [
+     "A7"
+    ],
+    [],
+    [
+     "D"
+    ],
+    [
+     "D7/F#"
+    ],
+    [
+     "G"
+    ],
+    [
+     "G#dim"
+    ],
+    [
+     "D/A"
+    ],
+    [
+     "Bm7"
+    ],
+    [
+     "Gm6"
+    ],
+    [
+     "A7"
+    ],
+    [
+     "D"
+    ],
+    []
+   ]
+  },
+  {
+   "name": "B",
+   "tonic": "G",
+   "bars": "33–65",
+   "repeat": true,
+   "sequence": [
+    [
+     "D7/A"
+    ],
+    [
+     "G#dim"
+    ],
+    [
+     "D7/A"
+    ],
+    [
+     "D7"
+    ],
+    [
+     "G"
+    ],
+    [
+     "Gmaj7"
+    ],
+    [
+     "Bm7"
+    ],
+    [
+     "E7"
+    ],
+    [
+     "Am"
+    ],
+    [
+     "Fdim"
+    ],
+    [
+     "B/F#"
+    ],
+    [
+     "Cdim"
+    ],
+    [
+     "F#7/C#"
+    ],
+    [
+     "Cdim"
+    ],
+    [
+     "F#7/C#"
+    ],
+    [
+     "F#7/A#"
+    ],
+    [
+     "G#dim"
+    ],
+    [
+     "C#7"
+    ],
+    [
+     "F#m"
+    ],
+    [],
+    [
+     "B7"
+    ],
+    [
+     "B/A"
+    ],
+    [
+     "E/G#"
+    ],
+    [
+     "E7"
+    ],
+    [
+     "Am"
+    ],
+    [
+     "D7/F#"
+    ],
+    [
+     "G"
+    ],
+    [
+     "E7"
+    ],
+    [
+     "A7"
+    ],
+    [
+     "D7"
+    ],
+    [
+     "G"
+    ],
+    [
+     "G"
+    ],
+    []
+   ]
+  }
+ ],
+ "notes": [
+  "Grille générée automatiquement depuis la partition MusicXML : à vérifier.",
+  "Tonalité de la partition source non vérifiée."
+ ],
+ "confidence": "medium",
+ "source": [
+  "mxl/C/Jacob do Bandolim - No Teatro DAlma - Theme - C.mxl"
+ ],
+ "generated": "mxl"
+}

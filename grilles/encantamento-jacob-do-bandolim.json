@@ -1,0 +1,356 @@
+{
+ "song_id": "encantamento-jacob-do-bandolim",
+ "title": "Encantamento",
+ "composer": "Jacob do Bandolim",
+ "transposition": "c",
+ "meter": "3/4",
+ "form": "A — B — C — Coda",
+ "parts": [
+  {
+   "name": "A",
+   "tonic": "G",
+   "bars": "1–33",
+   "repeat": false,
+   "sequence": [
+    [],
+    [
+     "Bbdim"
+    ],
+    [
+     "D7/A"
+    ],
+    [
+     "G6"
+    ],
+    [
+     "G/B",
+     "Bbdim",
+     "Am7"
+    ],
+    [
+     "G6"
+    ],
+    [
+     "Fdim"
+    ],
+    [
+     "D7/F#"
+    ],
+    [
+     "D7"
+    ],
+    [
+     "A/G"
+    ],
+    [
+     "D7/F#"
+    ],
+    [
+     "A/G"
+    ],
+    [
+     "D7/F#"
+    ],
+    [
+     "A7/E"
+    ],
+    [
+     "D7/F#"
+    ],
+    [
+     "Bbdim"
+    ],
+    [
+     "G/B"
+    ],
+    [
+     "Bbdim"
+    ],
+    [
+     "D7/A"
+    ],
+    [
+     "G6"
+    ],
+    [
+     "G",
+     "D(#5)/F#",
+     "Dm6/F"
+    ],
+    [
+     "E7"
+    ],
+    [],
+    [
+     "Am"
+    ],
+    [
+     "E7/B"
+    ],
+    [
+     "Am/C"
+    ],
+    [
+     "A7/C#"
+    ],
+    [
+     "G6/D"
+    ],
+    [
+     "E7/G#"
+    ],
+    [
+     "A7"
+    ],
+    [
+     "D7"
+    ],
+    [
+     "G6"
+    ],
+    [
+     "G6"
+    ]
+   ]
+  },
+  {
+   "name": "B",
+   "tonic": "D",
+   "bars": "34–67",
+   "repeat": false,
+   "sequence": [
+    [
+     "D/F#"
+    ],
+    [
+     "A7/E"
+    ],
+    [
+     "D"
+    ],
+    [
+     "A7/E"
+    ],
+    [
+     "D/F#"
+    ],
+    [
+     "D"
+    ],
+    [
+     "E7/B"
+    ],
+    [
+     "E7"
+    ],
+    [
+     "A#dim"
+    ],
+    [
+     "F#7"
+    ],
+    [
+     "Bm"
+    ],
+    [
+     "Bm/A"
+    ],
+    [
+     "E7/G#"
+    ],
+    [
+     "E7"
+    ],
+    [
+     "Gm6/Bb"
+    ],
+    [
+     "A7"
+    ],
+    [
+     "Bb7"
+    ],
+    [
+     "Bb7/F"
+    ],
+    [
+     "F/A"
+    ],
+    [
+     "D7/F#"
+    ],
+    [
+     "Gm"
+    ],
+    [
+     "A7/E"
+    ],
+    [
+     "Dm/F"
+    ],
+    [
+     "D7/F#"
+    ],
+    [
+     "Gm/Bb"
+    ],
+    [
+     "Fdim"
+    ],
+    [
+     "D/F#"
+    ],
+    [
+     "Bb7"
+    ],
+    [
+     "Eb/G"
+    ],
+    [
+     "A7"
+    ],
+    [
+     "D"
+    ],
+    [
+     "D"
+    ],
+    [
+     "G"
+    ],
+    [
+     "G"
+    ]
+   ]
+  },
+  {
+   "name": "C",
+   "tonic": "C",
+   "bars": "68–X2",
+   "repeat": false,
+   "sequence": [
+    [
+     "G"
+    ],
+    [
+     "G/F"
+    ],
+    [
+     "G7/D"
+    ],
+    [
+     "G7/B"
+    ],
+    [
+     "C"
+    ],
+    [
+     "C/E"
+    ],
+    [
+     "Ebdim"
+    ],
+    [],
+    [
+     "Dm7"
+    ],
+    [
+     "Dm/C"
+    ],
+    [
+     "D7/A"
+    ],
+    [
+     "G7"
+    ],
+    [
+     "C"
+    ],
+    [
+     "C/G"
+    ],
+    [
+     "Ebdim"
+    ],
+    [],
+    [
+     "G"
+    ],
+    [
+     "G/F"
+    ],
+    [
+     "E7"
+    ],
+    [
+     "E/D"
+    ],
+    [
+     "Am/C"
+    ],
+    [
+     "Am"
+    ],
+    [
+     "Gdim"
+    ],
+    [
+     "A7"
+    ],
+    [
+     "Dm"
+    ],
+    [],
+    [
+     "D7/A"
+    ],
+    [
+     "G7"
+    ],
+    [
+     "C",
+     "Ab7"
+    ],
+    [
+     "Db",
+     "G7"
+    ],
+    [
+     "C"
+    ],
+    [
+     "C"
+    ]
+   ]
+  },
+  {
+   "name": "Coda",
+   "tonic": "G",
+   "bars": "100–103",
+   "repeat": false,
+   "sequence": [
+    [
+     "A7"
+    ],
+    [
+     "D7"
+    ],
+    [
+     "G"
+    ],
+    [
+     "G"
+    ]
+   ]
+  }
+ ],
+ "notes": [
+  "Grille générée automatiquement depuis la partition MusicXML : à vérifier.",
+  "A : première mesure sans accord"
+ ],
+ "confidence": "medium",
+ "source": [
+  "mxl/C/Jacob do Bandolim - Encantamento - Theme - C.mxl"
+ ],
+ "generated": "mxl"
+}

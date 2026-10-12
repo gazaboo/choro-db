@@ -1,0 +1,221 @@
+{
+ "song_id": "tenebroso-ernesto-nazareth",
+ "title": "Tenebroso",
+ "composer": "Ernesto Nazareth",
+ "transposition": "c",
+ "meter": "2/4",
+ "form": "A — B — C — D — E — Coda",
+ "parts": [
+  {
+   "name": "A",
+   "tonic": "C",
+   "bars": "1–16",
+   "sequence": [
+    [
+     "Db"
+    ],
+    [
+     "G7"
+    ],
+    [
+     "F",
+     "Db"
+    ],
+    [
+     "G7"
+    ],
+    [
+     "F"
+    ],
+    [],
+    [
+     "Gm"
+    ],
+    [],
+    [
+     "F"
+    ],
+    [
+     "Gb"
+    ],
+    [
+     "F"
+    ],
+    [],
+    [],
+    [
+     "Gb"
+    ],
+    [
+     "F"
+    ],
+    [
+     "G7"
+    ]
+   ]
+  },
+  {
+   "name": "B",
+   "tonic": "Am",
+   "bars": "17–25",
+   "sequence": [
+    [
+     "F",
+     "Db"
+    ],
+    [
+     "F"
+    ],
+    [
+     "Dm",
+     "Dm/F"
+    ],
+    [
+     "Gm",
+     "Em7(b5)"
+    ],
+    [
+     "A7"
+    ],
+    [
+     "Dm",
+     "Dm/F"
+    ],
+    [
+     "Dm"
+    ],
+    [
+     "Am/E"
+    ],
+    [
+     "E7"
+    ]
+   ]
+  },
+  {
+   "name": "C",
+   "tonic": "Am",
+   "bars": "26–43",
+   "sequence": [
+    [
+     "Am"
+    ],
+    [
+     "Am",
+     "Em7(b5)"
+    ],
+    [
+     "A/G"
+    ],
+    [],
+    [],
+    [
+     "Dm"
+    ],
+    [
+     "Gm"
+    ],
+    [
+     "Dm/A"
+    ],
+    [
+     "A/G",
+     "Dm/F"
+    ],
+    [],
+    [
+     "A7/E",
+     "Gm",
+     "A/G",
+     "Dm/A"
+    ],
+    [
+     "Dm/F"
+    ],
+    [],
+    [],
+    [
+     "A/G"
+    ],
+    [],
+    [],
+    [
+     "Dm",
+     "Db"
+    ]
+   ]
+  },
+  {
+   "name": "D",
+   "tonic": "C",
+   "bars": "44–56",
+   "sequence": [
+    [
+     "F"
+    ],
+    [],
+    [],
+    [
+     "Bb",
+     "Bb/D"
+    ],
+    [],
+    [],
+    [],
+    [
+     "Cm",
+     "Cm/Eb"
+    ],
+    [],
+    [
+     "Bb"
+    ],
+    [],
+    [
+     "Bb",
+     "Bb/D"
+    ],
+    [
+     "G/F"
+    ]
+   ]
+  },
+  {
+   "name": "E",
+   "tonic": "C",
+   "bars": "57–57",
+   "sequence": [
+    [
+     "Cm/Eb"
+    ]
+   ]
+  },
+  {
+   "name": "Coda",
+   "tonic": "C",
+   "bars": "62–66",
+   "sequence": [
+    [
+     "Cm/Eb"
+    ],
+    [],
+    [
+     "Bb"
+    ],
+    [],
+    [
+     "F"
+    ]
+   ]
+  }
+ ],
+ "notes": [
+  "Grille générée automatiquement depuis le texte du PDF : à vérifier.",
+  "Reprises et fins non détectées : les mesures sont dans l'ordre d'écriture."
+ ],
+ "confidence": "low",
+ "source": [
+  "pdf/Ernesto Nazareth - Tenebroso - Theme - C.pdf"
+ ],
+ "generated": "pdf"
+}

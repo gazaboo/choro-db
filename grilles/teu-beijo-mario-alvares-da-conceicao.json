@@ -1,0 +1,191 @@
+{
+ "song_id": "teu-beijo-mario-alvares-da-conceicao",
+ "title": "Teu beijo",
+ "composer": "Mário Álvares da Conceição",
+ "transposition": "c",
+ "meter": "2/4",
+ "form": "A — B — C — Coda",
+ "parts": [
+  {
+   "name": "A",
+   "tonic": "C",
+   "bars": "1–14",
+   "sequence": [
+    [
+     "G6"
+    ],
+    [],
+    [
+     "D/C"
+    ],
+    [
+     "G/B"
+    ],
+    [
+     "G6"
+    ],
+    [
+     "D/A",
+     "Bm/F#"
+    ],
+    [
+     "Em"
+    ],
+    [],
+    [
+     "G6"
+    ],
+    [],
+    [
+     "D7"
+    ],
+    [
+     "G6"
+    ],
+    [
+     "G/F"
+    ],
+    [
+     "C/E"
+    ]
+   ]
+  },
+  {
+   "name": "B",
+   "tonic": "Am",
+   "bars": "15–31",
+   "sequence": [
+    [
+     "G/D"
+    ],
+    [
+     "G6"
+    ],
+    [
+     "G6"
+    ],
+    [
+     "B/A"
+    ],
+    [
+     "Em/G"
+    ],
+    [
+     "E7"
+    ],
+    [
+     "Am"
+    ],
+    [
+     "Am"
+    ],
+    [
+     "Em/G"
+    ],
+    [
+     "C/Bb"
+    ],
+    [],
+    [
+     "B/A"
+    ],
+    [
+     "Em/G"
+    ],
+    [],
+    [
+     "Am"
+    ],
+    [
+     "Am"
+    ],
+    [
+     "Em/G"
+    ]
+   ]
+  },
+  {
+   "name": "C",
+   "tonic": "C",
+   "bars": "33–50",
+   "sequence": [
+    [
+     "Em"
+    ],
+    [],
+    [
+     "G"
+    ],
+    [],
+    [
+     "G/F"
+    ],
+    [
+     "C/E"
+    ],
+    [],
+    [
+     "Dm/F"
+    ],
+    [
+     "Fm6/Ab"
+    ],
+    [
+     "C/G"
+    ],
+    [],
+    [
+     "Fm6/Ab",
+     "G7"
+    ],
+    [
+     "G/F"
+    ],
+    [
+     "C/E"
+    ],
+    [
+     "E7/G#",
+     "E7"
+    ],
+    [],
+    [
+     "Dm/F",
+     "Fm6/Ab"
+    ],
+    [
+     "C/G"
+    ]
+   ]
+  },
+  {
+   "name": "Coda",
+   "tonic": "C",
+   "bars": "52–55",
+   "sequence": [
+    [
+     "C"
+    ],
+    [
+     "C",
+     "C#7"
+    ],
+    [
+     "G"
+    ],
+    [
+     "G"
+    ]
+   ]
+  }
+ ],
+ "notes": [
+  "Grille générée automatiquement depuis le texte du PDF : à vérifier.",
+  "Reprises et fins non détectées : les mesures sont dans l'ordre d'écriture."
+ ],
+ "confidence": "low",
+ "source": [
+  "pdf/Mário Álvares da Conceição - Teu beijo - Theme - C.pdf"
+ ],
+ "generated": "pdf"
+}

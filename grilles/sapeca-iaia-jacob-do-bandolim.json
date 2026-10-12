@@ -1,0 +1,255 @@
+{
+ "song_id": "sapeca-iaia-jacob-do-bandolim",
+ "title": "Sapeca Iaiá",
+ "composer": "Jacob do Bandolim",
+ "transposition": "c",
+ "meter": "2/4",
+ "form": "A (reprise) — B (reprise) — C (reprise) — Coda",
+ "parts": [
+  {
+   "name": "A",
+   "tonic": "G",
+   "bars": "0–17",
+   "repeat": true,
+   "sequence": [
+    [
+     "G"
+    ],
+    [],
+    [
+     "G",
+     "Em/B"
+    ],
+    [
+     "Am"
+    ],
+    [
+     "Am",
+     "Am/G"
+    ],
+    [
+     "D7/F#"
+    ],
+    [
+     "D7",
+     "D/C"
+    ],
+    [
+     "G/B"
+    ],
+    [
+     "G"
+    ],
+    [],
+    [
+     "Bm7b5",
+     "E7/G#"
+    ],
+    [
+     "Am"
+    ],
+    [
+     "Am",
+     "D7"
+    ],
+    [
+     "G",
+     "Em7"
+    ],
+    [
+     "Am7",
+     "D7"
+    ]
+   ],
+   "endings": {
+    "1": [
+     [
+      "G"
+     ]
+    ],
+    "2": [
+     [
+      "G"
+     ]
+    ]
+   }
+  },
+  {
+   "name": "B",
+   "tonic": "G",
+   "bars": "18–35",
+   "repeat": true,
+   "sequence": [
+    [
+     "B7",
+     "B7/D#"
+    ],
+    [
+     "Em",
+     "Em/G"
+    ],
+    [
+     "E7",
+     "E7/G#"
+    ],
+    [
+     "Am",
+     "Am/C"
+    ],
+    [
+     "Am",
+     "F#m7b5"
+    ],
+    [
+     "Em",
+     "Em/D"
+    ],
+    [
+     "F#7/A#",
+     "F#7"
+    ],
+    [
+     "B7"
+    ],
+    [
+     "B7",
+     "B/A"
+    ],
+    [
+     "Em/G"
+    ],
+    [
+     "E7",
+     "E/D"
+    ],
+    [
+     "Am/C"
+    ],
+    [
+     "Am",
+     "F#m7b5"
+    ],
+    [
+     "Em"
+    ],
+    [
+     "B7/D#"
+    ],
+    [
+     "G"
+    ]
+   ],
+   "endings": {
+    "1": [
+     [
+      "Em"
+     ]
+    ],
+    "2": [
+     [
+      "Em",
+      "D7"
+     ]
+    ]
+   }
+  },
+  {
+   "name": "C",
+   "tonic": "C",
+   "bars": "36–X2",
+   "repeat": true,
+   "sequence": [
+    [
+     "G7",
+     "G7/B"
+    ],
+    [
+     "C",
+     "C/E"
+    ],
+    [
+     "E7",
+     "E7/G#"
+    ],
+    [
+     "Am",
+     "Am/C"
+    ],
+    [
+     "F",
+     "Fm6/Ab"
+    ],
+    [
+     "C"
+    ],
+    [
+     "G7/D",
+     "G7"
+    ],
+    [
+     "F#dim",
+     "C/G"
+    ],
+    [
+     "G7",
+     "G7/B"
+    ],
+    [
+     "C",
+     "C/E"
+    ],
+    [
+     "E7",
+     "E7/G#"
+    ],
+    [
+     "Am",
+     "Am/C"
+    ],
+    [
+     "F",
+     "Fm6/Ab"
+    ],
+    [
+     "C"
+    ],
+    [
+     "G7/D",
+     "G7"
+    ]
+   ],
+   "endings": {
+    "1": [
+     [
+      "C"
+     ]
+    ],
+    "2": [
+     [
+      "C",
+      "D7"
+     ]
+    ]
+   }
+  },
+  {
+   "name": "Coda",
+   "tonic": "G",
+   "bars": "53–53",
+   "repeat": false,
+   "sequence": [
+    [
+     "G"
+    ]
+   ]
+  }
+ ],
+ "notes": [
+  "Grille générée automatiquement depuis la partition MusicXML : à vérifier."
+ ],
+ "confidence": "medium",
+ "source": [
+  "mxl/C/Jacob do Bandolim - Sapeca Iaiá - Theme - C.mxl"
+ ],
+ "generated": "mxl"
+}

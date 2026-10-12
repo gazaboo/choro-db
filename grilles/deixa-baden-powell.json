@@ -1,0 +1,130 @@
+{
+ "song_id": "deixa-baden-powell",
+ "title": "Deixa",
+ "composer": "Baden Powell",
+ "transposition": "c",
+ "meter": "2/4",
+ "form": "A (reprise) — B",
+ "parts": [
+  {
+   "name": "A",
+   "tonic": "Am",
+   "bars": "1–21",
+   "repeat": true,
+   "sequence": [
+    [
+     "Am7"
+    ],
+    [],
+    [
+     "Fmaj7"
+    ],
+    [
+     "G7(9)"
+    ],
+    [
+     "Cmaj7"
+    ],
+    [
+     "Gm7",
+     "C7(b9)"
+    ],
+    [
+     "Fmaj7"
+    ],
+    [],
+    [
+     "Bm7b5"
+    ],
+    [
+     "E7(#9)"
+    ],
+    [
+     "Am7"
+    ]
+   ],
+   "endings": {
+    "1": [
+     [
+      "Am7"
+     ],
+     [
+      "Fmaj7"
+     ],
+     [
+      "E7(b13)"
+     ],
+     [
+      "Am7"
+     ],
+     [
+      "F#m7b5"
+     ],
+     [
+      "Em7"
+     ],
+     [
+      "F#m7b5",
+      "B7"
+     ],
+     [
+      "Em7"
+     ],
+     [
+      "E7(b9,b13)"
+     ]
+    ],
+    "2": [
+     [
+      "Am7"
+     ]
+    ]
+   }
+  },
+  {
+   "name": "B",
+   "tonic": "Am",
+   "bars": "22–34",
+   "repeat": false,
+   "sequence": [
+    [
+     "B7"
+    ],
+    [],
+    [
+     "Bm7b5"
+    ],
+    [
+     "E7(b9)"
+    ],
+    [
+     "Am7"
+    ],
+    [],
+    [
+     "F#dim"
+    ],
+    [],
+    [
+     "Bm7b5"
+    ],
+    [
+     "E7(b9)"
+    ],
+    [
+     "Am7"
+    ],
+    [],
+    []
+   ]
+  }
+ ],
+ "notes": [
+  "Grille générée automatiquement depuis la partition MusicXML : à vérifier."
+ ],
+ "confidence": "medium",
+ "source": [
+  "mxl/C/Baden Powell - Deixa - Theme - C.mxl"
+ ],
+ "generated": "mxl"
+}

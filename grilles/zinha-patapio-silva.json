@@ -1,0 +1,165 @@
+{
+ "song_id": "zinha-patapio-silva",
+ "title": "Zinha",
+ "composer": "Patapio Silva",
+ "transposition": "c",
+ "meter": "2/4",
+ "form": "A — B — C",
+ "parts": [
+  {
+   "name": "A",
+   "tonic": "C",
+   "bars": "1–13",
+   "sequence": [
+    [
+     "D6/F#"
+    ],
+    [
+     "D6/F#"
+    ],
+    [],
+    [],
+    [],
+    [
+     "A/G"
+    ],
+    [
+     "D6/F#"
+    ],
+    [],
+    [
+     "D6/F#"
+    ],
+    [
+     "D",
+     "D/C"
+    ],
+    [
+     "G/B"
+    ],
+    [
+     "Gm6/Bb"
+    ],
+    [
+     "D/A"
+    ]
+   ]
+  },
+  {
+   "name": "B",
+   "tonic": "Am",
+   "bars": "15–31",
+   "sequence": [
+    [
+     "D"
+    ],
+    [
+     "D"
+    ],
+    [],
+    [],
+    [],
+    [
+     "A6"
+    ],
+    [
+     "A/C#",
+     "Am6/C"
+    ],
+    [],
+    [
+     "E7/G#"
+    ],
+    [
+     "A6"
+    ],
+    [],
+    [
+     "E7"
+    ],
+    [],
+    [
+     "A6"
+    ],
+    [
+     "A6",
+     "A/G"
+    ],
+    [
+     "Dm6/F"
+    ],
+    [
+     "A/E"
+    ]
+   ]
+  },
+  {
+   "name": "C",
+   "tonic": "C",
+   "bars": "33–53",
+   "sequence": [
+    [
+     "A",
+     "C6/G"
+    ],
+    [
+     "A",
+     "A7"
+    ],
+    [
+     "D"
+    ],
+    [],
+    [
+     "G6"
+    ],
+    [],
+    [],
+    [
+     "G6"
+    ],
+    [
+     "G6",
+     "C6/G"
+    ],
+    [],
+    [],
+    [
+     "G/B"
+    ],
+    [
+     "G6"
+    ],
+    [],
+    [],
+    [
+     "G6"
+    ],
+    [
+     "C"
+    ],
+    [
+     "G/D"
+    ],
+    [
+     "D7",
+     "G",
+     "A7"
+    ],
+    [],
+    [
+     "D"
+    ]
+   ]
+  }
+ ],
+ "notes": [
+  "Grille générée automatiquement depuis le texte du PDF : à vérifier.",
+  "Reprises et fins non détectées : les mesures sont dans l'ordre d'écriture."
+ ],
+ "confidence": "low",
+ "source": [
+  "pdf/Patapio Silva - Zinha - Theme - C.pdf"
+ ],
+ "generated": "pdf"
+}

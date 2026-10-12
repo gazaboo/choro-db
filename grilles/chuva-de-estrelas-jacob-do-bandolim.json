@@ -1,0 +1,224 @@
+{
+ "song_id": "chuva-de-estrelas-jacob-do-bandolim",
+ "title": "Chuva de estrelas",
+ "composer": "Jacob do Bandolim",
+ "transposition": "c",
+ "meter": "3/4",
+ "form": "A (reprise) — B (reprise)",
+ "parts": [
+  {
+   "name": "A",
+   "tonic": "A",
+   "bars": "1–32",
+   "repeat": true,
+   "sequence": [
+    [
+     "A/C#"
+    ],
+    [
+     "Cdim"
+    ],
+    [
+     "Bm"
+    ],
+    [
+     "Bm/A"
+    ],
+    [
+     "E7/G#"
+    ],
+    [
+     "E7"
+    ],
+    [
+     "A"
+    ],
+    [
+     "A/E"
+    ],
+    [
+     "A"
+    ],
+    [
+     "D#dim"
+    ],
+    [
+     "E"
+    ],
+    [
+     "C#7/E#"
+    ],
+    [
+     "F#/E"
+    ],
+    [
+     "B7/D#"
+    ],
+    [
+     "E/D"
+    ],
+    [
+     "E7"
+    ],
+    [
+     "A/C#"
+    ],
+    [
+     "Cdim"
+    ],
+    [
+     "Bm"
+    ],
+    [
+     "Bm/A"
+    ],
+    [
+     "C#7/G#"
+    ],
+    [
+     "C#7/E#"
+    ],
+    [
+     "Em/G"
+    ],
+    [
+     "F#7"
+    ],
+    [
+     "Bm"
+    ],
+    [
+     "Cdim"
+    ],
+    [
+     "A/C#"
+    ],
+    [
+     "F#7/A#"
+    ],
+    [
+     "Bm"
+    ],
+    [
+     "E7"
+    ],
+    [
+     "A"
+    ],
+    []
+   ]
+  },
+  {
+   "name": "B",
+   "tonic": "F#m",
+   "bars": "33–65",
+   "repeat": true,
+   "sequence": [
+    [
+     "F#m"
+    ],
+    [
+     "F#m/A"
+    ],
+    [
+     "G#7"
+    ],
+    [
+     "C#7"
+    ],
+    [
+     "F#m"
+    ],
+    [
+     "D7/A"
+    ],
+    [
+     "G#m7b5"
+    ],
+    [
+     "C#7"
+    ],
+    [
+     "F#m"
+    ],
+    [
+     "F#m/A"
+    ],
+    [
+     "C#m"
+    ],
+    [
+     "C#m/B"
+    ],
+    [
+     "D#7/A#"
+    ],
+    [
+     "G#7"
+    ],
+    [
+     "Bm6/D"
+    ],
+    [
+     "C#7"
+    ],
+    [
+     "F#m"
+    ],
+    [
+     "F#m/A"
+    ],
+    [
+     "G#7"
+    ],
+    [
+     "C#7"
+    ],
+    [
+     "F#m"
+    ],
+    [
+     "D7/A"
+    ],
+    [
+     "G#m7b5"
+    ],
+    [
+     "C#7"
+    ],
+    [
+     "F#7"
+    ],
+    [
+     "A#dim"
+    ],
+    [
+     "Bm7"
+    ],
+    [
+     "D/C"
+    ],
+    [
+     "F#m/C#"
+    ],
+    [
+     "G#7",
+     "C#7"
+    ],
+    [
+     "F#m"
+    ],
+    [],
+    []
+   ]
+  }
+ ],
+ "notes": [
+  "Grille générée automatiquement depuis la partition MusicXML : à vérifier."
+ ],
+ "confidence": "medium",
+ "source": [
+  "mxl/C/Jacob do Bandolim - Chuva de estrelas - Theme - C.mxl"
+ ],
+ "generated": "mxl"
+}

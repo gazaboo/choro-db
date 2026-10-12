@@ -1,0 +1,232 @@
+{
+ "song_id": "oh-clarinete-gostoso-severino-araujo",
+ "title": "Oh! Clarinete gostoso",
+ "composer": "Severino Araújo",
+ "transposition": "c",
+ "meter": "2/4",
+ "form": "A — B (reprise) — C (reprise)",
+ "parts": [
+  {
+   "name": "A",
+   "tonic": "Gm",
+   "bars": "0–4",
+   "repeat": false,
+   "sequence": [
+    [
+     "Cm6",
+     "D7/F#"
+    ],
+    [
+     "Gm"
+    ],
+    [
+     "Eb7/Bb",
+     "D7/A"
+    ],
+    [
+     "Gm"
+    ]
+   ]
+  },
+  {
+   "name": "B",
+   "tonic": "Gm",
+   "bars": "5–25",
+   "repeat": true,
+   "sequence": [
+    [
+     "D7/F#"
+    ],
+    [
+     "Gm"
+    ],
+    [
+     "G7/B"
+    ],
+    [
+     "Cm"
+    ],
+    [
+     "Cm6"
+    ],
+    [
+     "Gm",
+     "Gm/F"
+    ],
+    [
+     "A7/E"
+    ],
+    [
+     "D7",
+     "G7"
+    ],
+    [
+     "Cm"
+    ],
+    [
+     "Gm"
+    ],
+    [
+     "Ab"
+    ],
+    [
+     "D7"
+    ],
+    [
+     "D7/F#"
+    ],
+    [
+     "Gm"
+    ],
+    [
+     "G7/B"
+    ],
+    [
+     "Cm"
+    ],
+    [
+     "Cm6",
+     "D7/F#"
+    ],
+    [
+     "Gm"
+    ],
+    [
+     "Eb7/Bb",
+     "D7/A"
+    ]
+   ],
+   "endings": {
+    "1": [
+     [
+      "Gm"
+     ]
+    ],
+    "2": [
+     [
+      "Gm"
+     ]
+    ]
+   }
+  },
+  {
+   "name": "C",
+   "tonic": "Bb",
+   "bars": "26–61",
+   "repeat": true,
+   "sequence": [
+    [
+     "F7"
+    ],
+    [
+     "Bb"
+    ],
+    [
+     "F7"
+    ],
+    [
+     "Bb"
+    ],
+    [
+     "Bb7"
+    ],
+    [
+     "Eb"
+    ],
+    [
+     "Bb7"
+    ],
+    [
+     "Eb"
+    ],
+    [
+     "Cm"
+    ],
+    [
+     "F7"
+    ],
+    [
+     "Bb"
+    ],
+    [],
+    [
+     "C7(9)"
+    ],
+    [],
+    [
+     "F7"
+    ],
+    [],
+    [
+     "F7"
+    ],
+    [
+     "Bb"
+    ],
+    [
+     "F7"
+    ],
+    [
+     "Bb"
+    ],
+    [
+     "Bb7"
+    ],
+    [
+     "Eb"
+    ],
+    [
+     "Bb7"
+    ],
+    [
+     "Eb"
+    ],
+    [
+     "Cm"
+    ],
+    [
+     "F7"
+    ],
+    [
+     "Bb"
+    ],
+    [
+     "Bb",
+     "G7"
+    ],
+    [
+     "Cm"
+    ],
+    [
+     "F7"
+    ],
+    [
+     "Bb"
+    ],
+    [
+     "D7/F#"
+    ],
+    [
+     "Gm"
+    ],
+    [
+     "C7(9)"
+    ],
+    [
+     "Gm"
+    ],
+    [
+     "C7(9)"
+    ]
+   ]
+  }
+ ],
+ "notes": [
+  "Grille générée automatiquement depuis la partition MusicXML : à vérifier."
+ ],
+ "confidence": "medium",
+ "source": [
+  "mxl/C/Severino Araújo - Oh! Clarinete gostoso - Theme - C.mxl"
+ ],
+ "generated": "mxl"
+}

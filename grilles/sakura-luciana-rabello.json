@@ -1,0 +1,141 @@
+{
+ "song_id": "sakura-luciana-rabello",
+ "title": "Sakura",
+ "composer": "Luciana Rabello",
+ "transposition": "c",
+ "meter": "2/4",
+ "form": "A — B",
+ "parts": [
+  {
+   "name": "A",
+   "tonic": "Am",
+   "bars": "1–21",
+   "sequence": [
+    [
+     "Db/B"
+    ],
+    [
+     "D/C"
+    ],
+    [
+     "Gm"
+    ],
+    [
+     "C7"
+    ],
+    [],
+    [
+     "F7"
+    ],
+    [
+     "Bb6"
+    ],
+    [
+     "G7/B"
+    ],
+    [
+     "F/C"
+    ],
+    [],
+    [],
+    [
+     "C7"
+    ],
+    [
+     "Am7(b5)"
+    ],
+    [
+     "D7(b9)"
+    ],
+    [],
+    [
+     "Bbm6"
+    ],
+    [
+     "Fadd9/A"
+    ],
+    [
+     "Db7/Ab"
+    ],
+    [],
+    [
+     "C7(b9)"
+    ],
+    [
+     "F6"
+    ]
+   ]
+  },
+  {
+   "name": "B",
+   "tonic": "C",
+   "bars": "23–45",
+   "sequence": [
+    [
+     "Dm"
+    ],
+    [
+     "Dm/C"
+    ],
+    [
+     "Bb/Ab"
+    ],
+    [
+     "A/G"
+    ],
+    [
+     "Dm/F"
+    ],
+    [
+     "Bb7"
+    ],
+    [],
+    [
+     "Cm/Eb"
+    ],
+    [],
+    [
+     "D/C"
+    ],
+    [
+     "Gm/Bb"
+    ],
+    [],
+    [
+     "D/A"
+    ],
+    [
+     "A7"
+    ],
+    [],
+    [
+     "B/A"
+    ],
+    [],
+    [
+     "Gm6"
+    ],
+    [],
+    [
+     "Fm6"
+    ],
+    [],
+    [
+     "A7(b9)"
+    ],
+    [
+     "Dm6"
+    ]
+   ]
+  }
+ ],
+ "notes": [
+  "Grille générée automatiquement depuis le texte du PDF : à vérifier.",
+  "Reprises et fins non détectées : les mesures sont dans l'ordre d'écriture."
+ ],
+ "confidence": "low",
+ "source": [
+  "pdf/Luciana Rabello - Sakura - Theme - C.pdf"
+ ],
+ "generated": "pdf"
+}

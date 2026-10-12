@@ -1,0 +1,161 @@
+{
+ "song_id": "em-que-epoca-aymore",
+ "title": "Em que época",
+ "composer": "Aymoré",
+ "transposition": "c",
+ "meter": "2/4",
+ "form": "A (reprise) — B (reprise)",
+ "parts": [
+  {
+   "name": "A",
+   "tonic": "C",
+   "bars": "1–17",
+   "repeat": true,
+   "sequence": [
+    [
+     "C"
+    ],
+    [
+     "Gm7"
+    ],
+    [
+     "C7/E"
+    ],
+    [
+     "F6"
+    ],
+    [
+     "E7"
+    ],
+    [
+     "Am7"
+    ],
+    [
+     "E",
+     "B7"
+    ],
+    [
+     "E",
+     "G7"
+    ],
+    [
+     "C"
+    ],
+    [
+     "Gm7"
+    ],
+    [
+     "C7/E"
+    ],
+    [
+     "F6"
+    ],
+    [
+     "Bb7",
+     "Ab7"
+    ],
+    [
+     "Db"
+    ],
+    [
+     "G7"
+    ]
+   ],
+   "endings": {
+    "1": [
+     [
+      "C"
+     ]
+    ],
+    "2": [
+     [
+      "C"
+     ]
+    ]
+   }
+  },
+  {
+   "name": "B",
+   "tonic": "Cm",
+   "bars": "18–35",
+   "repeat": true,
+   "sequence": [
+    [
+     "Cm"
+    ],
+    [
+     "Dm7b5",
+     "G7"
+    ],
+    [
+     "Ab7"
+    ],
+    [
+     "G7"
+    ],
+    [
+     "Gm7b5",
+     "C7"
+    ],
+    [
+     "Fm7"
+    ],
+    [
+     "Bb7",
+     "Ab7"
+    ],
+    [
+     "G7"
+    ],
+    [
+     "Cm7"
+    ],
+    [
+     "Dm7b5",
+     "G7"
+    ],
+    [
+     "Ab7"
+    ],
+    [
+     "G7",
+     "C7"
+    ],
+    [
+     "Fm"
+    ],
+    [
+     "Cm",
+     "Bb7",
+     "A7"
+    ],
+    [
+     "Ab7",
+     "G7"
+    ],
+    []
+   ],
+   "endings": {
+    "1": [
+     [
+      "Cm"
+     ]
+    ],
+    "2": [
+     [
+      "Cm",
+      "G7(#5)"
+     ]
+    ]
+   }
+  }
+ ],
+ "notes": [
+  "Grille générée automatiquement depuis la partition MusicXML : à vérifier."
+ ],
+ "confidence": "medium",
+ "source": [
+  "mxl/C/Aymoré - Em que época - Theme - C.mxl"
+ ],
+ "generated": "mxl"
+}

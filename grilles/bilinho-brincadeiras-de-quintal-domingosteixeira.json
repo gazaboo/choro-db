@@ -1,0 +1,192 @@
+{
+ "song_id": "bilinho-brincadeiras-de-quintal-domingosteixeira",
+ "title": "Bilinho - Brincadeiras de quintal",
+ "composer": "DomingosTeixeira",
+ "transposition": "c",
+ "meter": "2/4",
+ "form": "A — B — C",
+ "parts": [
+  {
+   "name": "A",
+   "tonic": "C",
+   "bars": "1–16",
+   "sequence": [
+    [
+     "G7"
+    ],
+    [
+     "C"
+    ],
+    [
+     "G7"
+    ],
+    [
+     "C"
+    ],
+    [
+     "G7"
+    ],
+    [
+     "C",
+     "D7"
+    ],
+    [
+     "G",
+     "D7"
+    ],
+    [
+     "G7"
+    ],
+    [],
+    [
+     "C"
+    ],
+    [
+     "G7"
+    ],
+    [],
+    [
+     "Fm6"
+    ],
+    [
+     "A7",
+     "Bm7(b5)"
+    ],
+    [
+     "E7(b9)"
+    ],
+    [
+     "C"
+    ]
+   ]
+  },
+  {
+   "name": "B",
+   "tonic": "Am",
+   "bars": "17–32",
+   "sequence": [
+    [
+     "F#m7(b5)",
+     "C"
+    ],
+    [],
+    [
+     "Am"
+    ],
+    [],
+    [],
+    [
+     "Am"
+    ],
+    [
+     "B7"
+    ],
+    [
+     "Em",
+     "Em7(b5)"
+    ],
+    [
+     "B7"
+    ],
+    [
+     "Dm6",
+     "E7"
+    ],
+    [
+     "Am"
+    ],
+    [],
+    [
+     "A7"
+    ],
+    [
+     "A7/C#",
+     "Dm"
+    ],
+    [
+     "G7"
+    ],
+    [
+     "C",
+     "F7"
+    ]
+   ]
+  },
+  {
+   "name": "C",
+   "tonic": "Am",
+   "bars": "33–55",
+   "sequence": [
+    [
+     "Bb",
+     "E7"
+    ],
+    [
+     "Am"
+    ],
+    [
+     "Bb",
+     "E7"
+    ],
+    [
+     "Am"
+    ],
+    [
+     "C"
+    ],
+    [],
+    [
+     "F"
+    ],
+    [],
+    [],
+    [
+     "C7"
+    ],
+    [],
+    [],
+    [],
+    [
+     "F"
+    ],
+    [
+     "A7"
+    ],
+    [
+     "Dm"
+    ],
+    [
+     "E7"
+    ],
+    [
+     "Fadd9/A"
+    ],
+    [
+     "Bb6",
+     "Gb7"
+    ],
+    [
+     "F"
+    ],
+    [
+     "C7"
+    ],
+    [
+     "F6"
+    ],
+    [
+     "F6"
+    ]
+   ]
+  }
+ ],
+ "notes": [
+  "Grille générée automatiquement depuis le texte du PDF : à vérifier.",
+  "Reprises et fins non détectées : les mesures sont dans l'ordre d'écriture."
+ ],
+ "confidence": "low",
+ "source": [
+  "pdf/DomingosTeixeira - Bilinho - Brincadeiras de quintal - Theme - C.pdf"
+ ],
+ "generated": "pdf"
+}

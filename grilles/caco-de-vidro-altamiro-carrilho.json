@@ -1,0 +1,233 @@
+{
+ "song_id": "caco-de-vidro-altamiro-carrilho",
+ "title": "Caco de vidro",
+ "composer": "Altamiro Carrilho",
+ "transposition": "c",
+ "meter": "2/4",
+ "form": "A — B — C — Coda",
+ "parts": [
+  {
+   "name": "A",
+   "tonic": "Bm",
+   "bars": "1–16",
+   "repeat": false,
+   "sequence": [
+    [
+     "D"
+    ],
+    [
+     "F#7"
+    ],
+    [
+     "Bm"
+    ],
+    [
+     "A#dim"
+    ],
+    [
+     "G#dim"
+    ],
+    [
+     "D"
+    ],
+    [
+     "A",
+     "G/B"
+    ],
+    [
+     "A7/C#"
+    ],
+    [
+     "D"
+    ],
+    [
+     "F#7"
+    ],
+    [
+     "Bm"
+    ],
+    [
+     "A#dim"
+    ],
+    [
+     "G#dim"
+    ],
+    [
+     "D"
+    ],
+    [
+     "E7",
+     "A7"
+    ],
+    [
+     "D",
+     "F#7"
+    ]
+   ]
+  },
+  {
+   "name": "B",
+   "tonic": "Bm",
+   "bars": "17–33",
+   "repeat": false,
+   "sequence": [
+    [
+     "Bm"
+    ],
+    [
+     "F#7/A#"
+    ],
+    [
+     "Am6"
+    ],
+    [
+     "Em"
+    ],
+    [
+     "C#m7b5",
+     "F#7"
+    ],
+    [
+     "Bm",
+     "D7"
+    ],
+    [
+     "G7"
+    ],
+    [
+     "F#7"
+    ],
+    [
+     "Bm"
+    ],
+    [
+     "F#7/A#"
+    ],
+    [
+     "Am6"
+    ],
+    [
+     "Em"
+    ],
+    [
+     "C#m7b5",
+     "F#7"
+    ],
+    [
+     "Bm",
+     "D7"
+    ],
+    [
+     "G7",
+     "F#7"
+    ],
+    [
+     "Bm",
+     "Bb7",
+     "A7"
+    ],
+    [
+     "D",
+     "D7"
+    ]
+   ]
+  },
+  {
+   "name": "C",
+   "tonic": "G",
+   "bars": "34–X2",
+   "repeat": false,
+   "sequence": [
+    [
+     "G",
+     "Em"
+    ],
+    [
+     "Am",
+     "D7"
+    ],
+    [
+     "G",
+     "G/F"
+    ],
+    [
+     "Edim"
+    ],
+    [
+     "Edim"
+    ],
+    [
+     "G",
+     "Em"
+    ],
+    [
+     "A7"
+    ],
+    [
+     "D7"
+    ],
+    [
+     "G",
+     "Em"
+    ],
+    [
+     "Am",
+     "D7"
+    ],
+    [
+     "G",
+     "G/F"
+    ],
+    [
+     "Edim"
+    ],
+    [
+     "Edim"
+    ],
+    [
+     "G",
+     "Em"
+    ],
+    [
+     "Am",
+     "D7"
+    ],
+    [
+     "G",
+     "G#7",
+     "A7"
+    ]
+   ]
+  },
+  {
+   "name": "Coda",
+   "tonic": "D",
+   "bars": "50–53",
+   "repeat": false,
+   "sequence": [
+    [
+     "D",
+     "D/C"
+    ],
+    [
+     "G/B",
+     "Gm/Bb"
+    ],
+    [
+     "A7"
+    ],
+    [
+     "D"
+    ]
+   ]
+  }
+ ],
+ "notes": [
+  "Grille générée automatiquement depuis la partition MusicXML : à vérifier."
+ ],
+ "confidence": "medium",
+ "source": [
+  "mxl/C/Altamiro Carrilho - Caco de vidro - Theme - C.mxl"
+ ],
+ "generated": "mxl"
+}

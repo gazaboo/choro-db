@@ -1,0 +1,208 @@
+{
+ "song_id": "um-abraco-no-abel-rafael-mallmith",
+ "title": "Um Abraço no Abel",
+ "composer": "Rafael Mallmith",
+ "transposition": "c",
+ "meter": "2/4",
+ "form": "A — B — C — Coda",
+ "parts": [
+  {
+   "name": "A",
+   "tonic": "C",
+   "bars": "1–16",
+   "sequence": [
+    [
+     "C#/B",
+     "F#7/A#"
+    ],
+    [
+     "Bm"
+    ],
+    [
+     "C#7/G#",
+     "F#7"
+    ],
+    [
+     "Bm"
+    ],
+    [
+     "Em",
+     "C#m7(b5)"
+    ],
+    [
+     "Bm"
+    ],
+    [],
+    [],
+    [],
+    [
+     "D"
+    ],
+    [],
+    [],
+    [
+     "Em"
+    ],
+    [
+     "Bm"
+    ],
+    [
+     "C",
+     "F#7"
+    ],
+    [
+     "Bm"
+    ]
+   ]
+  },
+  {
+   "name": "B",
+   "tonic": "C",
+   "bars": "17–32",
+   "sequence": [
+    [
+     "D"
+    ],
+    [
+     "Em"
+    ],
+    [],
+    [
+     "D"
+    ],
+    [
+     "D",
+     "Bm"
+    ],
+    [
+     "Em"
+    ],
+    [],
+    [
+     "D"
+    ],
+    [
+     "D"
+    ],
+    [
+     "Em"
+    ],
+    [
+     "F#7"
+    ],
+    [
+     "Bm"
+    ],
+    [
+     "G6",
+     "Gm6"
+    ],
+    [
+     "F#m"
+    ],
+    [
+     "Em"
+    ],
+    [
+     "D"
+    ]
+   ]
+  },
+  {
+   "name": "C",
+   "tonic": "C",
+   "bars": "33–51",
+   "sequence": [
+    [
+     "D"
+    ],
+    [
+     "Bm"
+    ],
+    [],
+    [
+     "B"
+    ],
+    [
+     "F#7"
+    ],
+    [
+     "G#m",
+     "E"
+    ],
+    [
+     "D#7"
+    ],
+    [
+     "E"
+    ],
+    [
+     "B/F#",
+     "G#m"
+    ],
+    [
+     "C#7"
+    ],
+    [
+     "F#7"
+    ],
+    [
+     "B"
+    ],
+    [
+     "F#7"
+    ],
+    [
+     "G#m",
+     "E"
+    ],
+    [
+     "D#7"
+    ],
+    [
+     "E"
+    ],
+    [
+     "B/F#",
+     "G#m"
+    ],
+    [
+     "C#7",
+     "F#7"
+    ],
+    [
+     "B",
+     "F#7"
+    ]
+   ]
+  },
+  {
+   "name": "Coda",
+   "tonic": "C",
+   "bars": "52–55",
+   "sequence": [
+    [
+     "B"
+    ],
+    [
+     "Bm"
+    ],
+    [
+     "F#7"
+    ],
+    [
+     "Bm"
+    ]
+   ]
+  }
+ ],
+ "notes": [
+  "Grille générée automatiquement depuis le texte du PDF : à vérifier.",
+  "Reprises et fins non détectées : les mesures sont dans l'ordre d'écriture."
+ ],
+ "confidence": "low",
+ "source": [
+  "pdf/Rafael Mallmith - Um Abraço no Abel - Theme - C.pdf"
+ ],
+ "generated": "pdf"
+}

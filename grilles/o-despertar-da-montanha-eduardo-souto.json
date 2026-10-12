@@ -1,0 +1,248 @@
+{
+ "song_id": "o-despertar-da-montanha-eduardo-souto",
+ "title": "O despertar da montanha",
+ "composer": "Eduardo Souto",
+ "transposition": "c",
+ "meter": "2/4",
+ "form": "A — B — C (reprise) — D (reprise) — Coda",
+ "parts": [
+  {
+   "name": "A",
+   "tonic": "Dm",
+   "bars": "1–4",
+   "repeat": false,
+   "sequence": [
+    [
+     "Gm6"
+    ],
+    [
+     "E7/G#"
+    ],
+    [
+     "A7"
+    ],
+    []
+   ]
+  },
+  {
+   "name": "B",
+   "tonic": "Dm",
+   "bars": "5–24",
+   "repeat": false,
+   "sequence": [
+    [
+     "Dm"
+    ],
+    [
+     "Gm6"
+    ],
+    [
+     "Dm"
+    ],
+    [
+     "Gm6"
+    ],
+    [
+     "Dm"
+    ],
+    [
+     "C7/E"
+    ],
+    [
+     "F"
+    ],
+    [
+     "A7/E"
+    ],
+    [
+     "Bb7"
+    ],
+    [
+     "Bb/Ab"
+    ],
+    [
+     "A/G"
+    ],
+    [
+     "Dm/F"
+    ],
+    [
+     "Em7b5"
+    ],
+    [
+     "Dm"
+    ],
+    [
+     "Em7b5"
+    ],
+    [
+     "Dm",
+     "Dm/F"
+    ],
+    [
+     "Gm6"
+    ],
+    [
+     "Dm/A"
+    ],
+    [
+     "A7/C#"
+    ],
+    [
+     "Dm"
+    ]
+   ]
+  },
+  {
+   "name": "C",
+   "tonic": "Dm",
+   "bars": "25–42",
+   "repeat": true,
+   "sequence": [
+    [
+     "Em7b5"
+    ],
+    [
+     "Gm6"
+    ],
+    [
+     "Dm/F"
+    ],
+    [],
+    [
+     "A7/C#"
+    ],
+    [
+     "A7"
+    ],
+    [
+     "Dm/F"
+    ],
+    [
+     "Dm"
+    ],
+    [
+     "Em7b5"
+    ],
+    [
+     "Gm6/Bb"
+    ],
+    [
+     "Dm/F"
+    ],
+    [],
+    [
+     "A7/C#"
+    ],
+    [
+     "A7"
+    ],
+    [
+     "Dm"
+    ],
+    [
+     "Dm"
+    ]
+   ],
+   "endings": {
+    "1": [
+     []
+    ],
+    "2": [
+     []
+    ]
+   }
+  },
+  {
+   "name": "D",
+   "tonic": "D",
+   "bars": "43–59",
+   "repeat": true,
+   "sequence": [
+    [
+     "D"
+    ],
+    [],
+    [],
+    [
+     "A7/E"
+    ],
+    [
+     "F#7/A#"
+    ],
+    [
+     "Bm"
+    ],
+    [
+     "E7"
+    ],
+    [
+     "A7",
+     "A7(#5)"
+    ],
+    [
+     "D"
+    ],
+    [],
+    [
+     "B7"
+    ],
+    [
+     "Em"
+    ],
+    [
+     "Gm"
+    ],
+    [
+     "D/A"
+    ],
+    [
+     "E7",
+     "A7"
+    ],
+    [
+     "D"
+    ],
+    []
+   ]
+  },
+  {
+   "name": "Coda",
+   "tonic": "Dm",
+   "bars": "60–67",
+   "repeat": false,
+   "sequence": [
+    [
+     "Dm"
+    ],
+    [
+     "A7/E"
+    ],
+    [
+     "Dm"
+    ],
+    [
+     "A7/E"
+    ],
+    [
+     "Bb7"
+    ],
+    [
+     "Gm6"
+    ],
+    [
+     "Dm"
+    ],
+    []
+   ]
+  }
+ ],
+ "notes": [
+  "Grille générée automatiquement depuis la partition MusicXML : à vérifier."
+ ],
+ "confidence": "medium",
+ "source": [
+  "mxl/C/Eduardo Souto - O despertar da montanha - Theme - C.mxl"
+ ],
+ "generated": "mxl"
+}

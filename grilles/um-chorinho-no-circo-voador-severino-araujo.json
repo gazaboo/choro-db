@@ -1,0 +1,243 @@
+{
+ "song_id": "um-chorinho-no-circo-voador-severino-araujo",
+ "title": "Um chorinho no Circo Voador",
+ "composer": "Severino Araújo",
+ "transposition": "c",
+ "meter": "2/4",
+ "form": "A — B — C — Coda",
+ "parts": [
+  {
+   "name": "A",
+   "tonic": "Am",
+   "bars": "1–34",
+   "sequence": [
+    [
+     "Db7/Ab"
+    ],
+    [],
+    [
+     "C7"
+    ],
+    [],
+    [
+     "F/A",
+     "Db7/Ab"
+    ],
+    [
+     "Gm"
+    ],
+    [
+     "C7"
+    ],
+    [
+     "F",
+     "C7"
+    ],
+    [
+     "F/A",
+     "Db7/Ab"
+    ],
+    [
+     "Gm"
+    ],
+    [
+     "C7"
+    ],
+    [
+     "F7"
+    ],
+    [],
+    [
+     "Bbm6"
+    ],
+    [
+     "F",
+     "Gm"
+    ],
+    [
+     "Am"
+    ],
+    [
+     "Dm"
+    ],
+    [
+     "G7"
+    ],
+    [
+     "Db7"
+    ],
+    [
+     "C7"
+    ],
+    [
+     "F/A",
+     "Db7/Ab"
+    ],
+    [
+     "Gm"
+    ],
+    [
+     "C7"
+    ],
+    [
+     "F",
+     "C7"
+    ],
+    [
+     "F/A",
+     "Db7/Ab"
+    ],
+    [
+     "Gm"
+    ],
+    [
+     "C7"
+    ],
+    [
+     "F7"
+    ],
+    [
+     "Bb6"
+    ],
+    [
+     "Db7"
+    ],
+    [],
+    [
+     "Ab7"
+    ],
+    [
+     "Gm"
+    ],
+    [
+     "Gb7"
+    ]
+   ]
+  },
+  {
+   "name": "B",
+   "tonic": "C",
+   "bars": "35–53",
+   "sequence": [
+    [
+     "F"
+    ],
+    [
+     "C7"
+    ],
+    [
+     "F"
+    ],
+    [
+     "A7"
+    ],
+    [
+     "Dm",
+     "Bb7"
+    ],
+    [
+     "Dm"
+    ],
+    [
+     "Cm6/Eb"
+    ],
+    [
+     "D7"
+    ],
+    [
+     "Gm"
+    ],
+    [
+     "Dm"
+    ],
+    [
+     "Bb7"
+    ],
+    [
+     "Gm6",
+     "A7"
+    ],
+    [
+     "Dm",
+     "Bb7"
+    ],
+    [
+     "Dm"
+    ],
+    [
+     "A7"
+    ],
+    [
+     "Cm6/Eb",
+     "D7"
+    ],
+    [
+     "Gm"
+    ],
+    [
+     "Bb7"
+    ],
+    [
+     "Eb",
+     "A7"
+    ]
+   ]
+  },
+  {
+   "name": "C",
+   "tonic": "C",
+   "bars": "54–61",
+   "sequence": [
+    [
+     "Dm"
+    ],
+    [],
+    [
+     "F"
+    ],
+    [],
+    [
+     "F/A",
+     "Db7/Ab"
+    ],
+    [
+     "Gm"
+    ],
+    [
+     "Gm",
+     "Eb7/Bb"
+    ],
+    [
+     "C7"
+    ]
+   ]
+  },
+  {
+   "name": "Coda",
+   "tonic": "C",
+   "bars": "62–66",
+   "sequence": [
+    [
+     "F"
+    ],
+    [],
+    [],
+    [
+     "Db7/Ab"
+    ],
+    [
+     "C7"
+    ]
+   ]
+  }
+ ],
+ "notes": [
+  "Grille générée automatiquement depuis le texte du PDF : à vérifier.",
+  "Reprises et fins non détectées : les mesures sont dans l'ordre d'écriture."
+ ],
+ "confidence": "low",
+ "source": [
+  "pdf/Severino Araújo - Um chorinho no Circo Voador - Theme - C.pdf"
+ ],
+ "generated": "pdf"
+}

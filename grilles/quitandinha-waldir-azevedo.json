@@ -1,0 +1,147 @@
+{
+ "song_id": "quitandinha-waldir-azevedo",
+ "title": "Quitandinha",
+ "composer": "Waldir Azevedo",
+ "transposition": "c",
+ "meter": "2/4",
+ "form": "A — B — C",
+ "parts": [
+  {
+   "name": "A",
+   "tonic": "Am",
+   "bars": "1–13",
+   "sequence": [
+    [
+     "G"
+    ],
+    [],
+    [
+     "E7"
+    ],
+    [
+     "Am"
+    ],
+    [],
+    [],
+    [
+     "Am",
+     "Cm6"
+    ],
+    [
+     "G/B"
+    ],
+    [
+     "G",
+     "G/B"
+    ],
+    [],
+    [],
+    [
+     "Am"
+    ],
+    [
+     "Bbm6"
+    ]
+   ]
+  },
+  {
+   "name": "B",
+   "tonic": "C",
+   "bars": "16–24",
+   "sequence": [
+    [
+     "G"
+    ],
+    [
+     "G"
+    ],
+    [],
+    [
+     "Gm"
+    ],
+    [
+     "Cm"
+    ],
+    [
+     "G/D",
+     "G7"
+    ],
+    [
+     "Cm"
+    ],
+    [
+     "Cm"
+    ],
+    [
+     "Gm/Bb"
+    ]
+   ]
+  },
+  {
+   "name": "C",
+   "tonic": "Am",
+   "bars": "25–44",
+   "sequence": [
+    [],
+    [
+     "D7"
+    ],
+    [
+     "A7",
+     "D7",
+     "Gm",
+     "D7"
+    ],
+    [],
+    [
+     "G"
+    ],
+    [],
+    [
+     "Gm",
+     "Am7(b5)"
+    ],
+    [
+     "Fm6"
+    ],
+    [],
+    [
+     "Cm"
+    ],
+    [
+     "Cm",
+     "Cm/Bb",
+     "Fm6"
+    ],
+    [],
+    [],
+    [
+     "Gm",
+     "Am7(b5)",
+     "D7"
+    ],
+    [
+     "Gm"
+    ],
+    [],
+    [],
+    [
+     "Cm"
+    ],
+    [],
+    [
+     "Gm"
+    ]
+   ]
+  }
+ ],
+ "notes": [
+  "Grille générée automatiquement depuis le texte du PDF : à vérifier.",
+  "Reprises et fins non détectées : les mesures sont dans l'ordre d'écriture."
+ ],
+ "confidence": "low",
+ "source": [
+  "pdf/Waldir Azevedo - Quitandinha - Theme - C - variant 1.pdf"
+ ],
+ "generated": "pdf"
+}

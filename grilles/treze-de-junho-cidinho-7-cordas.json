@@ -1,0 +1,171 @@
+{
+ "song_id": "treze-de-junho-cidinho-7-cordas",
+ "title": "Treze de junho",
+ "composer": "Cidinho 7 Cordas",
+ "transposition": "c",
+ "meter": "2/4",
+ "form": "A — B — Coda",
+ "parts": [
+  {
+   "name": "A",
+   "tonic": "C",
+   "bars": "1–29",
+   "sequence": [
+    [
+     "Dm"
+    ],
+    [],
+    [
+     "Dm"
+    ],
+    [],
+    [
+     "Gm"
+    ],
+    [],
+    [
+     "Gm"
+    ],
+    [],
+    [],
+    [],
+    [
+     "Dm"
+    ],
+    [
+     "Dm/C"
+    ],
+    [],
+    [],
+    [],
+    [],
+    [
+     "Dm"
+    ],
+    [],
+    [
+     "Dm"
+    ],
+    [
+     "Em7(b5)"
+    ],
+    [
+     "Gm"
+    ],
+    [],
+    [
+     "Gm"
+    ],
+    [],
+    [],
+    [],
+    [
+     "Dm"
+    ],
+    [
+     "Dm/F"
+    ],
+    [
+     "Em7(b5)"
+    ]
+   ]
+  },
+  {
+   "name": "B",
+   "tonic": "C",
+   "bars": "31–63",
+   "sequence": [
+    [
+     "Dm"
+    ],
+    [],
+    [
+     "Dm"
+    ],
+    [],
+    [],
+    [],
+    [
+     "Dm/A"
+    ],
+    [],
+    [],
+    [],
+    [
+     "Gm"
+    ],
+    [],
+    [
+     "Em7(b5)"
+    ],
+    [],
+    [
+     "Dm"
+    ],
+    [
+     "Dm/F"
+    ],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [
+     "Dm/A"
+    ],
+    [],
+    [],
+    [],
+    [
+     "Gm"
+    ],
+    [],
+    [
+     "Em7(b5)"
+    ],
+    [],
+    [
+     "Dm"
+    ],
+    [
+     "Dm/C"
+    ],
+    [
+     "Gm6/Bb"
+    ]
+   ]
+  },
+  {
+   "name": "Coda",
+   "tonic": "C",
+   "bars": "65–71",
+   "sequence": [
+    [
+     "Dm"
+    ],
+    [],
+    [
+     "Dm"
+    ],
+    [],
+    [
+     "Dm"
+    ],
+    [],
+    [
+     "Dm"
+    ]
+   ]
+  }
+ ],
+ "notes": [
+  "Grille générée automatiquement depuis le texte du PDF : à vérifier.",
+  "Reprises et fins non détectées : les mesures sont dans l'ordre d'écriture."
+ ],
+ "confidence": "low",
+ "source": [
+  "pdf/Cidinho 7 Cordas - Treze de junho - Theme - C.pdf"
+ ],
+ "generated": "pdf"
+}

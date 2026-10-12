@@ -1,0 +1,267 @@
+{
+ "song_id": "cinza-jayme-vignoli",
+ "title": "Cinza",
+ "composer": "Jayme Vignoli",
+ "transposition": "c",
+ "meter": "2/2",
+ "form": "A — B (reprise) — C (reprise) — Coda",
+ "parts": [
+  {
+   "name": "A",
+   "tonic": "Em",
+   "bars": "1–16",
+   "repeat": false,
+   "sequence": [
+    [
+     "Em",
+     "Em6"
+    ],
+    [
+     "Am6/E"
+    ],
+    [
+     "Cm6/Eb"
+    ],
+    [
+     "Dm6",
+     "E7"
+    ],
+    [
+     "Am6"
+    ],
+    [
+     "Em6(9)"
+    ],
+    [
+     "Gm7(11)",
+     "F#7(#11)"
+    ],
+    [
+     "F7(#11)"
+    ],
+    [
+     "Em",
+     "Em6"
+    ],
+    [
+     "Am6/E"
+    ],
+    [
+     "Cm6/Eb"
+    ],
+    [
+     "Dm6",
+     "E7"
+    ],
+    [
+     "F(9)"
+    ],
+    [
+     "Em",
+     "Em/D"
+    ],
+    [
+     "C7",
+     "B7"
+    ],
+    [
+     "Em"
+    ]
+   ]
+  },
+  {
+   "name": "B",
+   "tonic": "Em",
+   "bars": "17–34",
+   "repeat": true,
+   "sequence": [
+    [
+     "D7(b9)"
+    ],
+    [
+     "Gmaj7",
+     "Cmaj7(#5)"
+    ],
+    [
+     "C#m7b5",
+     "F#7(b13)"
+    ],
+    [
+     "Bm6(9)",
+     "Dm6/F"
+    ],
+    [
+     "F#m6(9)",
+     "Fm6"
+    ],
+    [
+     "A6",
+     "G#7(b13)"
+    ],
+    [
+     "D7/F#",
+     "D7(9)"
+    ],
+    [
+     "C#7"
+    ],
+    [
+     "Em6/G",
+     "Gm6"
+    ],
+    [
+     "F#m6",
+     "F7(#11)"
+    ],
+    [
+     "Bm7b5",
+     "E7/G#"
+    ],
+    [
+     "A7(b9)"
+    ],
+    [
+     "Dm7(9)",
+     "Fm6"
+    ],
+    [
+     "E7(b13)",
+     "A7"
+    ],
+    [
+     "Ab7",
+     "D7"
+    ],
+    [
+     "Em",
+     "G7(9)"
+    ]
+   ],
+   "endings": {
+    "1": [
+     [
+      "G6"
+     ]
+    ],
+    "2": [
+     [
+      "G6",
+      "D7",
+      "G6",
+      "B7"
+     ]
+    ]
+   }
+  },
+  {
+   "name": "C",
+   "tonic": "C",
+   "bars": "35–X2",
+   "repeat": true,
+   "sequence": [
+    [
+     "C6(9)",
+     "G(9)/B"
+    ],
+    [
+     "Ebmaj7/Bb",
+     "Gm6/Bb"
+    ],
+    [
+     "D7/A"
+    ],
+    [
+     "Gm6",
+     "A7"
+    ],
+    [
+     "Ab6",
+     "Eb(9)/G"
+    ],
+    [
+     "Cm6/G",
+     "F#m7b5",
+     "B7(b9)"
+    ],
+    [
+     "E6(9)",
+     "A7(13)"
+    ],
+    [
+     "E7(9)",
+     "F7(9)",
+     "F#7(9)",
+     "G7(9)"
+    ],
+    [
+     "C6(9)",
+     "Fm6/C"
+    ],
+    [
+     "Cm",
+     "Ebm6(9)"
+    ],
+    [
+     "Fm6",
+     "Abm6"
+    ],
+    [
+     "Gm6",
+     "A7"
+    ],
+    [
+     "F#m7b5",
+     "G/F"
+    ],
+    [
+     "C/E",
+     "Ebdim"
+    ],
+    [
+     "C6(9)",
+     "B7(b9)"
+    ]
+   ],
+   "endings": {
+    "1": [
+     [
+      "Dm7",
+      "Dm/F",
+      "D7/F#"
+     ],
+     [
+      "G7",
+      "G7(#5)"
+     ]
+    ],
+    "2": [
+     [
+      "Dm7",
+      "G7(b9)"
+     ]
+    ]
+   }
+  },
+  {
+   "name": "Coda",
+   "tonic": "C",
+   "bars": "53–53",
+   "repeat": false,
+   "sequence": [
+    [
+     "Em",
+     "B7",
+     "Em"
+    ]
+   ]
+  }
+ ],
+ "notes": [
+  "Grille générée automatiquement depuis la partition MusicXML : à vérifier."
+ ],
+ "confidence": "medium",
+ "source": [
+  "mxl/C/Jayme Vignoli - Cinza - Theme - C.mxl"
+ ],
+ "generated": "mxl"
+}

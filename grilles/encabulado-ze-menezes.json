@@ -1,0 +1,152 @@
+{
+ "song_id": "encabulado-ze-menezes",
+ "title": "Encabulado",
+ "composer": "Zé Menezes",
+ "transposition": "c",
+ "meter": "2/4",
+ "form": "A (reprise) — B (reprise)",
+ "parts": [
+  {
+   "name": "A",
+   "tonic": "Dm",
+   "bars": "1–16",
+   "repeat": true,
+   "sequence": [
+    [
+     "Dm"
+    ],
+    [
+     "Gm/Bb",
+     "A7"
+    ],
+    [
+     "Dm",
+     "Dm/C"
+    ],
+    [
+     "Gm/Bb",
+     "A7"
+    ],
+    [
+     "Dm"
+    ],
+    [
+     "C7",
+     "Bb7"
+    ],
+    [
+     "A7sus4",
+     "A7"
+    ],
+    [
+     "Dm"
+    ],
+    [
+     "Gm/Bb",
+     "A7"
+    ],
+    [
+     "Dm"
+    ],
+    [
+     "Gm/Bb",
+     "A7"
+    ],
+    [
+     "Cm6/Eb",
+     "D7"
+    ],
+    [
+     "Gm7",
+     "C7"
+    ],
+    [
+     "F7",
+     "Bb7"
+    ],
+    [
+     "E7/B",
+     "Bb7",
+     "A7"
+    ],
+    [
+     "Dm"
+    ]
+   ]
+  },
+  {
+   "name": "B",
+   "tonic": "D",
+   "bars": "17–33",
+   "repeat": true,
+   "sequence": [
+    [
+     "D",
+     "D/F#"
+    ],
+    [
+     "Em"
+    ],
+    [
+     "A7/C#"
+    ],
+    [
+     "D/F#"
+    ],
+    [
+     "D",
+     "D/F#"
+    ],
+    [
+     "A/E"
+    ],
+    [
+     "Bm7",
+     "E7"
+    ],
+    [
+     "A7"
+    ],
+    [
+     "D",
+     "D/F#"
+    ],
+    [
+     "Em"
+    ],
+    [
+     "A7",
+     "A/G"
+    ],
+    [
+     "D/F#",
+     "D7"
+    ],
+    [
+     "G",
+     "F#7"
+    ],
+    [
+     "Bm",
+     "G#dim"
+    ],
+    [
+     "Em/G",
+     "A7"
+    ],
+    [
+     "D"
+    ],
+    []
+   ]
+  }
+ ],
+ "notes": [
+  "Grille générée automatiquement depuis la partition MusicXML : à vérifier."
+ ],
+ "confidence": "medium",
+ "source": [
+  "mxl/C/Zé Menezes - Encabulado - Theme - C.mxl"
+ ],
+ "generated": "mxl"
+}

@@ -1,0 +1,272 @@
+{
+ "song_id": "amoroso-garoto",
+ "title": "Amoroso",
+ "composer": "Garoto",
+ "transposition": "c",
+ "meter": "2/4",
+ "form": "A — B — C (reprise) — D — E — F (reprise) — Coda",
+ "parts": [
+  {
+   "name": "A",
+   "tonic": "Gm",
+   "bars": "1–16",
+   "repeat": false,
+   "sequence": [
+    [
+     "Gm"
+    ],
+    [],
+    [
+     "A/G"
+    ],
+    [],
+    [
+     "D7"
+    ],
+    [
+     "D7/F#"
+    ],
+    [
+     "Eb6/G"
+    ],
+    [
+     "D7/A"
+    ],
+    [
+     "Gm/Bb"
+    ],
+    [
+     "Gm6"
+    ],
+    [
+     "Dm/F"
+    ],
+    [],
+    [
+     "A7"
+    ],
+    [
+     "A7/C#"
+    ],
+    [
+     "Cm6"
+    ],
+    [
+     "D7"
+    ]
+   ]
+  },
+  {
+   "name": "B",
+   "tonic": "Gm",
+   "bars": "17–30",
+   "repeat": false,
+   "sequence": [
+    [
+     "Gm"
+    ],
+    [],
+    [
+     "A/G"
+    ],
+    [],
+    [
+     "D7"
+    ],
+    [
+     "D7/F#"
+    ],
+    [
+     "G7"
+    ],
+    [],
+    [
+     "Cm7"
+    ],
+    [
+     "D7"
+    ],
+    [
+     "Gm"
+    ],
+    [
+     "Gm/F"
+    ],
+    [
+     "A7/E"
+    ],
+    [
+     "D7"
+    ]
+   ]
+  },
+  {
+   "name": "C",
+   "tonic": "Gm",
+   "bars": "31–33",
+   "repeat": true,
+   "sequence": [
+    [
+     "Gm"
+    ]
+   ],
+   "endings": {
+    "1": [
+     [
+      "D7"
+     ]
+    ],
+    "2": [
+     [
+      "Gm"
+     ]
+    ]
+   }
+  },
+  {
+   "name": "D",
+   "tonic": "Bb",
+   "bars": "34–49",
+   "repeat": false,
+   "sequence": [
+    [
+     "F7"
+    ],
+    [],
+    [
+     "Bb"
+    ],
+    [],
+    [
+     "Am7b5"
+    ],
+    [
+     "D7"
+    ],
+    [
+     "G7"
+    ],
+    [
+     "G7"
+    ],
+    [
+     "Bbdim"
+    ],
+    [
+     "Edim"
+    ],
+    [
+     "Bb/F"
+    ],
+    [
+     "G7"
+    ],
+    [
+     "C7(9)"
+    ],
+    [],
+    [
+     "F7"
+    ],
+    [
+     "F7"
+    ]
+   ]
+  },
+  {
+   "name": "E",
+   "tonic": "Bb",
+   "bars": "50–57",
+   "repeat": false,
+   "sequence": [
+    [],
+    [
+     "F7"
+    ],
+    [
+     "Bb"
+    ],
+    [],
+    [
+     "Am7b5"
+    ],
+    [
+     "D7"
+    ],
+    [
+     "G7"
+    ],
+    [
+     "G7"
+    ]
+   ]
+  },
+  {
+   "name": "F",
+   "tonic": "Bb",
+   "bars": "58–X1",
+   "repeat": true,
+   "sequence": [
+    [
+     "C#dim"
+    ],
+    [
+     "Edim"
+    ],
+    [
+     "Bb/F"
+    ],
+    [
+     "G7"
+    ],
+    [
+     "C7(9)"
+    ],
+    [
+     "F7"
+    ],
+    [
+     "D7"
+    ]
+   ],
+   "endings": {
+    "1": [
+     [
+      "Bb"
+     ],
+     [
+      "Bb",
+      "Gb7",
+      "F7"
+     ]
+    ],
+    "2": [
+     [
+      "Bb"
+     ]
+    ]
+   }
+  },
+  {
+   "name": "Coda",
+   "tonic": "Gm",
+   "bars": "68–69",
+   "repeat": false,
+   "sequence": [
+    [
+     "Gm"
+    ],
+    []
+   ]
+  }
+ ],
+ "notes": [
+  "Grille générée automatiquement depuis la partition MusicXML : à vérifier.",
+  "E : première mesure sans accord"
+ ],
+ "confidence": "medium",
+ "source": [
+  "mxl/C/Garoto - Amoroso - Theme - C.mxl"
+ ],
+ "generated": "mxl"
+}

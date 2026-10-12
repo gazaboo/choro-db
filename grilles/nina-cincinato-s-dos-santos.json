@@ -1,0 +1,180 @@
+{
+ "song_id": "nina-cincinato-s-dos-santos",
+ "title": "Nina",
+ "composer": "Cincinato S. dos Santos",
+ "transposition": "c",
+ "meter": "2/4",
+ "form": "A (reprise) — B (reprise) — Coda",
+ "parts": [
+  {
+   "name": "A",
+   "tonic": "A",
+   "bars": "1–17",
+   "repeat": true,
+   "sequence": [
+    [
+     "A6",
+     "Cdim"
+    ],
+    [
+     "Bm7"
+    ],
+    [
+     "E7",
+     "E7(#5)"
+    ],
+    [
+     "A6"
+    ],
+    [
+     "A6",
+     "F#7"
+    ],
+    [
+     "Bm"
+    ],
+    [
+     "E7",
+     "E/D"
+    ],
+    [
+     "A/C#",
+     "E7"
+    ],
+    [
+     "A6",
+     "Cdim"
+    ],
+    [
+     "Bm7"
+    ],
+    [
+     "E7",
+     "E7(#5)"
+    ],
+    [
+     "A6",
+     "A7"
+    ],
+    [
+     "D6",
+     "F#7/A#"
+    ],
+    [
+     "Bm",
+     "Cdim"
+    ],
+    [
+     "A/C#",
+     "B7",
+     "E7"
+    ]
+   ],
+   "endings": {
+    "1": [
+     [
+      "A6"
+     ]
+    ],
+    "2": [
+     [
+      "A6"
+     ]
+    ]
+   }
+  },
+  {
+   "name": "B",
+   "tonic": "A",
+   "bars": "18–35",
+   "repeat": true,
+   "sequence": [
+    [
+     "F#m"
+    ],
+    [
+     "Bm7",
+     "C#7"
+    ],
+    [
+     "F#m",
+     "D7/A"
+    ],
+    [
+     "C#7/G#"
+    ],
+    [
+     "F#7"
+    ],
+    [
+     "B7"
+    ],
+    [
+     "E7"
+    ],
+    [
+     "A",
+     "C#7"
+    ],
+    [
+     "F#m"
+    ],
+    [
+     "Bm",
+     "C#7"
+    ],
+    [
+     "F#m",
+     "D7/A"
+    ],
+    [
+     "C#7/G#"
+    ],
+    [
+     "F#7"
+    ],
+    [
+     "Bm",
+     "Bm6"
+    ],
+    [
+     "F#m/A",
+     "C#7"
+    ],
+    []
+   ],
+   "endings": {
+    "1": [
+     [
+      "F#m"
+     ]
+    ],
+    "2": [
+     [
+      "F#m",
+      "E7"
+     ]
+    ]
+   }
+  },
+  {
+   "name": "Coda",
+   "tonic": "A",
+   "bars": "36–36",
+   "repeat": false,
+   "sequence": [
+    [
+     "A6"
+    ]
+   ]
+  }
+ ],
+ "notes": [
+  "Grille générée automatiquement depuis la partition MusicXML : à vérifier."
+ ],
+ "confidence": "medium",
+ "source": [
+  "mxl/C/Cincinato S. dos Santos - Nina - Theme - C.mxl"
+ ],
+ "generated": "mxl"
+}

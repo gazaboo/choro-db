@@ -1,0 +1,272 @@
+{
+ "song_id": "chorando-candinho",
+ "title": "Chorando",
+ "composer": "Candinho",
+ "transposition": "c",
+ "meter": "2/4",
+ "form": "A (reprise) — B (reprise) — C (reprise)",
+ "parts": [
+  {
+   "name": "A",
+   "tonic": "F",
+   "bars": "0–33",
+   "repeat": true,
+   "sequence": [
+    [
+     "C7"
+    ],
+    [
+     "C7",
+     "C/Bb"
+    ],
+    [
+     "F/A"
+    ],
+    [],
+    [
+     "Cm7"
+    ],
+    [
+     "F7"
+    ],
+    [
+     "Bb"
+    ],
+    [],
+    [
+     "Bdim"
+    ],
+    [
+     "Db7/Ab"
+    ],
+    [
+     "F/A"
+    ],
+    [],
+    [
+     "G7/B"
+    ],
+    [],
+    [
+     "C7"
+    ],
+    [
+     "C7",
+     "F#dim"
+    ],
+    [
+     "Gm"
+    ],
+    [
+     "C7",
+     "C/Bb"
+    ],
+    [
+     "F/A"
+    ],
+    [],
+    [
+     "A7/C#"
+    ],
+    [
+     "A7"
+    ],
+    [
+     "Dm"
+    ],
+    [],
+    [
+     "D7"
+    ],
+    [
+     "D7/F#"
+    ],
+    [
+     "Gm"
+    ],
+    [
+     "Gm6"
+    ],
+    [
+     "Dm/F"
+    ],
+    [
+     "C7/G"
+    ],
+    [
+     "F"
+    ]
+   ],
+   "endings": {
+    "1": [
+     [
+      "F"
+     ]
+    ],
+    "2": [
+     [
+      "F"
+     ]
+    ]
+   }
+  },
+  {
+   "name": "B",
+   "tonic": "Dm",
+   "bars": "34–X1",
+   "repeat": true,
+   "sequence": [
+    [
+     "A7/C#"
+    ],
+    [],
+    [
+     "Dm"
+    ],
+    [
+     "C7"
+    ],
+    [
+     "F"
+    ],
+    [
+     "F7"
+    ],
+    [
+     "Bb"
+    ],
+    [],
+    [
+     "Bbm6"
+    ],
+    [],
+    [
+     "F/A"
+    ],
+    [
+     "Dm"
+    ],
+    [
+     "A7"
+    ],
+    [],
+    [
+     "Dm"
+    ]
+   ],
+   "endings": {
+    "1": [
+     [
+      "Dm"
+     ]
+    ],
+    "2": [
+     [
+      "Dm"
+     ]
+    ]
+   }
+  },
+  {
+   "name": "C",
+   "tonic": "Bb",
+   "bars": "52–77",
+   "repeat": true,
+   "sequence": [
+    [
+     "F7"
+    ],
+    [
+     "F7",
+     "F/Eb"
+    ],
+    [
+     "Bb/D"
+    ],
+    [],
+    [
+     "Gb7"
+    ],
+    [
+     "Ebm6/Gb"
+    ],
+    [
+     "Bb/F",
+     "F/Eb"
+    ],
+    [
+     "Bb/D"
+    ],
+    [
+     "Cm6"
+    ],
+    [
+     "F7"
+    ],
+    [
+     "Bb"
+    ],
+    [],
+    [
+     "D7"
+    ],
+    [
+     "D7/F#"
+    ],
+    [
+     "Gm"
+    ],
+    [
+     "Gm/F"
+    ],
+    [
+     "Edim"
+    ],
+    [
+     "C#dim"
+    ],
+    [
+     "Bb/D"
+    ],
+    [
+     "G7/B"
+    ],
+    [
+     "Cm"
+    ],
+    [
+     "F7"
+    ],
+    [
+     "Bb"
+    ],
+    []
+   ],
+   "endings": {
+    "1": [
+     [
+      "Bb"
+     ]
+    ],
+    "2": [
+     [
+      "Bb"
+     ]
+    ]
+   },
+   "transition_in": [
+    [
+     "F"
+    ]
+   ]
+  }
+ ],
+ "notes": [
+  "Grille générée automatiquement depuis la partition MusicXML : à vérifier."
+ ],
+ "confidence": "medium",
+ "source": [
+  "mxl/C/Candinho - Chorando - Theme - C.mxl"
+ ],
+ "generated": "mxl"
+}

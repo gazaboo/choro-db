@@ -1,0 +1,159 @@
+{
+ "song_id": "segura-ele-pixinguinha",
+ "title": "Segura Ele",
+ "composer": "Pixinguinha",
+ "transposition": "c",
+ "meter": "2/4",
+ "form": "A — B — C",
+ "parts": [
+  {
+   "name": "A",
+   "tonic": "C",
+   "bars": "1–16",
+   "sequence": [
+    [
+     "F"
+    ],
+    [
+     "C"
+    ],
+    [
+     "Am",
+     "G",
+     "D7"
+    ],
+    [
+     "Am"
+    ],
+    [
+     "Am",
+     "C"
+    ],
+    [],
+    [
+     "Dm"
+    ],
+    [
+     "Dm",
+     "F"
+    ],
+    [
+     "C"
+    ],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [
+     "D7"
+    ]
+   ]
+  },
+  {
+   "name": "B",
+   "tonic": "Am",
+   "bars": "17–32",
+   "sequence": [
+    [
+     "Dm",
+     "C"
+    ],
+    [
+     "C"
+    ],
+    [
+     "Am"
+    ],
+    [
+     "Am"
+    ],
+    [],
+    [
+     "Dm"
+    ],
+    [],
+    [
+     "C"
+    ],
+    [
+     "Dm"
+    ],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [
+     "Am"
+    ]
+   ]
+  },
+  {
+   "name": "C",
+   "tonic": "C",
+   "bars": "34–54",
+   "sequence": [
+    [
+     "Am"
+    ],
+    [
+     "Am"
+    ],
+    [
+     "C"
+    ],
+    [],
+    [
+     "F"
+    ],
+    [],
+    [
+     "F"
+    ],
+    [
+     "F",
+     "Gm"
+    ],
+    [
+     "Dm",
+     "D7"
+    ],
+    [
+     "Gm"
+    ],
+    [
+     "Gm"
+    ],
+    [
+     "Bbm6",
+     "F"
+    ],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [
+     "F"
+    ],
+    [],
+    [
+     "C"
+    ]
+   ]
+  }
+ ],
+ "notes": [
+  "Grille générée automatiquement depuis le texte du PDF : à vérifier.",
+  "Reprises et fins non détectées : les mesures sont dans l'ordre d'écriture."
+ ],
+ "confidence": "low",
+ "source": [
+  "pdf/Pixinguinha - Segura Ele - Theme - C - variant 1.pdf"
+ ],
+ "generated": "pdf"
+}

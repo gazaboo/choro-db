@@ -1,0 +1,268 @@
+{
+ "song_id": "remeleixo-jacob-do-bandolim",
+ "title": "Remeleixo",
+ "composer": "Jacob do Bandolim",
+ "transposition": "c",
+ "meter": "2/4",
+ "form": "A (reprise) — B — C (reprise) — D (reprise) — C — Coda",
+ "parts": [
+  {
+   "name": "A",
+   "tonic": "G",
+   "bars": "0–3",
+   "repeat": true,
+   "sequence": [
+    [
+     "G6"
+    ]
+   ],
+   "endings": {
+    "1": [
+     []
+    ],
+    "2": [
+     []
+    ],
+    "3": [
+     []
+    ],
+    "4": [
+     []
+    ]
+   }
+  },
+  {
+   "name": "B",
+   "tonic": "G",
+   "bars": "4–27",
+   "repeat": false,
+   "sequence": [
+    [
+     "G6"
+    ],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    []
+   ]
+  },
+  {
+   "name": "C",
+   "tonic": "G",
+   "bars": "28–46",
+   "repeat": true,
+   "sequence": [
+    [
+     "G6"
+    ],
+    [],
+    [
+     "Bm/F#",
+     "Gmaj7"
+    ],
+    [
+     "G#m7b5"
+    ],
+    [
+     "G7/B"
+    ],
+    [
+     "G7"
+    ],
+    [
+     "C"
+    ],
+    [
+     "C/Bb"
+    ],
+    [
+     "F7/A"
+    ],
+    [
+     "Bb/Ab"
+    ],
+    [
+     "Eb/G"
+    ],
+    [
+     "A7"
+    ],
+    [
+     "D"
+    ],
+    [
+     "G"
+    ],
+    []
+   ],
+   "endings": {
+    "1": [
+     [
+      "D7"
+     ],
+     [
+      "G",
+      "E7"
+     ],
+     [
+      "A7",
+      "D7"
+     ]
+    ],
+    "2": [
+     [
+      "D7"
+     ]
+    ]
+   }
+  },
+  {
+   "name": "D",
+   "tonic": "D",
+   "bars": "47–76",
+   "repeat": true,
+   "sequence": [
+    [
+     "A7"
+    ],
+    [],
+    [
+     "A7(#5)"
+    ],
+    [],
+    [
+     "D",
+     "F#7/C#"
+    ],
+    [
+     "Bm",
+     "B/A"
+    ],
+    [
+     "Em/G",
+     "B7/F#"
+    ],
+    [
+     "Em"
+    ],
+    [
+     "G7",
+     "Ab7",
+     "A7"
+    ],
+    [
+     "Bb7"
+    ],
+    [
+     "Eb"
+    ],
+    [],
+    [
+     "G7/B"
+    ],
+    [
+     "G7"
+    ],
+    [
+     "Cm"
+    ],
+    [],
+    [
+     "A7/C#"
+    ],
+    [
+     "A7"
+    ],
+    [
+     "D"
+    ],
+    [
+     "D/C"
+    ],
+    [
+     "G/B"
+    ],
+    [
+     "Gm6/Bb"
+    ],
+    [
+     "D7",
+     "C#7",
+     "C7"
+    ],
+    [
+     "B7"
+    ],
+    [
+     "E7"
+    ],
+    [
+     "A7"
+    ],
+    [
+     "D7"
+    ]
+   ],
+   "endings": {
+    "1": [
+     [
+      "D"
+     ],
+     []
+    ],
+    "2": [
+     [
+      "D"
+     ]
+    ]
+   }
+  },
+  {
+   "name": "Coda",
+   "tonic": "G",
+   "bars": "94–97",
+   "repeat": false,
+   "sequence": [
+    [
+     "D7"
+    ],
+    [
+     "G6"
+    ],
+    [
+     "Ab6",
+     "G6"
+    ],
+    []
+   ]
+  }
+ ],
+ "notes": [
+  "Grille générée automatiquement depuis la partition MusicXML : à vérifier.",
+  "30/71 mesures sans accord écrit"
+ ],
+ "confidence": "medium",
+ "source": [
+  "mxl/C/Jacob do Bandolim - Remeleixo - Theme - C.mxl"
+ ],
+ "generated": "mxl"
+}

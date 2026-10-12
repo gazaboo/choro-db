@@ -1,0 +1,220 @@
+{
+ "song_id": "os-cinco-companheiros-pixinguinha",
+ "title": "Os cinco companheiros",
+ "composer": "Pixinguinha",
+ "transposition": "c",
+ "meter": "2/4",
+ "form": "A (reprise) — B (reprise) — C (reprise)",
+ "parts": [
+  {
+   "name": "A",
+   "tonic": "Dm",
+   "bars": "1–16",
+   "repeat": true,
+   "sequence": [
+    [
+     "Dm"
+    ],
+    [
+     "A7/C#"
+    ],
+    [
+     "D/C"
+    ],
+    [
+     "G7/B"
+    ],
+    [
+     "C/Bb"
+    ],
+    [
+     "F/A",
+     "Bm7b5"
+    ],
+    [
+     "A/C#",
+     "E7/B"
+    ],
+    [
+     "A",
+     "C7"
+    ],
+    [
+     "F"
+    ],
+    [
+     "A7"
+    ],
+    [
+     "Cm6",
+     "D7"
+    ],
+    [
+     "Gm"
+    ],
+    [
+     "G#dim",
+     "A7"
+    ],
+    [
+     "Dm",
+     "F7"
+    ],
+    [
+     "Bb",
+     "A7"
+    ],
+    [
+     "Dm"
+    ]
+   ]
+  },
+  {
+   "name": "B",
+   "tonic": "Dm",
+   "bars": "17–X1",
+   "repeat": true,
+   "sequence": [
+    [
+     "F"
+    ],
+    [
+     "Gm"
+    ],
+    [
+     "C7"
+    ],
+    [
+     "F"
+    ],
+    [
+     "A7/C#"
+    ],
+    [
+     "Dm"
+    ],
+    [
+     "G7"
+    ],
+    [
+     "C7"
+    ],
+    [
+     "D7"
+    ],
+    [
+     "G7"
+    ],
+    [
+     "C7"
+    ],
+    [
+     "F"
+    ],
+    [
+     "G#dim"
+    ],
+    [
+     "F/A",
+     "Dm7"
+    ],
+    [
+     "Gm",
+     "C7"
+    ]
+   ],
+   "endings": {
+    "1": [
+     [
+      "F"
+     ]
+    ],
+    "2": [
+     [
+      "F",
+      "A7/C#"
+     ]
+    ]
+   }
+  },
+  {
+   "name": "C",
+   "tonic": "Bb",
+   "bars": "34–51",
+   "repeat": true,
+   "sequence": [
+    [
+     "Bb"
+    ],
+    [
+     "F/A"
+    ],
+    [
+     "Bb/Ab"
+    ],
+    [
+     "Eb/G"
+    ],
+    [
+     "Ebm/Gb"
+    ],
+    [
+     "Bb/F"
+    ],
+    [
+     "D",
+     "A7"
+    ],
+    [
+     "D",
+     "F7"
+    ],
+    [
+     "Bb"
+    ],
+    [
+     "Bb7"
+    ],
+    [
+     "Bb7/D"
+    ],
+    [
+     "Eb"
+    ],
+    [
+     "Ebm6/Gb"
+    ],
+    [
+     "Bb/F"
+    ],
+    [
+     "C7",
+     "F7"
+    ],
+    []
+   ],
+   "endings": {
+    "1": [
+     [
+      "Bb",
+      "F7"
+     ]
+    ],
+    "2": [
+     [
+      "Bb",
+      "A7"
+     ]
+    ]
+   }
+  }
+ ],
+ "notes": [
+  "Grille générée automatiquement depuis la partition MusicXML : à vérifier."
+ ],
+ "confidence": "medium",
+ "source": [
+  "mxl/C/Pixinguinha - Os cinco companheiros - Theme - C.mxl"
+ ],
+ "generated": "mxl"
+}

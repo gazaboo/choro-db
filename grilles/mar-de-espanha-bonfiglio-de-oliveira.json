@@ -1,0 +1,389 @@
+{
+ "song_id": "mar-de-espanha-bonfiglio-de-oliveira",
+ "title": "Mar de Espanha",
+ "composer": "Bonfíglio de Oliveira",
+ "transposition": "c",
+ "meter": "3/4",
+ "form": "A — B — C — D (reprise) — Coda",
+ "parts": [
+  {
+   "name": "A",
+   "tonic": "Gm",
+   "bars": "1–50",
+   "repeat": false,
+   "sequence": [
+    [
+     "Gm"
+    ],
+    [],
+    [
+     "D7/F#"
+    ],
+    [
+     "D7"
+    ],
+    [
+     "Gm/Bb"
+    ],
+    [
+     "Gm"
+    ],
+    [
+     "D7/F#"
+    ],
+    [
+     "D7"
+    ],
+    [
+     "G7/B"
+    ],
+    [
+     "G7"
+    ],
+    [
+     "Cm"
+    ],
+    [
+     "Am7b5"
+    ],
+    [
+     "Gm/Bb"
+    ],
+    [
+     "Gm"
+    ],
+    [
+     "Am7b5"
+    ],
+    [
+     "D7/F#"
+    ],
+    [
+     "Gm"
+    ],
+    [],
+    [
+     "D7/F#"
+    ],
+    [
+     "D7"
+    ],
+    [
+     "Gm/Bb"
+    ],
+    [
+     "Gm"
+    ],
+    [
+     "D7/F#"
+    ],
+    [
+     "D7"
+    ],
+    [
+     "G7/B"
+    ],
+    [
+     "G7"
+    ],
+    [
+     "Cm"
+    ],
+    [
+     "Am7b5"
+    ],
+    [
+     "Gm/Bb"
+    ],
+    [
+     "Gm"
+    ],
+    [
+     "A7"
+    ],
+    [
+     "A7/G"
+    ],
+    [
+     "D7/F#"
+    ],
+    [
+     "Cm6/Eb"
+    ],
+    [
+     "D7"
+    ],
+    [],
+    [
+     "Gm/Bb"
+    ],
+    [
+     "Cm6/Eb"
+    ],
+    [
+     "D7"
+    ],
+    [],
+    [
+     "G7/B"
+    ],
+    [
+     "G7"
+    ],
+    [
+     "Cm"
+    ],
+    [
+     "Am7b5"
+    ],
+    [
+     "Gm/Bb"
+    ],
+    [
+     "Gm"
+    ],
+    [
+     "Ab"
+    ],
+    [
+     "D7"
+    ],
+    [
+     "Gm"
+    ],
+    []
+   ]
+  },
+  {
+   "name": "B",
+   "tonic": "Gm",
+   "bars": "51–56",
+   "repeat": false,
+   "sequence": [
+    [
+     "Gm"
+    ],
+    [
+     "D7/A"
+    ],
+    [
+     "Gm/Bb"
+    ],
+    [
+     "G7/B"
+    ],
+    [
+     "Cm"
+    ],
+    [
+     "G7/D"
+    ]
+   ]
+  },
+  {
+   "name": "C",
+   "tonic": "Gm",
+   "bars": "57–80",
+   "repeat": false,
+   "sequence": [
+    [
+     "Cm/Eb"
+    ],
+    [
+     "C7/E"
+    ],
+    [
+     "F7"
+    ],
+    [
+     "F/Eb"
+    ],
+    [
+     "Bb/D"
+    ],
+    [
+     "Bb"
+    ],
+    [
+     "A7"
+    ],
+    [
+     "A/G"
+    ],
+    [
+     "D7/F#"
+    ],
+    [],
+    [
+     "Gm"
+    ],
+    [
+     "D7/A"
+    ],
+    [
+     "Gm/Bb"
+    ],
+    [
+     "G7/B"
+    ],
+    [
+     "Cm"
+    ],
+    [
+     "G7/D"
+    ],
+    [
+     "Cm/Eb"
+    ],
+    [
+     "Cm"
+    ],
+    [
+     "Am7b5"
+    ],
+    [
+     "D7/F#"
+    ],
+    [
+     "Gm"
+    ],
+    [
+     "Eb7"
+    ],
+    [
+     "Ab"
+    ],
+    [
+     "D7"
+    ]
+   ]
+  },
+  {
+   "name": "D",
+   "tonic": "G",
+   "bars": "81–X1",
+   "repeat": true,
+   "sequence": [
+    [
+     "G"
+    ],
+    [
+     "D7/A"
+    ],
+    [
+     "G"
+    ],
+    [
+     "D7/A"
+    ],
+    [
+     "G"
+    ],
+    [
+     "B7/F#"
+    ],
+    [
+     "Em"
+    ],
+    [
+     "E7/G#"
+    ],
+    [
+     "Am"
+    ],
+    [
+     "E7/B"
+    ],
+    [
+     "Am/C"
+    ],
+    [],
+    [
+     "B7/D#"
+    ],
+    [],
+    [
+     "Em"
+    ],
+    [],
+    [
+     "A7/C#"
+    ],
+    [],
+    [
+     "D7"
+    ],
+    [
+     "D7(#5)"
+    ],
+    [
+     "G"
+    ],
+    [
+     "F7(b5)"
+    ],
+    [
+     "E7"
+    ],
+    [
+     "E7/G#"
+    ],
+    [
+     "Am"
+    ],
+    [
+     "E7/B"
+    ],
+    [
+     "Am/C"
+    ],
+    [],
+    [
+     "C"
+    ],
+    [
+     "C#dim"
+    ],
+    [
+     "G/D"
+    ],
+    [
+     "Em7"
+    ],
+    [
+     "A7"
+    ],
+    [
+     "D7"
+    ],
+    [
+     "G"
+    ],
+    []
+   ]
+  },
+  {
+   "name": "Coda",
+   "tonic": "Gm",
+   "bars": "117–118",
+   "repeat": false,
+   "sequence": [
+    [
+     "Gm",
+     "D7"
+    ],
+    [
+     "Gm"
+    ]
+   ]
+  }
+ ],
+ "notes": [
+  "Grille générée automatiquement depuis la partition MusicXML : à vérifier."
+ ],
+ "confidence": "medium",
+ "source": [
+  "mxl/C/Bonfíglio de Oliveira - Mar de Espanha - Theme - C.mxl"
+ ],
+ "generated": "mxl"
+}

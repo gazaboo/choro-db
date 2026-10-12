@@ -1,0 +1,286 @@
+{
+ "song_id": "modulando-rubens-leal-brito",
+ "title": "Modulando",
+ "composer": "Rubens Leal Brito",
+ "transposition": "c",
+ "meter": "2/4",
+ "form": "A (reprise) — B (reprise) — C (reprise)",
+ "parts": [
+  {
+   "name": "A",
+   "tonic": "Dm",
+   "bars": "0–29",
+   "repeat": true,
+   "sequence": [
+    [
+     "F",
+     "Cdim"
+    ],
+    [
+     "Bdim",
+     "Bbdim"
+    ],
+    [
+     "F/A",
+     "Dm7"
+    ],
+    [
+     "Gm",
+     "A7"
+    ],
+    [
+     "D7"
+    ],
+    [
+     "Gm"
+    ],
+    [
+     "E7"
+    ],
+    [
+     "Am"
+    ],
+    [
+     "G7"
+    ],
+    [
+     "C"
+    ],
+    [
+     "D7",
+     "G7"
+    ],
+    [
+     "C"
+    ],
+    [
+     "D7"
+    ],
+    [
+     "G"
+    ],
+    [
+     "E7"
+    ],
+    [
+     "A"
+    ],
+    [
+     "F#7"
+    ],
+    [
+     "Bm",
+     "G7"
+    ],
+    [
+     "C",
+     "G7"
+    ],
+    [
+     "C",
+     "C7"
+    ],
+    [
+     "F"
+    ],
+    [
+     "Bb"
+    ],
+    [
+     "A7"
+    ],
+    [
+     "Dm"
+    ],
+    [
+     "Bdim"
+    ],
+    [
+     "F",
+     "Db7"
+    ],
+    [
+     "Gb7",
+     "C7"
+    ]
+   ],
+   "endings": {
+    "1": [
+     [
+      "F",
+      "C7"
+     ]
+    ],
+    "2": [
+     [
+      "F",
+      "A7"
+     ]
+    ]
+   }
+  },
+  {
+   "name": "B",
+   "tonic": "F",
+   "bars": "30–46",
+   "repeat": true,
+   "sequence": [
+    [
+     "Dm"
+    ],
+    [
+     "A7"
+    ],
+    [
+     "D7"
+    ],
+    [
+     "G7"
+    ],
+    [
+     "C7"
+    ],
+    [
+     "F"
+    ],
+    [
+     "Bb7"
+    ],
+    [
+     "A7"
+    ],
+    [
+     "D7"
+    ],
+    [
+     "G7",
+     "C7"
+    ],
+    [
+     "F7",
+     "Bb7"
+    ],
+    [
+     "Eb"
+    ],
+    [
+     "Dm",
+     "A7"
+    ],
+    [
+     "Dm",
+     "Gm6"
+    ],
+    [
+     "Dm",
+     "E7",
+     "A7"
+    ]
+   ],
+   "endings": {
+    "1": [
+     [
+      "Dm",
+      "A7"
+     ]
+    ],
+    "2": [
+     [
+      "Dm",
+      "C7"
+     ]
+    ]
+   }
+  },
+  {
+   "name": "C",
+   "tonic": "Bb",
+   "bars": "49–66",
+   "repeat": true,
+   "sequence": [
+    [
+     "Bb"
+    ],
+    [
+     "Cm"
+    ],
+    [
+     "F7"
+    ],
+    [
+     "Bb"
+    ],
+    [
+     "A7",
+     "Dm"
+    ],
+    [
+     "A7",
+     "Dm6"
+    ],
+    [
+     "A",
+     "E7"
+    ],
+    [
+     "A"
+    ],
+    [
+     "F#dim"
+    ],
+    [
+     "Fdim"
+    ],
+    [
+     "Edim"
+    ],
+    [
+     "Ebdim"
+    ],
+    [
+     "G7"
+    ],
+    [
+     "Cm",
+     "Ebm/Gb"
+    ],
+    [
+     "Bb",
+     "F#7",
+     "B7",
+     "F7"
+    ],
+    []
+   ],
+   "endings": {
+    "1": [
+     [
+      "Bb",
+      "F7"
+     ]
+    ],
+    "2": [
+     [
+      "Bb",
+      "C7"
+     ]
+    ]
+   },
+   "transition_in": [
+    [],
+    [
+     "F",
+     "F7"
+    ]
+   ]
+  }
+ ],
+ "notes": [
+  "Grille générée automatiquement depuis la partition MusicXML : à vérifier."
+ ],
+ "confidence": "medium",
+ "source": [
+  "mxl/C/Rubens Leal Brito - Modulando - Theme - C.mxl"
+ ],
+ "generated": "mxl"
+}

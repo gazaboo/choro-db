@@ -1,0 +1,243 @@
+{
+ "song_id": "ingenuo-pixinguinha",
+ "title": "Ingênuo",
+ "composer": "Pixinguinha",
+ "transposition": "c",
+ "meter": "2/4",
+ "form": "A — B — Coda",
+ "parts": [
+  {
+   "name": "A",
+   "tonic": "F",
+   "bars": "1–32",
+   "repeat": false,
+   "sequence": [
+    [
+     "F",
+     "Am/E"
+    ],
+    [
+     "Dm",
+     "Dm/C"
+    ],
+    [
+     "E7/B",
+     "Dm/A"
+    ],
+    [
+     "E7/G#"
+    ],
+    [
+     "Eb",
+     "Gm/D"
+    ],
+    [
+     "Cm",
+     "Cm/Bb"
+    ],
+    [
+     "D7/A",
+     "Cm6/Eb"
+    ],
+    [
+     "D7"
+    ],
+    [
+     "Gm"
+    ],
+    [
+     "G#dim"
+    ],
+    [
+     "F/A"
+    ],
+    [
+     "Dm"
+    ],
+    [
+     "G7"
+    ],
+    [],
+    [
+     "C7",
+     "F7"
+    ],
+    [
+     "Bbm7",
+     "Eb7"
+    ],
+    [
+     "Ab",
+     "Cm/G"
+    ],
+    [
+     "Fm",
+     "Fm/Eb"
+    ],
+    [
+     "G7/D",
+     "Fm6/Ab"
+    ],
+    [
+     "G7"
+    ],
+    [
+     "C7"
+    ],
+    [],
+    [
+     "F7",
+     "Cm7b5"
+    ],
+    [
+     "F7",
+     "F7/A"
+    ],
+    [
+     "Bbm"
+    ],
+    [
+     "Bdim"
+    ],
+    [
+     "F/C"
+    ],
+    [
+     "Cm6/Eb",
+     "D7"
+    ],
+    [
+     "Gm"
+    ],
+    [
+     "Bbm6/Db",
+     "C7"
+    ],
+    [
+     "F"
+    ],
+    []
+   ]
+  },
+  {
+   "name": "B",
+   "tonic": "Bb",
+   "bars": "33–X1",
+   "repeat": false,
+   "sequence": [
+    [
+     "Bb"
+    ],
+    [],
+    [
+     "D7/F#"
+    ],
+    [
+     "D7"
+    ],
+    [
+     "G7/B"
+    ],
+    [
+     "G7"
+    ],
+    [
+     "Cm",
+     "G7/B"
+    ],
+    [
+     "Cm"
+    ],
+    [
+     "C#dim"
+    ],
+    [
+     "Edim",
+     "C#dim"
+    ],
+    [
+     "Bb/D"
+    ],
+    [
+     "Gm7"
+    ],
+    [
+     "C7(9)"
+    ],
+    [],
+    [
+     "F7",
+     "Cm7"
+    ],
+    [
+     "F7",
+     "Ab7"
+    ],
+    [
+     "Db"
+    ],
+    [],
+    [
+     "C"
+    ],
+    [],
+    [
+     "Bb"
+    ],
+    [],
+    [
+     "D7/F#"
+    ],
+    [
+     "D7"
+    ],
+    [
+     "Eb"
+    ],
+    [
+     "C#dim"
+    ],
+    [
+     "Bb/D",
+     "Fm6/Ab"
+    ],
+    [
+     "G7"
+    ],
+    [
+     "C7(9)"
+    ],
+    [
+     "Ebm6/Gb",
+     "F7"
+    ],
+    [
+     "Bb"
+    ],
+    []
+   ]
+  },
+  {
+   "name": "Coda",
+   "tonic": "F",
+   "bars": "65–66",
+   "repeat": false,
+   "sequence": [
+    [
+     "F"
+    ],
+    [
+     "F"
+    ]
+   ]
+  }
+ ],
+ "notes": [
+  "Grille générée automatiquement depuis la partition MusicXML : à vérifier."
+ ],
+ "confidence": "medium",
+ "source": [
+  "mxl/C/Pixinguinha - Ingênuo - Theme - C.mxl"
+ ],
+ "generated": "mxl"
+}

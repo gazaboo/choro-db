@@ -1,0 +1,227 @@
+{
+ "song_id": "choro-triste-aymore",
+ "title": "Choro triste",
+ "composer": "Aymoré",
+ "transposition": "c",
+ "meter": "2/4",
+ "form": "A — B (reprise) — C (reprise) — Coda",
+ "parts": [
+  {
+   "name": "A",
+   "tonic": "Dm",
+   "bars": "0–19",
+   "repeat": false,
+   "sequence": [
+    [
+     "Gm",
+     "Dm6/F"
+    ],
+    [
+     "E7",
+     "A7"
+    ],
+    [
+     "Dm",
+     "Dm/C#"
+    ],
+    [
+     "Dm/C",
+     "Dm/B"
+    ],
+    [
+     "Gm",
+     "Dm6/F"
+    ],
+    [
+     "E7",
+     "A7"
+    ],
+    [
+     "Cm6"
+    ],
+    [
+     "D7",
+     "Ab7(b5)"
+    ],
+    [
+     "G7"
+    ],
+    [
+     "Bbm6",
+     "C7"
+    ],
+    [
+     "F"
+    ],
+    [
+     "E7"
+    ],
+    [
+     "A6",
+     "F#m7"
+    ],
+    [
+     "Bm7",
+     "E7"
+    ],
+    [
+     "A",
+     "Am7b5",
+     "D7"
+    ],
+    [
+     "G7",
+     "Gm7b5",
+     "C7"
+    ],
+    [
+     "F7",
+     "D7"
+    ],
+    [
+     "Gm",
+     "A7"
+    ],
+    [
+     "Dm",
+     "Dm/C"
+    ]
+   ]
+  },
+  {
+   "name": "B",
+   "tonic": "Dm",
+   "bars": "20–22",
+   "repeat": true,
+   "sequence": [
+    [
+     "Gm6/Bb",
+     "E7",
+     "A7"
+    ]
+   ],
+   "endings": {
+    "1": [
+     [
+      "Dm"
+     ]
+    ],
+    "2": [
+     [
+      "Dm",
+      "A7"
+     ]
+    ]
+   }
+  },
+  {
+   "name": "C",
+   "tonic": "D",
+   "bars": "23–X1",
+   "repeat": true,
+   "sequence": [
+    [
+     "D",
+     "F#m/C#"
+    ],
+    [
+     "Bm",
+     "C#7/G#"
+    ],
+    [
+     "F#m",
+     "Am/E",
+     "B7/D#"
+    ],
+    [
+     "Em",
+     "Bb/D",
+     "A7/C#"
+    ],
+    [
+     "D",
+     "F#m/C#"
+    ],
+    [
+     "Bm",
+     "Bm/A"
+    ],
+    [
+     "E7/G#"
+    ],
+    [
+     "E7"
+    ],
+    [
+     "Gm6"
+    ],
+    [
+     "A7(#5)"
+    ],
+    [
+     "D",
+     "F#m/C#"
+    ],
+    [
+     "Bm",
+     "C#7/G#"
+    ],
+    [
+     "F#m",
+     "Am/E",
+     "B7/D#"
+    ],
+    [
+     "Em",
+     "Bb/D",
+     "A7/C#"
+    ],
+    [
+     "D",
+     "B7"
+    ],
+    [
+     "E7",
+     "A7"
+    ]
+   ],
+   "endings": {
+    "1": [
+     [
+      "D",
+      "A7"
+     ]
+    ],
+    "2": [
+     [
+      "D"
+     ]
+    ]
+   }
+  },
+  {
+   "name": "Coda",
+   "tonic": "Dm",
+   "bars": "41–42",
+   "repeat": false,
+   "sequence": [
+    [
+     "Gm",
+     "E7(b9)",
+     "A7"
+    ],
+    [
+     "Dm6"
+    ]
+   ]
+  }
+ ],
+ "notes": [
+  "Grille générée automatiquement depuis la partition MusicXML : à vérifier."
+ ],
+ "confidence": "medium",
+ "source": [
+  "mxl/C/Aymoré - Choro triste - Theme - C.mxl"
+ ],
+ "generated": "mxl"
+}

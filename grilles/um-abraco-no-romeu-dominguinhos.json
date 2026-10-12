@@ -1,0 +1,172 @@
+{
+ "song_id": "um-abraco-no-romeu-dominguinhos",
+ "title": "Um abraço no Romeu",
+ "composer": "Dominguinhos",
+ "transposition": "c",
+ "meter": "2/4",
+ "form": "A — B — Coda",
+ "parts": [
+  {
+   "name": "A",
+   "tonic": "C",
+   "bars": "1–15",
+   "sequence": [
+    [
+     "F6"
+    ],
+    [
+     "F6"
+    ],
+    [
+     "D7"
+    ],
+    [
+     "Gm"
+    ],
+    [
+     "Gm"
+    ],
+    [
+     "Gm"
+    ],
+    [
+     "C7"
+    ],
+    [
+     "F6"
+    ],
+    [
+     "F6"
+    ],
+    [
+     "F6"
+    ],
+    [
+     "Cm6/Eb",
+     "D7"
+    ],
+    [],
+    [
+     "E7"
+    ],
+    [
+     "D7"
+    ],
+    [
+     "Gm",
+     "C7"
+    ]
+   ]
+  },
+  {
+   "name": "B",
+   "tonic": "C",
+   "bars": "16–40",
+   "sequence": [
+    [
+     "F"
+    ],
+    [
+     "F"
+    ],
+    [
+     "A7"
+    ],
+    [
+     "Dm"
+    ],
+    [
+     "A7"
+    ],
+    [
+     "Dm"
+    ],
+    [
+     "D7"
+    ],
+    [
+     "Gm"
+    ],
+    [],
+    [],
+    [
+     "D7"
+    ],
+    [
+     "Gm"
+    ],
+    [
+     "C47(9)"
+    ],
+    [
+     "F6"
+    ],
+    [
+     "Eb7(9)"
+    ],
+    [
+     "Dm"
+    ],
+    [
+     "E7"
+    ],
+    [
+     "A7"
+    ],
+    [
+     "D7"
+    ],
+    [
+     "Gm"
+    ],
+    [
+     "C47(9)",
+     "C7(9)"
+    ],
+    [
+     "F6"
+    ],
+    [
+     "Eb7(9)"
+    ],
+    [
+     "Dm"
+    ],
+    [
+     "E7",
+     "A7"
+    ]
+   ]
+  },
+  {
+   "name": "Coda",
+   "tonic": "C",
+   "bars": "41–44",
+   "sequence": [
+    [
+     "Bbm7",
+     "Eb7(9)"
+    ],
+    [
+     "Abm7",
+     "Db7(9)"
+    ],
+    [
+     "C7(9)"
+    ],
+    [
+     "F"
+    ]
+   ]
+  }
+ ],
+ "notes": [
+  "Grille générée automatiquement depuis le texte du PDF : à vérifier.",
+  "Reprises et fins non détectées : les mesures sont dans l'ordre d'écriture."
+ ],
+ "confidence": "low",
+ "source": [
+  "pdf/Dominguinhos - Um abraço no Romeu - Theme - C.pdf"
+ ],
+ "generated": "pdf"
+}

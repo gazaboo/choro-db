@@ -1,0 +1,221 @@
+{
+ "song_id": "lidia-anacleto-de-medeiros",
+ "title": "Lídia",
+ "composer": "Anacleto de Medeiros",
+ "transposition": "c",
+ "meter": "2/4",
+ "form": "A (reprise) — B (reprise) — C (reprise)",
+ "parts": [
+  {
+   "name": "A",
+   "tonic": "G",
+   "bars": "1–16",
+   "repeat": true,
+   "sequence": [
+    [
+     "G",
+     "D7/A"
+    ],
+    [
+     "G/B"
+    ],
+    [
+     "G",
+     "G#dim"
+    ],
+    [
+     "Am"
+    ],
+    [
+     "Am",
+     "Am/G"
+    ],
+    [
+     "D7/F#"
+    ],
+    [
+     "D7",
+     "D/C"
+    ],
+    [
+     "G/B"
+    ],
+    [
+     "G",
+     "D7/A"
+    ],
+    [
+     "G/B"
+    ],
+    [
+     "B7/D#",
+     "B7"
+    ],
+    [
+     "Em"
+    ],
+    [
+     "C",
+     "C#dim"
+    ],
+    [
+     "G",
+     "E7"
+    ],
+    [
+     "A7",
+     "D7"
+    ],
+    [
+     "G"
+    ]
+   ]
+  },
+  {
+   "name": "B",
+   "tonic": "D",
+   "bars": "17–X1",
+   "repeat": true,
+   "sequence": [
+    [
+     "D",
+     "Ddim"
+    ],
+    [
+     "D"
+    ],
+    [
+     "D/F#",
+     "Fdim"
+    ],
+    [
+     "Em"
+    ],
+    [
+     "Em",
+     "Em/D"
+    ],
+    [
+     "Em/C#",
+     "Em/B"
+    ],
+    [
+     "A7",
+     "A/G"
+    ],
+    [
+     "D/F#"
+    ],
+    [
+     "D",
+     "G7"
+    ],
+    [
+     "F#7"
+    ],
+    [
+     "Cdim",
+     "B7"
+    ],
+    [
+     "Em"
+    ],
+    [
+     "G",
+     "G#dim"
+    ],
+    [
+     "D/A"
+    ],
+    [
+     "Em",
+     "A7"
+    ]
+   ],
+   "endings": {
+    "1": [
+     [
+      "D"
+     ]
+    ],
+    "2": [
+     [
+      "D",
+      "D7"
+     ]
+    ]
+   }
+  },
+  {
+   "name": "C",
+   "tonic": "C",
+   "bars": "34–50",
+   "repeat": true,
+   "sequence": [
+    [
+     "C"
+    ],
+    [],
+    [
+     "C",
+     "C/E"
+    ],
+    [
+     "Dm"
+    ],
+    [
+     "Dm",
+     "Dm/C"
+    ],
+    [
+     "Dm/B",
+     "Dm/A"
+    ],
+    [
+     "G7",
+     "G/F"
+    ],
+    [
+     "C/E"
+    ],
+    [
+     "C/E",
+     "G7/D"
+    ],
+    [
+     "C"
+    ],
+    [
+     "A7",
+     "A/G"
+    ],
+    [
+     "Dm/F"
+    ],
+    [
+     "B7/D#"
+    ],
+    [
+     "Em",
+     "F/A"
+    ],
+    [
+     "C/G",
+     "G7"
+    ],
+    [
+     "C"
+    ],
+    []
+   ]
+  }
+ ],
+ "notes": [
+  "Grille générée automatiquement depuis la partition MusicXML : à vérifier."
+ ],
+ "confidence": "medium",
+ "source": [
+  "mxl/C/Anacleto de Medeiros - Lídia - Theme - C.mxl"
+ ],
+ "generated": "mxl"
+}

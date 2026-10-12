@@ -1,0 +1,156 @@
+{
+ "song_id": "agua-do-vintem-chiquinha-gonzaga",
+ "title": "Água do Vintém",
+ "composer": "Chiquinha Gonzaga",
+ "transposition": "c",
+ "meter": "2/4",
+ "form": "A — B — C",
+ "parts": [
+  {
+   "name": "A",
+   "tonic": "C",
+   "bars": "1–6",
+   "sequence": [
+    [
+     "F"
+    ],
+    [
+     "C/Bb"
+    ],
+    [
+     "F/A"
+    ],
+    [],
+    [
+     "F"
+    ],
+    [
+     "Gm"
+    ]
+   ]
+  },
+  {
+   "name": "B",
+   "tonic": "C",
+   "bars": "7–23",
+   "sequence": [
+    [
+     "F"
+    ],
+    [
+     "F"
+    ],
+    [],
+    [],
+    [
+     "Dm"
+    ],
+    [],
+    [
+     "Gm"
+    ],
+    [
+     "Gm/Bb"
+    ],
+    [
+     "F/C"
+    ],
+    [],
+    [
+     "F"
+    ],
+    [],
+    [
+     "Dm"
+    ],
+    [],
+    [
+     "Gm",
+     "Gm/Bb"
+    ],
+    [],
+    [
+     "Dm/A"
+    ]
+   ]
+  },
+  {
+   "name": "C",
+   "tonic": "C",
+   "bars": "25–46",
+   "sequence": [
+    [
+     "Dm"
+    ],
+    [
+     "Dm"
+    ],
+    [
+     "F"
+    ],
+    [],
+    [
+     "Bb"
+    ],
+    [
+     "Bb"
+    ],
+    [
+     "Bb",
+     "Bb/D"
+    ],
+    [],
+    [
+     "Bb",
+     "Bb/D"
+    ],
+    [],
+    [
+     "Bb"
+    ],
+    [
+     "Gm"
+    ],
+    [
+     "F/C"
+    ],
+    [
+     "F"
+    ],
+    [
+     "Bb"
+    ],
+    [
+     "Bb"
+    ],
+    [
+     "Bb",
+     "Bb/D",
+     "Bb/F"
+    ],
+    [],
+    [
+     "Bb",
+     "Bb/D"
+    ],
+    [],
+    [
+     "Bb",
+     "Bb/Ab"
+    ],
+    [
+     "Eb/G"
+    ]
+   ]
+  }
+ ],
+ "notes": [
+  "Grille générée automatiquement depuis le texte du PDF : à vérifier.",
+  "Reprises et fins non détectées : les mesures sont dans l'ordre d'écriture."
+ ],
+ "confidence": "low",
+ "source": [
+  "pdf/Chiquinha Gonzaga - Água do Vintém - Theme - C.pdf"
+ ],
+ "generated": "pdf"
+}

@@ -1,0 +1,250 @@
+{
+ "song_id": "pretensioso-benedito-lacerda",
+ "title": "Pretensioso",
+ "composer": "Benedito Lacerda",
+ "transposition": "c",
+ "meter": "2/4",
+ "form": "A (reprise) — B (reprise) — C (reprise) — Coda",
+ "parts": [
+  {
+   "name": "A",
+   "tonic": "F",
+   "bars": "0–17",
+   "repeat": true,
+   "sequence": [
+    [
+     "Dm"
+    ],
+    [
+     "E7"
+    ],
+    [
+     "A7"
+    ],
+    [
+     "Dm",
+     "A7"
+    ],
+    [
+     "Dm",
+     "Bm7b5"
+    ],
+    [
+     "Am"
+    ],
+    [
+     "Eb"
+    ],
+    [
+     "Dm"
+    ],
+    [
+     "Gm"
+    ],
+    [
+     "A/G"
+    ],
+    [
+     "D7/F#"
+    ],
+    [
+     "Gm"
+    ],
+    [
+     "Eb"
+    ],
+    [
+     "Dm"
+    ],
+    [
+     "E7",
+     "A7"
+    ]
+   ],
+   "endings": {
+    "1": [
+     [
+      "Dm",
+      "A7"
+     ]
+    ],
+    "2": [
+     [
+      "Dm",
+      "C7"
+     ]
+    ]
+   }
+  },
+  {
+   "name": "B",
+   "tonic": "Dm",
+   "bars": "18–35",
+   "repeat": true,
+   "sequence": [
+    [
+     "F",
+     "D7"
+    ],
+    [
+     "G7"
+    ],
+    [
+     "C7"
+    ],
+    [
+     "F"
+    ],
+    [
+     "F/A",
+     "Abdim"
+    ],
+    [
+     "Gm"
+    ],
+    [
+     "C7"
+    ],
+    [
+     "F"
+    ],
+    [
+     "Am7b5",
+     "D7"
+    ],
+    [
+     "Gm"
+    ],
+    [
+     "Gm7b5",
+     "C7"
+    ],
+    [
+     "F"
+    ],
+    [
+     "Bb",
+     "G#dim"
+    ],
+    [
+     "F/A"
+    ],
+    [
+     "Gm",
+     "C7"
+    ],
+    [
+     "Dm"
+    ]
+   ],
+   "endings": {
+    "1": [
+     [
+      "F",
+      "C7"
+     ]
+    ],
+    "2": [
+     [
+      "F",
+      "A7"
+     ]
+    ]
+   }
+  },
+  {
+   "name": "C",
+   "tonic": "D",
+   "bars": "36–53",
+   "repeat": true,
+   "sequence": [
+    [
+     "D"
+    ],
+    [
+     "A7"
+    ],
+    [
+     "Em",
+     "A7"
+    ],
+    [
+     "D",
+     "A7"
+    ],
+    [
+     "D",
+     "D#dim"
+    ],
+    [
+     "A"
+    ],
+    [
+     "E7"
+    ],
+    [
+     "A7"
+    ],
+    [
+     "D"
+    ],
+    [
+     "A7"
+    ],
+    [
+     "Em",
+     "A7"
+    ],
+    [
+     "D",
+     "D7"
+    ],
+    [
+     "G",
+     "G#dim"
+    ],
+    [
+     "D"
+    ],
+    [
+     "Em",
+     "A7"
+    ],
+    []
+   ],
+   "endings": {
+    "1": [
+     [
+      "D",
+      "A7"
+     ]
+    ],
+    "2": [
+     [
+      "Dm",
+      "A7"
+     ]
+    ]
+   }
+  },
+  {
+   "name": "Coda",
+   "tonic": "Dm",
+   "bars": "54–54",
+   "repeat": false,
+   "sequence": [
+    [
+     "Dm"
+    ]
+   ]
+  }
+ ],
+ "notes": [
+  "Grille générée automatiquement depuis la partition MusicXML : à vérifier."
+ ],
+ "confidence": "medium",
+ "source": [
+  "mxl/C/Benedito Lacerda - Pretensioso - Theme - C.mxl"
+ ],
+ "generated": "mxl"
+}

@@ -1,0 +1,178 @@
+{
+ "song_id": "sarau-para-radames-paulinho-da-viola",
+ "title": "Sarau Para Radamés",
+ "composer": "Paulinho Da Viola",
+ "transposition": "c",
+ "meter": "2/4",
+ "form": "A — B — C — Coda",
+ "parts": [
+  {
+   "name": "A",
+   "tonic": "Am",
+   "bars": "1–27",
+   "sequence": [
+    [
+     "Am"
+    ],
+    [],
+    [
+     "Am"
+    ],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [
+     "Am"
+    ],
+    [],
+    [
+     "Am"
+    ],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [
+     "G7"
+    ],
+    [
+     "C7/Bb"
+    ],
+    [
+     "F/A",
+     "E7/G#"
+    ],
+    [],
+    [
+     "F6",
+     "E7"
+    ]
+   ]
+  },
+  {
+   "name": "B",
+   "tonic": "C",
+   "bars": "28–42",
+   "sequence": [
+    [
+     "Am"
+    ],
+    [
+     "G7"
+    ],
+    [
+     "A7"
+    ],
+    [],
+    [
+     "C6"
+    ],
+    [],
+    [
+     "A/G"
+    ],
+    [],
+    [
+     "G7"
+    ],
+    [
+     "G7"
+    ],
+    [
+     "A7"
+    ],
+    [
+     "G7"
+    ],
+    [
+     "A7",
+     "D7/F#"
+    ],
+    [
+     "Fm6"
+    ],
+    [
+     "A7"
+    ]
+   ]
+  },
+  {
+   "name": "C",
+   "tonic": "Am",
+   "bars": "44–62",
+   "sequence": [
+    [],
+    [],
+    [
+     "Am"
+    ],
+    [],
+    [
+     "A6"
+    ],
+    [],
+    [
+     "Bbm7"
+    ],
+    [
+     "A6"
+    ],
+    [],
+    [],
+    [],
+    [],
+    [
+     "A6"
+    ],
+    [],
+    [],
+    [
+     "A7"
+    ],
+    [],
+    [],
+    [
+     "Bm7"
+    ]
+   ]
+  },
+  {
+   "name": "Coda",
+   "tonic": "C",
+   "bars": "63–67",
+   "sequence": [
+    [
+     "A6"
+    ],
+    [
+     "A6"
+    ],
+    [],
+    [
+     "F7"
+    ],
+    [
+     "Bb6"
+    ]
+   ]
+  }
+ ],
+ "notes": [
+  "Grille générée automatiquement depuis le texte du PDF : à vérifier.",
+  "Reprises et fins non détectées : les mesures sont dans l'ordre d'écriture."
+ ],
+ "confidence": "low",
+ "source": [
+  "pdf/Paulinho Da Viola - Sarau Para Radamés - Theme - C.pdf"
+ ],
+ "generated": "pdf"
+}

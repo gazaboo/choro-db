@@ -1,0 +1,195 @@
+{
+ "song_id": "o-rasga-pixinguinha",
+ "title": "O rasga",
+ "composer": "Pixinguinha",
+ "transposition": "c",
+ "meter": "2/4",
+ "form": "A (reprise) — B (reprise) — C (reprise)",
+ "parts": [
+  {
+   "name": "A",
+   "tonic": "C",
+   "bars": "1–16",
+   "repeat": true,
+   "sequence": [
+    [
+     "C",
+     "C#dim"
+    ],
+    [
+     "G7/D"
+    ],
+    [
+     "C",
+     "C#dim"
+    ],
+    [
+     "G7/D"
+    ],
+    [
+     "C",
+     "C7/Bb"
+    ],
+    [
+     "F/A"
+    ],
+    [
+     "D7/F#"
+    ],
+    [
+     "G7"
+    ],
+    [
+     "Ab"
+    ],
+    [],
+    [
+     "C/G"
+    ],
+    [],
+    [
+     "F",
+     "F#dim"
+    ],
+    [
+     "C/G"
+    ],
+    [
+     "Dm",
+     "G7"
+    ],
+    [
+     "C"
+    ]
+   ]
+  },
+  {
+   "name": "B",
+   "tonic": "G",
+   "bars": "17–X1",
+   "repeat": true,
+   "sequence": [
+    [
+     "G",
+     "D7/A"
+    ],
+    [
+     "G/B",
+     "D7/C"
+    ],
+    [
+     "G/B",
+     "B7/D#"
+    ],
+    [
+     "Em"
+    ],
+    [
+     "Eb"
+    ],
+    [
+     "Em"
+    ],
+    [
+     "A7"
+    ],
+    [
+     "D7"
+    ],
+    [
+     "G7"
+    ],
+    [
+     "C"
+    ],
+    [
+     "E7"
+    ],
+    [
+     "Am"
+    ],
+    [
+     "Eb"
+    ],
+    [
+     "G"
+    ],
+    [
+     "D7"
+    ],
+    [
+     "G"
+    ]
+   ]
+  },
+  {
+   "name": "C",
+   "tonic": "F",
+   "bars": "33–49",
+   "repeat": true,
+   "sequence": [
+    [
+     "F",
+     "C7/G"
+    ],
+    [
+     "F/A"
+    ],
+    [
+     "Bb",
+     "F7/C"
+    ],
+    [
+     "Bb/D"
+    ],
+    [
+     "Bdim"
+    ],
+    [
+     "F"
+    ],
+    [
+     "G7"
+    ],
+    [
+     "C7"
+    ],
+    [
+     "F",
+     "C7/G"
+    ],
+    [
+     "F/A"
+    ],
+    [
+     "Bb",
+     "F7/C"
+    ],
+    [
+     "Bb/D"
+    ],
+    [
+     "Bdim"
+    ],
+    [
+     "F/C"
+    ],
+    [
+     "C7"
+    ],
+    [
+     "F"
+    ],
+    []
+   ]
+  }
+ ],
+ "notes": [
+  "Grille générée automatiquement depuis la partition MusicXML : à vérifier."
+ ],
+ "confidence": "medium",
+ "source": [
+  "mxl/C/Pixinguinha - O rasga - Theme - C.mxl"
+ ],
+ "generated": "mxl"
+}

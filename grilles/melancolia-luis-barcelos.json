@@ -1,0 +1,178 @@
+{
+ "song_id": "melancolia-luis-barcelos",
+ "title": "Melancolia",
+ "composer": "Luis Barcelos",
+ "transposition": "c",
+ "meter": "2/4",
+ "form": "A — B — Coda",
+ "parts": [
+  {
+   "name": "A",
+   "tonic": "C",
+   "bars": "1–16",
+   "sequence": [
+    [
+     "F6"
+    ],
+    [
+     "G/F"
+    ],
+    [
+     "C7/E"
+    ],
+    [
+     "F6"
+    ],
+    [
+     "F6",
+     "G7"
+    ],
+    [
+     "C",
+     "Am"
+    ],
+    [
+     "D7",
+     "G7"
+    ],
+    [
+     "Gm6"
+    ],
+    [
+     "F6"
+    ],
+    [
+     "G/F"
+    ],
+    [
+     "C7/E"
+    ],
+    [
+     "Cm/Eb",
+     "F7"
+    ],
+    [
+     "Bbm7"
+    ],
+    [
+     "Ab7",
+     "Db7"
+    ],
+    [
+     "F/C",
+     "G7",
+     "C7"
+    ],
+    [
+     "F",
+     "C7b9"
+    ]
+   ]
+  },
+  {
+   "name": "B",
+   "tonic": "C",
+   "bars": "17–33",
+   "sequence": [
+    [
+     "F",
+     "A7"
+    ],
+    [
+     "Dm"
+    ],
+    [
+     "E7"
+    ],
+    [
+     "Cm/Eb"
+    ],
+    [
+     "D7"
+    ],
+    [
+     "Gmaj7",
+     "B7/F#"
+    ],
+    [
+     "Em"
+    ],
+    [
+     "A7/C#",
+     "D7"
+    ],
+    [
+     "Dm7",
+     "G7b9"
+    ],
+    [
+     "Cm"
+    ],
+    [
+     "D7"
+    ],
+    [
+     "Bbm/Db"
+    ],
+    [
+     "C7"
+    ],
+    [
+     "F6",
+     "F7#5"
+    ],
+    [
+     "Bbmaj7"
+    ],
+    [
+     "G7/B",
+     "C7"
+    ],
+    [
+     "F",
+     "A7"
+    ]
+   ]
+  },
+  {
+   "name": "Coda",
+   "tonic": "C",
+   "bars": "34–40",
+   "sequence": [
+    [
+     "F",
+     "C7b9"
+    ],
+    [],
+    [
+     "F6",
+     "F/Eb"
+    ],
+    [
+     "Bb7/D",
+     "Eb/Db"
+    ],
+    [
+     "Ab7/C",
+     "Db/Cb"
+    ],
+    [
+     "Gb7/Bb",
+     "C7b9"
+    ],
+    [
+     "F6"
+    ]
+   ]
+  }
+ ],
+ "notes": [
+  "Grille générée automatiquement depuis le texte du PDF : à vérifier.",
+  "Reprises et fins non détectées : les mesures sont dans l'ordre d'écriture."
+ ],
+ "confidence": "low",
+ "source": [
+  "pdf/Luis Barcelos - Melancolia - Theme - C.pdf"
+ ],
+ "generated": "pdf"
+}

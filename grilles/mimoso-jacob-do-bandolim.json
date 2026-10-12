@@ -1,0 +1,187 @@
+{
+ "song_id": "mimoso-jacob-do-bandolim",
+ "title": "Mimoso",
+ "composer": "Jacob do Bandolim",
+ "transposition": "c",
+ "meter": "2/4",
+ "form": "A (reprise) — B (reprise) — Coda",
+ "parts": [
+  {
+   "name": "A",
+   "tonic": "Dm",
+   "bars": "1–18",
+   "repeat": true,
+   "sequence": [
+    [],
+    [
+     "Bb7",
+     "A7"
+    ],
+    [
+     "Dm"
+    ],
+    [
+     "Bb7",
+     "A7"
+    ],
+    [
+     "Dm"
+    ],
+    [
+     "Db(#5)"
+    ],
+    [
+     "F/C"
+    ],
+    [
+     "Bm7b5"
+    ],
+    [
+     "C/Bb"
+    ],
+    [
+     "F/A",
+     "F"
+    ],
+    [
+     "Em7b5",
+     "A7"
+    ],
+    [
+     "Dm",
+     "Dm/C"
+    ],
+    [
+     "Bdim",
+     "Ddim"
+    ],
+    [
+     "F/C",
+     "F"
+    ],
+    [
+     "Gm",
+     "A7"
+    ]
+   ],
+   "endings": {
+    "1": [
+     [
+      "Dm"
+     ],
+     []
+    ],
+    "2": [
+     [
+      "Dm"
+     ]
+    ]
+   }
+  },
+  {
+   "name": "B",
+   "tonic": "Dm",
+   "bars": "19–37",
+   "repeat": true,
+   "sequence": [
+    [
+     "A7/C#",
+     "A7"
+    ],
+    [
+     "Dm",
+     "Dm/C"
+    ],
+    [
+     "Bdim",
+     "Bb7",
+     "A7"
+    ],
+    [
+     "Dm",
+     "Dm/F"
+    ],
+    [
+     "F/Eb"
+    ],
+    [
+     "Bb/D",
+     "Eb/Db"
+    ],
+    [
+     "D7",
+     "D7/F#"
+    ],
+    [
+     "Gm"
+    ],
+    [
+     "C7/E",
+     "C7"
+    ],
+    [
+     "F",
+     "Gm6/Bb"
+    ],
+    [
+     "Dm/A",
+     "Gdim"
+    ],
+    [
+     "F#dim",
+     "D7"
+    ],
+    [
+     "Gm",
+     "Bbm6"
+    ],
+    [
+     "F/A",
+     "F"
+    ],
+    [
+     "Em7b5",
+     "A7"
+    ],
+    [
+     "Dm"
+    ],
+    []
+   ],
+   "endings": {
+    "1": [
+     [
+      "Dm"
+     ]
+    ],
+    "2": [
+     [
+      "Dm",
+      "A7"
+     ]
+    ]
+   }
+  },
+  {
+   "name": "Coda",
+   "tonic": "Dm",
+   "bars": "38–39",
+   "repeat": false,
+   "sequence": [
+    [
+     "Dm"
+    ],
+    []
+   ]
+  }
+ ],
+ "notes": [
+  "Grille générée automatiquement depuis la partition MusicXML : à vérifier.",
+  "A : première mesure sans accord"
+ ],
+ "confidence": "medium",
+ "source": [
+  "mxl/C/Jacob do Bandolim - Mimoso - Theme - C.mxl"
+ ],
+ "generated": "mxl"
+}

@@ -1,0 +1,181 @@
+{
+ "song_id": "ze-galinha-camunguelo",
+ "title": "Zé Galinha",
+ "composer": "Camunguelo",
+ "transposition": "c",
+ "meter": "2/4",
+ "form": "A — B — C — Coda",
+ "parts": [
+  {
+   "name": "A",
+   "tonic": "C",
+   "bars": "1–12",
+   "sequence": [
+    [
+     "B7"
+    ],
+    [],
+    [
+     "A7(9)"
+    ],
+    [
+     "D7(9)"
+    ],
+    [
+     "G7(13)"
+    ],
+    [],
+    [
+     "D7(9)",
+     "G7(13)"
+    ],
+    [],
+    [
+     "B7"
+    ],
+    [],
+    [
+     "A7(9)"
+    ],
+    [
+     "D7(9)"
+    ]
+   ]
+  },
+  {
+   "name": "B",
+   "tonic": "C",
+   "bars": "14–31",
+   "sequence": [
+    [],
+    [
+     "C7(9)"
+    ],
+    [],
+    [
+     "C7"
+    ],
+    [
+     "F7(9)"
+    ],
+    [],
+    [],
+    [
+     "Gm7",
+     "C7(9)"
+    ],
+    [],
+    [],
+    [],
+    [
+     "C7"
+    ],
+    [
+     "F7(9)"
+    ],
+    [],
+    [],
+    [
+     "C7"
+    ],
+    [
+     "F"
+    ],
+    [
+     "G7(9)"
+    ]
+   ]
+  },
+  {
+   "name": "C",
+   "tonic": "C",
+   "bars": "32–49",
+   "sequence": [
+    [
+     "C"
+    ],
+    [
+     "C7"
+    ],
+    [],
+    [
+     "F"
+    ],
+    [
+     "G7"
+    ],
+    [
+     "C7"
+    ],
+    [
+     "F6"
+    ],
+    [
+     "A7"
+    ],
+    [
+     "Dm"
+    ],
+    [
+     "G7"
+    ],
+    [
+     "C7"
+    ],
+    [
+     "F"
+    ],
+    [
+     "G7"
+    ],
+    [
+     "C7"
+    ],
+    [
+     "F7"
+    ],
+    [
+     "Bbm7",
+     "Eb7(9)"
+    ],
+    [
+     "F6",
+     "D7(9)"
+    ],
+    [
+     "C7(9)"
+    ]
+   ]
+  },
+  {
+   "name": "Coda",
+   "tonic": "C",
+   "bars": "50–53",
+   "sequence": [
+    [
+     "F",
+     "C7(9)"
+    ],
+    [
+     "F"
+    ],
+    [
+     "C",
+     "C7"
+    ],
+    [
+     "Bb7(9)"
+    ]
+   ]
+  }
+ ],
+ "notes": [
+  "Grille générée automatiquement depuis le texte du PDF : à vérifier.",
+  "Reprises et fins non détectées : les mesures sont dans l'ordre d'écriture."
+ ],
+ "confidence": "low",
+ "source": [
+  "pdf/Camunguelo - Zé Galinha - Theme - C.pdf"
+ ],
+ "generated": "pdf"
+}

@@ -1,0 +1,203 @@
+{
+ "song_id": "garanhuns-dominguinhos",
+ "title": "Garanhuns",
+ "composer": "Dominguinhos",
+ "transposition": "c",
+ "meter": "2/4",
+ "form": "A — B (reprise) — C (reprise) — Coda",
+ "parts": [
+  {
+   "name": "A",
+   "tonic": "C",
+   "bars": "0–4",
+   "repeat": false,
+   "sequence": [
+    [
+     "C7",
+     "Fm6"
+    ],
+    [
+     "Bb7(9)"
+    ],
+    [
+     "C",
+     "G7(9)"
+    ],
+    [
+     "C"
+    ]
+   ]
+  },
+  {
+   "name": "B",
+   "tonic": "Am",
+   "bars": "5–21",
+   "repeat": true,
+   "sequence": [
+    [
+     "C",
+     "A7/C#"
+    ],
+    [
+     "G7/D"
+    ],
+    [
+     "C",
+     "A7/C#"
+    ],
+    [
+     "G7/D"
+    ],
+    [
+     "E7",
+     "E7/G#"
+    ],
+    [
+     "Am"
+    ],
+    [
+     "D7",
+     "D/C"
+    ],
+    [
+     "G7/B",
+     "G7"
+    ],
+    [
+     "C",
+     "A7/C#"
+    ],
+    [
+     "G7/D"
+    ],
+    [
+     "C",
+     "A7/C#"
+    ],
+    [
+     "G7/D"
+    ],
+    [
+     "C7",
+     "C/Bb"
+    ],
+    [
+     "F/A",
+     "Fm6/Ab"
+    ],
+    [
+     "C",
+     "G7(9)"
+    ]
+   ],
+   "endings": {
+    "1": [
+     [
+      "C",
+      "G7"
+     ]
+    ],
+    "2": [
+     [
+      "C",
+      "E7"
+     ]
+    ]
+   }
+  },
+  {
+   "name": "C",
+   "tonic": "C",
+   "bars": "22–39",
+   "repeat": true,
+   "sequence": [
+    [
+     "Am"
+    ],
+    [
+     "E7/B"
+    ],
+    [
+     "A7/C#",
+     "A7"
+    ],
+    [
+     "Dm"
+    ],
+    [
+     "Dm",
+     "Bm7b5"
+    ],
+    [
+     "Am"
+    ],
+    [
+     "B7"
+    ],
+    [
+     "E7"
+    ],
+    [
+     "Am"
+    ],
+    [
+     "E7/B"
+    ],
+    [
+     "A7/C#",
+     "A7"
+    ],
+    [
+     "Dm"
+    ],
+    [
+     "Dm",
+     "Bm7b5"
+    ],
+    [
+     "Am",
+     "Am/G"
+    ],
+    [
+     "F7",
+     "E7"
+    ],
+    []
+   ],
+   "endings": {
+    "1": [
+     [
+      "Am",
+      "E7"
+     ]
+    ],
+    "2": [
+     [
+      "Am",
+      "Ab7",
+      "G7"
+     ]
+    ]
+   }
+  },
+  {
+   "name": "Coda",
+   "tonic": "C",
+   "bars": "40–40",
+   "repeat": false,
+   "sequence": [
+    [
+     "C"
+    ]
+   ]
+  }
+ ],
+ "notes": [
+  "Grille générée automatiquement depuis la partition MusicXML : à vérifier."
+ ],
+ "confidence": "medium",
+ "source": [
+  "mxl/C/Dominguinhos - Garanhuns - Theme - C.mxl"
+ ],
+ "generated": "mxl"
+}

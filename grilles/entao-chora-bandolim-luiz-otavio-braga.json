@@ -1,0 +1,181 @@
+{
+ "song_id": "entao-chora-bandolim-luiz-otavio-braga",
+ "title": "Então, chora bandolim",
+ "composer": "Luiz Otávio Braga",
+ "transposition": "c",
+ "meter": "2/4",
+ "form": "A (reprise) — B (reprise)",
+ "parts": [
+  {
+   "name": "A",
+   "tonic": "Am",
+   "bars": "0–27",
+   "repeat": true,
+   "sequence": [
+    [
+     "Am"
+    ],
+    [],
+    [
+     "Dm6"
+    ],
+    [],
+    [
+     "Bm7b5"
+    ],
+    [
+     "E7"
+    ],
+    [
+     "Am",
+     "F7"
+    ],
+    [
+     "Bb",
+     "E7"
+    ],
+    [
+     "Am"
+    ],
+    [],
+    [
+     "Dm6"
+    ],
+    [],
+    [
+     "Bm7b5"
+    ],
+    [
+     "E7"
+    ],
+    [
+     "Am"
+    ],
+    [
+     "A7"
+    ],
+    [
+     "Em7b5"
+    ],
+    [
+     "A7"
+    ],
+    [
+     "Gm6",
+     "A7"
+    ],
+    [
+     "Dm"
+    ],
+    [
+     "F#m7b5"
+    ],
+    [
+     "B7/F#"
+    ],
+    [
+     "B7/D#"
+    ],
+    [
+     "D7",
+     "G7"
+    ]
+   ],
+   "endings": {
+    "1": [
+     [
+      "E7"
+     ],
+     []
+    ],
+    "2": [
+     [
+      "E7",
+      "A7"
+     ]
+    ]
+   }
+  },
+  {
+   "name": "B",
+   "tonic": "C",
+   "bars": "28–47",
+   "repeat": true,
+   "sequence": [
+    [
+     "C"
+    ],
+    [],
+    [
+     "F#dim"
+    ],
+    [],
+    [
+     "Fm"
+    ],
+    [
+     "Bb7"
+    ],
+    [
+     "Eb",
+     "D7"
+    ],
+    [
+     "G",
+     "Eb7"
+    ],
+    [
+     "Ab",
+     "C7"
+    ],
+    [
+     "Fm",
+     "Db7"
+    ],
+    [
+     "Gb",
+     "C7"
+    ],
+    [
+     "Fm",
+     "F#dim"
+    ],
+    [
+     "Eb/G",
+     "G"
+    ],
+    [
+     "Ab7"
+    ],
+    [
+     "Db"
+    ],
+    [
+     "E7(b9)"
+    ],
+    [],
+    []
+   ],
+   "endings": {
+    "1": [
+     [
+      "G7"
+     ]
+    ],
+    "2": [
+     [
+      "Ddim"
+     ]
+    ]
+   }
+  }
+ ],
+ "notes": [
+  "Grille générée automatiquement depuis la partition MusicXML : à vérifier."
+ ],
+ "confidence": "medium",
+ "source": [
+  "mxl/C/Luiz Otávio Braga - Então, chora bandolim - Theme - C.mxl"
+ ],
+ "generated": "mxl"
+}

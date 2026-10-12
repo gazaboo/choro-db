@@ -1,0 +1,138 @@
+{
+ "song_id": "velhos-choroes-luciano-rabello",
+ "title": "Velhos Chorões",
+ "composer": "Luciano Rabello",
+ "transposition": "c",
+ "meter": "2/4",
+ "form": "A — B",
+ "parts": [
+  {
+   "name": "A",
+   "tonic": "Am",
+   "bars": "1–30",
+   "sequence": [
+    [
+     "F"
+    ],
+    [],
+    [],
+    [],
+    [
+     "F"
+    ],
+    [
+     "Am7(b5)"
+    ],
+    [
+     "Gm"
+    ],
+    [
+     "Gm/Bb"
+    ],
+    [
+     "Em7(b5)"
+    ],
+    [],
+    [
+     "Dm"
+    ],
+    [
+     "Dm"
+    ],
+    [],
+    [],
+    [
+     "Bbm6"
+    ],
+    [
+     "F7(#5)"
+    ],
+    [
+     "F"
+    ],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [
+     "Bb6"
+    ],
+    [],
+    [],
+    [
+     "F/A"
+    ],
+    [],
+    [],
+    [
+     "Db7"
+    ]
+   ]
+  },
+  {
+   "name": "B",
+   "tonic": "Am",
+   "bars": "31–51",
+   "sequence": [
+    [
+     "F"
+    ],
+    [],
+    [],
+    [
+     "Dm"
+    ],
+    [
+     "Gm"
+    ],
+    [],
+    [],
+    [
+     "Bm7(b5)"
+    ],
+    [
+     "A6/C#",
+     "F#7"
+    ],
+    [
+     "Am7(b5)"
+    ],
+    [],
+    [
+     "Dm"
+    ],
+    [
+     "Gm"
+    ],
+    [],
+    [],
+    [
+     "Bbm6"
+    ],
+    [
+     "F/A"
+    ],
+    [],
+    [
+     "F"
+    ],
+    [],
+    [
+     "F",
+     "Bbm6/F"
+    ]
+   ]
+  }
+ ],
+ "notes": [
+  "Grille générée automatiquement depuis le texte du PDF : à vérifier.",
+  "Reprises et fins non détectées : les mesures sont dans l'ordre d'écriture."
+ ],
+ "confidence": "low",
+ "source": [
+  "pdf/Luciano Rabello - Velhos Chorões - Theme - C.pdf"
+ ],
+ "generated": "pdf"
+}

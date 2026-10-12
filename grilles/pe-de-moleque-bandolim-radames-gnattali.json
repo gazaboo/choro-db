@@ -1,0 +1,303 @@
+{
+ "song_id": "pe-de-moleque-bandolim-radames-gnattali",
+ "title": "Pé de Moleque bandolim",
+ "composer": "Radamés Gnattali",
+ "transposition": "c",
+ "meter": "2/4",
+ "form": "A (reprise) — B (reprise) — C (reprise) — Coda",
+ "parts": [
+  {
+   "name": "A",
+   "tonic": "Em",
+   "bars": "1–18",
+   "repeat": true,
+   "sequence": [
+    [],
+    [
+     "D7"
+    ],
+    [
+     "G"
+    ],
+    [
+     "D7"
+    ],
+    [
+     "G",
+     "G#dim"
+    ],
+    [
+     "D7/A",
+     "B7(b9)"
+    ],
+    [
+     "Em"
+    ],
+    [
+     "E7"
+    ],
+    [
+     "A7(9)"
+    ],
+    [
+     "D7"
+    ],
+    [
+     "G"
+    ],
+    [
+     "Am7",
+     "D7"
+    ],
+    [
+     "G7"
+    ],
+    [
+     "C",
+     "C#dim"
+    ],
+    [
+     "G/D"
+    ],
+    [
+     "A7(9)",
+     "D7"
+    ]
+   ],
+   "endings": {
+    "1": [
+     [
+      "G"
+     ]
+    ],
+    "2": [
+     [
+      "G",
+      "B7(b13)"
+     ]
+    ]
+   }
+  },
+  {
+   "name": "B",
+   "tonic": "Em",
+   "bars": "19–44",
+   "repeat": true,
+   "sequence": [
+    [
+     "Em"
+    ],
+    [
+     "F#7"
+    ],
+    [
+     "B7"
+    ],
+    [
+     "Em"
+    ],
+    [
+     "Em6"
+    ],
+    [
+     "Bm/D"
+    ],
+    [
+     "C7(#9)",
+     "F#7(b9,13)"
+    ],
+    [
+     "B7"
+    ],
+    [
+     "Em"
+    ],
+    [
+     "F#7(b5)"
+    ],
+    [
+     "B7"
+    ],
+    [
+     "E7(b9)"
+    ],
+    [
+     "Am"
+    ],
+    [
+     "Em"
+    ],
+    [
+     "C7(#11)",
+     "B7(b13)"
+    ],
+    [
+     "B7(b13)"
+    ],
+    [
+     "Em"
+    ],
+    [
+     "F#7(b5)"
+    ],
+    [
+     "B7"
+    ],
+    [
+     "E7"
+    ],
+    [
+     "Am"
+    ],
+    [
+     "Em/G"
+    ],
+    [
+     "F#7(b5)",
+     "F7"
+    ],
+    [
+     "G",
+     "G7"
+    ]
+   ],
+   "endings": {
+    "1": [
+     [
+      "Em"
+     ]
+    ],
+    "2": [
+     [
+      "Em"
+     ]
+    ]
+   }
+  },
+  {
+   "name": "C",
+   "tonic": "C",
+   "bars": "45–X2",
+   "repeat": true,
+   "sequence": [
+    [
+     "C",
+     "Ebdim"
+    ],
+    [
+     "Ddim",
+     "C#dim"
+    ],
+    [
+     "Cdim",
+     "Bdim"
+    ],
+    [
+     "Bbdim",
+     "F/A"
+    ],
+    [
+     "G#dim",
+     "Gdim"
+    ],
+    [
+     "F#dim"
+    ],
+    [
+     "Fdim"
+    ],
+    [
+     "C/E"
+    ],
+    [
+     "C",
+     "C#dim"
+    ],
+    [
+     "G/D"
+    ],
+    [
+     "A7",
+     "D7"
+    ],
+    [
+     "G7"
+    ],
+    [
+     "C7",
+     "F#7(b5)"
+    ],
+    [
+     "F"
+    ],
+    [
+     "A7",
+     "Eb7(b5)"
+    ],
+    [
+     "Dm"
+    ],
+    [
+     "C#7"
+    ],
+    [
+     "F#"
+    ],
+    [
+     "G7"
+    ]
+   ],
+   "endings": {
+    "1": [
+     [
+      "C"
+     ]
+    ],
+    "2": [
+     [
+      "C"
+     ]
+    ]
+   }
+  },
+  {
+   "name": "Coda",
+   "tonic": "G",
+   "bars": "66–72",
+   "repeat": false,
+   "sequence": [
+    [
+     "G"
+    ],
+    [
+     "Db7(b5)",
+     "C7(b5)"
+    ],
+    [
+     "B7(b5)",
+     "Bb7(b5)"
+    ],
+    [
+     "A7(b5)",
+     "D7(9)"
+    ],
+    [
+     "Ab7(9)"
+    ],
+    [
+     "G"
+    ],
+    []
+   ]
+  }
+ ],
+ "notes": [
+  "Grille générée automatiquement depuis la partition MusicXML : à vérifier.",
+  "A : première mesure sans accord"
+ ],
+ "confidence": "medium",
+ "source": [
+  "mxl/C/Radamés Gnattali - Pé de Moleque bandolim - Theme - C.mxl"
+ ],
+ "generated": "mxl"
+}

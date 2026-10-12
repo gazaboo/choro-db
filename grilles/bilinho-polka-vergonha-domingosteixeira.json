@@ -1,0 +1,227 @@
+{
+ "song_id": "bilinho-polka-vergonha-domingosteixeira",
+ "title": "Bilinho - Polka vergonha",
+ "composer": "DomingosTeixeira",
+ "transposition": "c",
+ "meter": "2/4",
+ "form": "A — B — C — D",
+ "parts": [
+  {
+   "name": "A",
+   "tonic": "C",
+   "bars": "1–12",
+   "sequence": [
+    [
+     "A"
+    ],
+    [
+     "E7"
+    ],
+    [
+     "F"
+    ],
+    [
+     "C"
+    ],
+    [
+     "Dm6"
+    ],
+    [
+     "A/C#"
+    ],
+    [
+     "B7"
+    ],
+    [
+     "E7"
+    ],
+    [
+     "C"
+    ],
+    [
+     "G7"
+    ],
+    [
+     "C7"
+    ],
+    [
+     "F"
+    ]
+   ]
+  },
+  {
+   "name": "B",
+   "tonic": "Am",
+   "bars": "14–35",
+   "sequence": [
+    [
+     "A",
+     "F#7"
+    ],
+    [
+     "E7"
+    ],
+    [
+     "A",
+     "Em7(b5)"
+    ],
+    [
+     "F",
+     "D7"
+    ],
+    [
+     "Gm",
+     "C7"
+    ],
+    [
+     "F"
+    ],
+    [],
+    [],
+    [
+     "A7"
+    ],
+    [
+     "Dm",
+     "A7/E"
+    ],
+    [
+     "Dm/F"
+    ],
+    [
+     "Am"
+    ],
+    [
+     "E7"
+    ],
+    [
+     "A7"
+    ],
+    [
+     "D7"
+    ],
+    [
+     "G7"
+    ],
+    [
+     "C7"
+    ],
+    [
+     "F",
+     "Ab7"
+    ],
+    [
+     "Db",
+     "Ab7"
+    ],
+    [
+     "Db",
+     "Ebm7(b5)"
+    ],
+    [],
+    [
+     "Dm"
+    ]
+   ]
+  },
+  {
+   "name": "C",
+   "tonic": "C",
+   "bars": "37–54",
+   "sequence": [
+    [],
+    [
+     "F",
+     "D7"
+    ],
+    [],
+    [
+     "F",
+     "Bb/F",
+     "F7"
+    ],
+    [],
+    [
+     "Bb"
+    ],
+    [
+     "Ab"
+    ],
+    [
+     "Gm"
+    ],
+    [
+     "Gb"
+    ],
+    [],
+    [
+     "D7"
+    ],
+    [],
+    [
+     "Bb7"
+    ],
+    [
+     "Eb"
+    ],
+    [
+     "Ebm6"
+    ],
+    [
+     "Bb"
+    ],
+    [],
+    [
+     "Bb"
+    ]
+   ]
+  },
+  {
+   "name": "D",
+   "tonic": "C",
+   "bars": "55–64",
+   "sequence": [
+    [],
+    [
+     "E7"
+    ],
+    [
+     "A"
+    ],
+    [
+     "F",
+     "D7"
+    ],
+    [
+     "C7"
+    ],
+    [
+     "F",
+     "D7"
+    ],
+    [
+     "C7"
+    ],
+    [
+     "F",
+     "D7"
+    ],
+    [
+     "C7"
+    ],
+    [
+     "F"
+    ]
+   ]
+  }
+ ],
+ "notes": [
+  "Grille générée automatiquement depuis le texte du PDF : à vérifier.",
+  "Reprises et fins non détectées : les mesures sont dans l'ordre d'écriture."
+ ],
+ "confidence": "low",
+ "source": [
+  "pdf/DomingosTeixeira - Bilinho - Polka vergonha - Theme - C.pdf"
+ ],
+ "generated": "pdf"
+}

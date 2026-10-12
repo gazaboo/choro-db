@@ -1,0 +1,263 @@
+{
+ "song_id": "chorinho-antigo-waldir-azevedo",
+ "title": "Chorinho antigo",
+ "composer": "Waldir Azevedo",
+ "transposition": "c",
+ "meter": "2/4",
+ "form": "A — B (reprise) — C — D — E — Coda",
+ "parts": [
+  {
+   "name": "A",
+   "tonic": "E",
+   "bars": "0–8",
+   "repeat": false,
+   "sequence": [
+    [
+     "E"
+    ],
+    [
+     "Edim"
+    ],
+    [
+     "E"
+    ],
+    [
+     "C#7"
+    ],
+    [
+     "F#m"
+    ],
+    [
+     "B7"
+    ],
+    [],
+    []
+   ]
+  },
+  {
+   "name": "B",
+   "tonic": "G",
+   "bars": "9–18",
+   "repeat": true,
+   "sequence": [
+    [
+     "G"
+    ],
+    [
+     "Gdim"
+    ],
+    [
+     "G"
+    ],
+    [
+     "E7"
+    ],
+    [
+     "Am"
+    ],
+    [
+     "D7"
+    ],
+    [
+     "G7"
+    ]
+   ],
+   "endings": {
+    "1": [
+     [
+      "G"
+     ],
+     [
+      "B7"
+     ]
+    ],
+    "2": [
+     [
+      "G"
+     ]
+    ]
+   }
+  },
+  {
+   "name": "C",
+   "tonic": "G",
+   "bars": "19–34",
+   "repeat": false,
+   "sequence": [
+    [
+     "C"
+    ],
+    [
+     "C#dim"
+    ],
+    [
+     "Bm7"
+    ],
+    [
+     "G7"
+    ],
+    [
+     "C"
+    ],
+    [
+     "F7"
+    ],
+    [
+     "Bb"
+    ],
+    [
+     "D7"
+    ],
+    [
+     "G"
+    ],
+    [
+     "Gdim"
+    ],
+    [
+     "G"
+    ],
+    [
+     "E7"
+    ],
+    [
+     "Am"
+    ],
+    [
+     "D7"
+    ],
+    [
+     "G"
+    ],
+    [
+     "G7"
+    ]
+   ]
+  },
+  {
+   "name": "D",
+   "tonic": "C",
+   "bars": "35–41",
+   "repeat": false,
+   "sequence": [
+    [
+     "C"
+    ],
+    [],
+    [
+     "C"
+    ],
+    [],
+    [
+     "Gm6"
+    ],
+    [
+     "A7"
+    ],
+    [
+     "Dm"
+    ]
+   ]
+  },
+  {
+   "name": "E",
+   "tonic": "C",
+   "bars": "42–X1",
+   "repeat": false,
+   "sequence": [
+    [],
+    [
+     "Bm7b5"
+    ],
+    [
+     "E7"
+    ],
+    [
+     "Am"
+    ],
+    [
+     "F#m7b5",
+     "B7"
+    ],
+    [
+     "Em"
+    ],
+    [
+     "F#7",
+     "B7"
+    ],
+    [
+     "Em"
+    ],
+    [
+     "G7"
+    ],
+    [
+     "C"
+    ],
+    [],
+    [
+     "C"
+    ],
+    [],
+    [
+     "Gm6"
+    ],
+    [
+     "A7"
+    ],
+    [
+     "Dm"
+    ],
+    [
+     "Dm"
+    ],
+    [
+     "Ab"
+    ],
+    [],
+    [
+     "A"
+    ],
+    [],
+    [
+     "G7"
+    ],
+    [],
+    [
+     "C"
+    ],
+    [
+     "B7"
+    ]
+   ]
+  },
+  {
+   "name": "Coda",
+   "tonic": "G",
+   "bars": "67–70",
+   "repeat": false,
+   "sequence": [
+    [
+     "G"
+    ],
+    [
+     "Gmaj7"
+    ],
+    [],
+    [
+     "Gmaj7"
+    ]
+   ]
+  }
+ ],
+ "notes": [
+  "Grille générée automatiquement depuis la partition MusicXML : à vérifier.",
+  "E : première mesure sans accord"
+ ],
+ "confidence": "medium",
+ "source": [
+  "mxl/C/Waldir Azevedo - Chorinho antigo - Theme - C.mxl"
+ ],
+ "generated": "mxl"
+}

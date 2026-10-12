@@ -1,0 +1,171 @@
+{
+ "song_id": "josias-na-parada-cidinho-7-cordas",
+ "title": "Josias na parada",
+ "composer": "Cidinho 7 Cordas",
+ "transposition": "c",
+ "meter": "2/4",
+ "form": "A (reprise) — B (reprise)",
+ "parts": [
+  {
+   "name": "A",
+   "tonic": "G",
+   "bars": "1–17",
+   "repeat": true,
+   "sequence": [
+    [
+     "G"
+    ],
+    [
+     "F#7/C#"
+    ],
+    [
+     "Am/C"
+    ],
+    [
+     "G"
+    ],
+    [
+     "G",
+     "A#dim"
+    ],
+    [
+     "Bm"
+    ],
+    [
+     "F#7"
+    ],
+    [
+     "Bm",
+     "D7"
+    ],
+    [
+     "G"
+    ],
+    [
+     "A#dim"
+    ],
+    [
+     "Am"
+    ],
+    [
+     "Dm",
+     "Bdim"
+    ],
+    [
+     "Cm6"
+    ],
+    [
+     "G",
+     "Em7"
+    ],
+    [
+     "C#m7b5",
+     "Cm6"
+    ]
+   ],
+   "endings": {
+    "1": [
+     [
+      "G"
+     ]
+    ],
+    "2": [
+     [
+      "G",
+      "D7"
+     ]
+    ]
+   }
+  },
+  {
+   "name": "B",
+   "tonic": "Gm",
+   "bars": "18–37",
+   "repeat": true,
+   "sequence": [
+    [
+     "Gm",
+     "Gm/F"
+    ],
+    [
+     "A7/E",
+     "A7"
+    ],
+    [
+     "Ab7"
+    ],
+    [
+     "Gm"
+    ],
+    [
+     "Gm",
+     "Gm6"
+    ],
+    [
+     "D/F#"
+    ],
+    [
+     "A7/E"
+    ],
+    [
+     "Cm6/Eb",
+     "D7"
+    ],
+    [
+     "Gm",
+     "Gm/F"
+    ],
+    [
+     "A7/E",
+     "A7"
+    ],
+    [
+     "Ab7"
+    ],
+    [
+     "Gm"
+    ],
+    [
+     "Cm"
+    ],
+    [
+     "Gm"
+    ],
+    [
+     "Ab"
+    ],
+    [
+     "G"
+    ],
+    [
+     "C#m7b5",
+     "Cm6"
+    ],
+    [
+     "G"
+    ]
+   ],
+   "endings": {
+    "1": [
+     [
+      "Gm"
+     ]
+    ],
+    "2": [
+     [
+      "Gm",
+      "D7"
+     ]
+    ]
+   }
+  }
+ ],
+ "notes": [
+  "Grille générée automatiquement depuis la partition MusicXML : à vérifier."
+ ],
+ "confidence": "medium",
+ "source": [
+  "mxl/C/Cidinho 7 Cordas - Josias na parada - Theme - C.mxl"
+ ],
+ "generated": "mxl"
+}

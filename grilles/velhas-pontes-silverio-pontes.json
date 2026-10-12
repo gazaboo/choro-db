@@ -1,0 +1,176 @@
+{
+ "song_id": "velhas-pontes-silverio-pontes",
+ "title": "Velhas pontes",
+ "composer": "Silvério Pontes",
+ "transposition": "c",
+ "meter": "2/4",
+ "form": "A — B — C — Coda",
+ "parts": [
+  {
+   "name": "A",
+   "tonic": "C",
+   "bars": "1–5",
+   "sequence": [
+    [
+     "F/A",
+     "Bb/Ab"
+    ],
+    [
+     "Eb/G"
+    ],
+    [
+     "Bb7"
+    ],
+    [
+     "Bbm6",
+     "Eb7"
+    ],
+    [
+     "F/A",
+     "Bb/Ab"
+    ]
+   ]
+  },
+  {
+   "name": "B",
+   "tonic": "C",
+   "bars": "8–22",
+   "sequence": [
+    [],
+    [
+     "Eb6"
+    ],
+    [
+     "Fm6"
+    ],
+    [
+     "Bb7(9)",
+     "Bb7(b9)"
+    ],
+    [
+     "Eb6",
+     "Bb7"
+    ],
+    [
+     "Eb6"
+    ],
+    [
+     "Bb/D"
+    ],
+    [],
+    [
+     "Bb7",
+     "Bb/Ab"
+    ],
+    [
+     "Eb/G"
+    ],
+    [
+     "Fm6"
+    ],
+    [
+     "Bb7(9)"
+    ],
+    [
+     "C/Bb"
+    ],
+    [
+     "F/A",
+     "Abm6"
+    ],
+    [
+     "Eb/G"
+    ]
+   ]
+  },
+  {
+   "name": "C",
+   "tonic": "C",
+   "bars": "25–42",
+   "sequence": [
+    [
+     "Eb6"
+    ],
+    [],
+    [],
+    [],
+    [
+     "Bb7"
+    ],
+    [
+     "Eb6"
+    ],
+    [
+     "B",
+     "B/A"
+    ],
+    [
+     "Eb/Bb"
+    ],
+    [],
+    [
+     "Bb7",
+     "Db7"
+    ],
+    [],
+    [
+     "F/Eb"
+    ],
+    [
+     "Bb7/D"
+    ],
+    [
+     "Eb/Db"
+    ],
+    [
+     "B",
+     "B/A"
+    ],
+    [
+     "Eb/Bb"
+    ],
+    [
+     "Bb7"
+    ],
+    [
+     "Eb6"
+    ]
+   ]
+  },
+  {
+   "name": "Coda",
+   "tonic": "C",
+   "bars": "43–49",
+   "sequence": [
+    [],
+    [
+     "Eb6"
+    ],
+    [
+     "F/A",
+     "Bb/Ab"
+    ],
+    [
+     "Eb/G"
+    ],
+    [
+     "Bb7"
+    ],
+    [],
+    [
+     "F/A",
+     "Bb/Ab"
+    ]
+   ]
+  }
+ ],
+ "notes": [
+  "Grille générée automatiquement depuis le texte du PDF : à vérifier.",
+  "Reprises et fins non détectées : les mesures sont dans l'ordre d'écriture."
+ ],
+ "confidence": "low",
+ "source": [
+  "pdf/Silvério Pontes - Velhas pontes - Theme - C.pdf"
+ ],
+ "generated": "pdf"
+}

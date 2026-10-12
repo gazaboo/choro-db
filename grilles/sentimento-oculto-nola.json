@@ -1,0 +1,223 @@
+{
+ "song_id": "sentimento-oculto-nola",
+ "title": "Sentimento oculto",
+ "composer": "Nola",
+ "transposition": "c",
+ "meter": "2/4",
+ "form": "A — B — C — Coda",
+ "parts": [
+  {
+   "name": "A",
+   "tonic": "C",
+   "bars": "1–28",
+   "sequence": [
+    [
+     "F"
+    ],
+    [],
+    [
+     "Eb7",
+     "D7"
+    ],
+    [],
+    [
+     "Gm"
+    ],
+    [
+     "D7/F#"
+    ],
+    [
+     "Gm"
+    ],
+    [],
+    [
+     "F/A"
+    ],
+    [],
+    [
+     "G7"
+    ],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [
+     "F"
+    ],
+    [],
+    [
+     "Cm6/Eb"
+    ],
+    [
+     "D7"
+    ],
+    [
+     "Gm"
+    ],
+    [
+     "D7/F#"
+    ],
+    [
+     "Gm"
+    ],
+    [],
+    [
+     "F/A"
+    ],
+    [
+     "D7"
+    ],
+    [
+     "G7"
+    ],
+    [
+     "C7"
+    ]
+   ]
+  },
+  {
+   "name": "B",
+   "tonic": "C",
+   "bars": "29–45",
+   "sequence": [
+    [
+     "F"
+    ],
+    [
+     "A7/C#"
+    ],
+    [],
+    [],
+    [
+     "Dm",
+     "Dm/C"
+    ],
+    [
+     "Gm/Bb"
+    ],
+    [],
+    [
+     "Gm6"
+    ],
+    [
+     "A7"
+    ],
+    [
+     "Dm"
+    ],
+    [],
+    [
+     "Cm6"
+    ],
+    [
+     "D7/F#"
+    ],
+    [
+     "Gm"
+    ],
+    [],
+    [
+     "Dm",
+     "Dm/C"
+    ],
+    [
+     "Bb7",
+     "A7"
+    ]
+   ]
+  },
+  {
+   "name": "C",
+   "tonic": "C",
+   "bars": "46–66",
+   "sequence": [
+    [
+     "Dm"
+    ],
+    [
+     "A7/C#"
+    ],
+    [
+     "Dm"
+    ],
+    [
+     "C7"
+    ],
+    [
+     "F"
+    ],
+    [
+     "F7"
+    ],
+    [],
+    [
+     "Bb"
+    ],
+    [
+     "G7"
+    ],
+    [
+     "C7"
+    ],
+    [],
+    [
+     "F7"
+    ],
+    [],
+    [
+     "Bb"
+    ],
+    [],
+    [],
+    [
+     "Bb7"
+    ],
+    [
+     "Eb",
+     "D7"
+    ],
+    [],
+    [
+     "G7"
+    ],
+    [
+     "C7",
+     "F7"
+    ]
+   ]
+  },
+  {
+   "name": "Coda",
+   "tonic": "C",
+   "bars": "67–71",
+   "sequence": [
+    [
+     "Bb"
+    ],
+    [
+     "F7"
+    ],
+    [
+     "Bb",
+     "C7"
+    ],
+    [],
+    [
+     "F",
+     "C7",
+     "F"
+    ]
+   ]
+  }
+ ],
+ "notes": [
+  "Grille générée automatiquement depuis le texte du PDF : à vérifier.",
+  "Reprises et fins non détectées : les mesures sont dans l'ordre d'écriture."
+ ],
+ "confidence": "low",
+ "source": [
+  "pdf/Nola - Sentimento oculto - Theme - C.pdf"
+ ],
+ "generated": "pdf"
+}

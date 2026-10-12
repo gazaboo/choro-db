@@ -1,0 +1,135 @@
+{
+ "song_id": "saudades-de-lucia-cidinho-7-cordas",
+ "title": "Saudades de Lúcia",
+ "composer": "Cidinho 7 Cordas",
+ "transposition": "c",
+ "meter": "2/4",
+ "form": "A — B",
+ "parts": [
+  {
+   "name": "A",
+   "tonic": "Am",
+   "bars": "1–15",
+   "sequence": [
+    [
+     "Am",
+     "Am/G"
+    ],
+    [
+     "Dm/F",
+     "Dm"
+    ],
+    [
+     "Dm6"
+    ],
+    [
+     "Am"
+    ],
+    [
+     "Am",
+     "F#m7(b5)"
+    ],
+    [
+     "Em/G"
+    ],
+    [],
+    [
+     "Dm/F"
+    ],
+    [
+     "Am",
+     "Am/G"
+    ],
+    [
+     "Dm/F",
+     "Dm"
+    ],
+    [
+     "Dm6"
+    ],
+    [
+     "Gm6/Bb"
+    ],
+    [
+     "Dm/F"
+    ],
+    [
+     "Am",
+     "Am/C"
+    ],
+    [
+     "Bb"
+    ]
+   ]
+  },
+  {
+   "name": "B",
+   "tonic": "Am",
+   "bars": "16–32",
+   "sequence": [
+    [
+     "Am"
+    ],
+    [
+     "Am"
+    ],
+    [],
+    [
+     "A",
+     "F#m7"
+    ],
+    [
+     "Bm",
+     "Bm/A"
+    ],
+    [],
+    [
+     "A"
+    ],
+    [
+     "A",
+     "F#m6"
+    ],
+    [
+     "C#m"
+    ],
+    [
+     "G#7"
+    ],
+    [
+     "C#m"
+    ],
+    [
+     "A",
+     "F#m7"
+    ],
+    [
+     "Bm"
+    ],
+    [
+     "C#7/G#"
+    ],
+    [
+     "Em6/G",
+     "F#7"
+    ],
+    [
+     "Dm6/F"
+    ],
+    [
+     "A/E",
+     "F#m7"
+    ]
+   ]
+  }
+ ],
+ "notes": [
+  "Grille générée automatiquement depuis le texte du PDF : à vérifier.",
+  "Reprises et fins non détectées : les mesures sont dans l'ordre d'écriture."
+ ],
+ "confidence": "low",
+ "source": [
+  "pdf/Cidinho 7 Cordas - Saudades de Lúcia - Theme - C.pdf"
+ ],
+ "generated": "pdf"
+}

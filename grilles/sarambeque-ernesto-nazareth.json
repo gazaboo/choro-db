@@ -1,0 +1,192 @@
+{
+ "song_id": "sarambeque-ernesto-nazareth",
+ "title": "Sarambeque",
+ "composer": "Ernesto Nazareth",
+ "transposition": "c",
+ "meter": "2/4",
+ "form": "A — B — C",
+ "parts": [
+  {
+   "name": "A",
+   "tonic": "C",
+   "bars": "1–14",
+   "sequence": [
+    [
+     "D/F#",
+     "F#m"
+    ],
+    [
+     "Em",
+     "A7",
+     "Em7(b5)"
+    ],
+    [
+     "D"
+    ],
+    [
+     "E7"
+    ],
+    [
+     "Bm"
+    ],
+    [],
+    [
+     "F#7/A#"
+    ],
+    [
+     "A7"
+    ],
+    [
+     "D/F#"
+    ],
+    [
+     "Em"
+    ],
+    [
+     "D"
+    ],
+    [
+     "Em"
+    ],
+    [
+     "Bm"
+    ],
+    [
+     "D/A",
+     "A7"
+    ]
+   ]
+  },
+  {
+   "name": "B",
+   "tonic": "C",
+   "bars": "15–30",
+   "sequence": [
+    [
+     "D"
+    ],
+    [
+     "D"
+    ],
+    [],
+    [
+     "A"
+    ],
+    [
+     "Bm"
+    ],
+    [
+     "A"
+    ],
+    [
+     "D/F#"
+    ],
+    [
+     "Dm/F"
+    ],
+    [
+     "A/C#"
+    ],
+    [
+     "E/D"
+    ],
+    [
+     "A/C#",
+     "F/Eb"
+    ],
+    [
+     "A/E",
+     "A",
+     "F#7"
+    ],
+    [
+     "Bm"
+    ],
+    [
+     "A"
+    ],
+    [
+     "D/F#"
+    ],
+    [
+     "Dm/F"
+    ]
+   ]
+  },
+  {
+   "name": "C",
+   "tonic": "C",
+   "bars": "33–53",
+   "sequence": [
+    [
+     "A"
+    ],
+    [
+     "A"
+    ],
+    [
+     "D",
+     "D7"
+    ],
+    [],
+    [
+     "G"
+    ],
+    [
+     "A7"
+    ],
+    [
+     "D7"
+    ],
+    [
+     "G"
+    ],
+    [
+     "G"
+    ],
+    [
+     "D/A"
+    ],
+    [
+     "A7"
+    ],
+    [],
+    [
+     "G",
+     "Eb/Db"
+    ],
+    [
+     "Ab/C",
+     "A7"
+    ],
+    [],
+    [
+     "G"
+    ],
+    [
+     "G/F"
+    ],
+    [
+     "C/E"
+    ],
+    [
+     "D7",
+     "G"
+    ],
+    [],
+    [
+     "D"
+    ]
+   ]
+  }
+ ],
+ "notes": [
+  "Grille générée automatiquement depuis le texte du PDF : à vérifier.",
+  "Reprises et fins non détectées : les mesures sont dans l'ordre d'écriture."
+ ],
+ "confidence": "low",
+ "source": [
+  "pdf/Ernesto Nazareth - Sarambeque - Theme - C.pdf"
+ ],
+ "generated": "pdf"
+}

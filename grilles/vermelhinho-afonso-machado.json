@@ -1,0 +1,106 @@
+{
+ "song_id": "vermelhinho-afonso-machado",
+ "title": "Vermelhinho",
+ "composer": "Afonso Machado",
+ "transposition": "c",
+ "meter": "2/4",
+ "form": "A — B — C — Coda",
+ "parts": [
+  {
+   "name": "A",
+   "tonic": "Am",
+   "bars": "1–11",
+   "sequence": [
+    [
+     "Am6"
+    ],
+    [],
+    [],
+    [],
+    [
+     "Am/G"
+    ],
+    [
+     "Em7(b5)"
+    ],
+    [
+     "A7(b9)"
+    ],
+    [],
+    [
+     "G7"
+    ],
+    [],
+    [
+     "A7(b13)"
+    ]
+   ]
+  },
+  {
+   "name": "B",
+   "tonic": "C",
+   "bars": "20–32",
+   "sequence": [
+    [],
+    [],
+    [
+     "F#m7"
+    ],
+    [],
+    [
+     "Bb7(9)"
+    ],
+    [],
+    [
+     "F#m7"
+    ],
+    [],
+    [
+     "A7"
+    ],
+    [],
+    [
+     "Dm6"
+    ],
+    [],
+    [
+     "A7(13)"
+    ]
+   ]
+  },
+  {
+   "name": "C",
+   "tonic": "C",
+   "bars": "33–34",
+   "sequence": [
+    [],
+    [
+     "G7"
+    ]
+   ]
+  },
+  {
+   "name": "Coda",
+   "tonic": "C",
+   "bars": "37–39",
+   "sequence": [
+    [],
+    [
+     "E7"
+    ],
+    [
+     "A6"
+    ]
+   ]
+  }
+ ],
+ "notes": [
+  "Grille générée automatiquement depuis le texte du PDF : à vérifier.",
+  "Reprises et fins non détectées : les mesures sont dans l'ordre d'écriture."
+ ],
+ "confidence": "low",
+ "source": [
+  "pdf/Afonso Machado - Vermelhinho - Theme - C.pdf"
+ ],
+ "generated": "pdf"
+}

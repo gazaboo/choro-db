@@ -1,0 +1,258 @@
+{
+ "song_id": "sempre-teu-jacob-do-bandolim",
+ "title": "Sempre Teu",
+ "composer": "Jacob do Bandolim",
+ "transposition": "c",
+ "meter": "2/4",
+ "form": "A (reprise) — B (reprise) — C (reprise) — Coda",
+ "parts": [
+  {
+   "name": "A",
+   "tonic": "Dm",
+   "bars": "0–17",
+   "repeat": true,
+   "sequence": [
+    [
+     "Dm",
+     "Dm/C"
+    ],
+    [
+     "Bdim",
+     "Gm/Bb"
+    ],
+    [
+     "A7",
+     "A/G"
+    ],
+    [
+     "Dm/F"
+    ],
+    [
+     "Dm",
+     "Bm7b5"
+    ],
+    [
+     "Am"
+    ],
+    [
+     "E7/G#"
+    ],
+    [
+     "A/G",
+     "A7"
+    ],
+    [
+     "Dm",
+     "Dm/C"
+    ],
+    [
+     "Bdim",
+     "Gm/Bb"
+    ],
+    [
+     "A7",
+     "A/G"
+    ],
+    [
+     "D7/F#",
+     "D7"
+    ],
+    [
+     "Gm/Bb",
+     "E7"
+    ],
+    [
+     "Am",
+     "Gm6"
+    ],
+    [
+     "Dm/A",
+     "A7"
+    ]
+   ],
+   "endings": {
+    "1": [
+     [
+      "Dm"
+     ]
+    ],
+    "2": [
+     [
+      "Dm"
+     ]
+    ]
+   }
+  },
+  {
+   "name": "B",
+   "tonic": "Dm",
+   "bars": "18–35",
+   "repeat": true,
+   "sequence": [
+    [
+     "A7/C#",
+     "A/G"
+    ],
+    [
+     "Dm/F"
+    ],
+    [
+     "D7/F#",
+     "D7"
+    ],
+    [
+     "Gm"
+    ],
+    [
+     "Gm6/Bb",
+     "Em7b5"
+    ],
+    [
+     "Dm/F"
+    ],
+    [
+     "E7/G#",
+     "E7"
+    ],
+    [
+     "A7"
+    ],
+    [
+     "A7/C#",
+     "A/G"
+    ],
+    [
+     "Dm/F"
+    ],
+    [
+     "D7/F#",
+     "D7"
+    ],
+    [
+     "Gm"
+    ],
+    [
+     "Gm6/Bb",
+     "Em7b5"
+    ],
+    [
+     "Dm/F"
+    ],
+    [
+     "Em7b5",
+     "A7"
+    ],
+    [
+     "Dm"
+    ]
+   ],
+   "endings": {
+    "1": [
+     [
+      "Dm"
+     ]
+    ],
+    "2": [
+     [
+      "Dm"
+     ]
+    ]
+   }
+  },
+  {
+   "name": "C",
+   "tonic": "D",
+   "bars": "36–X2",
+   "repeat": true,
+   "sequence": [
+    [
+     "D/F#",
+     "Bm7"
+    ],
+    [
+     "E7"
+    ],
+    [
+     "A7"
+    ],
+    [
+     "Fdim",
+     "D/F#"
+    ],
+    [
+     "D",
+     "Bm6"
+    ],
+    [
+     "F#m/C#"
+    ],
+    [
+     "C#7/E#",
+     "C#7"
+    ],
+    [
+     "F#m",
+     "A7"
+    ],
+    [
+     "D",
+     "Bm7"
+    ],
+    [
+     "E7"
+    ],
+    [
+     "A7"
+    ],
+    [
+     "G7",
+     "F#7"
+    ],
+    [
+     "F#/E",
+     "F#7"
+    ],
+    [
+     "Bm",
+     "G"
+    ],
+    [
+     "D/A",
+     "A7"
+    ]
+   ],
+   "endings": {
+    "1": [
+     [
+      "D",
+      "A7"
+     ]
+    ],
+    "2": [
+     [
+      "D"
+     ]
+    ]
+   }
+  },
+  {
+   "name": "Coda",
+   "tonic": "Dm",
+   "bars": "53–53",
+   "repeat": false,
+   "sequence": [
+    [
+     "Dm"
+    ]
+   ]
+  }
+ ],
+ "notes": [
+  "Grille générée automatiquement depuis la partition MusicXML : à vérifier."
+ ],
+ "confidence": "medium",
+ "source": [
+  "mxl/C/Jacob do Bandolim - Sempre Teu - Theme - C.mxl"
+ ],
+ "generated": "mxl"
+}

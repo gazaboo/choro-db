@@ -1,0 +1,208 @@
+{
+ "song_id": "inesquecivel-paulinho-da-viola",
+ "title": "Inesquecível",
+ "composer": "Paulinho da Viola",
+ "transposition": "c",
+ "meter": "2/4",
+ "form": "A (reprise) — B (reprise) — Coda",
+ "parts": [
+  {
+   "name": "A",
+   "tonic": "Bm",
+   "bars": "0–17",
+   "repeat": true,
+   "sequence": [
+    [
+     "Gm6",
+     "A7"
+    ],
+    [
+     "D",
+     "Bm"
+    ],
+    [
+     "C#m7b5",
+     "F#7"
+    ],
+    [
+     "Bm",
+     "B7"
+    ],
+    [
+     "Em",
+     "A7"
+    ],
+    [
+     "D",
+     "A/C#"
+    ],
+    [
+     "E7/B",
+     "D7/A"
+    ],
+    [
+     "C#7/G#",
+     "F#7"
+    ],
+    [
+     "Bm",
+     "E7"
+    ],
+    [
+     "A",
+     "A7"
+    ],
+    [
+     "D",
+     "C#7"
+    ],
+    [
+     "F#m",
+     "G#7(b9)"
+    ],
+    [
+     "C#m",
+     "F#7"
+    ],
+    [
+     "Bm",
+     "G7"
+    ],
+    [
+     "C",
+     "F#7"
+    ]
+   ],
+   "endings": {
+    "1": [
+     [
+      "Bm"
+     ]
+    ],
+    "2": [
+     [
+      "Bm",
+      "Bm/A"
+     ]
+    ]
+   }
+  },
+  {
+   "name": "B",
+   "tonic": "D",
+   "bars": "18–X1",
+   "repeat": true,
+   "sequence": [
+    [
+     "C#7/G#",
+     "F#7"
+    ],
+    [
+     "Bm",
+     "B/A"
+    ],
+    [
+     "E7/G#",
+     "A7"
+    ],
+    [
+     "D",
+     "F7"
+    ],
+    [
+     "Em7",
+     "A7"
+    ],
+    [
+     "D",
+     "D/C"
+    ],
+    [
+     "G7/B",
+     "Fdim"
+    ],
+    [
+     "F#7",
+     "Bm",
+     "Bm/A"
+    ],
+    [
+     "C#7/G#",
+     "G7(#11)",
+     "F#7"
+    ],
+    [
+     "Bm",
+     "B/A"
+    ],
+    [
+     "E7/G#",
+     "A/G"
+    ],
+    [
+     "D/F#",
+     "D/C"
+    ],
+    [
+     "G",
+     "A7"
+    ],
+    [
+     "D",
+     "Bb7"
+    ],
+    [
+     "Eb6",
+     "A7"
+    ]
+   ],
+   "endings": {
+    "1": [
+     [
+      "D",
+      "Bm",
+      "Bm/A"
+     ]
+    ],
+    "2": [
+     [
+      "D"
+     ]
+    ]
+   }
+  },
+  {
+   "name": "Coda",
+   "tonic": "D",
+   "bars": "35–39",
+   "repeat": false,
+   "sequence": [
+    [
+     "Bm"
+    ],
+    [
+     "Gm6",
+     "A7"
+    ],
+    [
+     "D"
+    ],
+    [
+     "Gm6",
+     "A7"
+    ],
+    [
+     "D6(9)"
+    ]
+   ]
+  }
+ ],
+ "notes": [
+  "Grille générée automatiquement depuis la partition MusicXML : à vérifier."
+ ],
+ "confidence": "medium",
+ "source": [
+  "mxl/C/Paulinho da Viola - Inesquecível - Theme - C.mxl"
+ ],
+ "generated": "mxl"
+}

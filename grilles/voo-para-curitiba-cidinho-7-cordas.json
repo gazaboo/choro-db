@@ -1,0 +1,171 @@
+{
+ "song_id": "voo-para-curitiba-cidinho-7-cordas",
+ "title": "Voo para Curitiba",
+ "composer": "Cidinho 7 Cordas",
+ "transposition": "c",
+ "meter": "2/4",
+ "form": "A — B — C",
+ "parts": [
+  {
+   "name": "A",
+   "tonic": "Am",
+   "bars": "1–15",
+   "sequence": [
+    [
+     "Gm"
+    ],
+    [
+     "Cm"
+    ],
+    [],
+    [
+     "Gm"
+    ],
+    [
+     "Gm"
+    ],
+    [
+     "Dm"
+    ],
+    [],
+    [
+     "Am7(b5)"
+    ],
+    [
+     "Gm"
+    ],
+    [
+     "Cm"
+    ],
+    [],
+    [
+     "Fm"
+    ],
+    [
+     "Cm"
+    ],
+    [
+     "Gm"
+    ],
+    [
+     "Cm"
+    ]
+   ]
+  },
+  {
+   "name": "B",
+   "tonic": "C",
+   "bars": "16–32",
+   "sequence": [
+    [
+     "Gm"
+    ],
+    [
+     "Gm"
+    ],
+    [],
+    [
+     "Bb"
+    ],
+    [],
+    [
+     "Bb"
+    ],
+    [],
+    [
+     "Bb"
+    ],
+    [
+     "Dm"
+    ],
+    [],
+    [],
+    [
+     "Bb"
+    ],
+    [
+     "Cm"
+    ],
+    [
+     "Cm"
+    ],
+    [
+     "Ebm/Gb"
+    ],
+    [
+     "Bb/D"
+    ],
+    [
+     "Cm"
+    ]
+   ]
+  },
+  {
+   "name": "C",
+   "tonic": "Am",
+   "bars": "33–53",
+   "sequence": [
+    [
+     "Bb"
+    ],
+    [
+     "Bb"
+    ],
+    [
+     "Gm"
+    ],
+    [],
+    [
+     "G"
+    ],
+    [
+     "D7(#5)"
+    ],
+    [],
+    [
+     "G"
+    ],
+    [
+     "G",
+     "Em"
+    ],
+    [
+     "Bm"
+    ],
+    [],
+    [],
+    [
+     "G"
+    ],
+    [],
+    [],
+    [
+     "Dm6/F"
+    ],
+    [
+     "Am",
+     "Cm6"
+    ],
+    [
+     "G"
+    ],
+    [
+     "G"
+    ],
+    [],
+    [
+     "Gm"
+    ]
+   ]
+  }
+ ],
+ "notes": [
+  "Grille générée automatiquement depuis le texte du PDF : à vérifier.",
+  "Reprises et fins non détectées : les mesures sont dans l'ordre d'écriture."
+ ],
+ "confidence": "low",
+ "source": [
+  "pdf/Cidinho 7 Cordas - Voo para Curitiba - Theme - C.pdf"
+ ],
+ "generated": "pdf"
+}

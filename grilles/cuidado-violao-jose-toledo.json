@@ -1,0 +1,192 @@
+{
+ "song_id": "cuidado-violao-jose-toledo",
+ "title": "Cuidado violão",
+ "composer": "José Toledo",
+ "transposition": "c",
+ "meter": "2/4",
+ "form": "A (reprise) — B (reprise) — C — Coda",
+ "parts": [
+  {
+   "name": "A",
+   "tonic": "Gm",
+   "bars": "0–17",
+   "repeat": true,
+   "sequence": [
+    [
+     "Gm",
+     "D7"
+    ],
+    [
+     "Gm"
+    ],
+    [
+     "Cm",
+     "G7"
+    ],
+    [
+     "Cm"
+    ],
+    [
+     "Am7b5",
+     "D7"
+    ],
+    [
+     "Gm"
+    ],
+    [
+     "Eb7",
+     "A7"
+    ],
+    [
+     "D7"
+    ],
+    [
+     "Cm",
+     "G7"
+    ],
+    [
+     "Cm"
+    ],
+    [
+     "Gm/D",
+     "D7"
+    ],
+    [
+     "Gm"
+    ],
+    [
+     "Gm/Bb",
+     "D7/A"
+    ],
+    [
+     "Gm"
+    ],
+    [
+     "Eb7",
+     "Ab",
+     "D7"
+    ]
+   ],
+   "endings": {
+    "1": [
+     [
+      "Gm"
+     ]
+    ],
+    "2": [
+     [
+      "Gm"
+     ]
+    ]
+   }
+  },
+  {
+   "name": "B",
+   "tonic": "Gm",
+   "bars": "18–37",
+   "repeat": true,
+   "sequence": [
+    [
+     "Eb"
+    ],
+    [
+     "Cm"
+    ],
+    [
+     "Eb7/Bb"
+    ],
+    [
+     "D7/A"
+    ],
+    [
+     "Gm"
+    ],
+    [
+     "G7"
+    ],
+    [
+     "Cm"
+    ],
+    [
+     "Cm/Eb"
+    ],
+    [
+     "Cm"
+    ],
+    [
+     "Eb7/Bb"
+    ],
+    [
+     "D7/A"
+    ],
+    [],
+    [
+     "Gm"
+    ],
+    [
+     "G7/B"
+    ],
+    [
+     "Cm"
+    ],
+    [
+     "Am7b5"
+    ],
+    [
+     "Gm"
+    ],
+    [
+     "D7/F#"
+    ]
+   ],
+   "endings": {
+    "1": [
+     [
+      "Gm"
+     ]
+    ],
+    "2": [
+     [
+      "Gm"
+     ]
+    ]
+   }
+  },
+  {
+   "name": "C",
+   "tonic": "Gm",
+   "bars": "38–42",
+   "repeat": false,
+   "sequence": [
+    [],
+    [],
+    [],
+    [],
+    [
+     "D7"
+    ]
+   ]
+  },
+  {
+   "name": "Coda",
+   "tonic": "Gm",
+   "bars": "X1–43",
+   "repeat": false,
+   "sequence": [
+    [
+     "Gm",
+     "Gm6"
+    ]
+   ]
+  }
+ ],
+ "notes": [
+  "Grille générée automatiquement depuis la partition MusicXML : à vérifier.",
+  "C : première mesure sans accord"
+ ],
+ "confidence": "medium",
+ "source": [
+  "mxl/C/José Toledo - Cuidado violão - Theme - C.mxl"
+ ],
+ "generated": "mxl"
+}

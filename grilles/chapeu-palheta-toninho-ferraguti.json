@@ -1,0 +1,362 @@
+{
+ "song_id": "chapeu-palheta-toninho-ferraguti",
+ "title": "Chapéu Palheta",
+ "composer": "Toninho Ferraguti",
+ "transposition": "c",
+ "meter": "2/4",
+ "form": "A — B — C (reprise) — D — E (reprise) — Coda",
+ "parts": [
+  {
+   "name": "A",
+   "tonic": "G",
+   "bars": "1–8",
+   "repeat": false,
+   "sequence": [
+    [],
+    [
+     "C#m7b5"
+    ],
+    [
+     "Cm7"
+    ],
+    [
+     "Bm7"
+    ],
+    [
+     "Bb7(b5)"
+    ],
+    [
+     "Am7"
+    ],
+    [
+     "D7(#9)"
+    ],
+    []
+   ]
+  },
+  {
+   "name": "B",
+   "tonic": "G",
+   "bars": "9–40",
+   "repeat": false,
+   "sequence": [
+    [
+     "Gmaj7"
+    ],
+    [
+     "Am7"
+    ],
+    [
+     "Bm7"
+    ],
+    [
+     "Am7"
+    ],
+    [
+     "Gmaj7"
+    ],
+    [
+     "Dm7",
+     "Db7(#9)"
+    ],
+    [
+     "Cmaj7"
+    ],
+    [],
+    [
+     "Cm7"
+    ],
+    [
+     "F7"
+    ],
+    [
+     "Gmaj7"
+    ],
+    [
+     "Em7"
+    ],
+    [
+     "Am7"
+    ],
+    [
+     "D7"
+    ],
+    [
+     "Gmaj7",
+     "Em7"
+    ],
+    [
+     "Am7",
+     "D7"
+    ],
+    [
+     "Gmaj7"
+    ],
+    [
+     "Am7"
+    ],
+    [
+     "Bm7"
+    ],
+    [
+     "Am7"
+    ],
+    [
+     "Gmaj7"
+    ],
+    [
+     "Dm7",
+     "Db7(#9)"
+    ],
+    [
+     "Cmaj7"
+    ],
+    [],
+    [
+     "Cm7"
+    ],
+    [
+     "F7"
+    ],
+    [
+     "Gmaj7"
+    ],
+    [
+     "Em7"
+    ],
+    [
+     "Am7"
+    ],
+    [
+     "D7"
+    ],
+    [
+     "Dm7"
+    ],
+    [
+     "G7"
+    ]
+   ]
+  },
+  {
+   "name": "C",
+   "tonic": "C",
+   "bars": "41–57",
+   "repeat": true,
+   "sequence": [
+    [
+     "C"
+    ],
+    [
+     "C(#5)"
+    ],
+    [
+     "Dm7"
+    ],
+    [
+     "G7"
+    ],
+    [
+     "C"
+    ],
+    [
+     "C(#5)"
+    ],
+    [
+     "Dm7"
+    ],
+    [
+     "G7"
+    ],
+    [
+     "Fm7"
+    ],
+    [
+     "Bb7"
+    ],
+    [
+     "Ebmaj7"
+    ],
+    []
+   ],
+   "endings": {
+    "1": [
+     [
+      "Am7"
+     ],
+     [
+      "D7"
+     ],
+     [
+      "Gmaj7",
+      "Em7"
+     ],
+     [
+      "Am7",
+      "D7"
+     ]
+    ],
+    "2": [
+     [
+      "Am7b5"
+     ]
+    ]
+   }
+  },
+  {
+   "name": "D",
+   "tonic": "C",
+   "bars": "58–62",
+   "repeat": false,
+   "sequence": [
+    [
+     "D7(#9)"
+    ],
+    [
+     "C",
+     "A7/C#"
+    ],
+    [
+     "Dm7",
+     "D7(#9)",
+     "Gmaj7"
+    ],
+    [
+     "Dm7"
+    ],
+    [
+     "G7"
+    ]
+   ]
+  },
+  {
+   "name": "E",
+   "tonic": "C",
+   "bars": "63–X2",
+   "repeat": true,
+   "sequence": [
+    [
+     "Cmaj7"
+    ],
+    [
+     "Am7"
+    ],
+    [
+     "Dm7",
+     "G7"
+    ],
+    [],
+    [
+     "Dm7"
+    ],
+    [
+     "G7"
+    ],
+    [
+     "Cmaj7"
+    ],
+    [],
+    [
+     "Cmaj7"
+    ],
+    [
+     "Gm7",
+     "C7(#5)"
+    ],
+    [
+     "Fmaj7",
+     "Fm7"
+    ],
+    [
+     "Cmaj7"
+    ],
+    [
+     "G7"
+    ],
+    [
+     "Dm7"
+    ]
+   ],
+   "endings": {
+    "1": [
+     [
+      "G7"
+     ]
+    ],
+    "2": [
+     [
+      "G7"
+     ]
+    ]
+   }
+  },
+  {
+   "name": "Coda",
+   "tonic": "G",
+   "bars": "79–96",
+   "repeat": false,
+   "sequence": [
+    [
+     "Dm7"
+    ],
+    [
+     "G7"
+    ],
+    [
+     "C#m7b5"
+    ],
+    [
+     "Cm7"
+    ],
+    [
+     "Bm7"
+    ],
+    [
+     "Bb7(b5)"
+    ],
+    [
+     "Am7"
+    ],
+    [
+     "D7(#5)"
+    ],
+    [
+     "Dm7"
+    ],
+    [
+     "G7(#5)"
+    ],
+    [
+     "C#m7b5"
+    ],
+    [
+     "Cm7"
+    ],
+    [
+     "Bm7"
+    ],
+    [
+     "Bb7(b5)"
+    ],
+    [
+     "Am7"
+    ],
+    [
+     "D7(#5)",
+     "D7"
+    ],
+    [],
+    []
+   ]
+  }
+ ],
+ "notes": [
+  "Grille générée automatiquement depuis la partition MusicXML : à vérifier.",
+  "A : première mesure sans accord"
+ ],
+ "confidence": "medium",
+ "source": [
+  "mxl/C/Toninho Ferraguti - Chapéu Palheta - Theme - C.mxl"
+ ],
+ "generated": "mxl"
+}

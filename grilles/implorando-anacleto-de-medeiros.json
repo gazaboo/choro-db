@@ -1,0 +1,168 @@
+{
+ "song_id": "implorando-anacleto-de-medeiros",
+ "title": "Implorando",
+ "composer": "Anacleto de Medeiros",
+ "transposition": "c",
+ "meter": "2/2",
+ "form": "A (reprise) — B (reprise) — C (reprise)",
+ "parts": [
+  {
+   "name": "A",
+   "tonic": "Dm",
+   "bars": "0–9",
+   "repeat": true,
+   "sequence": [
+    [
+     "Dm",
+     "Dm/F"
+    ],
+    [
+     "Gm",
+     "Gm/F"
+    ],
+    [
+     "A7/E",
+     "A7"
+    ],
+    [
+     "Dm"
+    ],
+    [
+     "Am7b5",
+     "D7"
+    ],
+    [
+     "Gm",
+     "Em7b5"
+    ],
+    [
+     "Dm/F",
+     "E7"
+    ]
+   ],
+   "endings": {
+    "1": [
+     [
+      "Dm",
+      "A7"
+     ]
+    ],
+    "2": [
+     [
+      "Dm",
+      "A7"
+     ]
+    ]
+   }
+  },
+  {
+   "name": "B",
+   "tonic": "D",
+   "bars": "10–X1",
+   "repeat": true,
+   "sequence": [
+    [
+     "D",
+     "B7"
+    ],
+    [
+     "E7"
+    ],
+    [
+     "A7sus4",
+     "A7"
+    ],
+    [
+     "D",
+     "A7"
+    ],
+    [
+     "D",
+     "F7"
+    ],
+    [
+     "Bb",
+     "G#dim"
+    ],
+    [
+     "D/A",
+     "A7"
+    ]
+   ],
+   "endings": {
+    "1": [
+     [
+      "D",
+      "A7"
+     ]
+    ],
+    "2": [
+     [
+      "D"
+     ]
+    ]
+   }
+  },
+  {
+   "name": "C",
+   "tonic": "Bb",
+   "bars": "20–29",
+   "repeat": true,
+   "sequence": [
+    [
+     "C7/E",
+     "F7"
+    ],
+    [
+     "Bb6",
+     "Gm"
+    ],
+    [
+     "Cm/Eb",
+     "F/Eb"
+    ],
+    [
+     "Bb/D",
+     "Bb"
+    ],
+    [
+     "Bb/Ab"
+    ],
+    [
+     "Eb/G",
+     "Ebm6/Gb"
+    ],
+    [
+     "Bb/F",
+     "F7"
+    ],
+    []
+   ],
+   "endings": {
+    "1": [
+     [
+      "Bb"
+     ]
+    ],
+    "2": [
+     [
+      "Bb"
+     ]
+    ]
+   },
+   "transition_in": [
+    [
+     "Dm"
+    ]
+   ]
+  }
+ ],
+ "notes": [
+  "Grille générée automatiquement depuis la partition MusicXML : à vérifier."
+ ],
+ "confidence": "medium",
+ "source": [
+  "mxl/C/Anacleto de Medeiros - Implorando - Theme - C.mxl"
+ ],
+ "generated": "mxl"
+}

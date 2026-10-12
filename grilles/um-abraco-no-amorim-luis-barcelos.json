@@ -1,0 +1,181 @@
+{
+ "song_id": "um-abraco-no-amorim-luis-barcelos",
+ "title": "Um abraço no Amorim",
+ "composer": "Luis Barcelos",
+ "transposition": "c",
+ "meter": "2/4",
+ "form": "A — B — C",
+ "parts": [
+  {
+   "name": "A",
+   "tonic": "C",
+   "bars": "1–15",
+   "sequence": [
+    [
+     "Dm"
+    ],
+    [],
+    [],
+    [
+     "Gm",
+     "Em7(b5)"
+    ],
+    [
+     "Dm"
+    ],
+    [
+     "E/D"
+    ],
+    [],
+    [],
+    [
+     "Dm"
+    ],
+    [],
+    [],
+    [
+     "Gm",
+     "Em7(b5)"
+    ],
+    [
+     "Dm"
+    ],
+    [
+     "Eb"
+    ],
+    [
+     "Dm"
+    ]
+   ]
+  },
+  {
+   "name": "B",
+   "tonic": "C",
+   "bars": "16–32",
+   "sequence": [
+    [
+     "Dm"
+    ],
+    [
+     "F"
+    ],
+    [
+     "Gm",
+     "D7(9)"
+    ],
+    [
+     "Gm"
+    ],
+    [
+     "F"
+    ],
+    [
+     "Dm"
+    ],
+    [
+     "C",
+     "Ab7"
+    ],
+    [
+     "Db"
+    ],
+    [],
+    [],
+    [
+     "Bb6"
+    ],
+    [],
+    [
+     "Gm"
+    ],
+    [],
+    [
+     "Dm/F",
+     "Em7(b5)"
+    ],
+    [
+     "Dm"
+    ],
+    [
+     "Dm"
+    ]
+   ]
+  },
+  {
+   "name": "C",
+   "tonic": "C",
+   "bars": "33–53",
+   "sequence": [
+    [
+     "Dm"
+    ],
+    [],
+    [],
+    [
+     "D6"
+    ],
+    [
+     "E7(9)"
+    ],
+    [],
+    [
+     "D6"
+    ],
+    [
+     "D6",
+     "G#m7(b5)"
+    ],
+    [
+     "F#m"
+    ],
+    [
+     "Dm6",
+     "C#7"
+    ],
+    [
+     "F#m"
+    ],
+    [
+     "D6"
+    ],
+    [
+     "E7(9)"
+    ],
+    [],
+    [
+     "D6",
+     "D/C"
+    ],
+    [
+     "Bb7",
+     "Bb/Ab"
+    ],
+    [
+     "D/A"
+    ],
+    [
+     "Em"
+    ],
+    [
+     "D",
+     "Bm",
+     "D"
+    ],
+    [],
+    [
+     "Dm",
+     "Dm6"
+    ]
+   ]
+  }
+ ],
+ "notes": [
+  "Grille générée automatiquement depuis le texte du PDF : à vérifier.",
+  "Reprises et fins non détectées : les mesures sont dans l'ordre d'écriture."
+ ],
+ "confidence": "low",
+ "source": [
+  "pdf/Luis Barcelos - Um abraço no Amorim - Theme - C.pdf"
+ ],
+ "generated": "pdf"
+}

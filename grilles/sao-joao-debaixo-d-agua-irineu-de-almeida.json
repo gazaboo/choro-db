@@ -1,0 +1,206 @@
+{
+ "song_id": "sao-joao-debaixo-d-agua-irineu-de-almeida",
+ "title": "São João debaixo d'água",
+ "composer": "Irineu de Almeida",
+ "transposition": "c",
+ "meter": "2/4",
+ "form": "A — B — C",
+ "parts": [
+  {
+   "name": "A",
+   "tonic": "C",
+   "bars": "1–18",
+   "sequence": [
+    [
+     "Bb"
+    ],
+    [
+     "F7"
+    ],
+    [
+     "Bb"
+    ],
+    [
+     "F7"
+    ],
+    [
+     "Bb",
+     "Bb/D"
+    ],
+    [
+     "F7/C",
+     "F7/A"
+    ],
+    [
+     "Bb",
+     "Bb/D"
+    ],
+    [
+     "F7/C",
+     "F7/A"
+    ],
+    [
+     "D7",
+     "D7/F#"
+    ],
+    [
+     "Gm"
+    ],
+    [
+     "C7/E"
+    ],
+    [
+     "F7"
+    ],
+    [
+     "Bb",
+     "Bb/D",
+     "F7/C"
+    ],
+    [
+     "F7/A",
+     "Bb/F"
+    ],
+    [
+     "Bb",
+     "Bb/D",
+     "F7/C"
+    ],
+    [
+     "F7/A"
+    ],
+    [
+     "D7",
+     "D7/F#"
+    ],
+    [
+     "Gm",
+     "Cm/Eb"
+    ]
+   ]
+  },
+  {
+   "name": "B",
+   "tonic": "C",
+   "bars": "21–37",
+   "sequence": [
+    [],
+    [
+     "F"
+    ],
+    [
+     "C7"
+    ],
+    [
+     "F"
+    ],
+    [
+     "C7"
+    ],
+    [
+     "F"
+    ],
+    [
+     "C/G"
+    ],
+    [
+     "D7/F#",
+     "G/F"
+    ],
+    [
+     "C7/E"
+    ],
+    [
+     "F"
+    ],
+    [
+     "C7"
+    ],
+    [
+     "F"
+    ],
+    [
+     "C7"
+    ],
+    [
+     "F",
+     "F7"
+    ],
+    [
+     "Bb",
+     "Bbm6/Db"
+    ],
+    [
+     "F/C",
+     "C7"
+    ],
+    [
+     "F"
+    ]
+   ]
+  },
+  {
+   "name": "C",
+   "tonic": "C",
+   "bars": "38–54",
+   "sequence": [
+    [],
+    [
+     "Eb"
+    ],
+    [
+     "Bb7"
+    ],
+    [
+     "Eb"
+    ],
+    [
+     "Bb7"
+    ],
+    [
+     "G7"
+    ],
+    [
+     "Cm"
+    ],
+    [
+     "F7"
+    ],
+    [
+     "Bb7"
+    ],
+    [
+     "Eb"
+    ],
+    [
+     "Bb7"
+    ],
+    [
+     "Eb"
+    ],
+    [
+     "Bb7"
+    ],
+    [
+     "G7"
+    ],
+    [
+     "Cm"
+    ],
+    [],
+    [
+     "Eb"
+    ]
+   ]
+  }
+ ],
+ "notes": [
+  "Grille générée automatiquement depuis le texte du PDF : à vérifier.",
+  "Reprises et fins non détectées : les mesures sont dans l'ordre d'écriture."
+ ],
+ "confidence": "low",
+ "source": [
+  "pdf/Irineu de Almeida - São João debaixo d'água - Theme - C.pdf"
+ ],
+ "generated": "pdf"
+}

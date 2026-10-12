@@ -1,0 +1,196 @@
+{
+ "song_id": "seu-nelson-este-e-seu-luperce-miranda",
+ "title": "Seu Nelson, este é seu",
+ "composer": "Luperce Miranda",
+ "transposition": "c",
+ "meter": "2/4",
+ "form": "A — B — C",
+ "parts": [
+  {
+   "name": "A",
+   "tonic": "Am",
+   "bars": "1–16",
+   "sequence": [
+    [
+     "Bm7(b5)"
+    ],
+    [
+     "Dm",
+     "Dm/C"
+    ],
+    [
+     "Bb7",
+     "Bb/Ab"
+    ],
+    [],
+    [
+     "Dm"
+    ],
+    [
+     "Dm"
+    ],
+    [
+     "Am",
+     "Dm6/F"
+    ],
+    [
+     "Am/E",
+     "E7/G#"
+    ],
+    [],
+    [
+     "Dm",
+     "Dm/C"
+    ],
+    [
+     "Bb7",
+     "Bb/Ab"
+    ],
+    [
+     "A/G"
+    ],
+    [],
+    [
+     "Gm/Bb"
+    ],
+    [
+     "Dm/F"
+    ],
+    [
+     "Eb/G"
+    ]
+   ]
+  },
+  {
+   "name": "B",
+   "tonic": "C",
+   "bars": "17–34",
+   "sequence": [
+    [
+     "Dm"
+    ],
+    [
+     "Dm"
+    ],
+    [
+     "F",
+     "D7/A"
+    ],
+    [
+     "G7"
+    ],
+    [
+     "C7",
+     "C/Bb"
+    ],
+    [
+     "F/A"
+    ],
+    [
+     "F",
+     "F/A"
+    ],
+    [
+     "C/G"
+    ],
+    [
+     "G7"
+    ],
+    [
+     "C7"
+    ],
+    [
+     "F"
+    ],
+    [
+     "G7"
+    ],
+    [
+     "A7"
+    ],
+    [],
+    [
+     "Gm"
+    ],
+    [
+     "F/A"
+    ],
+    [
+     "G7"
+    ],
+    [
+     "F"
+    ]
+   ]
+  },
+  {
+   "name": "C",
+   "tonic": "C",
+   "bars": "35–54",
+   "sequence": [
+    [
+     "F",
+     "A7"
+    ],
+    [
+     "Dm"
+    ],
+    [],
+    [
+     "D"
+    ],
+    [
+     "E7"
+    ],
+    [
+     "A7"
+    ],
+    [],
+    [
+     "D"
+    ],
+    [
+     "F#7",
+     "A/C#"
+    ],
+    [],
+    [],
+    [
+     "D"
+    ],
+    [
+     "E7"
+    ],
+    [],
+    [
+     "Bm"
+    ],
+    [
+     "G",
+     "A/G"
+    ],
+    [
+     "D/F#"
+    ],
+    [
+     "Em",
+     "A7",
+     "D"
+    ],
+    [],
+    [
+     "Dm"
+    ]
+   ]
+  }
+ ],
+ "notes": [
+  "Grille générée automatiquement depuis le texte du PDF : à vérifier.",
+  "Reprises et fins non détectées : les mesures sont dans l'ordre d'écriture."
+ ],
+ "confidence": "low",
+ "source": [
+  "pdf/Luperce Miranda - Seu Nelson, este é seu - Theme - C.pdf"
+ ],
+ "generated": "pdf"
+}

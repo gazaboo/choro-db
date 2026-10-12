@@ -1,0 +1,126 @@
+{
+ "song_id": "valsa-eduardo-neves",
+ "title": "Valsa",
+ "composer": "Eduardo Neves",
+ "transposition": "c",
+ "meter": "2/4",
+ "form": "A — B — C",
+ "parts": [
+  {
+   "name": "A",
+   "tonic": "C",
+   "bars": "1–18",
+   "sequence": [
+    [
+     "Bb6"
+    ],
+    [],
+    [],
+    [
+     "Cm/Bb"
+    ],
+    [],
+    [
+     "Gm/F"
+    ],
+    [],
+    [],
+    [],
+    [
+     "D7(b9)"
+    ],
+    [],
+    [
+     "Ebm6/Gb"
+    ],
+    [],
+    [
+     "C/E"
+    ],
+    [
+     "Eb6"
+    ],
+    [],
+    [],
+    [
+     "Bb6"
+    ]
+   ]
+  },
+  {
+   "name": "B",
+   "tonic": "C",
+   "bars": "19–22",
+   "sequence": [
+    [],
+    [
+     "Gm6"
+    ],
+    [
+     "Bbm6"
+    ],
+    [
+     "F/A"
+    ]
+   ]
+  },
+  {
+   "name": "C",
+   "tonic": "C",
+   "bars": "23–35",
+   "sequence": [
+    [
+     "G#m6"
+    ],
+    [
+     "Gm6"
+    ],
+    [
+     "Cm7(b5)"
+    ],
+    [
+     "Bb/F"
+    ],
+    [
+     "B/E"
+    ],
+    [
+     "Abm7(9)"
+    ],
+    [
+     "Bbm7(9)",
+     "Eb7(b9)"
+    ],
+    [
+     "Abm6",
+     "G7(b13)"
+    ],
+    [],
+    [
+     "Ebm7(9)",
+     "Ebm/Db"
+    ],
+    [
+     "Ab7(9)",
+     "Bm6"
+    ],
+    [
+     "Gb6"
+    ],
+    [
+     "Ab/C",
+     "Bb/D"
+    ]
+   ]
+  }
+ ],
+ "notes": [
+  "Grille générée automatiquement depuis le texte du PDF : à vérifier.",
+  "Reprises et fins non détectées : les mesures sont dans l'ordre d'écriture."
+ ],
+ "confidence": "low",
+ "source": [
+  "pdf/Eduardo Neves - Valsa - Theme - C.pdf"
+ ],
+ "generated": "pdf"
+}

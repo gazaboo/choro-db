@@ -1,0 +1,250 @@
+{
+ "song_id": "ave-maria-erothides-de-campos",
+ "title": "Ave Maria",
+ "composer": "Erothides de Campos",
+ "transposition": "c",
+ "meter": "3/4",
+ "form": "A — B (reprise) — C (reprise)",
+ "parts": [
+  {
+   "name": "A",
+   "tonic": "Dm",
+   "bars": "0–32",
+   "repeat": false,
+   "sequence": [
+    [
+     "Dm"
+    ],
+    [
+     "A7/E"
+    ],
+    [
+     "Dm/F"
+    ],
+    [
+     "D7/F#"
+    ],
+    [
+     "Gm"
+    ],
+    [
+     "D7/A"
+    ],
+    [
+     "Gm/Bb"
+    ],
+    [
+     "Gm"
+    ],
+    [
+     "Gm/Bb"
+    ],
+    [
+     "Gm6"
+    ],
+    [
+     "Dm/A"
+    ],
+    [],
+    [
+     "C7"
+    ],
+    [
+     "Bb7"
+    ],
+    [
+     "A7sus4"
+    ],
+    [
+     "A7"
+    ],
+    [
+     "Dm"
+    ],
+    [
+     "A7/E"
+    ],
+    [
+     "Dm/F"
+    ],
+    [
+     "D7/F#"
+    ],
+    [
+     "Gm"
+    ],
+    [
+     "D7/A"
+    ],
+    [
+     "Gm/Bb"
+    ],
+    [
+     "Gm"
+    ],
+    [
+     "Gm/Bb"
+    ],
+    [
+     "Bb/Ab"
+    ],
+    [
+     "Dm/A"
+    ],
+    [],
+    [
+     "C7"
+    ],
+    [
+     "Gm6/Bb",
+     "A7"
+    ],
+    [
+     "Dm"
+    ],
+    [
+     "F/A",
+     "Abdim"
+    ]
+   ]
+  },
+  {
+   "name": "B",
+   "tonic": "Dm",
+   "bars": "33–50",
+   "repeat": true,
+   "sequence": [
+    [
+     "C7/G"
+    ],
+    [
+     "C/Bb"
+    ],
+    [
+     "F/A"
+    ],
+    [
+     "F"
+    ],
+    [
+     "C7/G"
+    ],
+    [
+     "C7"
+    ],
+    [
+     "F"
+    ],
+    [
+     "F",
+     "E7",
+     "Eb7"
+    ],
+    [
+     "D7"
+    ],
+    [
+     "D7/F#"
+    ],
+    [
+     "Gm"
+    ],
+    [
+     "Gm6/Bb"
+    ],
+    [
+     "Dm/A"
+    ],
+    [
+     "A7"
+    ],
+    []
+   ],
+   "endings": {
+    "1": [
+     [
+      "Dm"
+     ],
+     [
+      "F/A",
+      "Abdim"
+     ]
+    ],
+    "2": [
+     [
+      "Dm"
+     ]
+    ]
+   }
+  },
+  {
+   "name": "C",
+   "tonic": "Dm",
+   "bars": "51–69",
+   "repeat": true,
+   "sequence": [
+    [
+     "D"
+    ],
+    [
+     "A7"
+    ],
+    [
+     "D"
+    ],
+    [],
+    [
+     "Bb7"
+    ],
+    [
+     "A7"
+    ],
+    [
+     "Dm"
+    ],
+    [],
+    [
+     "D7"
+    ],
+    [
+     "D7/F#"
+    ],
+    [
+     "Gm"
+    ],
+    [
+     "Em7b5"
+    ],
+    [
+     "Dm/A"
+    ],
+    [
+     "A7"
+    ],
+    [],
+    []
+   ],
+   "endings": {
+    "1": [
+     [
+      "Dm"
+     ],
+     []
+    ],
+    "2": [
+     [
+      "Dm"
+     ]
+    ]
+   }
+  }
+ ],
+ "notes": [
+  "Grille générée automatiquement depuis la partition MusicXML : à vérifier."
+ ],
+ "confidence": "medium",
+ "source": [
+  "mxl/C/Erothides de Campos - Ave Maria - Theme - C.mxl"
+ ],
+ "generated": "mxl"
+}

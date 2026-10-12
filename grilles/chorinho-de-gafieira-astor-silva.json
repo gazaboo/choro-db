@@ -1,0 +1,270 @@
+{
+ "song_id": "chorinho-de-gafieira-astor-silva",
+ "title": "Chorinho de gafieira",
+ "composer": "Astor Silva",
+ "transposition": "c",
+ "meter": "2/4",
+ "form": "A (reprise) — B (reprise) — Coda — C",
+ "parts": [
+  {
+   "name": "A",
+   "tonic": "C",
+   "bars": "0–33",
+   "repeat": true,
+   "sequence": [
+    [
+     "C"
+    ],
+    [
+     "Ebdim"
+    ],
+    [
+     "Dm7"
+    ],
+    [
+     "G7"
+    ],
+    [
+     "C"
+    ],
+    [
+     "Ebdim"
+    ],
+    [
+     "Dm7"
+    ],
+    [
+     "G7"
+    ],
+    [
+     "Gm7"
+    ],
+    [
+     "C7"
+    ],
+    [
+     "F6"
+    ],
+    [],
+    [
+     "D7(9)"
+    ],
+    [],
+    [
+     "G7"
+    ],
+    [
+     "G7(#5)"
+    ],
+    [
+     "C"
+    ],
+    [
+     "Ebdim"
+    ],
+    [
+     "Dm7"
+    ],
+    [
+     "G7"
+    ],
+    [
+     "C"
+    ],
+    [
+     "Ebdim"
+    ],
+    [
+     "Dm7"
+    ],
+    [
+     "G7"
+    ],
+    [
+     "Gm7"
+    ],
+    [
+     "C7"
+    ],
+    [
+     "F6"
+    ],
+    [
+     "Bb7(9)"
+    ],
+    [
+     "C",
+     "Ab7"
+    ],
+    [
+     "Dm7",
+     "G7"
+    ],
+    [
+     "C"
+    ]
+   ],
+   "endings": {
+    "1": [
+     [
+      "G7"
+     ]
+    ],
+    "2": [
+     [
+      "C"
+     ]
+    ]
+   }
+  },
+  {
+   "name": "B",
+   "tonic": "C",
+   "bars": "34–X1",
+   "repeat": true,
+   "sequence": [
+    [
+     "E7"
+    ],
+    [],
+    [
+     "Am"
+    ],
+    [],
+    [
+     "A7"
+    ],
+    [],
+    [
+     "Dm"
+    ],
+    [],
+    [
+     "E7"
+    ],
+    [],
+    [
+     "Am"
+    ],
+    [],
+    [
+     "D7(9)"
+    ],
+    [],
+    [
+     "G7(9)"
+    ],
+    [
+     "Em7b5",
+     "A7"
+    ],
+    [
+     "Dm7"
+    ],
+    [
+     "D#dim"
+    ],
+    [
+     "C"
+    ],
+    [
+     "A7"
+    ],
+    [
+     "Dm"
+    ],
+    [
+     "G7"
+    ],
+    [
+     "C"
+    ],
+    [
+     "Em7b5",
+     "A7"
+    ],
+    [
+     "Dm"
+    ],
+    [
+     "Bb7(9)"
+    ],
+    [
+     "Em7"
+    ],
+    [
+     "Ebm7"
+    ],
+    [
+     "Dm7"
+    ],
+    [
+     "G7"
+    ],
+    [
+     "C"
+    ]
+   ],
+   "endings": {
+    "1": [
+     []
+    ],
+    "2": [
+     [
+      "G7"
+     ]
+    ]
+   }
+  },
+  {
+   "name": "Coda",
+   "tonic": "C",
+   "bars": "67–70",
+   "repeat": false,
+   "sequence": [
+    [
+     "C/Bb"
+    ],
+    [
+     "F/A"
+    ],
+    [
+     "Bb7(9)"
+    ],
+    [
+     "Cmaj7"
+    ]
+   ]
+  },
+  {
+   "name": "C",
+   "tonic": "C",
+   "bars": "71–74",
+   "repeat": false,
+   "sequence": [
+    [
+     "Bb7(9)"
+    ],
+    [
+     "Eb7",
+     "Ab"
+    ],
+    [
+     "Db",
+     "G7"
+    ],
+    [
+     "C"
+    ]
+   ]
+  }
+ ],
+ "notes": [
+  "Grille générée automatiquement depuis la partition MusicXML : à vérifier."
+ ],
+ "confidence": "medium",
+ "source": [
+  "mxl/C/Astor Silva - Chorinho de gafieira - Theme - C.mxl"
+ ],
+ "generated": "mxl"
+}

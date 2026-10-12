@@ -1,0 +1,173 @@
+{
+ "song_id": "tentacao-albertino-pimentel",
+ "title": "Tentação",
+ "composer": "Albertino Pimentel",
+ "transposition": "c",
+ "meter": "2/4",
+ "form": "A — B — C",
+ "parts": [
+  {
+   "name": "A",
+   "tonic": "C",
+   "bars": "1–15",
+   "sequence": [
+    [
+     "C"
+    ],
+    [],
+    [
+     "G7",
+     "G/F"
+    ],
+    [
+     "C/E",
+     "G7"
+    ],
+    [
+     "C"
+    ],
+    [
+     "G"
+    ],
+    [
+     "D7"
+    ],
+    [
+     "G",
+     "G7"
+    ],
+    [
+     "C"
+    ],
+    [],
+    [
+     "G7",
+     "G/F"
+    ],
+    [
+     "C/E"
+    ],
+    [
+     "C7"
+    ],
+    [
+     "F",
+     "D7/F#"
+    ],
+    [
+     "C/G",
+     "G7"
+    ]
+   ]
+  },
+  {
+   "name": "B",
+   "tonic": "C",
+   "bars": "16–25",
+   "sequence": [
+    [
+     "C"
+    ],
+    [
+     "C"
+    ],
+    [],
+    [
+     "G"
+    ],
+    [
+     "D7/F#"
+    ],
+    [
+     "Em"
+    ],
+    [
+     "B7/D#"
+    ],
+    [
+     "C/E"
+    ],
+    [],
+    [
+     "D7"
+    ]
+   ]
+  },
+  {
+   "name": "C",
+   "tonic": "C",
+   "bars": "26–43",
+   "sequence": [
+    [
+     "G",
+     "G7"
+    ],
+    [],
+    [
+     "C",
+     "F",
+     "A7"
+    ],
+    [
+     "Dm",
+     "Bb7"
+    ],
+    [
+     "A7",
+     "Gm/Bb"
+    ],
+    [
+     "Bbm6"
+    ],
+    [
+     "F/A"
+    ],
+    [
+     "C7"
+    ],
+    [
+     "F",
+     "C7"
+    ],
+    [
+     "F",
+     "Gm6/Bb"
+    ],
+    [
+     "A7"
+    ],
+    [
+     "Dm",
+     "Bb7"
+    ],
+    [
+     "A7"
+    ],
+    [
+     "Gm",
+     "C/Bb"
+    ],
+    [
+     "F/A"
+    ],
+    [],
+    [
+     "F"
+    ],
+    [
+     "F",
+     "G7"
+    ]
+   ]
+  }
+ ],
+ "notes": [
+  "Grille générée automatiquement depuis le texte du PDF : à vérifier.",
+  "Reprises et fins non détectées : les mesures sont dans l'ordre d'écriture."
+ ],
+ "confidence": "low",
+ "source": [
+  "pdf/Albertino Pimentel - Tentação - Theme - C.pdf"
+ ],
+ "generated": "pdf"
+}

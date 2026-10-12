@@ -1,0 +1,226 @@
+{
+ "song_id": "minha-saudade-jacob-do-bandolim",
+ "title": "Minha Saudade",
+ "composer": "Jacob do Bandolim",
+ "transposition": "c",
+ "meter": "3/4",
+ "form": "A (reprise) — B (reprise)",
+ "parts": [
+  {
+   "name": "A",
+   "tonic": "F",
+   "bars": "1–32",
+   "repeat": true,
+   "sequence": [
+    [
+     "Gm"
+    ],
+    [
+     "G#dim"
+    ],
+    [
+     "F/A"
+    ],
+    [
+     "F",
+     "Fdim"
+    ],
+    [
+     "Em7b5"
+    ],
+    [
+     "A7(b9)"
+    ],
+    [
+     "Am7b5"
+    ],
+    [
+     "D7/F#"
+    ],
+    [
+     "Gm"
+    ],
+    [
+     "Bdim"
+    ],
+    [
+     "F/C"
+    ],
+    [
+     "A7/C#"
+    ],
+    [
+     "Bb/D"
+    ],
+    [
+     "G7"
+    ],
+    [
+     "Gm7",
+     "Bbm6"
+    ],
+    [
+     "C7"
+    ],
+    [
+     "Gm"
+    ],
+    [
+     "G#dim"
+    ],
+    [
+     "F/A"
+    ],
+    [
+     "F",
+     "Fdim"
+    ],
+    [
+     "Em7b5"
+    ],
+    [
+     "A7(b9)"
+    ],
+    [
+     "Am7b5"
+    ],
+    [
+     "D7/F#"
+    ],
+    [
+     "Gm"
+    ],
+    [
+     "Bdim"
+    ],
+    [
+     "F/C"
+    ],
+    [
+     "Eb7",
+     "D7"
+    ],
+    [
+     "G7"
+    ],
+    [
+     "C7"
+    ],
+    [
+     "F"
+    ],
+    []
+   ]
+  },
+  {
+   "name": "B",
+   "tonic": "Dm",
+   "bars": "33–65",
+   "repeat": true,
+   "sequence": [
+    [
+     "Dm"
+    ],
+    [
+     "Dm/C"
+    ],
+    [
+     "E7/B"
+    ],
+    [
+     "Bb7"
+    ],
+    [
+     "A7"
+    ],
+    [
+     "A7/C#"
+    ],
+    [
+     "Dm"
+    ],
+    [
+     "A7"
+    ],
+    [
+     "Dm"
+    ],
+    [
+     "Bm7b5"
+    ],
+    [
+     "A/C#"
+    ],
+    [],
+    [
+     "Bm7"
+    ],
+    [
+     "E7"
+    ],
+    [
+     "Em7"
+    ],
+    [
+     "A7"
+    ],
+    [
+     "Cm6"
+    ],
+    [
+     "D7"
+    ],
+    [
+     "F#dim"
+    ],
+    [
+     "Gm"
+    ],
+    [
+     "Bbm6"
+    ],
+    [
+     "C7"
+    ],
+    [
+     "Edim"
+    ],
+    [
+     "F"
+    ],
+    [
+     "Em7b5"
+    ],
+    [
+     "A7"
+    ],
+    [
+     "Dm"
+    ],
+    [
+     "Gm6"
+    ],
+    [
+     "Dm/A"
+    ],
+    [
+     "A7"
+    ],
+    [
+     "Dm"
+    ],
+    [],
+    []
+   ]
+  }
+ ],
+ "notes": [
+  "Grille générée automatiquement depuis la partition MusicXML : à vérifier.",
+  "Tonalité de la partition source non vérifiée."
+ ],
+ "confidence": "medium",
+ "source": [
+  "mxl/C/Jacob do Bandolim - Minha Saudade - Theme - C.mxl"
+ ],
+ "generated": "mxl"
+}

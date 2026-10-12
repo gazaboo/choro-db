@@ -1,0 +1,199 @@
+{
+ "song_id": "zoe-luperce-miranda",
+ "title": "Zoé",
+ "composer": "Luperce Miranda",
+ "transposition": "c",
+ "meter": "2/4",
+ "form": "A — B — C — Coda",
+ "parts": [
+  {
+   "name": "A",
+   "tonic": "C",
+   "bars": "1–4",
+   "sequence": [
+    [
+     "F"
+    ],
+    [],
+    [],
+    [
+     "C"
+    ]
+   ]
+  },
+  {
+   "name": "B",
+   "tonic": "C",
+   "bars": "5–31",
+   "sequence": [
+    [
+     "F"
+    ],
+    [],
+    [
+     "Gm"
+    ],
+    [
+     "Gm/Bb"
+    ],
+    [],
+    [
+     "C/Bb"
+    ],
+    [],
+    [
+     "F/A"
+    ],
+    [
+     "F"
+    ],
+    [
+     "Bm7(b5)"
+    ],
+    [
+     "Am/C"
+    ],
+    [
+     "Am"
+    ],
+    [],
+    [],
+    [],
+    [],
+    [
+     "F"
+    ],
+    [],
+    [
+     "Gm"
+    ],
+    [
+     "Gm/Bb"
+    ],
+    [],
+    [
+     "C/Bb"
+    ],
+    [
+     "F/A"
+    ],
+    [],
+    [
+     "Gm"
+    ],
+    [
+     "Bbm6"
+    ],
+    [
+     "F/A"
+    ]
+   ]
+  },
+  {
+   "name": "C",
+   "tonic": "Am",
+   "bars": "35–65",
+   "sequence": [
+    [
+     "F"
+    ],
+    [],
+    [
+     "F"
+    ],
+    [
+     "A7(b13)"
+    ],
+    [
+     "Dm"
+    ],
+    [
+     "Dm/F"
+    ],
+    [
+     "Gm"
+    ],
+    [
+     "Gm6/Bb"
+    ],
+    [],
+    [
+     "A/G"
+    ],
+    [
+     "Dm/F"
+    ],
+    [
+     "Dm"
+    ],
+    [
+     "Dm"
+    ],
+    [
+     "Bm7(b5)"
+    ],
+    [
+     "Am/C"
+    ],
+    [],
+    [],
+    [],
+    [
+     "Gm6"
+    ],
+    [],
+    [
+     "Dm"
+    ],
+    [
+     "Dm/F"
+    ],
+    [
+     "Gm"
+    ],
+    [
+     "Gm6/Bb"
+    ],
+    [],
+    [
+     "A/G"
+    ],
+    [],
+    [],
+    [
+     "Gm"
+    ],
+    [
+     "Em7(b5)"
+    ],
+    [
+     "Dm"
+    ]
+   ]
+  },
+  {
+   "name": "Coda",
+   "tonic": "C",
+   "bars": "69–71",
+   "sequence": [
+    [
+     "Dm"
+    ],
+    [],
+    [
+     "Dm",
+     "F/A"
+    ]
+   ]
+  }
+ ],
+ "notes": [
+  "Grille générée automatiquement depuis le texte du PDF : à vérifier.",
+  "Reprises et fins non détectées : les mesures sont dans l'ordre d'écriture."
+ ],
+ "confidence": "low",
+ "source": [
+  "pdf/Luperce Miranda - Zoé - Theme - C.pdf"
+ ],
+ "generated": "pdf"
+}

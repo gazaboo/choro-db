@@ -1,0 +1,158 @@
+{
+ "song_id": "canibaile-guinga",
+ "title": "Canibaile",
+ "composer": "Guinga",
+ "transposition": "c",
+ "meter": "2/4",
+ "form": "A (reprise) — B (reprise) — C — Coda",
+ "parts": [
+  {
+   "name": "A",
+   "tonic": "B",
+   "bars": "0–13",
+   "repeat": true,
+   "sequence": [
+    [
+     "B",
+     "F#7"
+    ],
+    [
+     "B6"
+    ],
+    [
+     "Adim",
+     "F#dim"
+    ],
+    [
+     "Em/G"
+    ],
+    [
+     "A#m7(11)",
+     "D#7sus4"
+    ],
+    [
+     "G#m7(9)"
+    ],
+    [
+     "Am7(11)",
+     "D7sus4"
+    ],
+    [
+     "G6"
+    ],
+    [
+     "G/F"
+    ],
+    [
+     "C/E"
+    ],
+    [
+     "F#/E"
+    ]
+   ],
+   "endings": {
+    "1": [
+     [
+      "B",
+      "F#7"
+     ]
+    ],
+    "2": [
+     [
+      "B"
+     ]
+    ]
+   }
+  },
+  {
+   "name": "B",
+   "tonic": "B",
+   "bars": "14–18",
+   "repeat": true,
+   "sequence": [
+    [
+     "C#dim"
+    ],
+    [
+     "Bdim"
+    ],
+    [
+     "G7(9)"
+    ]
+   ],
+   "endings": {
+    "1": [
+     [
+      "F#7"
+     ]
+    ],
+    "2": [
+     [
+      "F#7"
+     ]
+    ]
+   }
+  },
+  {
+   "name": "C",
+   "tonic": "B",
+   "bars": "19–X1",
+   "repeat": false,
+   "sequence": [
+    [
+     "B6(9)"
+    ],
+    [],
+    [
+     "A#m7(11)"
+    ],
+    [
+     "A7(9)"
+    ],
+    [
+     "G#7(9)"
+    ],
+    [
+     "G#/F#"
+    ],
+    [
+     "C#/E#"
+    ],
+    [
+     "F#/E"
+    ],
+    [],
+    []
+   ]
+  },
+  {
+   "name": "Coda",
+   "tonic": "B",
+   "bars": "29–33",
+   "repeat": false,
+   "sequence": [
+    [
+     "B",
+     "B(4)"
+    ],
+    [
+     "B",
+     "C#/B"
+    ],
+    [
+     "B"
+    ],
+    [],
+    []
+   ]
+  }
+ ],
+ "notes": [
+  "Grille générée automatiquement depuis la partition MusicXML : à vérifier."
+ ],
+ "confidence": "medium",
+ "source": [
+  "mxl/C/Guinga - Canibaile - Theme - C.mxl"
+ ],
+ "generated": "mxl"
+}

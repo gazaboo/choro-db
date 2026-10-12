@@ -1,0 +1,168 @@
+{
+ "song_id": "thomas-que-e-teu-cidinho-7-cordas",
+ "title": "Thomas que é teu",
+ "composer": "Cidinho 7 Cordas",
+ "transposition": "c",
+ "meter": "2/4",
+ "form": "A — B — Coda",
+ "parts": [
+  {
+   "name": "A",
+   "tonic": "Am",
+   "bars": "1–19",
+   "sequence": [
+    [
+     "F"
+    ],
+    [],
+    [
+     "Am/E"
+    ],
+    [
+     "Cm6/Eb"
+    ],
+    [
+     "Gm",
+     "Bbm6/Db"
+    ],
+    [],
+    [
+     "F",
+     "Am/E",
+     "Cm6/Eb"
+    ],
+    [],
+    [
+     "Gm"
+    ],
+    [],
+    [
+     "Dm"
+    ],
+    [
+     "Dm",
+     "Dm/C"
+    ],
+    [],
+    [],
+    [],
+    [
+     "Cm6/Eb"
+    ],
+    [
+     "Gm"
+    ],
+    [
+     "Bbm"
+    ],
+    [
+     "F"
+    ]
+   ]
+  },
+  {
+   "name": "B",
+   "tonic": "C",
+   "bars": "23–48",
+   "sequence": [
+    [
+     "F",
+     "Dm"
+    ],
+    [
+     "Gm"
+    ],
+    [
+     "F",
+     "Dm"
+    ],
+    [
+     "Gm"
+    ],
+    [],
+    [
+     "Dm"
+    ],
+    [
+     "Dm6"
+    ],
+    [
+     "Gm"
+    ],
+    [
+     "Gm/F"
+    ],
+    [
+     "Em7(b5)"
+    ],
+    [],
+    [
+     "Dm",
+     "Em7(b5)"
+    ],
+    [
+     "Dm/F"
+    ],
+    [
+     "Cm6/Eb"
+    ],
+    [],
+    [
+     "Gm"
+    ],
+    [
+     "Gm/F"
+    ],
+    [],
+    [],
+    [
+     "Gm6"
+    ],
+    [],
+    [
+     "Gm"
+    ],
+    [
+     "Em7(b5)"
+    ],
+    [
+     "Dm"
+    ],
+    [],
+    [
+     "Eb"
+    ]
+   ]
+  },
+  {
+   "name": "Coda",
+   "tonic": "C",
+   "bars": "50–54",
+   "sequence": [
+    [
+     "Dm"
+    ],
+    [
+     "Gm"
+    ],
+    [
+     "Dm",
+     "Gm"
+    ],
+    [],
+    [
+     "F"
+    ]
+   ]
+  }
+ ],
+ "notes": [
+  "Grille générée automatiquement depuis le texte du PDF : à vérifier.",
+  "Reprises et fins non détectées : les mesures sont dans l'ordre d'écriture."
+ ],
+ "confidence": "low",
+ "source": [
+  "pdf/Cidinho 7 Cordas - Thomas que é teu - Theme - C.pdf"
+ ],
+ "generated": "pdf"
+}

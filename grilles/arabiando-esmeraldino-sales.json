@@ -1,0 +1,290 @@
+{
+ "song_id": "arabiando-esmeraldino-sales",
+ "title": "Arabiando",
+ "composer": "Esmeraldino Sales",
+ "transposition": "c",
+ "meter": "2/4",
+ "form": "A (reprise) — B (reprise) — Coda",
+ "parts": [
+  {
+   "name": "A",
+   "tonic": "F",
+   "bars": "1–34",
+   "repeat": true,
+   "sequence": [
+    [
+     "F6"
+    ],
+    [
+     "D7/F#"
+    ],
+    [
+     "Gm"
+    ],
+    [],
+    [
+     "Gm"
+    ],
+    [
+     "G#dim"
+    ],
+    [
+     "Am7"
+    ],
+    [
+     "Cm7",
+     "B7(#9)"
+    ],
+    [
+     "Bb6"
+    ],
+    [
+     "Eb7(9)"
+    ],
+    [
+     "Am7"
+    ],
+    [
+     "D7(9)"
+    ],
+    [
+     "G7(9)"
+    ],
+    [],
+    [
+     "Gb7(9)"
+    ],
+    [],
+    [
+     "F6"
+    ],
+    [
+     "D7/F#"
+    ],
+    [
+     "Gm"
+    ],
+    [],
+    [
+     "Gm"
+    ],
+    [
+     "G#dim"
+    ],
+    [
+     "Am7"
+    ],
+    [
+     "Cm7",
+     "B7(#9)"
+    ],
+    [
+     "Bb6"
+    ],
+    [
+     "Eb7(9)"
+    ],
+    [
+     "Am7"
+    ],
+    [
+     "D7(9)"
+    ],
+    [
+     "Gm7"
+    ],
+    [
+     "G7(9)",
+     "Gb7(9)"
+    ],
+    [
+     "Bm7b5",
+     "E7/G#"
+    ]
+   ],
+   "endings": {
+    "1": [
+     [
+      "F6",
+      "Dm7"
+     ],
+     [
+      "Gm7",
+      "C7(9)"
+     ]
+    ],
+    "2": [
+     [
+      "F6"
+     ]
+    ]
+   }
+  },
+  {
+   "name": "B",
+   "tonic": "Am",
+   "bars": "35–70",
+   "repeat": true,
+   "sequence": [
+    [
+     "Am",
+     "Am/G"
+    ],
+    [
+     "F7",
+     "E7(b13)"
+    ],
+    [
+     "Am(maj7)"
+    ],
+    [
+     "Am6"
+    ],
+    [
+     "Dm",
+     "Dm/C"
+    ],
+    [
+     "Bb7",
+     "A7(b13)"
+    ],
+    [
+     "Dm(maj7)"
+    ],
+    [
+     "Dm6"
+    ],
+    [
+     "Bm7b5"
+    ],
+    [
+     "Bm7(9)",
+     "Bb7(9)"
+    ],
+    [
+     "Am7"
+    ],
+    [
+     "Am6",
+     "F#7(b5)"
+    ],
+    [
+     "F7"
+    ],
+    [],
+    [
+     "Bm7b5"
+    ],
+    [
+     "Bb7(9)"
+    ],
+    [
+     "Am",
+     "Am/G"
+    ],
+    [
+     "F7",
+     "E7(b13)"
+    ],
+    [
+     "Am(maj7)"
+    ],
+    [
+     "Am6"
+    ],
+    [
+     "Dm",
+     "Dm/C"
+    ],
+    [
+     "Bb7",
+     "A7(b13)"
+    ],
+    [
+     "Dm(maj7)"
+    ],
+    [
+     "Dm6"
+    ],
+    [
+     "Bm7b5"
+    ],
+    [
+     "Bm7(9)",
+     "Bb7(9)"
+    ],
+    [
+     "Am7"
+    ],
+    [
+     "Am6",
+     "F#7(b5)"
+    ],
+    [
+     "F7"
+    ],
+    [
+     "Am",
+     "Db7/Ab"
+    ],
+    [
+     "Gm7",
+     "C7(b9)"
+    ],
+    []
+   ],
+   "endings": {
+    "1": [
+     [
+      "E7(b13)"
+     ],
+     [
+      "Am",
+      "C7"
+     ],
+     [
+      "F7",
+      "E7"
+     ]
+    ],
+    "2": [
+     [
+      "E7(b13)"
+     ]
+    ]
+   }
+  },
+  {
+   "name": "Coda",
+   "tonic": "Am",
+   "bars": "71–78",
+   "repeat": false,
+   "sequence": [
+    [
+     "E7(b13)"
+    ],
+    [
+     "Am6"
+    ],
+    [],
+    [
+     "F7(9)"
+    ],
+    [],
+    [
+     "Am(maj7)"
+    ],
+    [],
+    []
+   ]
+  }
+ ],
+ "notes": [
+  "Grille générée automatiquement depuis la partition MusicXML : à vérifier."
+ ],
+ "confidence": "medium",
+ "source": [
+  "mxl/C/Esmeraldino Sales - Arabiando - Theme - C.mxl"
+ ],
+ "generated": "mxl"
+}

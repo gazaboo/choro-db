@@ -1,0 +1,130 @@
+{
+ "song_id": "soledad-gabriel-trucco",
+ "title": "Soledad",
+ "composer": "Gabriel Trucco",
+ "transposition": "c",
+ "meter": "2/4",
+ "form": "A — B",
+ "parts": [
+  {
+   "name": "A",
+   "tonic": "C",
+   "bars": "1–20",
+   "sequence": [
+    [
+     "Cm7(11)"
+    ],
+    [],
+    [],
+    [],
+    [
+     "Cm/Bb"
+    ],
+    [
+     "D7/A",
+     "Fm6/Ab"
+    ],
+    [
+     "Cm7(9)"
+    ],
+    [
+     "Db7(9)"
+    ],
+    [
+     "Cm7(9)"
+    ],
+    [],
+    [
+     "Ab6"
+    ],
+    [],
+    [
+     "Fm7(9)"
+    ],
+    [
+     "Eb6"
+    ],
+    [],
+    [],
+    [],
+    [
+     "Ab7"
+    ],
+    [],
+    [
+     "Cm6",
+     "G7"
+    ]
+   ]
+  },
+  {
+   "name": "B",
+   "tonic": "C",
+   "bars": "21–39",
+   "sequence": [
+    [
+     "Cm6",
+     "Bb7"
+    ],
+    [
+     "Eb6"
+    ],
+    [
+     "F7(9)/Eb"
+    ],
+    [
+     "Abm6/Eb"
+    ],
+    [],
+    [
+     "A7"
+    ],
+    [],
+    [
+     "G7"
+    ],
+    [],
+    [
+     "Eb6"
+    ],
+    [
+     "F7(9)/Eb"
+    ],
+    [
+     "Bb7/D"
+    ],
+    [
+     "Eb7(9)/Db"
+    ],
+    [
+     "Ab/C"
+    ],
+    [],
+    [
+     "Abm6",
+     "Bb7"
+    ],
+    [
+     "Eb6",
+     "Bb7"
+    ],
+    [
+     "Eb6",
+     "G7"
+    ],
+    [
+     "Ab7"
+    ]
+   ]
+  }
+ ],
+ "notes": [
+  "Grille générée automatiquement depuis le texte du PDF : à vérifier.",
+  "Reprises et fins non détectées : les mesures sont dans l'ordre d'écriture."
+ ],
+ "confidence": "low",
+ "source": [
+  "pdf/Gabriel Trucco - Soledad - Theme - C.pdf"
+ ],
+ "generated": "pdf"
+}

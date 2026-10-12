@@ -1,0 +1,214 @@
+{
+ "song_id": "quem-e-bom-ja-nasce-feito-altamiro-carrilho",
+ "title": "Quem é bom já nasce feito",
+ "composer": "Altamiro Carrilho",
+ "transposition": "c",
+ "meter": "2/4",
+ "form": "A — B — C — Coda",
+ "parts": [
+  {
+   "name": "A",
+   "tonic": "C",
+   "bars": "1–15",
+   "sequence": [
+    [
+     "G/B"
+    ],
+    [
+     "D7"
+    ],
+    [
+     "G6"
+    ],
+    [
+     "D7",
+     "Bm7(b5)"
+    ],
+    [
+     "E7/G#"
+    ],
+    [
+     "Am"
+    ],
+    [
+     "A7(9)"
+    ],
+    [],
+    [
+     "G/B"
+    ],
+    [
+     "D7(9)"
+    ],
+    [
+     "G7"
+    ],
+    [
+     "C"
+    ],
+    [
+     "C7"
+    ],
+    [
+     "B7",
+     "E7"
+    ],
+    [
+     "D7"
+    ]
+   ]
+  },
+  {
+   "name": "B",
+   "tonic": "Am",
+   "bars": "16–32",
+   "sequence": [
+    [
+     "G",
+     "D7"
+    ],
+    [
+     "G",
+     "B7"
+    ],
+    [],
+    [
+     "F#7"
+    ],
+    [
+     "F7"
+    ],
+    [
+     "E7"
+    ],
+    [
+     "Am",
+     "F#m7(b5)"
+    ],
+    [
+     "Em/G"
+    ],
+    [
+     "C7"
+    ],
+    [
+     "B7"
+    ],
+    [
+     "Em"
+    ],
+    [
+     "C7"
+    ],
+    [
+     "F#7"
+    ],
+    [
+     "B7"
+    ],
+    [
+     "E7"
+    ],
+    [
+     "Am",
+     "Am6"
+    ],
+    [
+     "Em/G"
+    ]
+   ]
+  },
+  {
+   "name": "C",
+   "tonic": "C",
+   "bars": "33–51",
+   "sequence": [
+    [
+     "Em",
+     "B7"
+    ],
+    [
+     "Em",
+     "D7"
+    ],
+    [
+     "G",
+     "G7"
+    ],
+    [],
+    [
+     "C6"
+    ],
+    [],
+    [
+     "G7(9)"
+    ],
+    [
+     "C6"
+    ],
+    [
+     "C6",
+     "F#m7(b5)"
+    ],
+    [
+     "Em/G"
+    ],
+    [
+     "F#m7(b5)",
+     "B7"
+    ],
+    [
+     "Em",
+     "G7"
+    ],
+    [
+     "C6"
+    ],
+    [
+     "Db6"
+    ],
+    [
+     "A7/C#"
+    ],
+    [
+     "Dm"
+    ],
+    [
+     "Fm6",
+     "Fm6/Ab"
+    ],
+    [
+     "C/G",
+     "A7/C#"
+    ],
+    [
+     "G7(9)"
+    ]
+   ]
+  },
+  {
+   "name": "Coda",
+   "tonic": "C",
+   "bars": "52–53",
+   "sequence": [
+    [
+     "C",
+     "G7"
+    ],
+    [
+     "C",
+     "D7"
+    ]
+   ]
+  }
+ ],
+ "notes": [
+  "Grille générée automatiquement depuis le texte du PDF : à vérifier.",
+  "Reprises et fins non détectées : les mesures sont dans l'ordre d'écriture."
+ ],
+ "confidence": "low",
+ "source": [
+  "pdf/Altamiro Carrilho - Quem é bom já nasce feito - Theme - C.pdf"
+ ],
+ "generated": "pdf"
+}

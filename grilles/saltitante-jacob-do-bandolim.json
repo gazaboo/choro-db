@@ -1,0 +1,180 @@
+{
+ "song_id": "saltitante-jacob-do-bandolim",
+ "title": "Saltitante",
+ "composer": "Jacob do Bandolim",
+ "transposition": "c",
+ "meter": "2/4",
+ "form": "A (reprise) — B (reprise) — Coda",
+ "parts": [
+  {
+   "name": "A",
+   "tonic": "Dm",
+   "bars": "0–17",
+   "repeat": true,
+   "sequence": [
+    [
+     "Dm",
+     "A7/E"
+    ],
+    [
+     "Dm/F",
+     "D7/F#"
+    ],
+    [
+     "Gm",
+     "D7/A"
+    ],
+    [
+     "Gm/Bb"
+    ],
+    [
+     "Gm",
+     "Gm/F"
+    ],
+    [
+     "A7/E"
+    ],
+    [
+     "A7/C#",
+     "A7"
+    ],
+    [
+     "Dm",
+     "A7"
+    ],
+    [
+     "Dm",
+     "A7/E"
+    ],
+    [
+     "Dm/F",
+     "D7/F#"
+    ],
+    [
+     "Gm",
+     "D7/A"
+    ],
+    [
+     "Gm/Bb"
+    ],
+    [
+     "Gm",
+     "A7/E"
+    ],
+    [
+     "Dm",
+     "Bb7"
+    ],
+    [
+     "Eb",
+     "A7"
+    ]
+   ],
+   "endings": {
+    "1": [
+     [
+      "Dm",
+      "A7"
+     ]
+    ],
+    "2": [
+     [
+      "Dm"
+     ]
+    ]
+   }
+  },
+  {
+   "name": "B",
+   "tonic": "Dm",
+   "bars": "18–X1",
+   "repeat": true,
+   "sequence": [
+    [
+     "C7",
+     "C/Bb"
+    ],
+    [
+     "F/A"
+    ],
+    [
+     "C7",
+     "C/Bb"
+    ],
+    [
+     "F/A"
+    ],
+    [
+     "F7",
+     "F/Eb"
+    ],
+    [
+     "Bb/D"
+    ],
+    [
+     "F7",
+     "F/Eb"
+    ],
+    [
+     "Bb/D"
+    ],
+    [
+     "Bbm6/Db"
+    ],
+    [
+     "F/C"
+    ],
+    [
+     "A7/C#"
+    ],
+    [
+     "Dm"
+    ],
+    [
+     "Bb",
+     "Bdim"
+    ],
+    [
+     "F/C",
+     "Db7"
+    ],
+    [
+     "Gm/D",
+     "C7/E"
+    ]
+   ],
+   "endings": {
+    "1": [
+     [
+      "F"
+     ]
+    ],
+    "2": [
+     [
+      "F",
+      "A7"
+     ]
+    ]
+   }
+  },
+  {
+   "name": "Coda",
+   "tonic": "Dm",
+   "bars": "35–35",
+   "repeat": false,
+   "sequence": [
+    [
+     "Dm"
+    ]
+   ]
+  }
+ ],
+ "notes": [
+  "Grille générée automatiquement depuis la partition MusicXML : à vérifier."
+ ],
+ "confidence": "medium",
+ "source": [
+  "mxl/C/Jacob do Bandolim - Saltitante - Theme - C.mxl"
+ ],
+ "generated": "mxl"
+}

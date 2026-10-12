@@ -1,0 +1,199 @@
+{
+ "song_id": "olha-a-cara-dele-candinho",
+ "title": "Olha a cara dele",
+ "composer": "Candinho",
+ "transposition": "c",
+ "meter": "2/4",
+ "form": "A (reprise) — B (reprise) — C (reprise)",
+ "parts": [
+  {
+   "name": "A",
+   "tonic": "G",
+   "bars": "1–16",
+   "repeat": true,
+   "sequence": [
+    [
+     "A7/C#",
+     "D7"
+    ],
+    [
+     "G"
+    ],
+    [
+     "B7"
+    ],
+    [
+     "Em"
+    ],
+    [
+     "Gdim"
+    ],
+    [
+     "G6"
+    ],
+    [
+     "A7/C#",
+     "D/C"
+    ],
+    [
+     "G/B"
+    ],
+    [
+     "A7/C#",
+     "D7"
+    ],
+    [
+     "G6"
+    ],
+    [
+     "B7"
+    ],
+    [
+     "Em"
+    ],
+    [
+     "Bbdim"
+    ],
+    [
+     "G/B"
+    ],
+    [
+     "A7",
+     "D7"
+    ],
+    [
+     "G"
+    ]
+   ]
+  },
+  {
+   "name": "B",
+   "tonic": "Em",
+   "bars": "17–X1",
+   "repeat": true,
+   "sequence": [
+    [
+     "Em"
+    ],
+    [
+     "Am6"
+    ],
+    [
+     "B7"
+    ],
+    [
+     "Em"
+    ],
+    [
+     "Em",
+     "C#m7b5"
+    ],
+    [
+     "Bm/D"
+    ],
+    [
+     "F#7/A#"
+    ],
+    [
+     "Bm",
+     "B7/D#"
+    ],
+    [
+     "Em"
+    ],
+    [
+     "Am6"
+    ],
+    [
+     "B7"
+    ],
+    [
+     "Em"
+    ],
+    [
+     "Am6",
+     "B/A"
+    ],
+    [
+     "Em/G"
+    ],
+    [
+     "F#7",
+     "B7"
+    ],
+    [
+     "Em"
+    ]
+   ]
+  },
+  {
+   "name": "C",
+   "tonic": "C",
+   "bars": "33–49",
+   "repeat": true,
+   "sequence": [
+    [
+     "C"
+    ],
+    [
+     "Dm"
+    ],
+    [
+     "G7"
+    ],
+    [
+     "C"
+    ],
+    [
+     "C",
+     "D7/F#"
+    ],
+    [
+     "G"
+    ],
+    [
+     "D7/A"
+    ],
+    [
+     "G",
+     "G7"
+    ],
+    [
+     "C"
+    ],
+    [
+     "Dm"
+    ],
+    [
+     "Dm6/F",
+     "E7"
+    ],
+    [
+     "A7"
+    ],
+    [
+     "Dm",
+     "D7/F#"
+    ],
+    [
+     "C/G"
+    ],
+    [
+     "G7"
+    ],
+    [
+     "C"
+    ],
+    []
+   ]
+  }
+ ],
+ "notes": [
+  "Grille générée automatiquement depuis la partition MusicXML : à vérifier."
+ ],
+ "confidence": "medium",
+ "source": [
+  "mxl/C/Candinho - Olha a cara dele - Theme - C.mxl"
+ ],
+ "generated": "mxl"
+}

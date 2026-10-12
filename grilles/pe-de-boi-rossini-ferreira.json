@@ -1,0 +1,235 @@
+{
+ "song_id": "pe-de-boi-rossini-ferreira",
+ "title": "Pé de boi",
+ "composer": "Rossini Ferreira",
+ "transposition": "c",
+ "meter": "2/4",
+ "form": "A (reprise) — B (reprise) — C (reprise) — Coda",
+ "parts": [
+  {
+   "name": "A",
+   "tonic": "G",
+   "bars": "1–19",
+   "repeat": true,
+   "sequence": [
+    [],
+    [],
+    [
+     "G6"
+    ],
+    [],
+    [
+     "G",
+     "E7"
+    ],
+    [
+     "A7"
+    ],
+    [
+     "F#m7b5",
+     "B7"
+    ],
+    [
+     "Em"
+    ],
+    [
+     "A7(13)"
+    ],
+    [
+     "D7(9)"
+    ],
+    [
+     "G6"
+    ],
+    [],
+    [
+     "G7"
+    ],
+    [
+     "Eb"
+    ],
+    [
+     "Eb/Db"
+    ],
+    [
+     "G/D",
+     "Em7"
+    ],
+    [
+     "A7(9)",
+     "D7(9)"
+    ]
+   ],
+   "endings": {
+    "1": [
+     [
+      "G6"
+     ]
+    ],
+    "2": [
+     [
+      "G6"
+     ]
+    ]
+   }
+  },
+  {
+   "name": "B",
+   "tonic": "Em",
+   "bars": "20–37",
+   "repeat": true,
+   "sequence": [
+    [
+     "Em"
+    ],
+    [
+     "Am"
+    ],
+    [
+     "B7"
+    ],
+    [
+     "Em"
+    ],
+    [
+     "C#m7b5",
+     "F#7"
+    ],
+    [
+     "B",
+     "G#7"
+    ],
+    [
+     "C#7",
+     "F#7"
+    ],
+    [
+     "B7"
+    ],
+    [
+     "E7"
+    ],
+    [
+     "A7"
+    ],
+    [
+     "D7"
+    ],
+    [
+     "G"
+    ],
+    [
+     "C7"
+    ],
+    [
+     "F"
+    ],
+    [
+     "F#m7",
+     "B7(13)"
+    ],
+    []
+   ],
+   "endings": {
+    "1": [
+     [
+      "E6"
+     ]
+    ],
+    "2": [
+     [
+      "E6"
+     ]
+    ]
+   }
+  },
+  {
+   "name": "C",
+   "tonic": "C",
+   "bars": "38–55",
+   "repeat": true,
+   "sequence": [
+    [
+     "C"
+    ],
+    [
+     "G7/B"
+    ],
+    [
+     "C/Bb"
+    ],
+    [
+     "F/A"
+    ],
+    [
+     "Fm6/Ab"
+    ],
+    [
+     "C/G"
+    ],
+    [
+     "D7(9)"
+    ],
+    [
+     "G7"
+    ],
+    [
+     "C"
+    ],
+    [],
+    [
+     "E7(b13)"
+    ],
+    [
+     "F"
+    ],
+    [
+     "F#dim"
+    ],
+    [
+     "C",
+     "A7"
+    ],
+    [
+     "Dm7",
+     "G7"
+    ],
+    []
+   ],
+   "endings": {
+    "1": [
+     [
+      "C"
+     ]
+    ],
+    "2": [
+     [
+      "C",
+      "D7"
+     ]
+    ]
+   }
+  },
+  {
+   "name": "Coda",
+   "tonic": "G",
+   "bars": "56–56",
+   "repeat": false,
+   "sequence": [
+    [
+     "G6",
+     "G7"
+    ]
+   ]
+  }
+ ],
+ "notes": [
+  "Grille générée automatiquement depuis la partition MusicXML : à vérifier.",
+  "A : première mesure sans accord"
+ ],
+ "confidence": "medium",
+ "source": [
+  "mxl/C/Rossini Ferreira - Pé de boi - Theme - C.mxl"
+ ],
+ "generated": "mxl"
+}

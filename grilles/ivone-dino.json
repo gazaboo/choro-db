@@ -1,0 +1,251 @@
+{
+ "song_id": "ivone-dino",
+ "title": "Ivone",
+ "composer": "Dino",
+ "transposition": "c",
+ "meter": "3/4",
+ "form": "A (reprise) — B — C — D — Coda",
+ "parts": [
+  {
+   "name": "A",
+   "tonic": "Em",
+   "bars": "0–17",
+   "repeat": true,
+   "sequence": [
+    [
+     "Em"
+    ],
+    [
+     "Em/D"
+    ],
+    [
+     "F7/C"
+    ],
+    [
+     "F#7/A#"
+    ],
+    [
+     "B7"
+    ],
+    [
+     "Am6"
+    ],
+    [
+     "F7"
+    ],
+    [
+     "Em"
+    ],
+    [
+     "E7"
+    ],
+    [],
+    [
+     "Am"
+    ],
+    [
+     "F#m7(11)",
+     "B7"
+    ]
+   ],
+   "endings": {
+    "1": [
+     [
+      "Em"
+     ],
+     [
+      "C7"
+     ],
+     [
+      "F#m7b5"
+     ],
+     [
+      "B7"
+     ]
+    ],
+    "2": [
+     [
+      "Em",
+      "Em/D#",
+      "Em/D"
+     ]
+    ]
+   }
+  },
+  {
+   "name": "B",
+   "tonic": "Em",
+   "bars": "18–20",
+   "repeat": false,
+   "sequence": [
+    [
+     "F#7/C#",
+     "Am6/C",
+     "B7"
+    ],
+    [
+     "Em"
+    ],
+    [
+     "Em"
+    ]
+   ]
+  },
+  {
+   "name": "C",
+   "tonic": "G",
+   "bars": "21–36",
+   "repeat": false,
+   "sequence": [
+    [
+     "Am"
+    ],
+    [
+     "D/C"
+    ],
+    [
+     "Bm7"
+    ],
+    [
+     "G#dim"
+    ],
+    [
+     "Am"
+    ],
+    [
+     "D7"
+    ],
+    [
+     "G"
+    ],
+    [],
+    [
+     "Am"
+    ],
+    [
+     "B7"
+    ],
+    [
+     "Em"
+    ],
+    [
+     "C#m7b5",
+     "F#7"
+    ],
+    [
+     "B",
+     "G#m"
+    ],
+    [
+     "C#m",
+     "F#7"
+    ],
+    [
+     "B"
+    ],
+    [
+     "D7"
+    ]
+   ]
+  },
+  {
+   "name": "D",
+   "tonic": "G",
+   "bars": "37–X1",
+   "repeat": false,
+   "sequence": [
+    [
+     "Am"
+    ],
+    [
+     "D/C"
+    ],
+    [
+     "Bm7"
+    ],
+    [
+     "G#dim"
+    ],
+    [
+     "Am"
+    ],
+    [
+     "D7"
+    ],
+    [
+     "G"
+    ],
+    [
+     "G7"
+    ],
+    [
+     "C"
+    ],
+    [
+     "Cm6"
+    ],
+    [
+     "Bm"
+    ],
+    [
+     "E7"
+    ],
+    [
+     "Am"
+    ],
+    [
+     "A7",
+     "D7"
+    ],
+    [
+     "G"
+    ],
+    [
+     "G"
+    ]
+   ]
+  },
+  {
+   "name": "Coda",
+   "tonic": "Em",
+   "bars": "53–60",
+   "repeat": false,
+   "sequence": [
+    [
+     "Em",
+     "Em/D#",
+     "Em/D"
+    ],
+    [
+     "F#7/C#",
+     "Am6/C",
+     "B7"
+    ],
+    [
+     "Em"
+    ],
+    [
+     "Am6/C"
+    ],
+    [
+     "Em"
+    ],
+    [
+     "Am6"
+    ],
+    [
+     "Em6(9)"
+    ],
+    []
+   ]
+  }
+ ],
+ "notes": [
+  "Grille générée automatiquement depuis la partition MusicXML : à vérifier."
+ ],
+ "confidence": "medium",
+ "source": [
+  "mxl/C/Dino - Ivone - Theme - C.mxl"
+ ],
+ "generated": "mxl"
+}

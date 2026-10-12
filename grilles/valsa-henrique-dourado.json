@@ -1,0 +1,248 @@
+{
+ "song_id": "valsa-henrique-dourado",
+ "title": "Valsa",
+ "composer": "Henrique Dourado",
+ "transposition": "c",
+ "meter": "2/4",
+ "form": "A — B — C",
+ "parts": [
+  {
+   "name": "A",
+   "tonic": "Am",
+   "bars": "1–31",
+   "sequence": [
+    [
+     "G"
+    ],
+    [
+     "G/B"
+    ],
+    [],
+    [
+     "D7"
+    ],
+    [
+     "G"
+    ],
+    [
+     "G/B"
+    ],
+    [
+     "D7/A"
+    ],
+    [],
+    [
+     "B7/F#"
+    ],
+    [
+     "B7"
+    ],
+    [],
+    [
+     "Em/D"
+    ],
+    [],
+    [],
+    [],
+    [
+     "D7"
+    ],
+    [
+     "G"
+    ],
+    [
+     "G/B"
+    ],
+    [],
+    [
+     "D7"
+    ],
+    [],
+    [
+     "E7"
+    ],
+    [],
+    [
+     "Am/C"
+    ],
+    [],
+    [
+     "Cm6"
+    ],
+    [
+     "G/B"
+    ],
+    [
+     "Em7(9)"
+    ],
+    [],
+    [],
+    [
+     "G"
+    ]
+   ]
+  },
+  {
+   "name": "B",
+   "tonic": "C",
+   "bars": "33–64",
+   "sequence": [
+    [],
+    [
+     "A7"
+    ],
+    [
+     "A/G"
+    ],
+    [
+     "D/F#"
+    ],
+    [],
+    [
+     "E/G#"
+    ],
+    [],
+    [
+     "Bm"
+    ],
+    [],
+    [],
+    [],
+    [
+     "D6/F#"
+    ],
+    [
+     "Bm7"
+    ],
+    [
+     "E7"
+    ],
+    [
+     "A7"
+    ],
+    [
+     "D6"
+    ],
+    [
+     "D6/F#",
+     "Fm6"
+    ],
+    [
+     "A7/E"
+    ],
+    [
+     "A7"
+    ],
+    [],
+    [
+     "B7"
+    ],
+    [
+     "E7"
+    ],
+    [],
+    [
+     "Bm"
+    ],
+    [
+     "Bm/A"
+    ],
+    [],
+    [
+     "A/G"
+    ],
+    [
+     "D6/F#"
+    ],
+    [
+     "Bm7"
+    ],
+    [
+     "E7"
+    ],
+    [
+     "A7"
+    ],
+    [
+     "D6"
+    ]
+   ]
+  },
+  {
+   "name": "C",
+   "tonic": "C",
+   "bars": "66–97",
+   "sequence": [
+    [],
+    [
+     "C"
+    ],
+    [],
+    [],
+    [],
+    [],
+    [
+     "G7"
+    ],
+    [],
+    [
+     "G7/B"
+    ],
+    [
+     "C"
+    ],
+    [
+     "Am"
+    ],
+    [
+     "Em/G"
+    ],
+    [
+     "Em"
+    ],
+    [],
+    [
+     "B7"
+    ],
+    [
+     "Em"
+    ],
+    [
+     "G7"
+    ],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [
+     "A/G"
+    ],
+    [
+     "Dm"
+    ],
+    [
+     "G7"
+    ],
+    [
+     "C"
+    ]
+   ]
+  }
+ ],
+ "notes": [
+  "Grille générée automatiquement depuis le texte du PDF : à vérifier.",
+  "Reprises et fins non détectées : les mesures sont dans l'ordre d'écriture."
+ ],
+ "confidence": "low",
+ "source": [
+  "pdf/Henrique Dourado - Valsa - Theme - C.pdf"
+ ],
+ "generated": "pdf"
+}

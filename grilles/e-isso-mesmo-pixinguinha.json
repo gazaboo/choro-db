@@ -1,0 +1,156 @@
+{
+ "song_id": "e-isso-mesmo-pixinguinha",
+ "title": "É Isso Mesmo",
+ "composer": "Pixinguinha",
+ "transposition": "c",
+ "meter": "2/4",
+ "form": "A — B — C",
+ "parts": [
+  {
+   "name": "A",
+   "tonic": "C",
+   "bars": "1–14",
+   "sequence": [
+    [
+     "C"
+    ],
+    [
+     "Dm"
+    ],
+    [],
+    [
+     "C"
+    ],
+    [
+     "C"
+    ],
+    [
+     "G"
+    ],
+    [],
+    [],
+    [
+     "C"
+    ],
+    [
+     "Dm"
+    ],
+    [],
+    [],
+    [
+     "Dm",
+     "Fm6/Ab"
+    ],
+    [
+     "C/G"
+    ]
+   ]
+  },
+  {
+   "name": "B",
+   "tonic": "Am",
+   "bars": "16–33",
+   "sequence": [
+    [
+     "C"
+    ],
+    [
+     "C"
+    ],
+    [
+     "Am",
+     "Am/G"
+    ],
+    [
+     "Dm/F"
+    ],
+    [
+     "E/D"
+    ],
+    [
+     "Am/C"
+    ],
+    [],
+    [
+     "Dm"
+    ],
+    [],
+    [],
+    [
+     "A/G"
+    ],
+    [
+     "Dm/F"
+    ],
+    [],
+    [],
+    [
+     "Dm",
+     "Bm7(b5)"
+    ],
+    [
+     "Am"
+    ],
+    [],
+    [
+     "Am"
+    ]
+   ]
+  },
+  {
+   "name": "C",
+   "tonic": "C",
+   "bars": "34–53",
+   "sequence": [
+    [],
+    [
+     "C"
+    ],
+    [],
+    [
+     "F"
+    ],
+    [],
+    [],
+    [
+     "F"
+    ],
+    [],
+    [
+     "Dm"
+    ],
+    [],
+    [],
+    [],
+    [
+     "Gm"
+    ],
+    [],
+    [
+     "Cm"
+    ],
+    [],
+    [
+     "F/C"
+    ],
+    [
+     "Gm",
+     "F"
+    ],
+    [],
+    [
+     "C"
+    ]
+   ]
+  }
+ ],
+ "notes": [
+  "Grille générée automatiquement depuis le texte du PDF : à vérifier.",
+  "Reprises et fins non détectées : les mesures sont dans l'ordre d'écriture."
+ ],
+ "confidence": "low",
+ "source": [
+  "pdf/Pixinguinha - É Isso Mesmo - Theme - C - variant 1.pdf"
+ ],
+ "generated": "pdf"
+}

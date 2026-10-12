@@ -1,0 +1,216 @@
+{
+ "song_id": "de-limoeiro-a-mossoro-jacob-do-bandolim",
+ "title": "De Limoeiro a Mossoró",
+ "composer": "Jacob do Bandolim",
+ "transposition": "c",
+ "meter": "2/4",
+ "form": "A (reprise) — B — C (reprise) — B — D (reprise) — E — E — C",
+ "parts": [
+  {
+   "name": "A",
+   "tonic": "C",
+   "bars": "1–5",
+   "repeat": true,
+   "sequence": [
+    [
+     "C"
+    ],
+    [],
+    [
+     "G7"
+    ]
+   ],
+   "endings": {
+    "1": [
+     []
+    ],
+    "2": [
+     []
+    ]
+   }
+  },
+  {
+   "name": "B",
+   "tonic": "C",
+   "bars": "6–21",
+   "repeat": false,
+   "sequence": [
+    [
+     "C7"
+    ],
+    [],
+    [
+     "F7"
+    ],
+    [],
+    [
+     "G7"
+    ],
+    [],
+    [
+     "C"
+    ],
+    [],
+    [
+     "C7"
+    ],
+    [],
+    [
+     "F7"
+    ],
+    [],
+    [
+     "G7"
+    ],
+    [],
+    [
+     "C"
+    ],
+    []
+   ]
+  },
+  {
+   "name": "C",
+   "tonic": "C",
+   "bars": "22–30",
+   "repeat": true,
+   "sequence": [
+    [
+     "C7"
+    ],
+    [],
+    [
+     "F7"
+    ],
+    [],
+    [
+     "G7"
+    ],
+    [],
+    [
+     "C"
+    ]
+   ],
+   "endings": {
+    "1": [
+     []
+    ],
+    "2": [
+     []
+    ]
+   }
+  },
+  {
+   "name": "D",
+   "tonic": "Cm",
+   "bars": "47–55",
+   "repeat": true,
+   "sequence": [
+    [
+     "Cm"
+    ],
+    [],
+    [
+     "Fm6"
+    ],
+    [],
+    [
+     "G7"
+    ],
+    [],
+    [
+     "Cm"
+    ]
+   ],
+   "endings": {
+    "1": [
+     []
+    ],
+    "2": [
+     []
+    ]
+   }
+  },
+  {
+   "name": "E",
+   "tonic": "C",
+   "bars": "56–87",
+   "repeat": false,
+   "sequence": [
+    [
+     "C7"
+    ],
+    [],
+    [
+     "F7"
+    ],
+    [],
+    [
+     "G7"
+    ],
+    [],
+    [
+     "C"
+    ],
+    [],
+    [
+     "C7"
+    ],
+    [],
+    [
+     "F7"
+    ],
+    [],
+    [
+     "G7"
+    ],
+    [],
+    [
+     "C"
+    ],
+    [],
+    [
+     "C7"
+    ],
+    [],
+    [
+     "F7"
+    ],
+    [],
+    [
+     "G7"
+    ],
+    [],
+    [
+     "C"
+    ],
+    [],
+    [
+     "C7"
+    ],
+    [],
+    [
+     "F7"
+    ],
+    [],
+    [
+     "G7"
+    ],
+    [],
+    [
+     "C"
+    ],
+    []
+   ]
+  }
+ ],
+ "notes": [
+  "Grille générée automatiquement depuis la partition MusicXML : à vérifier.",
+  "31/65 mesures sans accord écrit"
+ ],
+ "confidence": "medium",
+ "source": [
+  "mxl/C/Jacob do Bandolim - De Limoeiro a Mossoró - Theme - C.mxl"
+ ],
+ "generated": "mxl"
+}

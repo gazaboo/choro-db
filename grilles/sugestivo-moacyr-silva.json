@@ -1,0 +1,129 @@
+{
+ "song_id": "sugestivo-moacyr-silva",
+ "title": "Sugestivo",
+ "composer": "Moacyr Silva",
+ "transposition": "c",
+ "meter": "2/4",
+ "form": "A — B",
+ "parts": [
+  {
+   "name": "A",
+   "tonic": "C",
+   "bars": "1–15",
+   "sequence": [
+    [
+     "Gm",
+     "Gm/F"
+    ],
+    [
+     "Cm/Eb"
+    ],
+    [
+     "Eb7"
+    ],
+    [
+     "D7"
+    ],
+    [
+     "Fm6"
+    ],
+    [
+     "C7"
+    ],
+    [],
+    [
+     "Bb"
+    ],
+    [
+     "Gm",
+     "Gm/F"
+    ],
+    [
+     "Cm/Eb"
+    ],
+    [
+     "Eb7"
+    ],
+    [],
+    [],
+    [
+     "Cm"
+    ],
+    [
+     "Gm"
+    ]
+   ]
+  },
+  {
+   "name": "B",
+   "tonic": "C",
+   "bars": "16–35",
+   "sequence": [
+    [
+     "Gm"
+    ],
+    [
+     "Gm"
+    ],
+    [],
+    [
+     "G",
+     "Bm/F#"
+    ],
+    [],
+    [
+     "G"
+    ],
+    [
+     "Am",
+     "F#m7(b5)"
+    ],
+    [],
+    [
+     "Em",
+     "Em/D"
+    ],
+    [],
+    [],
+    [
+     "G",
+     "Bm/F#"
+    ],
+    [],
+    [
+     "G",
+     "G7/B"
+    ],
+    [
+     "C"
+    ],
+    [
+     "C",
+     "F7(9)"
+    ],
+    [
+     "G"
+    ],
+    [
+     "G",
+     "D7",
+     "G",
+     "D7"
+    ],
+    [],
+    [
+     "Gm"
+    ]
+   ]
+  }
+ ],
+ "notes": [
+  "Grille générée automatiquement depuis le texte du PDF : à vérifier.",
+  "Reprises et fins non détectées : les mesures sont dans l'ordre d'écriture."
+ ],
+ "confidence": "low",
+ "source": [
+  "pdf/Moacyr Silva - Sugestivo - Theme - C.pdf"
+ ],
+ "generated": "pdf"
+}

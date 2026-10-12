@@ -1,0 +1,178 @@
+{
+ "song_id": "segura-o-dedo-luperce-miranda",
+ "title": "Segura o dedo",
+ "composer": "Luperce Miranda",
+ "transposition": "c",
+ "meter": "2/4",
+ "form": "A — B — C",
+ "parts": [
+  {
+   "name": "A",
+   "tonic": "C",
+   "bars": "1–15",
+   "sequence": [
+    [
+     "A7/C#"
+    ],
+    [
+     "Dm"
+    ],
+    [
+     "D7",
+     "D7/F#"
+    ],
+    [
+     "Gm"
+    ],
+    [
+     "Em7(b5)"
+    ],
+    [
+     "Dm",
+     "Dm/C"
+    ],
+    [
+     "E7/B",
+     "Bb7"
+    ],
+    [],
+    [
+     "A/C#"
+    ],
+    [
+     "Dm"
+    ],
+    [
+     "D7/F#"
+    ],
+    [
+     "Gm"
+    ],
+    [
+     "Gm6"
+    ],
+    [
+     "Dm/F"
+    ],
+    [
+     "A7"
+    ]
+   ]
+  },
+  {
+   "name": "B",
+   "tonic": "C",
+   "bars": "16–32",
+   "sequence": [
+    [
+     "Dm"
+    ],
+    [
+     "Dm"
+    ],
+    [],
+    [
+     "F"
+    ],
+    [
+     "A7"
+    ],
+    [],
+    [
+     "Gm"
+    ],
+    [
+     "F/C"
+    ],
+    [
+     "G7"
+    ],
+    [],
+    [
+     "C7/G"
+    ],
+    [
+     "F"
+    ],
+    [],
+    [],
+    [
+     "Gm"
+    ],
+    [
+     "F/C"
+    ],
+    [
+     "G7"
+    ]
+   ]
+  },
+  {
+   "name": "C",
+   "tonic": "C",
+   "bars": "33–52",
+   "sequence": [
+    [
+     "F"
+    ],
+    [
+     "F"
+    ],
+    [
+     "Dm"
+    ],
+    [],
+    [
+     "D"
+    ],
+    [
+     "D"
+    ],
+    [
+     "D"
+    ],
+    [],
+    [],
+    [
+     "Bm"
+    ],
+    [],
+    [
+     "A7"
+    ],
+    [
+     "D"
+    ],
+    [
+     "D/F#"
+    ],
+    [],
+    [
+     "G"
+    ],
+    [
+     "G/B",
+     "Gm6/Bb"
+    ],
+    [
+     "D/A"
+    ],
+    [
+     "A7"
+    ],
+    [
+     "D"
+    ]
+   ]
+  }
+ ],
+ "notes": [
+  "Grille générée automatiquement depuis le texte du PDF : à vérifier.",
+  "Reprises et fins non détectées : les mesures sont dans l'ordre d'écriture."
+ ],
+ "confidence": "low",
+ "source": [
+  "pdf/Luperce Miranda - Segura o dedo - Theme - C.pdf"
+ ],
+ "generated": "pdf"
+}

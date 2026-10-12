@@ -1,0 +1,217 @@
+{
+ "song_id": "sensivel-pixinguinha",
+ "title": "Sensível",
+ "composer": "Pixinguinha",
+ "transposition": "c",
+ "meter": "2/4",
+ "form": "A — B",
+ "parts": [
+  {
+   "name": "A",
+   "tonic": "Am",
+   "bars": "1–30",
+   "sequence": [
+    [
+     "Gm"
+    ],
+    [],
+    [
+     "Gm/Bb"
+    ],
+    [
+     "Cm6"
+    ],
+    [
+     "Gm/Bb"
+    ],
+    [
+     "F7"
+    ],
+    [
+     "Bb"
+    ],
+    [
+     "D7/F#"
+    ],
+    [
+     "Gm"
+    ],
+    [
+     "G/F"
+    ],
+    [
+     "C7/E"
+    ],
+    [
+     "F7"
+    ],
+    [
+     "Am7(b5)"
+    ],
+    [],
+    [
+     "Bb"
+    ],
+    [
+     "Cm",
+     "Gm",
+     "D7"
+    ],
+    [
+     "Gm"
+    ],
+    [],
+    [
+     "Gm/Bb"
+    ],
+    [
+     "Cm6"
+    ],
+    [
+     "Gm/Bb"
+    ],
+    [
+     "F7"
+    ],
+    [
+     "Bb"
+    ],
+    [],
+    [
+     "Ab"
+    ],
+    [
+     "Ab/Gb"
+    ],
+    [
+     "Gm"
+    ],
+    [
+     "Gm/F"
+    ],
+    [
+     "Eb7"
+    ],
+    [
+     "D7"
+    ]
+   ]
+  },
+  {
+   "name": "B",
+   "tonic": "C",
+   "bars": "31–66",
+   "sequence": [
+    [
+     "Gm",
+     "Gb7"
+    ],
+    [
+     "F7"
+    ],
+    [
+     "Bb"
+    ],
+    [
+     "G7/B"
+    ],
+    [
+     "C7"
+    ],
+    [
+     "F7"
+    ],
+    [
+     "Bb"
+    ],
+    [
+     "G7"
+    ],
+    [
+     "Cm",
+     "Dm7(b5)"
+    ],
+    [
+     "F7"
+    ],
+    [
+     "Gm"
+    ],
+    [
+     "D7/F#"
+    ],
+    [],
+    [
+     "G7/B"
+    ],
+    [
+     "Cm"
+    ],
+    [],
+    [],
+    [
+     "F7"
+    ],
+    [
+     "Bb"
+    ],
+    [
+     "G7/B"
+    ],
+    [
+     "C7"
+    ],
+    [
+     "F7"
+    ],
+    [
+     "Bb"
+    ],
+    [
+     "G7"
+    ],
+    [
+     "Cm"
+    ],
+    [],
+    [
+     "Ebm6/Gb"
+    ],
+    [],
+    [
+     "Bb"
+    ],
+    [
+     "G7"
+    ],
+    [
+     "C7"
+    ],
+    [
+     "F7"
+    ],
+    [
+     "Bb"
+    ],
+    [],
+    [
+     "Gm",
+     "F",
+     "Eb"
+    ],
+    [
+     "Gm"
+    ]
+   ]
+  }
+ ],
+ "notes": [
+  "Grille générée automatiquement depuis le texte du PDF : à vérifier.",
+  "Reprises et fins non détectées : les mesures sont dans l'ordre d'écriture."
+ ],
+ "confidence": "low",
+ "source": [
+  "pdf/Pixinguinha - Sensível - Theme - C.pdf"
+ ],
+ "generated": "pdf"
+}

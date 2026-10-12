@@ -1,0 +1,198 @@
+{
+ "song_id": "valsa-brasileira-am-edu-lobo",
+ "title": "Valsa Brasileira Am",
+ "composer": "Edu Lobo",
+ "transposition": "c",
+ "meter": "2/4",
+ "form": "A — B — C — D — E — Coda",
+ "parts": [
+  {
+   "name": "A",
+   "tonic": "Am",
+   "bars": "1–15",
+   "sequence": [
+    [
+     "E7(b9)"
+    ],
+    [
+     "Am7(9)"
+    ],
+    [],
+    [
+     "Bm7(9)"
+    ],
+    [],
+    [],
+    [
+     "E/D"
+    ],
+    [
+     "A/C#"
+    ],
+    [
+     "D/C"
+    ],
+    [
+     "G/B"
+    ],
+    [
+     "C/Bb"
+    ],
+    [
+     "Am"
+    ],
+    [
+     "F#m7(b5)"
+    ],
+    [],
+    [
+     "E7(b9)"
+    ]
+   ]
+  },
+  {
+   "name": "B",
+   "tonic": "Am",
+   "bars": "16–27",
+   "sequence": [
+    [
+     "Am7"
+    ],
+    [
+     "E7(b9)"
+    ],
+    [
+     "Am7"
+    ],
+    [],
+    [
+     "F/A"
+    ],
+    [],
+    [
+     "F/A"
+    ],
+    [],
+    [
+     "C7/G"
+    ],
+    [],
+    [],
+    [
+     "F#m7(b5)"
+    ]
+   ]
+  },
+  {
+   "name": "C",
+   "tonic": "C",
+   "bars": "28–36",
+   "sequence": [
+    [],
+    [],
+    [],
+    [
+     "Am/G"
+    ],
+    [
+     "Am/G#"
+    ],
+    [],
+    [
+     "D7(9)"
+    ],
+    [
+     "Am/E"
+    ],
+    [
+     "G7(9)"
+    ]
+   ]
+  },
+  {
+   "name": "D",
+   "tonic": "Am",
+   "bars": "37–48",
+   "sequence": [
+    [
+     "Ab/Eb"
+    ],
+    [],
+    [
+     "Dm7(b5)"
+    ],
+    [],
+    [
+     "Bbm6/Db"
+    ],
+    [
+     "C7(b9)"
+    ],
+    [],
+    [
+     "E7(b9)"
+    ],
+    [
+     "Am/G"
+    ],
+    [],
+    [],
+    [
+     "E7(b9)"
+    ]
+   ]
+  },
+  {
+   "name": "E",
+   "tonic": "Am",
+   "bars": "49–53",
+   "sequence": [
+    [
+     "Am/G"
+    ],
+    [
+     "Am/G#"
+    ],
+    [],
+    [
+     "D7(9)"
+    ],
+    [
+     "Am/E"
+    ]
+   ]
+  },
+  {
+   "name": "Coda",
+   "tonic": "C",
+   "bars": "54–59",
+   "sequence": [
+    [
+     "G7(9)"
+    ],
+    [
+     "Ab7(13)"
+    ],
+    [
+     "Fm69"
+    ],
+    [
+     "Dm7(9)"
+    ],
+    [],
+    [
+     "C"
+    ]
+   ]
+  }
+ ],
+ "notes": [
+  "Grille générée automatiquement depuis le texte du PDF : à vérifier.",
+  "Reprises et fins non détectées : les mesures sont dans l'ordre d'écriture."
+ ],
+ "confidence": "low",
+ "source": [
+  "pdf/Edu Lobo - Valsa Brasileira Am - Theme - C.pdf"
+ ],
+ "generated": "pdf"
+}

@@ -1,0 +1,162 @@
+{
+ "song_id": "rayon-d-or-ernesto-nazareth",
+ "title": "Rayon d'or",
+ "composer": "Ernesto Nazareth",
+ "transposition": "c",
+ "meter": "2/4",
+ "form": "A — B — C",
+ "parts": [
+  {
+   "name": "A",
+   "tonic": "C",
+   "bars": "1–16",
+   "sequence": [
+    [
+     "F"
+    ],
+    [],
+    [
+     "F"
+    ],
+    [],
+    [],
+    [
+     "Dm"
+    ],
+    [
+     "G7/B"
+    ],
+    [],
+    [
+     "F"
+    ],
+    [
+     "C7"
+    ],
+    [
+     "F"
+    ],
+    [],
+    [],
+    [
+     "Dm",
+     "Bb6"
+    ],
+    [
+     "F/A"
+    ],
+    [
+     "F"
+    ]
+   ]
+  },
+  {
+   "name": "B",
+   "tonic": "C",
+   "bars": "17–33",
+   "sequence": [
+    [],
+    [
+     "C"
+    ],
+    [
+     "G7"
+    ],
+    [
+     "C"
+    ],
+    [
+     "G7"
+    ],
+    [
+     "C",
+     "C/Bb"
+    ],
+    [
+     "F/A",
+     "Ab7"
+    ],
+    [
+     "C/G"
+    ],
+    [],
+    [
+     "C"
+    ],
+    [],
+    [
+     "C"
+    ],
+    [
+     "G7"
+    ],
+    [
+     "C",
+     "C/Bb"
+    ],
+    [
+     "F/A",
+     "Ab7"
+    ],
+    [
+     "C/G",
+     "G7"
+    ],
+    [
+     "C"
+    ]
+   ]
+  },
+  {
+   "name": "C",
+   "tonic": "C",
+   "bars": "34–52",
+   "sequence": [
+    [
+     "F",
+     "Bb/D"
+    ],
+    [],
+    [
+     "Bb"
+    ],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [
+     "Bb/F"
+    ],
+    [
+     "Bb/D",
+     "Bb"
+    ],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [
+     "Cm/Eb"
+    ],
+    [],
+    [
+     "Bb"
+    ],
+    [
+     "Bb"
+    ]
+   ]
+  }
+ ],
+ "notes": [
+  "Grille générée automatiquement depuis le texte du PDF : à vérifier.",
+  "Reprises et fins non détectées : les mesures sont dans l'ordre d'écriture."
+ ],
+ "confidence": "low",
+ "source": [
+  "pdf/Ernesto Nazareth - Rayon d'or - Theme - C.pdf"
+ ],
+ "generated": "pdf"
+}

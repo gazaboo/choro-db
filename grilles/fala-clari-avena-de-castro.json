@@ -1,0 +1,199 @@
+{
+ "song_id": "fala-clari-avena-de-castro",
+ "title": "Fala Clari",
+ "composer": "Avena de Castro",
+ "transposition": "c",
+ "meter": "2/4",
+ "form": "A (reprise) — B (reprise) — Coda",
+ "parts": [
+  {
+   "name": "A",
+   "tonic": "G",
+   "bars": "0–35",
+   "repeat": true,
+   "sequence": [
+    [
+     "Gmaj7"
+    ],
+    [],
+    [
+     "Eb7"
+    ],
+    [],
+    [],
+    [],
+    [
+     "Dm6/F"
+    ],
+    [
+     "E7"
+    ],
+    [
+     "Am",
+     "Am/G"
+    ],
+    [
+     "F#m7b5",
+     "B7"
+    ],
+    [
+     "Em7"
+    ],
+    [],
+    [
+     "A7(9)"
+    ],
+    [],
+    [
+     "D7"
+    ],
+    [
+     "F7"
+    ],
+    [
+     "Bb",
+     "F/A"
+    ],
+    [
+     "Gm",
+     "Gm/F"
+    ],
+    [
+     "Em7b5"
+    ],
+    [
+     "A7"
+    ],
+    [
+     "Dm7b5"
+    ],
+    [],
+    [
+     "G7(b13)"
+    ],
+    [],
+    [
+     "Cm7",
+     "Cm7/Bb"
+    ],
+    [
+     "Am7b5",
+     "D7(b9)"
+    ],
+    [
+     "Gm"
+    ],
+    [
+     "Bm7b5",
+     "E7"
+    ],
+    [
+     "Am7"
+    ],
+    [
+     "Gmaj7"
+    ],
+    []
+   ],
+   "endings": {
+    "1": [
+     [
+      "D7"
+     ],
+     [
+      "Gmaj7"
+     ],
+     []
+    ],
+    "2": [
+     [
+      "D7"
+     ]
+    ]
+   }
+  },
+  {
+   "name": "B",
+   "tonic": "Em",
+   "bars": "36–X1",
+   "repeat": true,
+   "sequence": [
+    [
+     "F#7"
+    ],
+    [
+     "F#m7b5",
+     "B7"
+    ],
+    [
+     "Em"
+    ],
+    [],
+    [
+     "Bm7b5"
+    ],
+    [
+     "E7"
+    ],
+    [
+     "Am7"
+    ],
+    [],
+    [
+     "Bbdim"
+    ],
+    [],
+    [
+     "Em/B"
+    ],
+    [],
+    [
+     "F"
+    ],
+    [
+     "B7"
+    ],
+    [
+     "D7"
+    ]
+   ],
+   "endings": {
+    "1": [
+     [
+      "Em7"
+     ],
+     []
+    ],
+    "2": [
+     [
+      "Em7"
+     ]
+    ]
+   }
+  },
+  {
+   "name": "Coda",
+   "tonic": "G",
+   "bars": "54–57",
+   "repeat": false,
+   "sequence": [
+    [
+     "D7"
+    ],
+    [
+     "Gmaj7(9)"
+    ],
+    [],
+    []
+   ]
+  }
+ ],
+ "notes": [
+  "Grille générée automatiquement depuis la partition MusicXML : à vérifier."
+ ],
+ "confidence": "medium",
+ "source": [
+  "mxl/C/Avena de Castro - Fala Clari - Theme - C.mxl"
+ ],
+ "generated": "mxl"
+}

@@ -1,0 +1,155 @@
+{
+ "song_id": "paraquedista-jose-leocadio",
+ "title": "Paraquedista",
+ "composer": "José Leocádio",
+ "transposition": "c",
+ "meter": "2/4",
+ "form": "A (reprise) — B (reprise) — C (reprise)",
+ "parts": [
+  {
+   "name": "A",
+   "tonic": "Bb",
+   "bars": "0–17",
+   "repeat": true,
+   "sequence": [
+    [
+     "Bb",
+     "Gm7"
+    ],
+    [
+     "Cm"
+    ],
+    [
+     "F7"
+    ],
+    [
+     "Bb"
+    ],
+    [
+     "Bb",
+     "Gm7"
+    ],
+    [
+     "Cm"
+    ],
+    [
+     "F7"
+    ],
+    [
+     "Bb",
+     "F7"
+    ],
+    [
+     "Bb",
+     "Gm7"
+    ],
+    [
+     "Cm"
+    ],
+    [
+     "F7"
+    ],
+    [
+     "Bb/Ab"
+    ],
+    [
+     "Eb/G",
+     "C7/E"
+    ],
+    [
+     "Bb/F",
+     "Gm7"
+    ],
+    [
+     "Cm",
+     "F7"
+    ]
+   ],
+   "endings": {
+    "1": [
+     [
+      "Bb",
+      "F7"
+     ]
+    ],
+    "2": [
+     [
+      "Bb"
+     ]
+    ]
+   }
+  },
+  {
+   "name": "B",
+   "tonic": "Gm",
+   "bars": "18–X1",
+   "repeat": true,
+   "sequence": [
+    [
+     "D7/F#"
+    ],
+    [
+     "Gm"
+    ],
+    [
+     "D7"
+    ],
+    [
+     "Gm"
+    ],
+    [
+     "C7/E"
+    ],
+    [
+     "F"
+    ],
+    [
+     "C7"
+    ]
+   ],
+   "endings": {
+    "1": [
+     [
+      "F"
+     ]
+    ],
+    "2": [
+     [
+      "F"
+     ]
+    ]
+   }
+  },
+  {
+   "name": "C",
+   "tonic": "Bb",
+   "bars": "27–30",
+   "repeat": true,
+   "sequence": [
+    [
+     "Bb/Ab"
+    ],
+    [
+     "Eb/G",
+     "C7/E"
+    ],
+    [
+     "Bb/F",
+     "Gm7"
+    ],
+    [
+     "Cm",
+     "F7"
+    ]
+   ]
+  }
+ ],
+ "notes": [
+  "Grille générée automatiquement depuis la partition MusicXML : à vérifier."
+ ],
+ "confidence": "medium",
+ "source": [
+  "mxl/C/José Leocádio - Paraquedista - Theme - C.mxl"
+ ],
+ "generated": "mxl"
+}

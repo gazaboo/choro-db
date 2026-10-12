@@ -1,0 +1,229 @@
+{
+ "song_id": "uma-saudade-marcio-almeida",
+ "title": "Uma saudade",
+ "composer": "Márcio Almeida",
+ "transposition": "c",
+ "meter": "2/4",
+ "form": "A — B — Coda",
+ "parts": [
+  {
+   "name": "A",
+   "tonic": "Am",
+   "bars": "1–33",
+   "sequence": [
+    [
+     "E"
+    ],
+    [
+     "B7"
+    ],
+    [
+     "E6"
+    ],
+    [
+     "B7"
+    ],
+    [
+     "E"
+    ],
+    [
+     "E",
+     "C#m7"
+    ],
+    [
+     "G#m7"
+    ],
+    [
+     "C#7"
+    ],
+    [
+     "F#m"
+    ],
+    [
+     "C#7"
+    ],
+    [
+     "F#m7"
+    ],
+    [
+     "F#m/E"
+    ],
+    [
+     "B7"
+    ],
+    [],
+    [],
+    [
+     "E"
+    ],
+    [],
+    [
+     "B7"
+    ],
+    [
+     "E6"
+    ],
+    [
+     "B7"
+    ],
+    [],
+    [
+     "D#7"
+    ],
+    [],
+    [
+     "C#7"
+    ],
+    [],
+    [
+     "B7"
+    ],
+    [],
+    [],
+    [
+     "A"
+    ],
+    [
+     "Am6"
+    ],
+    [
+     "E"
+    ],
+    [
+     "C#m7"
+    ],
+    [
+     "F#m"
+    ]
+   ]
+  },
+  {
+   "name": "B",
+   "tonic": "Am",
+   "bars": "35–69",
+   "sequence": [
+    [
+     "E"
+    ],
+    [],
+    [
+     "E"
+    ],
+    [
+     "B7"
+    ],
+    [],
+    [
+     "Em"
+    ],
+    [
+     "Em/D"
+    ],
+    [
+     "C7"
+    ],
+    [
+     "B7"
+    ],
+    [
+     "Em",
+     "Em/D"
+    ],
+    [],
+    [
+     "Bm"
+    ],
+    [
+     "E7"
+    ],
+    [
+     "Am"
+    ],
+    [
+     "B7"
+    ],
+    [
+     "Em"
+    ],
+    [
+     "Em/D"
+    ],
+    [],
+    [],
+    [
+     "F#m7(b5)"
+    ],
+    [
+     "B7"
+    ],
+    [
+     "Em"
+    ],
+    [],
+    [
+     "C7"
+    ],
+    [
+     "B7"
+    ],
+    [
+     "Em"
+    ],
+    [],
+    [
+     "Bm"
+    ],
+    [
+     "E7"
+    ],
+    [
+     "Am"
+    ],
+    [
+     "B7"
+    ],
+    [
+     "Em"
+    ],
+    [],
+    [
+     "F#7"
+    ],
+    [
+     "B7"
+    ]
+   ]
+  },
+  {
+   "name": "Coda",
+   "tonic": "C",
+   "bars": "70–74",
+   "sequence": [
+    [
+     "Em"
+    ],
+    [
+     "Em",
+     "B7"
+    ],
+    [
+     "Em",
+     "B7"
+    ],
+    [],
+    [
+     "E"
+    ]
+   ]
+  }
+ ],
+ "notes": [
+  "Grille générée automatiquement depuis le texte du PDF : à vérifier.",
+  "Reprises et fins non détectées : les mesures sont dans l'ordre d'écriture."
+ ],
+ "confidence": "low",
+ "source": [
+  "pdf/Márcio Almeida - Uma saudade - Theme - C.pdf"
+ ],
+ "generated": "pdf"
+}

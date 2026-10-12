@@ -1,0 +1,198 @@
+{
+ "song_id": "comecando-siqueira-lima",
+ "title": "Começando",
+ "composer": "Siqueira Lima",
+ "transposition": "c",
+ "meter": "2/4",
+ "form": "A — B — C — D — E — Coda",
+ "parts": [
+  {
+   "name": "A",
+   "tonic": "C",
+   "bars": "1–8",
+   "sequence": [
+    [
+     "A7"
+    ],
+    [
+     "Dm"
+    ],
+    [
+     "D7"
+    ],
+    [
+     "Gm"
+    ],
+    [
+     "Em7b5"
+    ],
+    [
+     "Dm"
+    ],
+    [],
+    [
+     "Em7b5"
+    ]
+   ]
+  },
+  {
+   "name": "B",
+   "tonic": "C",
+   "bars": "10–24",
+   "sequence": [
+    [
+     "Dm"
+    ],
+    [
+     "Dm7"
+    ],
+    [],
+    [
+     "Fdim"
+    ],
+    [
+     "Cm9"
+    ],
+    [
+     "D7"
+    ],
+    [
+     "Gm"
+    ],
+    [
+     "Gm7"
+    ],
+    [
+     "Gm"
+    ],
+    [
+     "Em7b5"
+    ],
+    [
+     "Dm"
+    ],
+    [
+     "Dm7"
+    ],
+    [],
+    [
+     "E7"
+    ],
+    [
+     "Em7b5"
+    ]
+   ]
+  },
+  {
+   "name": "C",
+   "tonic": "C",
+   "bars": "26–27",
+   "sequence": [
+    [
+     "A7"
+    ],
+    [
+     "Dm",
+     "A7"
+    ]
+   ]
+  },
+  {
+   "name": "D",
+   "tonic": "C",
+   "bars": "29–44",
+   "sequence": [
+    [],
+    [
+     "A"
+    ],
+    [
+     "A7"
+    ],
+    [
+     "Dm"
+    ],
+    [
+     "Dm7"
+    ],
+    [
+     "D7"
+    ],
+    [
+     "D",
+     "D7"
+    ],
+    [
+     "Gm"
+    ],
+    [
+     "Gm7"
+    ],
+    [
+     "Em7b5"
+    ],
+    [
+     "A7"
+    ],
+    [
+     "Dm"
+    ],
+    [
+     "Dm7"
+    ],
+    [],
+    [
+     "E7"
+    ],
+    [
+     "A7"
+    ]
+   ]
+  },
+  {
+   "name": "E",
+   "tonic": "C",
+   "bars": "46–48",
+   "sequence": [
+    [],
+    [
+     "A7"
+    ],
+    [
+     "Dm"
+    ]
+   ]
+  },
+  {
+   "name": "Coda",
+   "tonic": "C",
+   "bars": "51–55",
+   "sequence": [
+    [
+     "Dm"
+    ],
+    [
+     "Dm7"
+    ],
+    [
+     "E7"
+    ],
+    [
+     "A7"
+    ],
+    [
+     "Dm7"
+    ]
+   ]
+  }
+ ],
+ "notes": [
+  "Grille générée automatiquement depuis le texte du PDF : à vérifier.",
+  "Reprises et fins non détectées : les mesures sont dans l'ordre d'écriture."
+ ],
+ "confidence": "low",
+ "source": [
+  "pdf/Siqueira Lima - Começando - Theme - C.pdf"
+ ],
+ "generated": "pdf"
+}

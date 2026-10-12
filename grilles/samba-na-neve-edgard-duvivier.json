@@ -1,0 +1,238 @@
+{
+ "song_id": "samba-na-neve-edgard-duvivier",
+ "title": "Samba na neve",
+ "composer": "Edgard Duvivier",
+ "transposition": "c",
+ "meter": "2/4",
+ "form": "A — B — C — D — E — F",
+ "parts": [
+  {
+   "name": "A",
+   "tonic": "C",
+   "bars": "1–8",
+   "sequence": [
+    [
+     "Gb7"
+    ],
+    [
+     "F6",
+     "E7"
+    ],
+    [
+     "Eb7",
+     "Db7(#11)"
+    ],
+    [],
+    [
+     "Gb7"
+    ],
+    [
+     "F7",
+     "E7"
+    ],
+    [
+     "Eb7",
+     "Db7(#11)"
+    ],
+    [
+     "D/C",
+     "D7(b9)"
+    ]
+   ]
+  },
+  {
+   "name": "B",
+   "tonic": "C",
+   "bars": "9–25",
+   "sequence": [
+    [],
+    [
+     "Gb7"
+    ],
+    [
+     "F7",
+     "E7"
+    ],
+    [
+     "Eb7",
+     "Db7(#11)"
+    ],
+    [
+     "A7(b13)",
+     "D7"
+    ],
+    [
+     "Gb7"
+    ],
+    [
+     "F7",
+     "E7"
+    ],
+    [
+     "Eb7",
+     "Db7(#11)"
+    ],
+    [
+     "D7"
+    ],
+    [
+     "Dm/F"
+    ],
+    [
+     "F/Eb"
+    ],
+    [
+     "Eb/Db",
+     "F7"
+    ],
+    [
+     "B6"
+    ],
+    [
+     "Gm",
+     "Dm/F"
+    ],
+    [
+     "F/Eb"
+    ],
+    [
+     "Eb/Db",
+     "F7/C"
+    ],
+    [
+     "B6"
+    ]
+   ]
+  },
+  {
+   "name": "C",
+   "tonic": "C",
+   "bars": "26–29",
+   "sequence": [
+    [
+     "Bb7",
+     "A7"
+    ],
+    [
+     "Ab7",
+     "G7"
+    ],
+    [
+     "Gb7",
+     "Ebm7"
+    ],
+    [
+     "F7"
+    ]
+   ]
+  },
+  {
+   "name": "D",
+   "tonic": "C",
+   "bars": "30–32",
+   "sequence": [
+    [
+     "Gb7"
+    ],
+    [
+     "E7"
+    ],
+    [
+     "Eb7"
+    ]
+   ]
+  },
+  {
+   "name": "E",
+   "tonic": "C",
+   "bars": "34–50",
+   "sequence": [
+    [],
+    [
+     "Bb6",
+     "A7"
+    ],
+    [
+     "Ab7",
+     "G7"
+    ],
+    [
+     "Gb7",
+     "Bb6/F"
+    ],
+    [],
+    [
+     "G7/B"
+    ],
+    [],
+    [],
+    [
+     "Bb7"
+    ],
+    [],
+    [
+     "G7"
+    ],
+    [],
+    [
+     "Cm"
+    ],
+    [
+     "Cm"
+    ],
+    [
+     "Dm",
+     "G7"
+    ],
+    [
+     "F7"
+    ],
+    [
+     "Bb6"
+    ]
+   ]
+  },
+  {
+   "name": "F",
+   "tonic": "C",
+   "bars": "51–60",
+   "sequence": [
+    [],
+    [
+     "Gb7"
+    ],
+    [
+     "F7",
+     "E7"
+    ],
+    [
+     "Eb7",
+     "Db7(#11)"
+    ],
+    [],
+    [],
+    [
+     "Gb7"
+    ],
+    [
+     "E7"
+    ],
+    [
+     "Eb7"
+    ],
+    [
+     "Gm"
+    ]
+   ]
+  }
+ ],
+ "notes": [
+  "Grille générée automatiquement depuis le texte du PDF : à vérifier.",
+  "Reprises et fins non détectées : les mesures sont dans l'ordre d'écriture."
+ ],
+ "confidence": "low",
+ "source": [
+  "pdf/Edgard Duvivier - Samba na neve - Theme - C.pdf"
+ ],
+ "generated": "pdf"
+}

@@ -1,0 +1,224 @@
+{
+ "song_id": "vampiro-moderno-guerra-peixe",
+ "title": "Vampiro Moderno",
+ "composer": "Guerra Peixe",
+ "transposition": "c",
+ "meter": "2/4",
+ "form": "A — B — C — D",
+ "parts": [
+  {
+   "name": "A",
+   "tonic": "C",
+   "bars": "1–13",
+   "sequence": [
+    [
+     "Gm6"
+    ],
+    [
+     "D/F#"
+    ],
+    [
+     "G4"
+    ],
+    [
+     "Gb7(#5)"
+    ],
+    [
+     "Fm6"
+    ],
+    [
+     "G7(b9)"
+    ],
+    [
+     "C6"
+    ],
+    [
+     "Db7(9)"
+    ],
+    [
+     "C4",
+     "C7(b9)"
+    ],
+    [
+     "F6",
+     "E7"
+    ],
+    [],
+    [],
+    [
+     "Bb6"
+    ]
+   ]
+  },
+  {
+   "name": "B",
+   "tonic": "Am",
+   "bars": "14–31",
+   "sequence": [
+    [
+     "E7(b9)"
+    ],
+    [],
+    [
+     "G7(9)"
+    ],
+    [
+     "Bm7(b5)"
+    ],
+    [
+     "E7(b9)"
+    ],
+    [
+     "Am",
+     "Am/G",
+     "Dm6/F"
+    ],
+    [],
+    [
+     "Am",
+     "Am/G"
+    ],
+    [],
+    [
+     "E7"
+    ],
+    [],
+    [
+     "Bm7(b5)"
+    ],
+    [
+     "E7(b9)",
+     "Gm6/Bb"
+    ],
+    [],
+    [
+     "Dm"
+    ],
+    [
+     "F6"
+    ],
+    [
+     "Bm7(b5)",
+     "E7(b13)"
+    ],
+    [
+     "Eb7(9)"
+    ]
+   ]
+  },
+  {
+   "name": "C",
+   "tonic": "Am",
+   "bars": "32–44",
+   "sequence": [
+    [
+     "G7(9)"
+    ],
+    [
+     "Bm7(b5)"
+    ],
+    [
+     "E7(b9)"
+    ],
+    [
+     "Am",
+     "Am/G",
+     "Dm6/F"
+    ],
+    [
+     "E7"
+    ],
+    [
+     "Am",
+     "Am/G"
+    ],
+    [
+     "F7"
+    ],
+    [],
+    [],
+    [
+     "Bm7(b5)"
+    ],
+    [
+     "Gm6/Bb"
+    ],
+    [],
+    [
+     "Dm",
+     "F6",
+     "Bm7(b5)",
+     "E7(b13)",
+     "E7(b9)"
+    ]
+   ]
+  },
+  {
+   "name": "D",
+   "tonic": "C",
+   "bars": "45–62",
+   "sequence": [
+    [],
+    [],
+    [
+     "D6"
+    ],
+    [
+     "C#7(b9)"
+    ],
+    [
+     "C7(9)"
+    ],
+    [
+     "B7(b9)"
+    ],
+    [
+     "Bb7(9)"
+    ],
+    [
+     "F#m7"
+    ],
+    [
+     "B7(9)"
+    ],
+    [
+     "E4",
+     "E7(9)"
+    ],
+    [
+     "D6"
+    ],
+    [
+     "C#7(b9)"
+    ],
+    [
+     "C7(9)"
+    ],
+    [
+     "B7(b9)"
+    ],
+    [
+     "Bb/D"
+    ],
+    [
+     "A/C#"
+    ],
+    [
+     "E7(9)"
+    ],
+    [
+     "A6"
+    ]
+   ]
+  }
+ ],
+ "notes": [
+  "Grille générée automatiquement depuis le texte du PDF : à vérifier.",
+  "Reprises et fins non détectées : les mesures sont dans l'ordre d'écriture."
+ ],
+ "confidence": "low",
+ "source": [
+  "pdf/Guerra Peixe - Vampiro Moderno - Theme - C.pdf"
+ ],
+ "generated": "pdf"
+}

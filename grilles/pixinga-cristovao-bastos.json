@@ -1,0 +1,245 @@
+{
+ "song_id": "pixinga-cristovao-bastos",
+ "title": "Pixinga",
+ "composer": "Cristovão Bastos",
+ "transposition": "c",
+ "meter": "2/4",
+ "form": "A (reprise) — B (reprise) — C (reprise)",
+ "parts": [
+  {
+   "name": "A",
+   "tonic": "C",
+   "bars": "0–17",
+   "repeat": true,
+   "sequence": [
+    [
+     "C",
+     "G7"
+    ],
+    [
+     "C"
+    ],
+    [
+     "Em7b5",
+     "A7(b9)"
+    ],
+    [
+     "Dm7"
+    ],
+    [
+     "Dm6",
+     "A7"
+    ],
+    [
+     "Dm7"
+    ],
+    [
+     "D7",
+     "G7"
+    ],
+    [
+     "C",
+     "G7"
+    ],
+    [
+     "C",
+     "G7"
+    ],
+    [
+     "C"
+    ],
+    [
+     "Gm7",
+     "C7(9)"
+    ],
+    [
+     "Fmaj7"
+    ],
+    [
+     "Ab/Gb"
+    ],
+    [
+     "C/G",
+     "A7(b9)"
+    ],
+    [
+     "D7(9)",
+     "G7"
+    ]
+   ],
+   "endings": {
+    "1": [
+     [
+      "C",
+      "G7"
+     ]
+    ],
+    "2": [
+     [
+      "C"
+     ]
+    ]
+   }
+  },
+  {
+   "name": "B",
+   "tonic": "C",
+   "bars": "18–X1",
+   "repeat": true,
+   "sequence": [
+    [
+     "E7(b9)"
+    ],
+    [
+     "Am7"
+    ],
+    [
+     "A7(b9)"
+    ],
+    [
+     "Dm7"
+    ],
+    [
+     "Bb7"
+    ],
+    [
+     "Am7"
+    ],
+    [
+     "B7/F#"
+    ],
+    [
+     "E7"
+    ],
+    [
+     "Amaj7",
+     "Bm7"
+    ],
+    [
+     "A/C#"
+    ],
+    [
+     "Em7",
+     "A7"
+    ],
+    [
+     "D6(9)"
+    ],
+    [
+     "Dm7",
+     "G7"
+    ],
+    [
+     "C",
+     "F7"
+    ],
+    [
+     "Bb6",
+     "E7"
+    ]
+   ],
+   "endings": {
+    "1": [
+     [
+      "Am"
+     ]
+    ],
+    "2": [
+     [
+      "Am",
+      "G7"
+     ]
+    ]
+   }
+  },
+  {
+   "name": "C",
+   "tonic": "F",
+   "bars": "36–53",
+   "repeat": true,
+   "sequence": [
+    [
+     "F"
+    ],
+    [
+     "Gm"
+    ],
+    [
+     "C7"
+    ],
+    [
+     "F"
+    ],
+    [
+     "Bb7",
+     "A7"
+    ],
+    [
+     "Dm6",
+     "E7"
+    ],
+    [
+     "A",
+     "E7(b9)"
+    ],
+    [
+     "Amaj7",
+     "C7"
+    ],
+    [
+     "F6"
+    ],
+    [
+     "Gm7"
+    ],
+    [
+     "Gm7",
+     "C7"
+    ],
+    [
+     "Am7b5",
+     "D7(b9)"
+    ],
+    [
+     "Gm7/D",
+     "Bbm6/Db"
+    ],
+    [
+     "F/C",
+     "Db/Cb"
+    ],
+    [
+     "Gb/Bb",
+     "C7"
+    ],
+    []
+   ],
+   "endings": {
+    "1": [
+     [
+      "F"
+     ]
+    ],
+    "2": [
+     [
+      "F",
+      "G7"
+     ]
+    ]
+   },
+   "transition_in": [
+    [
+     "C"
+    ]
+   ]
+  }
+ ],
+ "notes": [
+  "Grille générée automatiquement depuis la partition MusicXML : à vérifier."
+ ],
+ "confidence": "medium",
+ "source": [
+  "mxl/C/Cristovão Bastos - Pixinga - Theme - C.mxl"
+ ],
+ "generated": "mxl"
+}

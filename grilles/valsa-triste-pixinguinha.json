@@ -1,0 +1,262 @@
+{
+ "song_id": "valsa-triste-pixinguinha",
+ "title": "Valsa triste",
+ "composer": "Pixinguinha",
+ "transposition": "c",
+ "meter": "2/4",
+ "form": "A — B — C",
+ "parts": [
+  {
+   "name": "A",
+   "tonic": "C",
+   "bars": "1–31",
+   "sequence": [
+    [
+     "C"
+    ],
+    [
+     "D7/F#"
+    ],
+    [
+     "Fm6"
+    ],
+    [
+     "C/E"
+    ],
+    [],
+    [],
+    [
+     "G7"
+    ],
+    [],
+    [
+     "E7/G#"
+    ],
+    [],
+    [
+     "Am"
+    ],
+    [],
+    [
+     "D7"
+    ],
+    [],
+    [
+     "Dm/F"
+    ],
+    [
+     "G7"
+    ],
+    [
+     "C"
+    ],
+    [
+     "D7/F#"
+    ],
+    [
+     "Fm6"
+    ],
+    [
+     "C/E"
+    ],
+    [
+     "C7"
+    ],
+    [],
+    [
+     "F"
+    ],
+    [
+     "F",
+     "Ab7"
+    ],
+    [
+     "Db"
+    ],
+    [
+     "Db",
+     "G7"
+    ],
+    [
+     "C"
+    ],
+    [],
+    [
+     "D7(9)"
+    ],
+    [
+     "G7"
+    ],
+    [
+     "C"
+    ]
+   ]
+  },
+  {
+   "name": "B",
+   "tonic": "C",
+   "bars": "32–49",
+   "sequence": [
+    [
+     "C"
+    ],
+    [
+     "E7"
+    ],
+    [],
+    [
+     "Am"
+    ],
+    [
+     "Am/G"
+    ],
+    [
+     "Dm/F"
+    ],
+    [
+     "Dm"
+    ],
+    [],
+    [
+     "E7"
+    ],
+    [
+     "Am"
+    ],
+    [
+     "Am/G"
+    ],
+    [],
+    [],
+    [
+     "C/G"
+    ],
+    [],
+    [
+     "D7"
+    ],
+    [
+     "G7"
+    ],
+    [
+     "C"
+    ]
+   ]
+  },
+  {
+   "name": "C",
+   "tonic": "C",
+   "bars": "50–86",
+   "sequence": [
+    [
+     "C",
+     "E7"
+    ],
+    [
+     "C"
+    ],
+    [],
+    [],
+    [
+     "F"
+    ],
+    [],
+    [
+     "C7/G"
+    ],
+    [
+     "C7"
+    ],
+    [
+     "F"
+    ],
+    [],
+    [
+     "Gm"
+    ],
+    [
+     "Gm/F"
+    ],
+    [
+     "Em7(b5)"
+    ],
+    [
+     "A7"
+    ],
+    [
+     "Dm"
+    ],
+    [
+     "Dm/C"
+    ],
+    [
+     "G7/B"
+    ],
+    [],
+    [
+     "Gm"
+    ],
+    [],
+    [
+     "F"
+    ],
+    [],
+    [
+     "C7/G"
+    ],
+    [
+     "C7"
+    ],
+    [
+     "F"
+    ],
+    [
+     "F7"
+    ],
+    [
+     "Bb"
+    ],
+    [
+     "Bb"
+    ],
+    [
+     "Gb"
+    ],
+    [
+     "Gb",
+     "C7"
+    ],
+    [
+     "F"
+    ],
+    [
+     "Dm"
+    ],
+    [
+     "G7(9)"
+    ],
+    [
+     "C7"
+    ],
+    [
+     "F"
+    ],
+    [
+     "F"
+    ],
+    [
+     "F"
+    ]
+   ]
+  }
+ ],
+ "notes": [
+  "Grille générée automatiquement depuis le texte du PDF : à vérifier.",
+  "Reprises et fins non détectées : les mesures sont dans l'ordre d'écriture."
+ ],
+ "confidence": "low",
+ "source": [
+  "pdf/Pixinguinha - Valsa triste - Theme - C.pdf"
+ ],
+ "generated": "pdf"
+}

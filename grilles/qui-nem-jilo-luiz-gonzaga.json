@@ -1,0 +1,158 @@
+{
+ "song_id": "qui-nem-jilo-luiz-gonzaga",
+ "title": "Qui nem jiló",
+ "composer": "Luiz Gonzaga",
+ "transposition": "c",
+ "meter": "2/4",
+ "form": "A — B — C — D — E",
+ "parts": [
+  {
+   "name": "A",
+   "tonic": "C",
+   "bars": "1–7",
+   "sequence": [
+    [
+     "G"
+    ],
+    [
+     "C#7"
+    ],
+    [
+     "F#m7(b5)"
+    ],
+    [],
+    [],
+    [
+     "Gm6",
+     "A7"
+    ],
+    [
+     "D"
+    ]
+   ]
+  },
+  {
+   "name": "B",
+   "tonic": "C",
+   "bars": "8–20",
+   "sequence": [
+    [],
+    [],
+    [],
+    [
+     "D"
+    ],
+    [
+     "C#7"
+    ],
+    [
+     "F#m7"
+    ],
+    [],
+    [
+     "D",
+     "F#m7(b5)"
+    ],
+    [],
+    [],
+    [],
+    [
+     "G"
+    ],
+    [
+     "C#7"
+    ]
+   ]
+  },
+  {
+   "name": "C",
+   "tonic": "C",
+   "bars": "23–26",
+   "sequence": [
+    [],
+    [],
+    [
+     "D"
+    ],
+    [
+     "A7"
+    ]
+   ]
+  },
+  {
+   "name": "D",
+   "tonic": "C",
+   "bars": "27–29",
+   "sequence": [
+    [],
+    [
+     "Gm6"
+    ],
+    [
+     "D"
+    ]
+   ]
+  },
+  {
+   "name": "E",
+   "tonic": "C",
+   "bars": "31–49",
+   "sequence": [
+    [],
+    [],
+    [
+     "D"
+    ],
+    [],
+    [
+     "A7"
+    ],
+    [],
+    [
+     "D"
+    ],
+    [],
+    [
+     "A7"
+    ],
+    [],
+    [
+     "D"
+    ],
+    [
+     "D7"
+    ],
+    [
+     "G"
+    ],
+    [
+     "A7"
+    ],
+    [
+     "D"
+    ],
+    [
+     "D7"
+    ],
+    [
+     "G"
+    ],
+    [
+     "A7"
+    ],
+    [
+     "D"
+    ]
+   ]
+  }
+ ],
+ "notes": [
+  "Grille générée automatiquement depuis le texte du PDF : à vérifier.",
+  "Reprises et fins non détectées : les mesures sont dans l'ordre d'écriture."
+ ],
+ "confidence": "low",
+ "source": [
+  "pdf/Luiz Gonzaga - Qui nem jiló - Theme - C.pdf"
+ ],
+ "generated": "pdf"
+}

@@ -1,0 +1,157 @@
+{
+ "song_id": "minha-maria-cidinho-7-cordas",
+ "title": "Minha Maria",
+ "composer": "Cidinho 7 Cordas",
+ "transposition": "c",
+ "meter": "2/4",
+ "form": "A (reprise) — B (reprise)",
+ "parts": [
+  {
+   "name": "A",
+   "tonic": "Gm",
+   "bars": "0–16",
+   "repeat": true,
+   "sequence": [
+    [
+     "Gm"
+    ],
+    [
+     "Cm"
+    ],
+    [
+     "D7"
+    ],
+    [
+     "Gm"
+    ],
+    [
+     "Gm",
+     "Em7b5"
+    ],
+    [
+     "Dm"
+    ],
+    [
+     "A7"
+    ],
+    [
+     "D7"
+    ],
+    [
+     "Gm"
+    ],
+    [
+     "Cm"
+    ],
+    [
+     "D7"
+    ],
+    [
+     "G7"
+    ],
+    [
+     "Cm",
+     "Am7b5"
+    ],
+    [
+     "Gm"
+    ],
+    [
+     "D7"
+    ],
+    [
+     "Gm",
+     "D7",
+     "Gm"
+    ]
+   ]
+  },
+  {
+   "name": "B",
+   "tonic": "Bb",
+   "bars": "17–34",
+   "repeat": true,
+   "sequence": [
+    [
+     "Cm",
+     "F7"
+    ],
+    [
+     "Bb"
+    ],
+    [
+     "D7"
+    ],
+    [
+     "Gm"
+    ],
+    [
+     "Cm",
+     "F/Eb"
+    ],
+    [
+     "Bb/D",
+     "Bbm6/Db"
+    ],
+    [
+     "F/C",
+     "C7"
+    ],
+    [
+     "F"
+    ],
+    [
+     "Cm",
+     "F7"
+    ],
+    [
+     "Bb"
+    ],
+    [
+     "G7/B",
+     "G7"
+    ],
+    [
+     "Cm"
+    ],
+    [
+     "Ebm/Gb"
+    ],
+    [
+     "Bb",
+     "G7"
+    ],
+    [
+     "Cm7",
+     "Ebm/Gb",
+     "F7"
+    ],
+    []
+   ],
+   "endings": {
+    "1": [
+     [
+      "Bb",
+      "F7",
+      "Bb"
+     ]
+    ],
+    "2": [
+     [
+      "Bb",
+      "F7",
+      "Bb"
+     ]
+    ]
+   }
+  }
+ ],
+ "notes": [
+  "Grille générée automatiquement depuis la partition MusicXML : à vérifier."
+ ],
+ "confidence": "medium",
+ "source": [
+  "mxl/C/Cidinho 7 Cordas - Minha Maria - Theme - C.mxl"
+ ],
+ "generated": "mxl"
+}

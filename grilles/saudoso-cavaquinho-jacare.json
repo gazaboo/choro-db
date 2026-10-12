@@ -1,0 +1,199 @@
+{
+ "song_id": "saudoso-cavaquinho-jacare",
+ "title": "Saudoso cavaquinho",
+ "composer": "Jacaré",
+ "transposition": "c",
+ "meter": "2/4",
+ "form": "A — B — C",
+ "parts": [
+  {
+   "name": "A",
+   "tonic": "C",
+   "bars": "1–30",
+   "sequence": [
+    [
+     "Gm"
+    ],
+    [],
+    [
+     "Ab6"
+    ],
+    [],
+    [
+     "D7(b9)"
+    ],
+    [],
+    [
+     "Gm"
+    ],
+    [
+     "D7"
+    ],
+    [
+     "Gm"
+    ],
+    [
+     "Gm6"
+    ],
+    [
+     "Dm/F"
+    ],
+    [],
+    [
+     "E7"
+    ],
+    [
+     "A7"
+    ],
+    [],
+    [
+     "D7"
+    ],
+    [
+     "Gm"
+    ],
+    [],
+    [
+     "Ab6"
+    ],
+    [],
+    [],
+    [],
+    [
+     "Fm6"
+    ],
+    [
+     "G7"
+    ],
+    [
+     "Cm"
+    ],
+    [
+     "F7"
+    ],
+    [],
+    [],
+    [
+     "A7"
+    ],
+    [
+     "D7"
+    ]
+   ]
+  },
+  {
+   "name": "B",
+   "tonic": "C",
+   "bars": "31–63",
+   "sequence": [
+    [
+     "G6"
+    ],
+    [],
+    [
+     "G"
+    ],
+    [],
+    [],
+    [],
+    [],
+    [
+     "D7"
+    ],
+    [
+     "G",
+     "E7"
+    ],
+    [
+     "D7"
+    ],
+    [
+     "G6"
+    ],
+    [],
+    [
+     "D"
+    ],
+    [],
+    [],
+    [
+     "A7(9)"
+    ],
+    [
+     "D7(9)"
+    ],
+    [],
+    [
+     "G6"
+    ],
+    [],
+    [],
+    [],
+    [],
+    [
+     "D7"
+    ],
+    [
+     "G"
+    ],
+    [
+     "G7"
+    ],
+    [
+     "C"
+    ],
+    [
+     "Cm6"
+    ],
+    [
+     "G"
+    ],
+    [],
+    [
+     "Eb"
+    ],
+    [
+     "D7"
+    ],
+    [
+     "G"
+    ]
+   ]
+  },
+  {
+   "name": "C",
+   "tonic": "C",
+   "bars": "64–72",
+   "sequence": [
+    [
+     "G7"
+    ],
+    [
+     "Cm"
+    ],
+    [],
+    [],
+    [],
+    [],
+    [
+     "D7"
+    ],
+    [
+     "Gm"
+    ],
+    [
+     "Gm"
+    ]
+   ]
+  }
+ ],
+ "notes": [
+  "Grille générée automatiquement depuis le texte du PDF : à vérifier.",
+  "Reprises et fins non détectées : les mesures sont dans l'ordre d'écriture."
+ ],
+ "confidence": "low",
+ "source": [
+  "pdf/Jacaré - Saudoso cavaquinho - Theme - C.pdf"
+ ],
+ "generated": "pdf"
+}

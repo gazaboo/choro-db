@@ -1,0 +1,224 @@
+{
+ "song_id": "a-moda-antiga-marcio-almeida",
+ "title": "À moda antiga",
+ "composer": "Márcio Almeida",
+ "transposition": "c",
+ "meter": "2/4",
+ "form": "A — B — C",
+ "parts": [
+  {
+   "name": "A",
+   "tonic": "C",
+   "bars": "1–16",
+   "sequence": [
+    [
+     "C/E"
+    ],
+    [
+     "Dm"
+    ],
+    [
+     "G7/B",
+     "G7"
+    ],
+    [
+     "C",
+     "G7"
+    ],
+    [
+     "C/E",
+     "B7/D#"
+    ],
+    [
+     "E",
+     "C#m7"
+    ],
+    [
+     "F#m7",
+     "B7"
+    ],
+    [
+     "E",
+     "G7"
+    ],
+    [
+     "C/E"
+    ],
+    [
+     "Dm"
+    ],
+    [
+     "G7/B",
+     "G7"
+    ],
+    [
+     "C",
+     "C/Bb"
+    ],
+    [
+     "F/A",
+     "Bb/Ab"
+    ],
+    [],
+    [],
+    [
+     "C"
+    ]
+   ]
+  },
+  {
+   "name": "B",
+   "tonic": "Am",
+   "bars": "17–34",
+   "sequence": [
+    [
+     "C"
+    ],
+    [],
+    [
+     "D7/F#"
+    ],
+    [
+     "G"
+    ],
+    [
+     "Am",
+     "D7"
+    ],
+    [
+     "G6"
+    ],
+    [
+     "B7/D#"
+    ],
+    [
+     "Em",
+     "Em/D"
+    ],
+    [
+     "A7/C#"
+    ],
+    [
+     "Am/C",
+     "D/C"
+    ],
+    [
+     "D7/F#"
+    ],
+    [
+     "G"
+    ],
+    [
+     "D7"
+    ],
+    [
+     "G"
+    ],
+    [
+     "C/E"
+    ],
+    [
+     "G/D",
+     "E7"
+    ],
+    [
+     "Am",
+     "D7"
+    ],
+    [
+     "G"
+    ]
+   ]
+  },
+  {
+   "name": "C",
+   "tonic": "C",
+   "bars": "35–56",
+   "sequence": [
+    [
+     "G"
+    ],
+    [
+     "G7"
+    ],
+    [
+     "C",
+     "C7"
+    ],
+    [],
+    [
+     "F",
+     "Am/E"
+    ],
+    [
+     "Cm/Eb",
+     "D7"
+    ],
+    [
+     "Gm"
+    ],
+    [
+     "Bbm6",
+     "C7"
+    ],
+    [
+     "F",
+     "D7/F#"
+    ],
+    [
+     "Gm"
+    ],
+    [
+     "G7/B"
+    ],
+    [],
+    [
+     "F",
+     "Am/E"
+    ],
+    [
+     "Cm/Eb",
+     "D7"
+    ],
+    [
+     "Gm"
+    ],
+    [
+     "Bbm6",
+     "C7"
+    ],
+    [
+     "F/A",
+     "D7"
+    ],
+    [
+     "Gm",
+     "Bbm6"
+    ],
+    [
+     "F/A"
+    ],
+    [
+     "F",
+     "C7"
+    ],
+    [
+     "F",
+     "G7/B"
+    ],
+    [
+     "C"
+    ]
+   ]
+  }
+ ],
+ "notes": [
+  "Grille générée automatiquement depuis le texte du PDF : à vérifier.",
+  "Reprises et fins non détectées : les mesures sont dans l'ordre d'écriture."
+ ],
+ "confidence": "low",
+ "source": [
+  "pdf/Márcio Almeida - À moda antiga - Theme - C.pdf"
+ ],
+ "generated": "pdf"
+}

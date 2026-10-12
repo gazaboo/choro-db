@@ -1,0 +1,350 @@
+{
+ "song_id": "deixe-o-breque-pra-mim-altamiro-carrilho",
+ "title": "Deixe o breque prá mim",
+ "composer": "Altamiro Carrilho",
+ "transposition": "c",
+ "meter": "2/4",
+ "form": "A — B — C — Coda",
+ "parts": [
+  {
+   "name": "A",
+   "tonic": "C",
+   "bars": "0–8",
+   "repeat": false,
+   "sequence": [
+    [
+     "Fmaj7"
+    ],
+    [
+     "Fm6"
+    ],
+    [
+     "Em7"
+    ],
+    [
+     "Ebm7",
+     "Dm7"
+    ],
+    [
+     "Dm7"
+    ],
+    [
+     "G7"
+    ],
+    [
+     "C6",
+     "Dm7",
+     "Em7"
+    ],
+    [
+     "G7(b5)"
+    ]
+   ]
+  },
+  {
+   "name": "B",
+   "tonic": "C",
+   "bars": "9–39",
+   "repeat": false,
+   "sequence": [
+    [
+     "C6(9)"
+    ],
+    [],
+    [
+     "C(#5)"
+    ],
+    [],
+    [
+     "Dm7"
+    ],
+    [
+     "G7"
+    ],
+    [
+     "Em7",
+     "Ebm7"
+    ],
+    [
+     "Dm7",
+     "G7(b13)"
+    ],
+    [
+     "C6"
+    ],
+    [
+     "Am6",
+     "B7"
+    ],
+    [
+     "Em"
+    ],
+    [
+     "G",
+     "G#dim"
+    ],
+    [
+     "D7/A"
+    ],
+    [
+     "D7"
+    ],
+    [
+     "G7",
+     "Db7(9)"
+    ],
+    [],
+    [
+     "C"
+    ],
+    [],
+    [
+     "C(#5)"
+    ],
+    [],
+    [
+     "Dm7"
+    ],
+    [
+     "G7"
+    ],
+    [
+     "Gm7"
+    ],
+    [
+     "C7(9)"
+    ],
+    [
+     "Fmaj7"
+    ],
+    [
+     "Fm6"
+    ],
+    [
+     "Em7"
+    ],
+    [
+     "Ebm7",
+     "Dm7"
+    ],
+    [],
+    [
+     "G7"
+    ],
+    [
+     "C"
+    ]
+   ]
+  },
+  {
+   "name": "C",
+   "tonic": "C",
+   "bars": "40–X1",
+   "repeat": false,
+   "sequence": [
+    [],
+    [
+     "F#dim"
+    ],
+    [
+     "G#dim"
+    ],
+    [
+     "Am"
+    ],
+    [
+     "Am/G"
+    ],
+    [
+     "F#dim"
+    ],
+    [
+     "G#dim"
+    ],
+    [
+     "Am"
+    ],
+    [
+     "Am7"
+    ],
+    [
+     "Em7b5"
+    ],
+    [
+     "A7"
+    ],
+    [
+     "Dm"
+    ],
+    [
+     "C7",
+     "B7"
+    ],
+    [],
+    [
+     "F7",
+     "E7"
+    ],
+    [],
+    [],
+    [
+     "F#dim"
+    ],
+    [
+     "G#dim"
+    ],
+    [
+     "Am"
+    ],
+    [
+     "Am/G"
+    ],
+    [
+     "F#dim"
+    ],
+    [
+     "G#dim"
+    ],
+    [
+     "Am"
+    ],
+    [
+     "A7"
+    ],
+    [
+     "Dm"
+    ],
+    [
+     "E7"
+    ],
+    [
+     "Am"
+    ],
+    [
+     "Am7"
+    ],
+    [
+     "Cdim"
+    ],
+    [
+     "Bm7b5"
+    ],
+    [
+     "Am",
+     "Ab7"
+    ],
+    [
+     "G7"
+    ]
+   ]
+  },
+  {
+   "name": "Coda",
+   "tonic": "C",
+   "bars": "73–105",
+   "repeat": false,
+   "sequence": [
+    [
+     "C"
+    ],
+    [
+     "Dm7"
+    ],
+    [
+     "G7"
+    ],
+    [
+     "C"
+    ],
+    [
+     "Cmaj7",
+     "C6"
+    ],
+    [
+     "Dm7"
+    ],
+    [
+     "G7"
+    ],
+    [
+     "C"
+    ],
+    [],
+    [
+     "Gm7"
+    ],
+    [
+     "C7(9)"
+    ],
+    [
+     "Fmaj7"
+    ],
+    [
+     "F6",
+     "G7",
+     "Ab7"
+    ],
+    [],
+    [],
+    [],
+    [],
+    [
+     "Dm7"
+    ],
+    [
+     "G7"
+    ],
+    [
+     "C"
+    ],
+    [],
+    [
+     "Dm7"
+    ],
+    [
+     "G7"
+    ],
+    [
+     "C"
+    ],
+    [],
+    [
+     "Gm7"
+    ],
+    [
+     "C7(9)"
+    ],
+    [
+     "Fmaj7"
+    ],
+    [
+     "Bb7(9)"
+    ],
+    [
+     "C",
+     "Am"
+    ],
+    [
+     "D7(9)",
+     "G7"
+    ],
+    [
+     "C",
+     "G7"
+    ],
+    [
+     "C"
+    ]
+   ]
+  }
+ ],
+ "notes": [
+  "Grille générée automatiquement depuis la partition MusicXML : à vérifier.",
+  "C : première mesure sans accord"
+ ],
+ "confidence": "medium",
+ "source": [
+  "mxl/C/Altamiro Carrilho - Deixe o breque prá mim - Theme - C.mxl"
+ ],
+ "generated": "mxl"
+}

@@ -1,0 +1,131 @@
+{
+ "song_id": "uma-noite-no-sumare-esmeraldino-sales",
+ "title": "Uma noite no Sumaré",
+ "composer": "Esmeraldino Sales",
+ "transposition": "c",
+ "meter": "2/4",
+ "form": "A — B — Coda",
+ "parts": [
+  {
+   "name": "A",
+   "tonic": "Am",
+   "bars": "1–14",
+   "sequence": [
+    [
+     "Em"
+    ],
+    [],
+    [
+     "Em"
+    ],
+    [
+     "Am6"
+    ],
+    [
+     "F#m7(11)"
+    ],
+    [
+     "Am6",
+     "B7(b9)",
+     "Em"
+    ],
+    [
+     "C7(9)"
+    ],
+    [
+     "F#m7(11)",
+     "F7(#11)"
+    ],
+    [
+     "Em"
+    ],
+    [],
+    [
+     "F#m7(b5)"
+    ],
+    [
+     "Am6"
+    ],
+    [],
+    [
+     "Am",
+     "Am6"
+    ]
+   ]
+  },
+  {
+   "name": "B",
+   "tonic": "Am",
+   "bars": "16–36",
+   "sequence": [
+    [],
+    [],
+    [
+     "G6"
+    ],
+    [
+     "F7(#11)"
+    ],
+    [
+     "G6"
+    ],
+    [],
+    [
+     "G/B"
+    ],
+    [],
+    [
+     "G"
+    ],
+    [
+     "G6",
+     "Am"
+    ],
+    [],
+    [],
+    [
+     "D7(9)"
+    ],
+    [],
+    [
+     "G6"
+    ],
+    [],
+    [],
+    [
+     "Em6"
+    ],
+    [],
+    [
+     "G/B"
+    ],
+    [
+     "Am"
+    ]
+   ]
+  },
+  {
+   "name": "Coda",
+   "tonic": "C",
+   "bars": "38–42",
+   "sequence": [
+    [],
+    [],
+    [],
+    [],
+    [
+     "Em6"
+    ]
+   ]
+  }
+ ],
+ "notes": [
+  "Grille générée automatiquement depuis le texte du PDF : à vérifier.",
+  "Reprises et fins non détectées : les mesures sont dans l'ordre d'écriture."
+ ],
+ "confidence": "low",
+ "source": [
+  "pdf/Esmeraldino Sales - Uma noite no Sumaré - Theme - C.pdf"
+ ],
+ "generated": "pdf"
+}

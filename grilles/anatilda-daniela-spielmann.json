@@ -1,0 +1,273 @@
+{
+ "song_id": "anatilda-daniela-spielmann",
+ "title": "Anatilda",
+ "composer": "Daniela Spielmann",
+ "transposition": "c",
+ "meter": "2/4",
+ "form": "A (reprise) — B (reprise) — C (reprise) — D (reprise) — E",
+ "parts": [
+  {
+   "name": "A",
+   "tonic": "D",
+   "bars": "1–4",
+   "repeat": true,
+   "sequence": [
+    [
+     "D6"
+    ],
+    [
+     "Fdim"
+    ],
+    [
+     "Em"
+    ],
+    [
+     "A7"
+    ]
+   ]
+  },
+  {
+   "name": "B",
+   "tonic": "D",
+   "bars": "5–38",
+   "repeat": true,
+   "sequence": [
+    [
+     "D6"
+    ],
+    [
+     "Ddim"
+    ],
+    [
+     "Em"
+    ],
+    [
+     "A7"
+    ],
+    [
+     "D6"
+    ],
+    [
+     "Ddim"
+    ],
+    [
+     "Em"
+    ],
+    [
+     "A7"
+    ],
+    [
+     "Am7"
+    ],
+    [
+     "D7"
+    ],
+    [
+     "Gmaj7"
+    ],
+    [],
+    [
+     "Bm7"
+    ],
+    [
+     "E7"
+    ],
+    [
+     "Em7"
+    ],
+    [
+     "A7"
+    ],
+    [
+     "D"
+    ],
+    [
+     "Ddim"
+    ],
+    [
+     "Em"
+    ],
+    [
+     "A7"
+    ],
+    [
+     "D6"
+    ],
+    [
+     "Ddim"
+    ],
+    [
+     "Em"
+    ],
+    [
+     "F#m7b5",
+     "B7(b9)"
+    ],
+    [
+     "Em7"
+    ],
+    [
+     "Gm6"
+    ],
+    [
+     "F#m7"
+    ],
+    [
+     "B7"
+    ],
+    [
+     "E7"
+    ],
+    [
+     "Eb7"
+    ],
+    []
+   ],
+   "endings": {
+    "1": [
+     [
+      "D6"
+     ],
+     []
+    ],
+    "2": [
+     [
+      "D6"
+     ]
+    ]
+   }
+  },
+  {
+   "name": "C",
+   "tonic": "D",
+   "bars": "39–72",
+   "repeat": true,
+   "sequence": [
+    [
+     "F#7"
+    ],
+    [],
+    [
+     "Bm"
+    ],
+    [],
+    [
+     "B7"
+    ],
+    [],
+    [
+     "Em"
+    ],
+    [],
+    [
+     "F#7"
+    ],
+    [],
+    [
+     "Bm",
+     "Bm/A"
+    ],
+    [
+     "G#m7b5",
+     "C#7"
+    ],
+    [
+     "F#",
+     "D#m"
+    ],
+    [
+     "G#m",
+     "C#7"
+    ],
+    [
+     "F#"
+    ],
+    [
+     "A7"
+    ],
+    [
+     "F#7"
+    ],
+    [],
+    [
+     "Bm"
+    ],
+    [],
+    [
+     "B7"
+    ],
+    [],
+    [
+     "Em"
+    ],
+    [],
+    [
+     "A7"
+    ],
+    [],
+    [
+     "D7"
+    ],
+    [
+     "Fdim"
+    ],
+    [
+     "Em"
+    ],
+    [
+     "A7"
+    ],
+    [
+     "D6"
+    ],
+    []
+   ],
+   "endings": {
+    "1": [
+     []
+    ],
+    "2": [
+     []
+    ]
+   }
+  },
+  {
+   "name": "D",
+   "tonic": "D",
+   "bars": "73–76",
+   "repeat": true,
+   "sequence": [
+    [
+     "D6"
+    ],
+    [],
+    [
+     "Eb6"
+    ],
+    []
+   ]
+  },
+  {
+   "name": "E",
+   "tonic": "D",
+   "bars": "77–80",
+   "repeat": false,
+   "sequence": [
+    [
+     "D6"
+    ],
+    [],
+    [],
+    []
+   ]
+  }
+ ],
+ "notes": [
+  "Grille générée automatiquement depuis la partition MusicXML : à vérifier."
+ ],
+ "confidence": "medium",
+ "source": [
+  "mxl/C/Daniela Spielmann - Anatilda - Theme - C.mxl"
+ ],
+ "generated": "mxl"
+}

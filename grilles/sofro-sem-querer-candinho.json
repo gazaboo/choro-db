@@ -1,0 +1,174 @@
+{
+ "song_id": "sofro-sem-querer-candinho",
+ "title": "Sofro sem querer",
+ "composer": "Candinho",
+ "transposition": "c",
+ "meter": "2/4",
+ "form": "A — B — C",
+ "parts": [
+  {
+   "name": "A",
+   "tonic": "C",
+   "bars": "1–16",
+   "sequence": [
+    [
+     "C",
+     "A7/C#"
+    ],
+    [
+     "Dm"
+    ],
+    [
+     "G7",
+     "G/F"
+    ],
+    [
+     "C/E"
+    ],
+    [
+     "C"
+    ],
+    [],
+    [
+     "G7"
+    ],
+    [
+     "C"
+    ],
+    [],
+    [
+     "F"
+    ],
+    [
+     "Gm6"
+    ],
+    [
+     "Dm"
+    ],
+    [],
+    [
+     "C/G",
+     "A7"
+    ],
+    [
+     "Fm6/Ab"
+    ],
+    [
+     "C"
+    ]
+   ]
+  },
+  {
+   "name": "B",
+   "tonic": "Am",
+   "bars": "17–32",
+   "sequence": [
+    [],
+    [
+     "D7/A"
+    ],
+    [
+     "G"
+    ],
+    [],
+    [
+     "Em"
+    ],
+    [
+     "Am"
+    ],
+    [
+     "G"
+    ],
+    [
+     "A7"
+    ],
+    [
+     "G",
+     "D7"
+    ],
+    [
+     "G",
+     "G/D"
+    ],
+    [
+     "G/B"
+    ],
+    [],
+    [
+     "Em",
+     "Em/D"
+    ],
+    [
+     "Am/C"
+    ],
+    [],
+    [
+     "Am",
+     "G"
+    ]
+   ]
+  },
+  {
+   "name": "C",
+   "tonic": "C",
+   "bars": "33–48",
+   "sequence": [
+    [],
+    [
+     "F",
+     "Gm"
+    ],
+    [
+     "C7"
+    ],
+    [
+     "F"
+    ],
+    [
+     "F/A"
+    ],
+    [
+     "Gm"
+    ],
+    [
+     "C7"
+    ],
+    [
+     "F"
+    ],
+    [],
+    [
+     "Bb"
+    ],
+    [
+     "Bb7"
+    ],
+    [
+     "Eb"
+    ],
+    [
+     "C/Bb"
+    ],
+    [
+     "F/A"
+    ],
+    [
+     "Gm"
+    ],
+    [
+     "F"
+    ]
+   ]
+  }
+ ],
+ "notes": [
+  "Grille générée automatiquement depuis le texte du PDF : à vérifier.",
+  "Reprises et fins non détectées : les mesures sont dans l'ordre d'écriture."
+ ],
+ "confidence": "low",
+ "source": [
+  "pdf/Candinho - Sofro sem querer - Theme - C.pdf"
+ ],
+ "generated": "pdf"
+}

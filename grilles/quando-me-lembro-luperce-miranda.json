@@ -1,0 +1,386 @@
+{
+ "song_id": "quando-me-lembro-luperce-miranda",
+ "title": "Quando me lembro",
+ "composer": "Luperce Miranda",
+ "transposition": "c",
+ "meter": "2/4",
+ "form": "A — B (reprise) — C (reprise) — D — E (reprise) — F — G (reprise)",
+ "parts": [
+  {
+   "name": "A",
+   "tonic": "Dm",
+   "bars": "0–3",
+   "repeat": false,
+   "sequence": [
+    [
+     "A7"
+    ],
+    [],
+    [],
+    [
+     "Gm",
+     "Dm/A",
+     "A7"
+    ]
+   ]
+  },
+  {
+   "name": "B",
+   "tonic": "Dm",
+   "bars": "4–36",
+   "repeat": true,
+   "sequence": [
+    [
+     "Dm"
+    ],
+    [
+     "Dm/C"
+    ],
+    [
+     "E7/B"
+    ],
+    [
+     "E7/G#"
+    ],
+    [
+     "Gm6"
+    ],
+    [
+     "A7"
+    ],
+    [
+     "Dm"
+    ],
+    [],
+    [
+     "Dm"
+    ],
+    [
+     "Dm/F"
+    ],
+    [
+     "A7/E"
+    ],
+    [
+     "A7"
+    ],
+    [
+     "Gm6"
+    ],
+    [
+     "A7/E"
+    ],
+    [
+     "Dm/F"
+    ],
+    [
+     "A7/E"
+    ],
+    [
+     "Dm"
+    ],
+    [
+     "Dm/C"
+    ],
+    [
+     "E7/B"
+    ],
+    [
+     "E7/G#"
+    ],
+    [
+     "Gm6"
+    ],
+    [
+     "A7/C#"
+    ],
+    [
+     "Cm6"
+    ],
+    [
+     "D7/F#"
+    ],
+    [
+     "Gm"
+    ],
+    [
+     "Em7b5"
+    ],
+    [
+     "Dm/F"
+    ],
+    [],
+    [
+     "Em7b5"
+    ],
+    [
+     "A7"
+    ],
+    [
+     "Dm"
+    ]
+   ],
+   "endings": {
+    "1": [
+     []
+    ],
+    "2": [
+     []
+    ]
+   }
+  },
+  {
+   "name": "C",
+   "tonic": "Dm",
+   "bars": "37–53",
+   "repeat": true,
+   "sequence": [
+    [
+     "A7/C#"
+    ],
+    [
+     "A7"
+    ],
+    [
+     "Dm"
+    ],
+    [
+     "Dm/F"
+    ],
+    [
+     "Cm6"
+    ],
+    [
+     "D7/F#"
+    ],
+    [
+     "Gm"
+    ],
+    [],
+    [
+     "Gm6"
+    ],
+    [
+     "A7/E"
+    ],
+    [
+     "Dm/F"
+    ]
+   ],
+   "endings": {
+    "1": [
+     [],
+     [
+      "E7/G#"
+     ],
+     [],
+     [
+      "A7"
+     ],
+     []
+    ],
+    "2": [
+     [
+      "Dm"
+     ]
+    ]
+   }
+  },
+  {
+   "name": "D",
+   "tonic": "Dm",
+   "bars": "54–57",
+   "repeat": false,
+   "sequence": [
+    [
+     "Bb7"
+    ],
+    [
+     "A7"
+    ],
+    [
+     "Dm"
+    ],
+    []
+   ]
+  },
+  {
+   "name": "E",
+   "tonic": "D",
+   "bars": "58–74",
+   "repeat": true,
+   "sequence": [
+    [
+     "D"
+    ],
+    [],
+    [
+     "F#7/A#"
+    ],
+    [],
+    [
+     "B/A"
+    ],
+    [
+     "B7/F#"
+    ],
+    [
+     "Em/G"
+    ],
+    [],
+    [
+     "Em"
+    ],
+    [],
+    [
+     "D/F#"
+    ],
+    []
+   ],
+   "endings": {
+    "1": [
+     [
+      "E7"
+     ],
+     [],
+     [
+      "A7"
+     ],
+     []
+    ],
+    "2": [
+     [
+      "Em"
+     ]
+    ]
+   }
+  },
+  {
+   "name": "F",
+   "tonic": "D",
+   "bars": "75–77",
+   "repeat": false,
+   "sequence": [
+    [
+     "A7"
+    ],
+    [
+     "D"
+    ],
+    [
+     "D",
+     "Bb7",
+     "A7"
+    ]
+   ]
+  },
+  {
+   "name": "G",
+   "tonic": "Dm",
+   "bars": "78–112",
+   "repeat": true,
+   "sequence": [
+    [
+     "Dm"
+    ],
+    [
+     "Dm/F",
+     "Dm"
+    ],
+    [],
+    [
+     "Dm/F"
+    ],
+    [
+     "Dm"
+    ],
+    [
+     "Dm/F"
+    ],
+    [
+     "A7/E"
+    ],
+    [],
+    [
+     "A7"
+    ],
+    [],
+    [
+     "A7/C#"
+    ],
+    [],
+    [
+     "A7"
+    ],
+    [
+     "A/G"
+    ],
+    [
+     "Dm/F"
+    ],
+    [],
+    [
+     "Dm"
+    ],
+    [
+     "Dm/F"
+    ],
+    [
+     "Dm"
+    ],
+    [
+     "Dm/F"
+    ],
+    [
+     "D7/F#"
+    ],
+    [
+     "D7/A"
+    ],
+    [
+     "Gm"
+    ],
+    [
+     "Gm/Bb"
+    ],
+    [
+     "Gm"
+    ],
+    [
+     "Gm6/Bb"
+    ],
+    [
+     "Dm/A"
+    ],
+    [],
+    [
+     "A7"
+    ],
+    [],
+    [],
+    []
+   ],
+   "endings": {
+    "1": [
+     [
+      "Dm"
+     ],
+     []
+    ],
+    "2": [
+     [
+      "Dm"
+     ]
+    ]
+   }
+  }
+ ],
+ "notes": [
+  "Grille générée automatiquement depuis la partition MusicXML : à vérifier."
+ ],
+ "confidence": "medium",
+ "source": [
+  "mxl/C/Luperce Miranda - Quando me lembro - Theme - C.mxl"
+ ],
+ "generated": "mxl"
+}

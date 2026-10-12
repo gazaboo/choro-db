@@ -1,0 +1,193 @@
+{
+ "song_id": "meditando-c-garoto",
+ "title": "Meditando C",
+ "composer": "Garoto",
+ "transposition": "c",
+ "meter": "2/4",
+ "form": "A (reprise) — B (reprise) — Coda",
+ "parts": [
+  {
+   "name": "A",
+   "tonic": "C",
+   "bars": "1–17",
+   "repeat": true,
+   "sequence": [
+    [
+     "C6",
+     "Cdim"
+    ],
+    [
+     "Dm7",
+     "G7(9)"
+    ],
+    [
+     "C6",
+     "Cdim"
+    ],
+    [
+     "Dm7",
+     "G7(9)"
+    ],
+    [
+     "Gm6",
+     "A7"
+    ],
+    [
+     "Dm"
+    ],
+    [
+     "D7(9)"
+    ],
+    [
+     "Fm6",
+     "G7(b9)"
+    ],
+    [
+     "C6",
+     "Cdim"
+    ],
+    [
+     "Dm7",
+     "G7(9)"
+    ],
+    [
+     "C6",
+     "Cdim"
+    ],
+    [
+     "Dm7",
+     "G7"
+    ],
+    [
+     "Gm7",
+     "C7"
+    ],
+    [
+     "F6",
+     "Bb7(9)"
+    ],
+    [
+     "C6",
+     "D7(9)",
+     "G7(9)"
+    ]
+   ],
+   "endings": {
+    "1": [
+     [
+      "C6",
+      "G7"
+     ]
+    ],
+    "2": [
+     [
+      "C",
+      "C7"
+     ]
+    ]
+   }
+  },
+  {
+   "name": "B",
+   "tonic": "F",
+   "bars": "18–X1",
+   "repeat": true,
+   "sequence": [
+    [
+     "F",
+     "D7"
+    ],
+    [
+     "G7(9)",
+     "C7"
+    ],
+    [
+     "Gm",
+     "C7"
+    ],
+    [
+     "F",
+     "Db7",
+     "C7"
+    ],
+    [
+     "F",
+     "Abdim"
+    ],
+    [
+     "C/G",
+     "Ebdim"
+    ],
+    [
+     "Dm7"
+    ],
+    [
+     "Db7(9)",
+     "C7(9)"
+    ],
+    [
+     "F",
+     "D7"
+    ],
+    [
+     "G7(9)",
+     "C7"
+    ],
+    [
+     "Gm7",
+     "C7"
+    ],
+    [
+     "Cm6",
+     "D7"
+    ],
+    [
+     "Gm",
+     "Bbm6"
+    ],
+    [
+     "F",
+     "Abdim"
+    ],
+    [
+     "Gm7",
+     "G7(9)",
+     "C7(9)"
+    ]
+   ],
+   "endings": {
+    "1": [
+     [
+      "F",
+      "C7"
+     ]
+    ],
+    "2": [
+     [
+      "F",
+      "G7(b9)"
+     ]
+    ]
+   }
+  },
+  {
+   "name": "Coda",
+   "tonic": "C",
+   "bars": "35–35",
+   "repeat": false,
+   "sequence": [
+    [
+     "C"
+    ]
+   ]
+  }
+ ],
+ "notes": [
+  "Grille générée automatiquement depuis la partition MusicXML : à vérifier."
+ ],
+ "confidence": "medium",
+ "source": [
+  "mxl/C/Garoto - Meditando C - Theme - C.mxl"
+ ],
+ "generated": "mxl"
+}

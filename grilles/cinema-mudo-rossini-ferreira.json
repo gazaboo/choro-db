@@ -1,0 +1,194 @@
+{
+ "song_id": "cinema-mudo-rossini-ferreira",
+ "title": "Cinema mudo",
+ "composer": "Rossini Ferreira",
+ "transposition": "c",
+ "meter": "3/4",
+ "form": "A (reprise) — B (reprise)",
+ "parts": [
+  {
+   "name": "A",
+   "tonic": "F",
+   "bars": "0–33",
+   "repeat": true,
+   "sequence": [
+    [
+     "F"
+    ],
+    [
+     "Bb"
+    ],
+    [
+     "F"
+    ],
+    [],
+    [
+     "F/A"
+    ],
+    [
+     "Abdim"
+    ],
+    [
+     "Gm"
+    ],
+    [
+     "C7"
+    ],
+    [
+     "Gm"
+    ],
+    [
+     "Gm(maj7)"
+    ],
+    [
+     "Gm7"
+    ],
+    [
+     "Gm6"
+    ],
+    [
+     "C7"
+    ],
+    [],
+    [
+     "Fdim"
+    ],
+    [
+     "F"
+    ],
+    [
+     "F"
+    ],
+    [
+     "Bb"
+    ],
+    [
+     "F"
+    ],
+    [],
+    [
+     "Cm7"
+    ],
+    [
+     "F7(#5)"
+    ],
+    [
+     "Bb6"
+    ],
+    [],
+    [
+     "Gm7"
+    ],
+    [
+     "G#dim"
+    ],
+    [
+     "F/A"
+    ],
+    [
+     "Dm7"
+    ],
+    [
+     "G7"
+    ],
+    [
+     "C7"
+    ],
+    [
+     "F"
+    ]
+   ],
+   "endings": {
+    "1": [
+     [
+      "F"
+     ]
+    ],
+    "2": [
+     [
+      "F"
+     ]
+    ]
+   }
+  },
+  {
+   "name": "B",
+   "tonic": "F",
+   "bars": "34–X1",
+   "repeat": true,
+   "sequence": [
+    [
+     "C7"
+    ],
+    [
+     "C7(#5)"
+    ],
+    [
+     "F"
+    ],
+    [
+     "D7/F#"
+    ],
+    [
+     "Gm"
+    ],
+    [
+     "G#dim"
+    ],
+    [
+     "F/A"
+    ],
+    [
+     "F7(#5)"
+    ],
+    [
+     "Bb"
+    ],
+    [
+     "Bbm6"
+    ],
+    [
+     "F/A"
+    ],
+    [
+     "Dm7"
+    ],
+    [
+     "Gm"
+    ],
+    [
+     "F"
+    ],
+    [
+     "F"
+    ]
+   ],
+   "endings": {
+    "1": [
+     [
+      "C7"
+     ],
+     [
+      "F"
+     ],
+     [
+      "D7/F#"
+     ]
+    ],
+    "2": [
+     [
+      "C7"
+     ]
+    ]
+   }
+  }
+ ],
+ "notes": [
+  "Grille générée automatiquement depuis la partition MusicXML : à vérifier."
+ ],
+ "confidence": "medium",
+ "source": [
+  "mxl/C/Rossini Ferreira - Cinema mudo - Theme - C.mxl"
+ ],
+ "generated": "mxl"
+}

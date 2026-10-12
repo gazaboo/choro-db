@@ -1,0 +1,143 @@
+{
+ "song_id": "ve-se-gostas-waldir-azevedo",
+ "title": "Vê Se Gostas",
+ "composer": "Waldir Azevedo",
+ "transposition": "c",
+ "meter": "2/4",
+ "form": "A — B — C — Coda",
+ "parts": [
+  {
+   "name": "A",
+   "tonic": "Am",
+   "bars": "1–24",
+   "sequence": [
+    [
+     "G6"
+    ],
+    [
+     "G6",
+     "G/B"
+    ],
+    [
+     "Am"
+    ],
+    [
+     "Gm6",
+     "E7"
+    ],
+    [
+     "Am"
+    ],
+    [],
+    [
+     "Am"
+    ],
+    [],
+    [
+     "Am"
+    ],
+    [],
+    [
+     "G6"
+    ],
+    [],
+    [
+     "G6"
+    ],
+    [
+     "Gm6"
+    ],
+    [
+     "G6"
+    ],
+    [],
+    [],
+    [],
+    [
+     "C"
+    ],
+    [],
+    [],
+    [
+     "C"
+    ],
+    [],
+    [
+     "G"
+    ]
+   ]
+  },
+  {
+   "name": "B",
+   "tonic": "Am",
+   "bars": "32–48",
+   "sequence": [
+    [
+     "G6"
+    ],
+    [],
+    [
+     "G6"
+    ],
+    [],
+    [],
+    [],
+    [],
+    [
+     "G"
+    ],
+    [
+     "G7"
+    ],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [
+     "C"
+    ],
+    [
+     "Am"
+    ]
+   ]
+  },
+  {
+   "name": "C",
+   "tonic": "C",
+   "bars": "49–51",
+   "sequence": [
+    [],
+    [],
+    [
+     "C",
+     "G7",
+     "Db7"
+    ]
+   ]
+  },
+  {
+   "name": "Coda",
+   "tonic": "C",
+   "bars": "53–54",
+   "sequence": [
+    [
+     "G"
+    ],
+    [
+     "G7"
+    ]
+   ]
+  }
+ ],
+ "notes": [
+  "Grille générée automatiquement depuis le texte du PDF : à vérifier.",
+  "Reprises et fins non détectées : les mesures sont dans l'ordre d'écriture."
+ ],
+ "confidence": "low",
+ "source": [
+  "pdf/Waldir Azevedo - Vê Se Gostas - Theme - C - variant 1.pdf"
+ ],
+ "generated": "pdf"
+}

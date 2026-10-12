@@ -1,0 +1,223 @@
+{
+ "song_id": "meio-de-boreste-jayme-vignoli",
+ "title": "Meio de boreste",
+ "composer": "Jayme Vignoli",
+ "transposition": "c",
+ "meter": "3/8",
+ "form": "A — B (reprise) — C (reprise) — D — Coda",
+ "parts": [
+  {
+   "name": "A",
+   "tonic": "C",
+   "bars": "1–5",
+   "repeat": false,
+   "sequence": [
+    [],
+    [
+     "Abmaj7(#5)"
+    ],
+    [
+     "A7(9,#11)"
+    ],
+    [
+     "Bb7(9)"
+    ],
+    [
+     "Abmaj7/C"
+    ]
+   ]
+  },
+  {
+   "name": "B",
+   "tonic": "C",
+   "bars": "6–22",
+   "repeat": true,
+   "sequence": [
+    [
+     "Ebm6/Gb"
+    ],
+    [
+     "G/F"
+    ],
+    [
+     "Em7b5"
+    ],
+    [
+     "C7(#9,#11)"
+    ],
+    [
+     "Abm6/Cb"
+    ],
+    [
+     "Gm6/Bb"
+    ],
+    [
+     "Gdim"
+    ],
+    [
+     "Db7(13)",
+     "Abm6"
+    ],
+    [
+     "Gm(9)"
+    ],
+    [
+     "Adim"
+    ],
+    [
+     "Bbm6"
+    ],
+    [
+     "B/C"
+    ],
+    [
+     "Em7"
+    ],
+    [
+     "D6/F#",
+     "G7(9)"
+    ],
+    [
+     "Fm6/Ab",
+     "Bb7(9,#11)"
+    ]
+   ],
+   "endings": {
+    "1": [
+     [
+      "Abmaj7/C",
+      "Bb/Ab"
+     ]
+    ],
+    "2": [
+     [
+      "G(9)/B",
+      "F(9)/C"
+     ]
+    ]
+   }
+  },
+  {
+   "name": "C",
+   "tonic": "C",
+   "bars": "23–39",
+   "repeat": true,
+   "sequence": [
+    [
+     "A(9)/C#",
+     "G#/A"
+    ],
+    [
+     "Bm/D",
+     "C#/D"
+    ],
+    [
+     "C#m7b5",
+     "F#7(b9,b13)"
+    ],
+    [
+     "F7(#9,#11)",
+     "Ab7(9,13)"
+    ],
+    [
+     "Db6(9)",
+     "C7(b13)"
+    ],
+    [
+     "Abm/Cb",
+     "Bb7(b9)"
+    ],
+    [
+     "Ebm(maj7)(9)",
+     "Ebm/Db"
+    ],
+    [
+     "Cm7b5",
+     "F7(b9)"
+    ],
+    [
+     "Bbmaj7(#5)",
+     "F(9)/A"
+    ],
+    [
+     "E6/G#",
+     "Edim/G#"
+    ]
+   ],
+   "endings": {
+    "1": [
+     [
+      "Gmaj7(#5)",
+      "C(9)/G"
+     ],
+     [
+      "C#/G",
+      "D/G"
+     ],
+     [
+      "F#m6"
+     ],
+     [
+      "Dm6/F"
+     ],
+     [],
+     [
+      "E7(b9)"
+     ]
+    ],
+    "2": [
+     []
+    ]
+   }
+  },
+  {
+   "name": "D",
+   "tonic": "C",
+   "bars": "40–X1",
+   "repeat": false,
+   "sequence": [
+    [
+     "Abmaj7(#5)"
+    ],
+    [
+     "A7(9,#11)",
+     "Eb/A"
+    ],
+    [
+     "Fm6/C",
+     "F#m/B"
+    ],
+    [
+     "Emaj7(#5)/Bb"
+    ],
+    [
+     "Abmaj7/C"
+    ]
+   ]
+  },
+  {
+   "name": "Coda",
+   "tonic": "C",
+   "bars": "45–47",
+   "repeat": false,
+   "sequence": [
+    [
+     "Abmaj7/C"
+    ],
+    [],
+    [
+     "Ab6/G"
+    ]
+   ]
+  }
+ ],
+ "notes": [
+  "Grille générée automatiquement depuis la partition MusicXML : à vérifier.",
+  "A : première mesure sans accord"
+ ],
+ "confidence": "medium",
+ "source": [
+  "mxl/C/Jayme Vignoli - Meio de boreste - Theme - C.mxl"
+ ],
+ "generated": "mxl"
+}

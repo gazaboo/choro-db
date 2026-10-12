@@ -1,0 +1,279 @@
+{
+ "song_id": "lamento-pixinguinha",
+ "title": "Lamento",
+ "composer": "Pixinguinha",
+ "transposition": "c",
+ "meter": "2/4",
+ "form": "A — B (reprise) — C (reprise) — D (reprise)",
+ "parts": [
+  {
+   "name": "A",
+   "tonic": "D",
+   "bars": "1–4",
+   "repeat": false,
+   "sequence": [
+    [
+     "A7"
+    ],
+    [
+     "Bdim"
+    ],
+    [
+     "A7",
+     "E7"
+    ],
+    [
+     "A7"
+    ]
+   ]
+  },
+  {
+   "name": "B",
+   "tonic": "D",
+   "bars": "5–30",
+   "repeat": true,
+   "sequence": [
+    [
+     "D6/F#"
+    ],
+    [],
+    [
+     "Fdim"
+    ],
+    [],
+    [
+     "D6/F#"
+    ],
+    [],
+    [
+     "Am6/C"
+    ],
+    [
+     "B7"
+    ],
+    [
+     "Em"
+    ],
+    [
+     "C#m7b5",
+     "F#7"
+    ],
+    [
+     "Bm"
+    ],
+    [
+     "G#m7b5",
+     "C#7"
+    ],
+    [
+     "F#",
+     "D#m7"
+    ],
+    [
+     "G#7",
+     "C#7"
+    ],
+    [
+     "F#7",
+     "B7"
+    ],
+    [
+     "E7(9)",
+     "A7"
+    ],
+    [
+     "D"
+    ],
+    [
+     "D/C"
+    ],
+    [
+     "G/B"
+    ],
+    [
+     "Gm6/Bb"
+    ],
+    [
+     "D/A"
+    ],
+    [
+     "E7(9)",
+     "A7"
+    ],
+    [
+     "D6",
+     "F#7"
+    ]
+   ],
+   "endings": {
+    "1": [
+     [
+      "D6"
+     ],
+     [
+      "D6",
+      "A7"
+     ]
+    ],
+    "2": [
+     [
+      "D6"
+     ]
+    ]
+   }
+  },
+  {
+   "name": "C",
+   "tonic": "Bm",
+   "bars": "31–X1",
+   "repeat": true,
+   "sequence": [
+    [
+     "Bm"
+    ],
+    [
+     "Bm(maj7)"
+    ],
+    [
+     "Bm7"
+    ],
+    [
+     "Bm6",
+     "B7"
+    ],
+    [
+     "Em"
+    ],
+    [
+     "Em(maj7)"
+    ],
+    [
+     "Bm7"
+    ],
+    [
+     "Bm6"
+    ],
+    [
+     "F#7"
+    ],
+    [
+     "F#7/A#"
+    ],
+    [
+     "Bm"
+    ],
+    [],
+    [
+     "G"
+    ],
+    [
+     "G7"
+    ],
+    [
+     "F#7"
+    ],
+    [
+     "F#7/A#"
+    ],
+    [
+     "Bm"
+    ],
+    [
+     "Bm(maj7)"
+    ],
+    [
+     "Bm7"
+    ],
+    [
+     "Bm6",
+     "B7"
+    ],
+    [
+     "Em"
+    ],
+    [
+     "Em(maj7)"
+    ],
+    [
+     "Em7"
+    ],
+    [
+     "Em6"
+    ],
+    [
+     "F#7"
+    ],
+    [
+     "F#7/A#"
+    ],
+    [
+     "Bm"
+    ],
+    [
+     "D7/A"
+    ],
+    [
+     "G"
+    ],
+    [
+     "C#7/G#",
+     "F#7/A#"
+    ],
+    [
+     "A7(9)"
+    ]
+   ],
+   "endings": {
+    "1": [
+     [
+      "Bm"
+     ],
+     [
+      "Bm",
+      "F#7"
+     ]
+    ],
+    "2": [
+     [
+      "Bm",
+      "B7"
+     ]
+    ]
+   }
+  },
+  {
+   "name": "D",
+   "tonic": "D",
+   "bars": "65–70",
+   "repeat": true,
+   "sequence": [
+    [
+     "D",
+     "D7"
+    ],
+    [
+     "G"
+    ],
+    [
+     "D/F#"
+    ],
+    [
+     "E7(9)",
+     "A7"
+    ],
+    [
+     "D6"
+    ],
+    []
+   ]
+  }
+ ],
+ "notes": [
+  "Grille générée automatiquement depuis la partition MusicXML : à vérifier."
+ ],
+ "confidence": "medium",
+ "source": [
+  "mxl/C/Pixinguinha - Lamento - Theme - C.mxl"
+ ],
+ "generated": "mxl"
+}

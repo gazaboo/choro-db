@@ -1,0 +1,241 @@
+{
+ "song_id": "nao-sei-porque-joel-nascimento",
+ "title": "Não sei porque",
+ "composer": "Joel Nascimento",
+ "transposition": "c",
+ "meter": "2/4",
+ "form": "A — B — C (reprise)",
+ "parts": [
+  {
+   "name": "A",
+   "tonic": "F",
+   "bars": "0–30",
+   "repeat": false,
+   "sequence": [
+    [
+     "Dm6(9)",
+     "Gdim"
+    ],
+    [
+     "Fdim",
+     "G#dim"
+    ],
+    [
+     "Dm/A",
+     "Bbmaj7"
+    ],
+    [
+     "Dm/B",
+     "Dm/C"
+    ],
+    [
+     "Cm(maj7)(9)"
+    ],
+    [
+     "D/C",
+     "D7/F#"
+    ],
+    [
+     "D7/G"
+    ],
+    [
+     "Gm",
+     "A7"
+    ],
+    [
+     "Dm",
+     "A7/C#"
+    ],
+    [
+     "Dm/B",
+     "Dm/C"
+    ],
+    [
+     "Gm/Bb"
+    ],
+    [
+     "Bdim",
+     "E7"
+    ],
+    [
+     "Gm6"
+    ],
+    [
+     "A7"
+    ],
+    [
+     "Dm6(9)",
+     "Gdim"
+    ],
+    [
+     "Fdim",
+     "G#dim"
+    ],
+    [
+     "Dm/A",
+     "Bbmaj7"
+    ],
+    [
+     "Dm/B",
+     "Dm/C"
+    ],
+    [
+     "Am7b5"
+    ],
+    [
+     "D7",
+     "D7/F#"
+    ],
+    [
+     "D7/G"
+    ],
+    [
+     "Gm"
+    ],
+    [
+     "C7"
+    ],
+    [
+     "A7",
+     "A7/G"
+    ],
+    [
+     "Dm/F"
+    ],
+    [
+     "Dm/C"
+    ],
+    [
+     "Gm7"
+    ],
+    [
+     "E7/G#",
+     "Gdim"
+    ],
+    [
+     "A7"
+    ],
+    [
+     "Dm",
+     "C7"
+    ]
+   ]
+  },
+  {
+   "name": "B",
+   "tonic": "Dm",
+   "bars": "31–X1",
+   "repeat": false,
+   "sequence": [
+    [
+     "F"
+    ],
+    [
+     "C7/G",
+     "C7"
+    ],
+    [
+     "F",
+     "A7"
+    ],
+    [
+     "Dm",
+     "D7/C"
+    ],
+    [
+     "Gm/Bb"
+    ],
+    [
+     "D7/A"
+    ],
+    [
+     "Gm"
+    ],
+    [],
+    [
+     "Eb/G"
+    ],
+    [
+     "Bb7"
+    ],
+    [
+     "Eb",
+     "Gm/D"
+    ],
+    [
+     "Eb7/Db",
+     "E7/D"
+    ],
+    [
+     "Am"
+    ],
+    [
+     "D7(9)",
+     "D7(b9)"
+    ],
+    [
+     "Gm7"
+    ],
+    [
+     "C7(b9)"
+    ],
+    [
+     "F"
+    ],
+    [
+     "C7",
+     "C7/Bb"
+    ],
+    [
+     "F/A"
+    ],
+    [
+     "A7"
+    ],
+    [
+     "Dm"
+    ],
+    [
+     "C7"
+    ],
+    [
+     "Gdim"
+    ],
+    [
+     "F",
+     "A7"
+    ]
+   ]
+  },
+  {
+   "name": "C",
+   "tonic": "Dm",
+   "bars": "55–58",
+   "repeat": true,
+   "sequence": [
+    [
+     "Gm"
+    ],
+    [
+     "E/G#",
+     "Gdim"
+    ],
+    [
+     "A7",
+     "A/G"
+    ],
+    [
+     "Dm/F"
+    ]
+   ]
+  }
+ ],
+ "notes": [
+  "Grille générée automatiquement depuis la partition MusicXML : à vérifier."
+ ],
+ "confidence": "medium",
+ "source": [
+  "mxl/C/Joel Nascimento - Não sei porque - Theme - C.mxl"
+ ],
+ "generated": "mxl"
+}

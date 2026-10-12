@@ -1,0 +1,171 @@
+{
+ "song_id": "triste-alegria-candinho",
+ "title": "Triste alegria",
+ "composer": "Candinho",
+ "transposition": "c",
+ "meter": "2/4",
+ "form": "A — B — C",
+ "parts": [
+  {
+   "name": "A",
+   "tonic": "C",
+   "bars": "1–16",
+   "sequence": [
+    [
+     "C"
+    ],
+    [
+     "G7"
+    ],
+    [
+     "G7/B"
+    ],
+    [
+     "C"
+    ],
+    [
+     "C"
+    ],
+    [
+     "G"
+    ],
+    [
+     "Am"
+    ],
+    [
+     "G7"
+    ],
+    [
+     "C"
+    ],
+    [
+     "G7"
+    ],
+    [
+     "G7/B"
+    ],
+    [
+     "Gm6/Bb",
+     "Bm7(b5)"
+    ],
+    [
+     "Dm"
+    ],
+    [
+     "C"
+    ],
+    [
+     "Dm",
+     "G7"
+    ],
+    [
+     "C"
+    ]
+   ]
+  },
+  {
+   "name": "B",
+   "tonic": "Am",
+   "bars": "17–31",
+   "sequence": [
+    [
+     "Am"
+    ],
+    [],
+    [
+     "E/D"
+    ],
+    [
+     "Am/C"
+    ],
+    [
+     "Am",
+     "Am/G"
+    ],
+    [],
+    [],
+    [
+     "Am"
+    ],
+    [],
+    [
+     "Dm"
+    ],
+    [
+     "G7/B"
+    ],
+    [
+     "C"
+    ],
+    [
+     "E7/G#"
+    ],
+    [
+     "Am",
+     "F/Eb"
+    ],
+    [
+     "Am/E",
+     "Am"
+    ]
+   ]
+  },
+  {
+   "name": "C",
+   "tonic": "C",
+   "bars": "32–47",
+   "sequence": [
+    [],
+    [
+     "F"
+    ],
+    [
+     "F/A"
+    ],
+    [
+     "Gm"
+    ],
+    [
+     "A7"
+    ],
+    [
+     "Dm"
+    ],
+    [
+     "Bb7"
+    ],
+    [],
+    [],
+    [
+     "C7"
+    ],
+    [
+     "Db7/Ab"
+    ],
+    [],
+    [
+     "F",
+     "D7/F#"
+    ],
+    [
+     "Gm"
+    ],
+    [
+     "F"
+    ],
+    [
+     "F"
+    ]
+   ]
+  }
+ ],
+ "notes": [
+  "Grille générée automatiquement depuis le texte du PDF : à vérifier.",
+  "Reprises et fins non détectées : les mesures sont dans l'ordre d'écriture."
+ ],
+ "confidence": "low",
+ "source": [
+  "pdf/Candinho - Triste alegria - Theme - C.pdf"
+ ],
+ "generated": "pdf"
+}

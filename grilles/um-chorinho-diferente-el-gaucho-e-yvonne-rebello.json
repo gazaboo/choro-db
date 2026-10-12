@@ -1,0 +1,118 @@
+{
+ "song_id": "um-chorinho-diferente-el-gaucho-e-yvonne-rebello",
+ "title": "Um Chorinho Diferente",
+ "composer": "El Gaúcho E Yvonne Rebello",
+ "transposition": "c",
+ "meter": "2/4",
+ "form": "A — B — C — Coda",
+ "parts": [
+  {
+   "name": "A",
+   "tonic": "C",
+   "bars": "1–15",
+   "sequence": [
+    [
+     "D6"
+    ],
+    [],
+    [
+     "E7(9)"
+    ],
+    [],
+    [
+     "A7(9)"
+    ],
+    [],
+    [
+     "D6"
+    ],
+    [
+     "F#m7",
+     "G6"
+    ],
+    [
+     "D6"
+    ],
+    [],
+    [
+     "E7(9)"
+    ],
+    [],
+    [
+     "A7(9)"
+    ],
+    [],
+    [
+     "D6"
+    ]
+   ]
+  },
+  {
+   "name": "B",
+   "tonic": "C",
+   "bars": "16–24",
+   "sequence": [
+    [
+     "A7(#5)"
+    ],
+    [
+     "D6"
+    ],
+    [],
+    [
+     "D7(9)"
+    ],
+    [
+     "G6"
+    ],
+    [],
+    [
+     "E7(9)"
+    ],
+    [],
+    [
+     "A7(9)"
+    ]
+   ]
+  },
+  {
+   "name": "C",
+   "tonic": "C",
+   "bars": "26–26",
+   "sequence": [
+    [
+     "D6"
+    ]
+   ]
+  },
+  {
+   "name": "Coda",
+   "tonic": "C",
+   "bars": "32–36",
+   "sequence": [
+    [
+     "A7(9)"
+    ],
+    [
+     "D6"
+    ],
+    [],
+    [
+     "A7(9)"
+    ],
+    [
+     "D6"
+    ]
+   ]
+  }
+ ],
+ "notes": [
+  "Grille générée automatiquement depuis le texte du PDF : à vérifier.",
+  "Reprises et fins non détectées : les mesures sont dans l'ordre d'écriture."
+ ],
+ "confidence": "low",
+ "source": [
+  "pdf/El Gaúcho E Yvonne Rebello - Um Chorinho Diferente - Theme - C.pdf"
+ ],
+ "generated": "pdf"
+}

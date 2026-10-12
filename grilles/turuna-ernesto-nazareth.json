@@ -1,0 +1,236 @@
+{
+ "song_id": "turuna-ernesto-nazareth",
+ "title": "Turuna",
+ "composer": "Ernesto Nazareth",
+ "transposition": "c",
+ "meter": "2/4",
+ "form": "A — B — C — D",
+ "parts": [
+  {
+   "name": "A",
+   "tonic": "Am",
+   "bars": "1–29",
+   "sequence": [
+    [
+     "E/D"
+    ],
+    [
+     "Am/C"
+    ],
+    [
+     "Am"
+    ],
+    [],
+    [
+     "E/D"
+    ],
+    [
+     "Am/C"
+    ],
+    [
+     "G7"
+    ],
+    [
+     "C"
+    ],
+    [],
+    [],
+    [
+     "Dm/F"
+    ],
+    [
+     "C/G"
+    ],
+    [
+     "Fm6/Ab",
+     "G7"
+    ],
+    [
+     "C"
+    ],
+    [],
+    [],
+    [
+     "E/D"
+    ],
+    [
+     "Am/C"
+    ],
+    [
+     "Am"
+    ],
+    [],
+    [
+     "E/D"
+    ],
+    [
+     "Am"
+    ],
+    [],
+    [
+     "C"
+    ],
+    [],
+    [],
+    [
+     "Dm/F"
+    ],
+    [
+     "C/G"
+    ],
+    [
+     "G/F"
+    ]
+   ]
+  },
+  {
+   "name": "B",
+   "tonic": "Am",
+   "bars": "30–45",
+   "sequence": [
+    [
+     "C"
+    ],
+    [],
+    [
+     "Am"
+    ],
+    [
+     "Bb/D"
+    ],
+    [
+     "E7"
+    ],
+    [
+     "Am"
+    ],
+    [
+     "C",
+     "G7/D"
+    ],
+    [
+     "C/E",
+     "E7"
+    ],
+    [
+     "Am",
+     "E7/B"
+    ],
+    [
+     "Am/C"
+    ],
+    [
+     "Gm6",
+     "A7"
+    ],
+    [
+     "Dm"
+    ],
+    [
+     "Fm6",
+     "G7"
+    ],
+    [
+     "C"
+    ],
+    [
+     "Bm7(b5)"
+    ],
+    [
+     "Am"
+    ]
+   ]
+  },
+  {
+   "name": "C",
+   "tonic": "C",
+   "bars": "47–65",
+   "sequence": [
+    [],
+    [],
+    [
+     "C"
+    ],
+    [],
+    [],
+    [
+     "F"
+    ],
+    [
+     "C/Bb"
+    ],
+    [
+     "F/A"
+    ],
+    [],
+    [
+     "F",
+     "Fm6"
+    ],
+    [
+     "C/G",
+     "G7(9)"
+    ],
+    [],
+    [],
+    [
+     "F"
+    ],
+    [
+     "G7/B",
+     "C/Bb"
+    ],
+    [
+     "F/A"
+    ],
+    [],
+    [
+     "Gm"
+    ],
+    [
+     "F/A"
+    ]
+   ]
+  },
+  {
+   "name": "D",
+   "tonic": "C",
+   "bars": "66–75",
+   "sequence": [
+    [
+     "F"
+    ],
+    [
+     "F"
+    ],
+    [
+     "E7"
+    ],
+    [
+     "Am"
+    ],
+    [],
+    [
+     "E7"
+    ],
+    [],
+    [
+     "Am"
+    ],
+    [],
+    [
+     "C"
+    ]
+   ]
+  }
+ ],
+ "notes": [
+  "Grille générée automatiquement depuis le texte du PDF : à vérifier.",
+  "Reprises et fins non détectées : les mesures sont dans l'ordre d'écriture."
+ ],
+ "confidence": "low",
+ "source": [
+  "pdf/Ernesto Nazareth - Turuna - Theme - C.pdf"
+ ],
+ "generated": "pdf"
+}

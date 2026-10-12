@@ -1,0 +1,185 @@
+{
+ "song_id": "ritinha-rossini-ferreira",
+ "title": "Ritinha",
+ "composer": "Rossini Ferreira",
+ "transposition": "c",
+ "meter": "2/4",
+ "form": "A — B — C — Coda",
+ "parts": [
+  {
+   "name": "A",
+   "tonic": "C",
+   "bars": "1–17",
+   "sequence": [
+    [
+     "G"
+    ],
+    [
+     "Am"
+    ],
+    [],
+    [
+     "G"
+    ],
+    [
+     "G/B"
+    ],
+    [
+     "D/A"
+    ],
+    [
+     "A7"
+    ],
+    [],
+    [
+     "G"
+    ],
+    [
+     "Am"
+    ],
+    [],
+    [
+     "G"
+    ],
+    [
+     "C"
+    ],
+    [
+     "G"
+    ],
+    [
+     "D7/F#"
+    ],
+    [
+     "G7"
+    ],
+    [
+     "C"
+    ]
+   ]
+  },
+  {
+   "name": "B",
+   "tonic": "Am",
+   "bars": "20–34",
+   "sequence": [
+    [
+     "G"
+    ],
+    [
+     "G"
+    ],
+    [
+     "Am"
+    ],
+    [
+     "D7"
+    ],
+    [
+     "G"
+    ],
+    [],
+    [
+     "Am"
+    ],
+    [],
+    [
+     "G"
+    ],
+    [
+     "G"
+    ],
+    [
+     "Am6"
+    ],
+    [],
+    [],
+    [
+     "C"
+    ],
+    [
+     "G/B"
+    ]
+   ]
+  },
+  {
+   "name": "C",
+   "tonic": "C",
+   "bars": "36–52",
+   "sequence": [
+    [
+     "G"
+    ],
+    [
+     "G"
+    ],
+    [
+     "G"
+    ],
+    [],
+    [
+     "C"
+    ],
+    [
+     "Dm"
+    ],
+    [
+     "G7"
+    ],
+    [
+     "C"
+    ],
+    [],
+    [],
+    [],
+    [],
+    [
+     "C"
+    ],
+    [],
+    [
+     "C7"
+    ],
+    [
+     "F"
+    ],
+    [
+     "Fm6"
+    ]
+   ]
+  },
+  {
+   "name": "Coda",
+   "tonic": "C",
+   "bars": "55–61",
+   "sequence": [
+    [
+     "C"
+    ],
+    [
+     "C"
+    ],
+    [],
+    [],
+    [
+     "C"
+    ],
+    [
+     "G"
+    ],
+    [
+     "D7"
+    ]
+   ]
+  }
+ ],
+ "notes": [
+  "Grille générée automatiquement depuis le texte du PDF : à vérifier.",
+  "Reprises et fins non détectées : les mesures sont dans l'ordre d'écriture."
+ ],
+ "confidence": "low",
+ "source": [
+  "pdf/Rossini Ferreira - Ritinha - Theme - C.pdf"
+ ],
+ "generated": "pdf"
+}

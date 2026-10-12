@@ -1,0 +1,236 @@
+{
+ "song_id": "cheguei-pixinguinha",
+ "title": "Cheguei",
+ "composer": "Pixinguinha",
+ "transposition": "c",
+ "meter": "2/4",
+ "form": "A (reprise) — B (reprise) — C (reprise)",
+ "parts": [
+  {
+   "name": "A",
+   "tonic": "F",
+   "bars": "0–17",
+   "repeat": true,
+   "sequence": [
+    [
+     "F"
+    ],
+    [
+     "C7/G"
+    ],
+    [
+     "F/A"
+    ],
+    [
+     "C7/G"
+    ],
+    [
+     "A7"
+    ],
+    [
+     "Dm"
+    ],
+    [
+     "G7"
+    ],
+    [
+     "C7"
+    ],
+    [
+     "F"
+    ],
+    [
+     "C7/G"
+    ],
+    [
+     "F/A"
+    ],
+    [
+     "C7/G"
+    ],
+    [
+     "F7"
+    ],
+    [
+     "Bb",
+     "Bdim"
+    ],
+    [
+     "F/C",
+     "Gm",
+     "C7"
+    ]
+   ],
+   "endings": {
+    "1": [
+     [
+      "F"
+     ]
+    ],
+    "2": [
+     [
+      "F"
+     ]
+    ]
+   }
+  },
+  {
+   "name": "B",
+   "tonic": "Dm",
+   "bars": "18–X1",
+   "repeat": true,
+   "sequence": [
+    [
+     "Dm",
+     "A7/C#"
+    ],
+    [
+     "Dm",
+     "D7/F#"
+    ],
+    [
+     "Gm",
+     "D7/A"
+    ],
+    [
+     "Gm/Bb",
+     "D7/A"
+    ],
+    [
+     "Gm"
+    ],
+    [
+     "Dm/F"
+    ],
+    [
+     "E7"
+    ],
+    [
+     "A7"
+    ],
+    [
+     "Dm",
+     "A7/E"
+    ],
+    [
+     "D7/F#"
+    ],
+    [
+     "Gm",
+     "D7/A"
+    ],
+    [
+     "Gm/Bb",
+     "D7"
+    ],
+    [
+     "Eb"
+    ],
+    [
+     "Dm"
+    ],
+    [
+     "E7",
+     "A7"
+    ]
+   ],
+   "endings": {
+    "1": [
+     [
+      "Dm"
+     ]
+    ],
+    "2": [
+     [
+      "Dm"
+     ]
+    ]
+   }
+  },
+  {
+   "name": "C",
+   "tonic": "Bb",
+   "bars": "36–53",
+   "repeat": true,
+   "sequence": [
+    [
+     "Bb"
+    ],
+    [
+     "Gb"
+    ],
+    [
+     "F7"
+    ],
+    [
+     "Bb"
+    ],
+    [
+     "Bb",
+     "Em7b5"
+    ],
+    [
+     "Dm"
+    ],
+    [
+     "A7"
+    ],
+    [
+     "Dm",
+     "F7"
+    ],
+    [
+     "Bb"
+    ],
+    [
+     "Bb7"
+    ],
+    [
+     "Bb7"
+    ],
+    [
+     "Eb"
+    ],
+    [
+     "Ebm6"
+    ],
+    [
+     "Bb/D",
+     "G7"
+    ],
+    [
+     "C7",
+     "F7"
+    ],
+    []
+   ],
+   "endings": {
+    "1": [
+     [
+      "Bb",
+      "F7"
+     ]
+    ],
+    "2": [
+     [
+      "Bb",
+      "C7"
+     ]
+    ]
+   },
+   "transition_in": [
+    [
+     "F"
+    ]
+   ]
+  }
+ ],
+ "notes": [
+  "Grille générée automatiquement depuis la partition MusicXML : à vérifier."
+ ],
+ "confidence": "medium",
+ "source": [
+  "mxl/C/Pixinguinha - Cheguei - Theme - C.mxl"
+ ],
+ "generated": "mxl"
+}

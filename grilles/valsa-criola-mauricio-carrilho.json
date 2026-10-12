@@ -1,0 +1,230 @@
+{
+ "song_id": "valsa-criola-mauricio-carrilho",
+ "title": "Valsa criola",
+ "composer": "Maurício Carrilho",
+ "transposition": "c",
+ "meter": "2/4",
+ "form": "A — B — C",
+ "parts": [
+  {
+   "name": "A",
+   "tonic": "Am",
+   "bars": "1–31",
+   "sequence": [
+    [
+     "Em"
+    ],
+    [],
+    [
+     "Am"
+    ],
+    [
+     "Am/C"
+    ],
+    [],
+    [],
+    [
+     "Em"
+    ],
+    [],
+    [
+     "Em"
+    ],
+    [
+     "F#7"
+    ],
+    [
+     "Bm",
+     "F7(b5)"
+    ],
+    [
+     "Bm/A"
+    ],
+    [],
+    [],
+    [],
+    [],
+    [
+     "Em"
+    ],
+    [],
+    [
+     "Am",
+     "E7(b9)"
+    ],
+    [
+     "Am/C"
+    ],
+    [
+     "D7(b9)"
+    ],
+    [],
+    [
+     "Dm6/F"
+    ],
+    [],
+    [
+     "A7(9)",
+     "B7(b9)"
+    ],
+    [],
+    [
+     "G7"
+    ],
+    [
+     "C7"
+    ],
+    [
+     "F/A"
+    ],
+    [],
+    [
+     "Em"
+    ]
+   ]
+  },
+  {
+   "name": "B",
+   "tonic": "Am",
+   "bars": "32–47",
+   "sequence": [
+    [
+     "Em"
+    ],
+    [],
+    [],
+    [
+     "Am"
+    ],
+    [
+     "Am/C",
+     "D7(b9)"
+    ],
+    [],
+    [
+     "D7/F#"
+    ],
+    [
+     "G"
+    ],
+    [],
+    [
+     "C/E"
+    ],
+    [],
+    [
+     "G/D"
+    ],
+    [
+     "Am6"
+    ],
+    [
+     "Em/G"
+    ],
+    [],
+    [
+     "Em"
+    ]
+   ]
+  },
+  {
+   "name": "C",
+   "tonic": "C",
+   "bars": "48–84",
+   "sequence": [
+    [
+     "Em"
+    ],
+    [
+     "Em"
+    ],
+    [
+     "Em"
+    ],
+    [],
+    [
+     "E"
+    ],
+    [],
+    [
+     "E"
+    ],
+    [],
+    [
+     "E/G#"
+    ],
+    [],
+    [
+     "F#m"
+    ],
+    [
+     "C#7/G#"
+    ],
+    [],
+    [],
+    [],
+    [
+     "Dm6"
+    ],
+    [
+     "F#7/C#"
+    ],
+    [
+     "F#7"
+    ],
+    [
+     "A/C#"
+    ],
+    [],
+    [
+     "E"
+    ],
+    [],
+    [
+     "E"
+    ],
+    [],
+    [
+     "E7"
+    ],
+    [],
+    [
+     "A"
+    ],
+    [
+     "C#7/E#"
+    ],
+    [
+     "F#m"
+    ],
+    [
+     "F#m7(b5)"
+    ],
+    [
+     "G#m7(b5)"
+    ],
+    [
+     "C#7(b9)"
+    ],
+    [],
+    [],
+    [
+     "E"
+    ],
+    [],
+    [
+     "Em"
+    ]
+   ]
+  }
+ ],
+ "notes": [
+  "Grille générée automatiquement depuis le texte du PDF : à vérifier.",
+  "Reprises et fins non détectées : les mesures sont dans l'ordre d'écriture."
+ ],
+ "confidence": "low",
+ "source": [
+  "pdf/Maurício Carrilho - Valsa criola - Theme - C.pdf"
+ ],
+ "generated": "pdf"
+}

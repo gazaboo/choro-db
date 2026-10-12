@@ -1,0 +1,168 @@
+{
+ "song_id": "lua-joa-sebastiao-tapajos",
+ "title": "Lua Joá",
+ "composer": "Sebastião Tapajós",
+ "transposition": "c",
+ "meter": "2/4",
+ "form": "A (reprise) — B — C (reprise) — Coda",
+ "parts": [
+  {
+   "name": "A",
+   "tonic": "D",
+   "bars": "1–9",
+   "repeat": true,
+   "sequence": [
+    [
+     "D6",
+     "F#m7/C#"
+    ],
+    [
+     "Bm7",
+     "E7(9)"
+    ],
+    [
+     "Bbm7",
+     "Eb7(9)"
+    ],
+    [
+     "Am7",
+     "D7(9)"
+    ],
+    [
+     "G6",
+     "C7(9)"
+    ],
+    [
+     "D/F#",
+     "Eb/G"
+    ],
+    [
+     "E/G#",
+     "A7(b9,#11)"
+    ]
+   ],
+   "endings": {
+    "1": [
+     [
+      "D6",
+      "A7(13)"
+     ]
+    ],
+    "2": [
+     [
+      "Dmaj7",
+      "A7(b13)"
+     ]
+    ]
+   }
+  },
+  {
+   "name": "B",
+   "tonic": "Dm",
+   "bars": "10–17",
+   "repeat": false,
+   "sequence": [
+    [
+     "Dm7(9)"
+    ],
+    [
+     "Gm7/Bb"
+    ],
+    [
+     "Em7b5",
+     "A7(b9,b13)"
+    ],
+    [
+     "Dm7(9)",
+     "Eb7(9,#11)"
+    ],
+    [
+     "Dm7(9)"
+    ],
+    [
+     "Am7"
+    ],
+    [
+     "E7"
+    ],
+    [
+     "Gm6/Bb",
+     "A7"
+    ]
+   ]
+  },
+  {
+   "name": "C",
+   "tonic": "Dm",
+   "bars": "18–X1",
+   "repeat": true,
+   "sequence": [
+    [
+     "Dm7(9)"
+    ],
+    [
+     "Gm7/Bb"
+    ],
+    [
+     "Gm6",
+     "A7(b13)"
+    ],
+    [
+     "Am7b5",
+     "Ab7(b5)"
+    ],
+    [
+     "Gm7",
+     "C7(9)"
+    ],
+    [
+     "F7(9)",
+     "Bb7(9)"
+    ],
+    []
+   ],
+   "endings": {
+    "1": [
+     [
+      "Eb7(9)",
+      "A7(b13)"
+     ],
+     [
+      "Dm7(9)",
+      "A7(b13)"
+     ]
+    ],
+    "2": [
+     [
+      "Eb7(9)",
+      "A7(b13)",
+      "Dm7(9)"
+     ]
+    ]
+   }
+  },
+  {
+   "name": "Coda",
+   "tonic": "Dm",
+   "bars": "28–30",
+   "repeat": false,
+   "sequence": [
+    [
+     "Dm7(9)"
+    ],
+    [
+     "Eb7(9)"
+    ],
+    []
+   ]
+  }
+ ],
+ "notes": [
+  "Grille générée automatiquement depuis la partition MusicXML : à vérifier."
+ ],
+ "confidence": "medium",
+ "source": [
+  "mxl/C/Sebastião Tapajós - Lua Joá - Theme - C.mxl"
+ ],
+ "generated": "mxl"
+}

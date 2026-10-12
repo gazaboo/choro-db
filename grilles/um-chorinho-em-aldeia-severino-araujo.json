@@ -1,0 +1,150 @@
+{
+ "song_id": "um-chorinho-em-aldeia-severino-araujo",
+ "title": "Um Chorinho Em Aldeia",
+ "composer": "Severino Araújo",
+ "transposition": "c",
+ "meter": "2/4",
+ "form": "A — B — C — Coda",
+ "parts": [
+  {
+   "name": "A",
+   "tonic": "Am",
+   "bars": "1–12",
+   "sequence": [
+    [
+     "E7"
+    ],
+    [],
+    [],
+    [
+     "D7(9)"
+    ],
+    [
+     "D7(9)"
+    ],
+    [],
+    [],
+    [],
+    [
+     "E7"
+    ],
+    [],
+    [
+     "Cm6"
+    ],
+    [
+     "E7"
+    ]
+   ]
+  },
+  {
+   "name": "B",
+   "tonic": "Am",
+   "bars": "14–30",
+   "sequence": [
+    [],
+    [],
+    [
+     "B7"
+    ],
+    [],
+    [],
+    [
+     "Am"
+    ],
+    [],
+    [],
+    [
+     "B7"
+    ],
+    [],
+    [
+     "B7"
+    ],
+    [],
+    [],
+    [],
+    [
+     "Am"
+    ],
+    [
+     "Em",
+     "Em/D"
+    ],
+    [
+     "Am6/C",
+     "B7"
+    ]
+   ]
+  },
+  {
+   "name": "C",
+   "tonic": "C",
+   "bars": "31–45",
+   "sequence": [
+    [
+     "Em"
+    ],
+    [],
+    [],
+    [],
+    [
+     "G7(9)"
+    ],
+    [],
+    [
+     "A7"
+    ],
+    [
+     "Bb7"
+    ],
+    [],
+    [
+     "C69"
+    ],
+    [],
+    [],
+    [
+     "C/G",
+     "Bbm6"
+    ],
+    [
+     "Ab7(9)"
+    ],
+    [
+     "G7(b9)"
+    ]
+   ]
+  },
+  {
+   "name": "Coda",
+   "tonic": "C",
+   "bars": "50–56",
+   "sequence": [
+    [],
+    [
+     "D7(9)"
+    ],
+    [],
+    [],
+    [],
+    [
+     "A7(9)",
+     "D7(9)"
+    ],
+    [
+     "G6"
+    ]
+   ]
+  }
+ ],
+ "notes": [
+  "Grille générée automatiquement depuis le texte du PDF : à vérifier.",
+  "Reprises et fins non détectées : les mesures sont dans l'ordre d'écriture."
+ ],
+ "confidence": "low",
+ "source": [
+  "pdf/Severino Araújo - Um Chorinho Em Aldeia - Theme - C.pdf"
+ ],
+ "generated": "pdf"
+}

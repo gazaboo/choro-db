@@ -1,0 +1,169 @@
+{
+ "song_id": "no-paraiso-das-mulatas-guio-de-morais",
+ "title": "No paraíso das mulatas",
+ "composer": "Guio de Morais",
+ "transposition": "c",
+ "meter": "2/4",
+ "form": "A (reprise) — B — Coda",
+ "parts": [
+  {
+   "name": "A",
+   "tonic": "F",
+   "bars": "1–28",
+   "repeat": true,
+   "sequence": [
+    [
+     "F",
+     "D7"
+    ],
+    [
+     "G7",
+     "C7/E"
+    ],
+    [
+     "F6"
+    ],
+    [],
+    [
+     "D7/F#"
+    ],
+    [],
+    [
+     "Gm"
+    ],
+    [],
+    [
+     "Bbm6"
+    ],
+    [
+     "C/Bb"
+    ],
+    [
+     "Am7"
+    ],
+    [
+     "Abm7"
+    ],
+    [
+     "Gm7"
+    ],
+    [],
+    [
+     "G7(9)"
+    ],
+    [
+     "C7(9)"
+    ],
+    [
+     "Fmaj7"
+    ],
+    [
+     "C7"
+    ],
+    [
+     "F6"
+    ],
+    [],
+    [
+     "Am7b5"
+    ],
+    [
+     "D7/F#"
+    ],
+    [
+     "Bb"
+    ],
+    [
+     "G7(9)",
+     "C7(9)"
+    ],
+    []
+   ],
+   "endings": {
+    "1": [
+     [
+      "F6",
+      "D7"
+     ],
+     [
+      "G7",
+      "C7"
+     ]
+    ],
+    "2": [
+     [
+      "F6"
+     ]
+    ]
+   }
+  },
+  {
+   "name": "B",
+   "tonic": "F",
+   "bars": "29–X1",
+   "repeat": false,
+   "sequence": [
+    [
+     "Em7b5"
+    ],
+    [
+     "A7"
+    ],
+    [
+     "Dm"
+    ],
+    [
+     "Dm/C"
+    ],
+    [
+     "Bdim"
+    ],
+    [
+     "Gm6/Bb",
+     "A7"
+    ],
+    [
+     "Dm"
+    ],
+    [],
+    [
+     "G7(9)"
+    ],
+    [],
+    [
+     "C6"
+    ],
+    [],
+    [
+     "D7/F#"
+    ],
+    [
+     "G7(b13)"
+    ],
+    [
+     "C7(9)"
+    ],
+    []
+   ]
+  },
+  {
+   "name": "Coda",
+   "tonic": "F",
+   "bars": "45–45",
+   "repeat": false,
+   "sequence": [
+    [
+     "F6"
+    ]
+   ]
+  }
+ ],
+ "notes": [
+  "Grille générée automatiquement depuis la partition MusicXML : à vérifier."
+ ],
+ "confidence": "medium",
+ "source": [
+  "mxl/C/Guio de Morais - No paraíso das mulatas - Theme - C.mxl"
+ ],
+ "generated": "mxl"
+}

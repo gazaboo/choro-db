@@ -1,0 +1,206 @@
+{
+ "song_id": "vibracoes-jacob-do-bandolim",
+ "title": "Vibrações",
+ "composer": "Jacob Do Bandolim",
+ "transposition": "c",
+ "meter": "2/4",
+ "form": "A — B — Coda",
+ "parts": [
+  {
+   "name": "A",
+   "tonic": "C",
+   "bars": "1–23",
+   "sequence": [
+    [
+     "Dm",
+     "A7/E"
+    ],
+    [
+     "Dm/F",
+     "D7/F#"
+    ],
+    [
+     "Gm",
+     "D7/A"
+    ],
+    [
+     "Gm/Bb",
+     "A7/C#",
+     "A7",
+     "Dm/F"
+    ],
+    [
+     "Dm"
+    ],
+    [],
+    [
+     "D7/F#"
+    ],
+    [],
+    [
+     "Gm"
+    ],
+    [],
+    [
+     "E7"
+    ],
+    [],
+    [
+     "A7"
+    ],
+    [],
+    [
+     "D7"
+    ],
+    [
+     "G7"
+    ],
+    [
+     "Bbm6",
+     "C7",
+     "C7/E",
+     "F",
+     "D7"
+    ],
+    [
+     "Gm"
+    ],
+    [
+     "A7/E"
+    ],
+    [
+     "Dm/F"
+    ],
+    [
+     "Dm"
+    ],
+    [
+     "Gm"
+    ],
+    [
+     "A7"
+    ]
+   ]
+  },
+  {
+   "name": "B",
+   "tonic": "C",
+   "bars": "24–57",
+   "sequence": [
+    [
+     "Dm",
+     "Db7"
+    ],
+    [],
+    [],
+    [
+     "F"
+    ],
+    [],
+    [
+     "A7"
+    ],
+    [],
+    [
+     "Dm"
+    ],
+    [],
+    [
+     "Cm7"
+    ],
+    [
+     "F7"
+    ],
+    [],
+    [
+     "Bbm6"
+    ],
+    [
+     "F/C"
+    ],
+    [
+     "Dm",
+     "Dm/C"
+    ],
+    [
+     "G7/B"
+    ],
+    [
+     "G7"
+    ],
+    [
+     "C/Bb",
+     "Bbm/Db"
+    ],
+    [
+     "C7"
+    ],
+    [
+     "F"
+    ],
+    [
+     "F/A"
+    ],
+    [
+     "A7/C#"
+    ],
+    [
+     "A7"
+    ],
+    [
+     "Dm"
+    ],
+    [
+     "Bbm6"
+    ],
+    [
+     "Cm7"
+    ],
+    [
+     "F7"
+    ],
+    [
+     "Bbm6"
+    ],
+    [],
+    [
+     "F/C",
+     "F"
+    ],
+    [
+     "A7",
+     "D7/F#"
+    ],
+    [
+     "G7"
+    ],
+    [],
+    [
+     "F"
+    ]
+   ]
+  },
+  {
+   "name": "Coda",
+   "tonic": "C",
+   "bars": "58–59",
+   "sequence": [
+    [
+     "Bb7"
+    ],
+    [
+     "D6"
+    ]
+   ]
+  }
+ ],
+ "notes": [
+  "Grille générée automatiquement depuis le texte du PDF : à vérifier.",
+  "Reprises et fins non détectées : les mesures sont dans l'ordre d'écriture."
+ ],
+ "confidence": "low",
+ "source": [
+  "pdf/Jacob Do Bandolim - Vibrações - Theme - C.pdf"
+ ],
+ "generated": "pdf"
+}

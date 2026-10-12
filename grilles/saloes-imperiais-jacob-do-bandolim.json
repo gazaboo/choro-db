@@ -1,0 +1,398 @@
+{
+ "song_id": "saloes-imperiais-jacob-do-bandolim",
+ "title": "Salões Imperiais",
+ "composer": "Jacob do Bandolim",
+ "transposition": "c",
+ "meter": "3/4",
+ "form": "A — B (reprise) — C (reprise) — D (reprise) — Coda",
+ "parts": [
+  {
+   "name": "A",
+   "tonic": "F",
+   "bars": "0–8",
+   "repeat": false,
+   "sequence": [
+    [
+     "F/A"
+    ],
+    [
+     "A7(#5)"
+    ],
+    [
+     "Dm/A"
+    ],
+    [
+     "D7/F#"
+    ],
+    [
+     "G7"
+    ],
+    [
+     "Db7"
+    ],
+    [
+     "C7"
+    ],
+    []
+   ]
+  },
+  {
+   "name": "B",
+   "tonic": "F",
+   "bars": "9–41",
+   "repeat": true,
+   "sequence": [
+    [
+     "F/A"
+    ],
+    [
+     "Abdim"
+    ],
+    [
+     "F/A"
+    ],
+    [
+     "F"
+    ],
+    [
+     "F"
+    ],
+    [
+     "F/A",
+     "Abdim"
+    ],
+    [
+     "Gm"
+    ],
+    [
+     "D7/A"
+    ],
+    [
+     "Gm"
+    ],
+    [
+     "Gm/F"
+    ],
+    [
+     "C7/E"
+    ],
+    [
+     "Gm/D"
+    ],
+    [
+     "C7"
+    ],
+    [],
+    [
+     "Abdim"
+    ],
+    [
+     "F/A"
+    ],
+    [
+     "F"
+    ],
+    [
+     "Abdim"
+    ],
+    [
+     "F/A"
+    ],
+    [
+     "F"
+    ],
+    [
+     "Ebdim"
+    ],
+    [
+     "D7"
+    ],
+    [
+     "Gm/Bb"
+    ],
+    [],
+    [
+     "Bb"
+    ],
+    [
+     "Bbm6"
+    ],
+    [
+     "F/A"
+    ],
+    [
+     "Dm"
+    ],
+    [
+     "Gm"
+    ],
+    [
+     "C7"
+    ],
+    [
+     "F"
+    ]
+   ],
+   "endings": {
+    "1": [
+     [
+      "F"
+     ]
+    ],
+    "2": [
+     [
+      "F"
+     ]
+    ]
+   }
+  },
+  {
+   "name": "C",
+   "tonic": "C",
+   "bars": "42–75",
+   "repeat": true,
+   "sequence": [
+    [
+     "G7"
+    ],
+    [
+     "G7/B"
+    ],
+    [
+     "C"
+    ],
+    [
+     "Ebdim"
+    ],
+    [
+     "Dm"
+    ],
+    [
+     "G7"
+    ],
+    [
+     "C"
+    ],
+    [
+     "Cdim"
+    ],
+    [
+     "Dm"
+    ],
+    [
+     "E7/G#"
+    ],
+    [
+     "Am"
+    ],
+    [
+     "F#m7b5"
+    ],
+    [
+     "Em/G"
+    ],
+    [
+     "B7/F#"
+    ],
+    [
+     "Em"
+    ],
+    [
+     "G7/D"
+    ],
+    [
+     "G7"
+    ],
+    [
+     "G7/B"
+    ],
+    [
+     "C"
+    ],
+    [
+     "Ebdim"
+    ],
+    [
+     "Dm"
+    ],
+    [
+     "G7"
+    ],
+    [
+     "C"
+    ],
+    [
+     "C/Bb"
+    ],
+    [
+     "F/A"
+    ],
+    [
+     "A7/E"
+    ],
+    [
+     "Dm"
+    ],
+    [
+     "F#dim"
+    ],
+    [
+     "C/G"
+    ],
+    [
+     "G7"
+    ],
+    [
+     "C"
+    ],
+    [
+     "F"
+    ]
+   ],
+   "endings": {
+    "1": [
+     [
+      "C"
+     ]
+    ],
+    "2": [
+     [
+      "C"
+     ]
+    ]
+   }
+  },
+  {
+   "name": "D",
+   "tonic": "Bb",
+   "bars": "76–X2",
+   "repeat": true,
+   "sequence": [
+    [
+     "Bb"
+    ],
+    [
+     "Bdim"
+    ],
+    [
+     "Cm"
+    ],
+    [
+     "F7"
+    ],
+    [
+     "Bb"
+    ],
+    [
+     "Bdim"
+    ],
+    [
+     "Cm"
+    ],
+    [
+     "F7"
+    ],
+    [
+     "Gm/Bb"
+    ],
+    [
+     "D7/A"
+    ],
+    [
+     "Gm"
+    ],
+    [
+     "Em7b5"
+    ],
+    [
+     "Dm/F"
+    ],
+    [
+     "A7/E"
+    ],
+    [
+     "Dm"
+    ],
+    [
+     "F7/C"
+    ],
+    [
+     "Bb"
+    ],
+    [
+     "Bdim"
+    ],
+    [
+     "Cm"
+    ],
+    [
+     "F7"
+    ],
+    [
+     "Bb"
+    ],
+    [
+     "Bdim"
+    ],
+    [
+     "Cm"
+    ],
+    [
+     "F7"
+    ],
+    [
+     "Bb"
+    ],
+    [
+     "D7/A"
+    ],
+    [
+     "Gm"
+    ],
+    [
+     "Edim"
+    ],
+    [
+     "Bb/F"
+    ],
+    [
+     "F7"
+    ],
+    [
+     "Bb"
+    ]
+   ],
+   "endings": {
+    "1": [
+     [
+      "Bb"
+     ]
+    ],
+    "2": [
+     [
+      "Bb"
+     ]
+    ]
+   }
+  },
+  {
+   "name": "Coda",
+   "tonic": "F",
+   "bars": "109–109",
+   "repeat": false,
+   "sequence": [
+    [
+     "F"
+    ]
+   ]
+  }
+ ],
+ "notes": [
+  "Grille générée automatiquement depuis la partition MusicXML : à vérifier."
+ ],
+ "confidence": "medium",
+ "source": [
+  "mxl/C/Jacob do Bandolim - Salões Imperiais - Theme - C.mxl"
+ ],
+ "generated": "mxl"
+}

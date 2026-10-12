@@ -1,0 +1,273 @@
+{
+ "song_id": "os-tres-choroes-cristovao-bastos",
+ "title": "Os três chorões",
+ "composer": "Cristovão Bastos",
+ "transposition": "c",
+ "meter": "3/4",
+ "form": "A (reprise) — B (reprise) — C — D (reprise) — D",
+ "parts": [
+  {
+   "name": "A",
+   "tonic": "Gm",
+   "bars": "0–17",
+   "repeat": true,
+   "sequence": [
+    [
+     "Gm6",
+     "Db7(9)"
+    ],
+    [
+     "Cm6",
+     "Bbm6"
+    ],
+    [
+     "Am7b5",
+     "Ab7(b9,#11)"
+    ],
+    [
+     "Gm6",
+     "Ab7(b9,#11)"
+    ],
+    [
+     "Gm6",
+     "A7(b9)"
+    ],
+    [
+     "Fm6/Ab",
+     "G7(b9)"
+    ],
+    [
+     "Ebm6/Gb",
+     "F7"
+    ],
+    [
+     "Bbm7",
+     "Ab7(b9)"
+    ],
+    [
+     "Gm6",
+     "Db7(9)"
+    ],
+    [
+     "Cm6",
+     "Bbm6"
+    ],
+    [
+     "Am7b5",
+     "Ab7(b9,#11)"
+    ],
+    [
+     "D7(b9)",
+     "G7(b9)"
+    ],
+    [
+     "C7(9)",
+     "F7(9)"
+    ],
+    [
+     "Bbmaj7",
+     "Eb7(9)"
+    ],
+    [
+     "Abmaj7",
+     "Am7b5",
+     "D7(b9)"
+    ]
+   ],
+   "endings": {
+    "1": [
+     [
+      "Gm6",
+      "Ab7(b9,#11)"
+     ]
+    ],
+    "2": [
+     [
+      "Gm6"
+     ]
+    ]
+   }
+  },
+  {
+   "name": "B",
+   "tonic": "Bb",
+   "bars": "18–35",
+   "repeat": true,
+   "sequence": [
+    [
+     "F7sus4"
+    ],
+    [
+     "Bb/F"
+    ],
+    [
+     "Cm7",
+     "B7(#9)"
+    ],
+    [
+     "Bbdim",
+     "Bbmaj7"
+    ],
+    [
+     "Am7b5",
+     "D7(b9)"
+    ],
+    [
+     "Gm7",
+     "A7(b9)"
+    ],
+    [
+     "Dmaj7",
+     "Db7(b9)"
+    ],
+    [
+     "Gbmaj7",
+     "Ebm7"
+    ],
+    [
+     "Cm7"
+    ],
+    [
+     "Bb/D"
+    ],
+    [
+     "Cm7",
+     "B7(#9)"
+    ],
+    [
+     "Bb7sus4",
+     "E7"
+    ],
+    [
+     "Ebmaj7",
+     "Db7"
+    ],
+    [
+     "Gbmaj7",
+     "E7"
+    ],
+    [
+     "Amaj7",
+     "G7"
+    ],
+    [
+     "Bbmaj7"
+    ]
+   ],
+   "endings": {
+    "1": [
+     [
+      "Cmaj7"
+     ]
+    ],
+    "2": [
+     [
+      "Cmaj7",
+      "F7(9)"
+     ]
+    ]
+   }
+  },
+  {
+   "name": "C",
+   "tonic": "Gm",
+   "bars": "36–X2",
+   "repeat": false,
+   "sequence": [
+    [
+     "F7sus4"
+    ],
+    [
+     "Bb/F"
+    ],
+    [
+     "F7sus4"
+    ],
+    [
+     "Bb/F"
+    ],
+    [
+     "Am7b5",
+     "D7(b9)"
+    ],
+    [
+     "Gm6",
+     "A7"
+    ],
+    [
+     "Dmaj7",
+     "Db7"
+    ],
+    [
+     "Gbmaj7",
+     "Ebm7"
+    ],
+    [
+     "F7sus4"
+    ],
+    [
+     "Bb/F"
+    ],
+    [
+     "F7sus4"
+    ],
+    [
+     "Bb/F",
+     "E7"
+    ],
+    [
+     "Ebmaj7",
+     "Db7"
+    ],
+    [
+     "Gbmaj7",
+     "E7"
+    ],
+    [
+     "Amaj7",
+     "G7"
+    ],
+    [
+     "Cmaj7"
+    ],
+    [
+     "Bbmaj7",
+     "D7(b9)"
+    ]
+   ]
+  },
+  {
+   "name": "D",
+   "tonic": "Gm",
+   "bars": "53–56",
+   "repeat": true,
+   "sequence": [
+    [
+     "Gm7",
+     "G7"
+    ],
+    [
+     "C7(9)",
+     "F7(9)"
+    ],
+    [
+     "Bbmaj7",
+     "Eb7(9)"
+    ],
+    [
+     "Abmaj7",
+     "Am7b5",
+     "D7(b9)"
+    ]
+   ]
+  }
+ ],
+ "notes": [
+  "Grille générée automatiquement depuis la partition MusicXML : à vérifier."
+ ],
+ "confidence": "medium",
+ "source": [
+  "mxl/C/Cristovão Bastos - Os três chorões - Theme - C.mxl"
+ ],
+ "generated": "mxl"
+}

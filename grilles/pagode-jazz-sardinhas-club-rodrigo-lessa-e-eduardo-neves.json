@@ -1,0 +1,94 @@
+{
+ "song_id": "pagode-jazz-sardinhas-club-rodrigo-lessa-e-eduardo-neves",
+ "title": "Pagode Jazz SardinhaS Club",
+ "composer": "Rodrigo Lessa E Eduardo Neves",
+ "transposition": "c",
+ "meter": "2/4",
+ "form": "A — B — C — Coda",
+ "parts": [
+  {
+   "name": "A",
+   "tonic": "C",
+   "bars": "1–3",
+   "sequence": [
+    [
+     "Ab7(13)"
+    ],
+    [],
+    [
+     "F7(13)"
+    ]
+   ]
+  },
+  {
+   "name": "B",
+   "tonic": "C",
+   "bars": "7–14",
+   "sequence": [
+    [],
+    [],
+    [
+     "Abm6"
+    ],
+    [],
+    [
+     "Abm6"
+    ],
+    [],
+    [
+     "Ab47(9)"
+    ],
+    [
+     "Cm7(9)"
+    ]
+   ]
+  },
+  {
+   "name": "C",
+   "tonic": "C",
+   "bars": "16–23",
+   "sequence": [
+    [
+     "Cm7(9)"
+    ],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [
+     "B/A"
+    ]
+   ]
+  },
+  {
+   "name": "Coda",
+   "tonic": "C",
+   "bars": "26–33",
+   "sequence": [
+    [],
+    [],
+    [],
+    [],
+    [],
+    [
+     "Ab7(13)"
+    ],
+    [],
+    [
+     "F7(13)"
+    ]
+   ]
+  }
+ ],
+ "notes": [
+  "Grille générée automatiquement depuis le texte du PDF : à vérifier.",
+  "Reprises et fins non détectées : les mesures sont dans l'ordre d'écriture."
+ ],
+ "confidence": "low",
+ "source": [
+  "pdf/Rodrigo Lessa E Eduardo Neves - Pagode Jazz SardinhaS Club - Theme - C.pdf"
+ ],
+ "generated": "pdf"
+}
